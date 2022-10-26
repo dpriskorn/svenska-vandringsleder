@@ -31,7 +31,7 @@ Fornborgsrundan ,3808507,"59.182267, 17.135200",https://www.sormlandsleden.se/va
 "Sörmlandsleden, etapp 21 ",3854541,59.139667 16.732133,https://www.sormlandsleden.se/vandring/etapp/etapp-21,10.5,https://www.openstreetmap.org/relation/3854541,
 "Sörmlandsleden, etapp 22 ",3854542,59.197067 16.616983,https://www.sormlandsleden.se/vandring/etapp/etapp-22,16.5,https://www.openstreetmap.org/relation/3854542,
 "Sörmlandsleden, etapp 22:1 ",9636667,59.161433 16.503583,https://www.sormlandsleden.se/vandring/etapp/etapp-22-1,1.5,https://www.openstreetmap.org/relation/9636667,
-"Sörmlandsleden, etapp 22:2 ",9637581,9637581,,s,https://www.openstreetmap.org/relation/9637581,
+"Sörmlandsleden, etapp 22:2 ",9637581,,,,https://www.openstreetmap.org/relation/9637581,
 Bruksslingan ,9636666,59.151583 16.489883,https://www.sormlandsleden.se/vandring/rundslinga/rundslinga-bruksslingan/,4,https://www.openstreetmap.org/relation/9636666,
 "Sörmlandsleden, etapp 23 ",3925449,59.158050 16.468633,https://www.sormlandsleden.se/vandring/etapp/etapp-23,12,https://www.openstreetmap.org/relation/3925449,
 "Sörmlandsleden, etapp 23:1 ",9637570,59.056550 16.567883,https://www.sormlandsleden.se/vandring/etapp/etapp-231,10,https://www.openstreetmap.org/relation/9637570,
@@ -49,12 +49,12 @@ Bruksslingan ,9636666,59.151583 16.489883,https://www.sormlandsleden.se/vandring
 "Sörmlandsleden, etapp 30 ",3117090,58.824783 16.342150,https://www.sormlandsleden.se/vandring/etapp/etapp-30,11,https://www.openstreetmap.org/relation/3117090,
 "Sörmlandsleden, etapp 31 ",3693024,58.776233 16.365750,https://www.sormlandsleden.se/vandring/etapp/etapp-31,11,https://www.openstreetmap.org/relation/3693024,
 "Sörmlandsleden, etapp 31:1 ",9631248,58.732217 16.376767,https://www.sormlandsleden.se/vandring/etapp/etapp-31-1,8.5,https://www.openstreetmap.org/relation/9631248,
-"Sörmlandsleden, etapp 32 ",3692978,58.724550 16.417067,https://www.sormlandsleden.se/vandring/etapp/etapp-32,11.5,https://www.openstreetmap.org/relation/3692978,
-"Sörmlandsleden, etapp 33 ",3690246,58.680200 16.477983,https://www.sormlandsleden.se/vandring/etapp/etapp-33,8,https://www.openstreetmap.org/relation/3690246,
-"Sörmlandsleden, etapp 33:1 ",3696342,58.638100 16.596233,https://www.sormlandsleden.se/vandring/etapp/etapp-33-1,4,https://www.openstreetmap.org/relation/3696342,
-"Sörmlandsleden, etapp 34 ",3690159,58.650900 16.549483,https://www.sormlandsleden.se/vandring/etapp/etapp-34,13,https://www.openstreetmap.org/relation/3690159,
-"Sörmlandsleden, etapp 35 ",3696285,58.674983 16.592933,https://www.sormlandsleden.se/vandring/etapp/etapp-35,12,https://www.openstreetmap.org/relation/3696285,
-"Sörmlandsleden, etapp 35:1 ",3696286,3696286,s,s,https://www.openstreetmap.org/relation/3696286,
+"Sörmlandsleden, etapp 32 ",3692978,58.724550 16.417067,https://www.sormlandsleden.se/vandring/etapp/etapp-32,11.5,https://www.openstreetmap.org/relation/3692978,sodermanlands-lan/32
+"Sörmlandsleden, etapp 33 ",3690246,58.680200 16.477983,https://www.sormlandsleden.se/vandring/etapp/etapp-33,8,https://www.openstreetmap.org/relation/3690246,ostergotlands-lan/33-dd11dfa5-1451-4624-8890-c7b23a8d2bf8
+"Sörmlandsleden, etapp 33:1 ",3696342,58.638100 16.596233,https://www.sormlandsleden.se/vandring/etapp/etapp-33-1,4,https://www.openstreetmap.org/relation/3696342,ostergotlands-lan/331-26b91fc8-db38-47e6-bb4a-424a3988b28e
+"Sörmlandsleden, etapp 34 ",3690159,58.650900 16.549483,https://www.sormlandsleden.se/vandring/etapp/etapp-34,13,https://www.openstreetmap.org/relation/3690159,ostergotlands-lan/34
+"Sörmlandsleden, etapp 35 ",3696285,58.674983 16.592933,https://www.sormlandsleden.se/vandring/etapp/etapp-35,12,https://www.openstreetmap.org/relation/3696285,ostergotlands-lan/35
+"Sörmlandsleden, etapp 35:1 ",3696286,,,,https://www.openstreetmap.org/relation/3696286,
 "Sörmlandsleden, etapp 36 ",3821815,58.663217 16.734517,https://www.sormlandsleden.se/vandring/etapp/etapp-36,11,https://www.openstreetmap.org/relation/3821815,
 "Sörmlandsleden, etapp 36:1 ",3696287,58.663217 16.734517,https://www.sormlandsleden.se/vandring/etapp/etapp-36-1,9,https://www.openstreetmap.org/relation/3696287,
 "Sörmlandsleden, etapp 36:2 ",3696288,58.692200 16.810833,https://www.sormlandsleden.se/vandring/etapp/etapp-36-2,7,https://www.openstreetmap.org/relation/3696288,
@@ -81,21 +81,21 @@ Bruksslingan ,9636666,59.151583 16.489883,https://www.sormlandsleden.se/vandring
 "Sörmlandsleden, etapp 49 ",7449352,58.829383 17.166050,https://www.sormlandsleden.se/vandring/etapp/etapp-49,11,https://www.openstreetmap.org/relation/7449352,sodermanlands-lan/49
 "Sörmlandsleden, etapp 50 ",6567461,58.843550 17.295850,https://www.sormlandsleden.se/vandring/etapp/etapp-50,6,https://www.openstreetmap.org/relation/6567461,sodermanlands-lan/50
 "Sörmlandsleden, etapp 50:1 ",9627989,58.832950 17.351200,https://www.sormlandsleden.se/vandring/etapp/etapp-50-1/,4,https://www.openstreetmap.org/relation/9627989,sodermanlands-lan/501
-"Sörmlandsleden, etapp 51 ",6567468,6567468,s,s,https://www.openstreetmap.org/relation/6567468,
-"Sörmlandsleden, etapp 52 ",7449057,7449057,s,s,https://www.openstreetmap.org/relation/7449057,
-"Sörmlandsleden, etapp 53 ",6571869,6571869,s,s,https://www.openstreetmap.org/relation/6571869,
-"Sörmlandsleden, etapp 53:1 ",8426186,8426186,s,s,https://www.openstreetmap.org/relation/8426186,
-"Sörmlandsleden, etapp 53:2 ",8426185,8426185,s,s,https://www.openstreetmap.org/relation/8426185,
+"Sörmlandsleden, etapp 51 ",6567468,58.923317 17.921650,https://www.sormlandsleden.se/vandring/etapp/etapp-51,9.5,https://www.openstreetmap.org/relation/6567468,
+"Sörmlandsleden, etapp 52 ",7449057,58.808317 17.367767,https://www.sormlandsleden.se/vandring/etapp/etapp-52,7.5,https://www.openstreetmap.org/relation/7449057,sodermanlands-lan/52
+"Sörmlandsleden, etapp 53 ",6571869,58.795383 17.419067,https://www.sormlandsleden.se/vandring/etapp/etapp-53-2/,11,https://www.openstreetmap.org/relation/6571869,sodermanlands-lan/53
+"Sörmlandsleden, etapp 53:1 ",8426186,58.794767 17.423150,https://www.sormlandsleden.se/vandring/etapp/etapp-53-1,8,https://www.openstreetmap.org/relation/8426186,sodermanlands-lan/531
+"Sörmlandsleden, etapp 53:2 ",8426185,,,,https://www.openstreetmap.org/relation/8426185,
 "Sörmlandsleden, etapp 54 ",6568069,58.846450 17.381400,https://www.sormlandsleden.se/vandring/etapp/etapp-54/,8.5,https://www.openstreetmap.org/relation/6568069,sv/sodermanlands-lan/54
-"Sörmlandsleden, etapp 55 ",6567861,58.875217 17.421583,https://www.sormlandsleden.se/vandring/etapp/etapp-55,16,https://www.openstreetmap.org/relation/6567861,
-"Sörmlandsleden, etapp 55:1 ",8425612,8425612,s,s,https://www.openstreetmap.org/relation/8425612,
-"Sörmlandsleden, etapp 56 ",7449018,7449018,s,s,https://www.openstreetmap.org/relation/7449018,
-"Sörmlandsleden, etapp 57 ",7448870,7448870,s,s,https://www.openstreetmap.org/relation/7448870,
-"Sörmlandsleden, etapp 58 ",7448733,7448733,s,s,https://www.openstreetmap.org/relation/7448733,
-"Sörmlandsleden, etapp 59 ",5280050,5280050,s,s,https://www.openstreetmap.org/relation/5280050,
-"Sörmlandsleden, etapp 60 ",5279829,5279829,s,s,https://www.openstreetmap.org/relation/5279829,
-"Sörmlandsleden, etapp 61 ",5279830,5279830,s,s,https://www.openstreetmap.org/relation/5279830,
-"Sörmlandsleden, etapp 62 ",5655292,5655292,s,s,https://www.openstreetmap.org/relation/5655292,
-"Sörmlandsleden, etapp 13:2 ",7604344,7604344,s,s,https://www.openstreetmap.org/relation/7604344,
-"Sörmlandsleden, etapp 28:1 ",8309519,8309519,s,s,https://www.openstreetmap.org/relation/8309519,
-"Sörmlandsleden, etapp 32 ",10998868,10998868,s,s,https://www.openstreetmap.org/relation/10998868,
+"Sörmlandsleden, etapp 55 ",6567861,58.875217 17.421583,https://www.sormlandsleden.se/vandring/etapp/etapp-55,16,https://www.openstreetmap.org/relation/6567861,sodermanlands-lan/sormlandsleden-etapp-55-gisekvarn-trosa
+"Sörmlandsleden, etapp 55:1 ",8425612,58.917183 17.369667,https://www.sormlandsleden.se/vandring/etapp/etapp-55-1/,17,https://www.openstreetmap.org/relation/8425612,sodermanlands-lan/sormlandsleden-etapp-55-1-sillekrog-hungaskogen
+"Sörmlandsleden, etapp 56 ",7449018,58.899950 17.546467,https://www.sormlandsleden.se/vandring/etapp/etapp-56/,20,https://www.openstreetmap.org/relation/7449018,
+"Sörmlandsleden, etapp 57 ",7448870,58.956733 17.575300,https://www.sormlandsleden.se/vandring/etapp/etapp-57/,11.5,https://www.openstreetmap.org/relation/7448870,
+"Sörmlandsleden, etapp 58 ",7448733,58.988900 17.623717,https://www.sormlandsleden.se/vandring/etapp/etapp-58,10.5,https://www.openstreetmap.org/relation/7448733,
+"Sörmlandsleden, etapp 59 ",5280050,59.052583 17.693667,https://www.sormlandsleden.se/vandring/etapp/etapp-59,9,https://www.openstreetmap.org/relation/5280050,
+"Sörmlandsleden, etapp 60 ",5279829,59.112000 17.697633,https://www.sormlandsleden.se/vandring/etapp/etapp-60,7.5,https://www.openstreetmap.org/relation/5279829,
+"Sörmlandsleden, etapp 61 ",5279830,59.126400 17.766750,https://www.sormlandsleden.se/vandring/etapp/etapp-61,5.5,https://www.openstreetmap.org/relation/5279830,
+"Sörmlandsleden, etapp 62 ",5655292,59.149650 17.798117,https://www.sormlandsleden.se/vandring/etapp/etapp-62,7.7,https://www.openstreetmap.org/relation/5655292,
+"Sörmlandsleden, etapp 13:2 ",7604344,7604344,https://www.sormlandsleden.se/vandring/etapp/etapp-13-2,17,https://www.openstreetmap.org/relation/7604344,
+"Sörmlandsleden, etapp 28:1 ",8309519,,,,https://www.openstreetmap.org/relation/8309519,
+"Sörmlandsleden, etapp 32:2",10998868,58.667500 16.463933,https://www.sormlandsleden.se/vandring/etapp/etapp-32-2,1.5,https://www.openstreetmap.org/relation/10998868,
