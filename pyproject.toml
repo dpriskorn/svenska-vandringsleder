@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "svenska-vandringsleder"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "GPLv3+"
+readme = "README.md"
+packages = [{include = "svenska_vandringsleder"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+wikibaseintegrator = "^0.12.3"
+requests = "^2.28.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
