@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import logging
 from datetime import datetime
 from pathlib import Path
 
@@ -11,48 +12,60 @@ import pandas as pd
 import pycountry
 from pydantic import BaseModel, Field
 
+import config
+
+logger = logging.getLogger(__name__)
+
 
 class HikingTrailsAnalysis(BaseModel):
+    """Per-country analysis and HTML report."""
+
     country_code: str = Field(..., min_length=2, max_length=2, description="ISO alpha-2 country code (e.g., 'SE')")
+
+    def create_directories(self) -> None:
+        logger.info(f"Creating directory '{self.html_country_dir}'")
+        # self.country_dir.mkdir(parents=True, exist_ok=True)
+        self.charts_dir.mkdir(parents=True, exist_ok=True)
 
     @property
     def country_name(self) -> str:
-        """Return full country name from ISO code."""
         country = pycountry.countries.get(alpha_2=self.country_code.upper())
         if not country:
             raise ValueError(f"Invalid country code: {self.country_code}")
         return country.name
 
     @property
-    def prefix(self) -> Path:
-        """Base output directory."""
-        return Path(f"{self.country_code}-trails-analysis")
+    def html_country_dir(self) -> Path:
+        return config.html_output_directory / Path(self.country_code)
 
     @property
     def data_file(self) -> Path:
-        """CSV file with hiking trail data."""
-        return self.prefix / f"data/{self.country_code}/data.csv"
+        return config.data_output_directory / Path(self.country_code) / Path("data.csv")
 
     @property
     def charts_dir(self) -> Path:
-        """Charts output directory."""
-        return self.prefix / "charts"
+        return self.html_country_dir / "charts"
 
     @property
     def html_file(self) -> Path:
-        """Generated HTML file."""
-        return self.prefix / "index.html"
+        return self.html_country_dir / "index.html"
 
     def run_analysis(self) -> None:
-        """Run the full analysis pipeline."""
-        self.charts_dir.mkdir(parents=True, exist_ok=True)
+        """Run the full analysis pipeline for a single country."""
+        if not self.data_file.exists():
+            print("This country has not been fetched yet")
+            return
+        self.create_directories()
         data = pd.read_csv(self.data_file)
+        if data.empty:
+            # todo output some meaningful html?
+            return
         data = data[data['length'] > 0]
 
         # --- Basic stats ---
         mean_length = data['length'].mean()
         num_names = data['name'].notna().sum()
-        perc_names = 100 * num_names / len(data)
+        perc_names = 100 * num_names / len(data) if len(data) else 0.0
 
         wikidata_trails = data[data['wikidata'].notna()]
         no_wikidata_trails = data[data['wikidata'].isna()]
@@ -61,11 +74,11 @@ class HikingTrailsAnalysis(BaseModel):
         total_length_wikidata = wikidata_trails['length'].sum()
         total_length_no_wikidata = no_wikidata_trails['length'].sum()
 
-        num_linear = data['linear'].sum()
+        num_linear = int(data['linear'].sum()) if 'linear' in data.columns else 0
         num_trails = len(data)
         num_non_linear = num_trails - num_linear
-        perc_linear = 100 * num_linear / num_trails
-        perc_non_linear = 100 * num_non_linear / num_trails
+        perc_linear = 100 * num_linear / num_trails if num_trails else 0.0
+        perc_non_linear = 100 * num_non_linear / num_trails if num_trails else 0.0
 
         top_longest = data.nlargest(5, 'length')[['name', 'length']]
         top_shortest = data.nsmallest(5, 'length')[['name', 'length']]
@@ -164,7 +177,13 @@ class HikingTrailsAnalysis(BaseModel):
 
     @staticmethod
     def _make_table(df: pd.DataFrame) -> str:
-        """Convert DataFrame to HTML table."""
         return df.to_html(index=False, border=0)
 
-
+# --- Example usage ---
+# 1) Generate per-country pages (you likely already do this)
+# HikingTrailsAnalysis(country_code='SE').run_analysis()
+# HikingTrailsAnalysis(country_code='NO').run_analysis()
+# HikingTrailsAnalysis(country_code='FI').run_analysis()
+#
+# 2) Generate cross-country dashboard
+# CrossCountryTrailsDashboard(country_codes=['SE','NO','FI']).run()

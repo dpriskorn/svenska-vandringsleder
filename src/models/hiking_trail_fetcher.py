@@ -18,12 +18,6 @@ class HikingTrailFetcher(BaseModel):
     country_iso: str
     overpass_timeout: int = 300
     waymarked_timeout: int = 10
-    output_dir: Path = Path("data")
-    output_csv: Path = Path("data.csv")
-    output_json: Path = Path(f"overpass.json")
-    lengths_cache_csv: Path = Path("lengths_cache.csv")
-    overpass_url: str = "https://overpass-api.de/api/interpreter"
-    waymarked_base_url: str = "https://hiking.waymarkedtrails.org/api/v1/details/relation"
     sleep_seconds: float = 0.5
 
     _session: Optional[requests.Session] = None
@@ -39,15 +33,15 @@ class HikingTrailFetcher(BaseModel):
 
     @property
     def country_dir(self) -> Path:
-        return self.output_dir / self.country_iso
+        return config.data_output_directory / self.country_iso
 
     @property
     def csv_file(self) -> Path:
-        return self.output_dir / self.country_iso / self.output_csv
+        return config.data_output_directory / self.country_iso / config.output_csv
 
     @property
     def overpass_file(self) -> Path:
-        return self.output_dir / self.country_iso / self.output_json
+        return config.data_output_directory / self.country_iso / config.output_json
 
     def fetch_overpass_and_save(self) -> None:
         print("Fetching hiking trails from Overpass API...")
@@ -60,7 +54,7 @@ class HikingTrailFetcher(BaseModel):
         start_time = time.perf_counter()
 
         r = self._get_session().post(
-            self.overpass_url,
+            config.overpass_url,
             data={"data": overpass_query},
             timeout=self.overpass_timeout
         )
