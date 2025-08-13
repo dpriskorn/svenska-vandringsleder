@@ -15,6 +15,9 @@ pyshexc = "^0.9.1"
 rich = "^13.3.1"
 yadict-compare = "^1.2.0"
 pydantic = "^2.0.0"
+pandas = "^2.3.1"
+matplotlib = "^3.10.5"
+pycountry = "^24.6.1"
 
 
 [tool.poetry.group.dev.dependencies]
