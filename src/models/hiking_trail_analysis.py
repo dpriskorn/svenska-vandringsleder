@@ -103,6 +103,14 @@ class HikingTrailsAnalysis(BaseModel):
                        "Total Length of Trails With/Without Wikidata Links",
                        self.charts_dir / f"{self.country_code.lower()}_hiking_trails_wikidata_lengths.png")
 
+        # --- Linear trails chart ---
+        self._plot_bar(
+            ['Linear Trails', 'Non-linear Trails'],
+            [perc_linear, perc_non_linear],
+            "Linear Trails (%) - Higher is better. No trails should have gaps in them",
+            self.charts_dir / f"{self.country_code.lower()}_hiking_trails_linear_percentage.png",
+        )
+
         # --- HTML ---
         html = f"""
         <!DOCTYPE html>
@@ -143,6 +151,8 @@ class HikingTrailsAnalysis(BaseModel):
         {self._make_table(network_counts.reset_index().rename(columns={'index': 'Network', 'network': 'Count'}))}
 
         <h2>Charts</h2>
+        <img src="charts/{self.country_code.lower()}_hiking_trails_linear_percentage.png" 
+     alt="Linear trails percentage chart">
         <img src="charts/{self.country_code.lower()}_hiking_trails_lengths_histogram.png" alt="Histogram of trail lengths">
         <img src="charts/{self.country_code.lower()}_hiking_trails_short_lengths_histogram.png" alt="Short trails histogram">
         <img src="charts/{self.country_code.lower()}_hiking_trails_long_lengths_histogram.png" alt="Long trails histogram">
