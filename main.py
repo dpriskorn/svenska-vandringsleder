@@ -9,12 +9,12 @@ from src.models.hiking_trail_fetcher import HikingTrailFetcher
 from src.models.index_generator import IndexGenerator
 
 logging.basicConfig(
-    level=logging.INFO,  # Change to logging.INFO to reduce output
+    level=config.loglevel,  # Change to logging.INFO to reduce output
     format="%(asctime)s [%(levelname)s] %(message)s"
 )
 
 if __name__ == "__main__":
-    if config.fetch_data:
+    if config.fetch_any_data:
         count = 0
         print("Fetching data for countries")
         for country in pycountry.countries:
@@ -29,13 +29,15 @@ if __name__ == "__main__":
 
     if config.analyze:
         print("Analyzing countries")
+        count = 0
         for country in pycountry.countries:
-            # noinspection PyUnresolvedReferences
-            code = country.alpha_2
-            analysis = HikingTrailsAnalysis(country_code=code)
-            analysis.run_analysis()
-            # debug
-            break
+            count += 1
+            if count <= config.analyze_country_limit:
+                # noinspection PyUnresolvedReferences
+                code = country.alpha_2
+                analysis = HikingTrailsAnalysis(country_code=code)
+                analysis.run_analysis()
+                # debug
 
     if config.analyze:
         print("Analyzing regions")

@@ -50,11 +50,38 @@ class HikingTrailsAnalysis(BaseModel):
     def html_file(self) -> Path:
         return self.html_country_dir / "index.html"
 
+    @staticmethod
+    def waymarked_trails_url(relation_id: int) -> str:
+        return f"https://hiking.waymarkedtrails.org/#route?id={relation_id}&type=relation"
+
+    @staticmethod
+    def osm_url(relation_id: int) -> str:
+        return f"https://www.openstreetmap.org/relation/{relation_id}"
+
+    def add_trail_links(
+            self,
+            df: pd.DataFrame,
+            relation_id_col: str = "relation_id",
+            waymarked_col: str = "waymarked-link",
+            osm_col: str = "osm-link"
+    ) -> pd.DataFrame:
+        """Return a copy of df with added HTML link columns for Waymarked Trails and JOSM."""
+        df = df.copy()
+        df[waymarked_col] = df[relation_id_col].apply(
+            lambda
+                rid: f'<a href="{self.waymarked_trails_url(relation_id=rid)}" target="_blank">View in Waymarked Trails</a>'
+        )
+        df[osm_col] = df[relation_id_col].apply(
+            lambda rid: f'<a href="{self.osm_url(relation_id=rid)}" target="_blank" title="View on OpenStreetMap.org">OSM</a>'
+        )
+        return df
+
     def run_analysis(self) -> None:
         """Run the full analysis pipeline for a single country."""
         if not self.data_file.exists():
-            print("This country has not been fetched yet")
+            print(f"Data for {self.country_name} has not been fetched yet")
             return
+        print(f"Working on {self.country_name}")
         self.create_directories()
         data = pd.read_csv(self.data_file)
         if data.empty:
@@ -84,6 +111,39 @@ class HikingTrailsAnalysis(BaseModel):
         top_shortest = data.nsmallest(5, 'length')[['name', 'length']]
         network_counts = data['network'].value_counts()
 
+        # --- Non-linear trails ---
+        # noinspection PyPep8
+        non_linear_trails = data[data['linear'] == False] if 'linear' in data.columns else pd.DataFrame()
+        non_linear_trails_sorted = non_linear_trails.sort_values(by='length', ascending=False)
+
+        top_non_linear = pd.DataFrame()
+        if not non_linear_trails.empty:
+            df_with_links = self.add_trail_links(non_linear_trails_sorted)
+
+            non_linear_html = f"""
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+            <meta charset="UTF-8">
+            <title>{self.country_name} - All Non-linear Trails</title>
+            <style>
+            body {{ font-family: Arial, sans-serif; margin: 2em; }}
+            h1, h2 {{ color: #2c3e50; }}
+            table {{ border-collapse: collapse; margin-bottom: 2em; }}
+            th, td {{ border: 1px solid #ccc; padding: 0.5em; text-align: left; }}
+            a {{ color: #2980b9; }}
+            </style>
+            </head>
+            <body>
+            <h1>All Non-linear Trails in {self.country_name}</h1>
+            {self._make_table(df_with_links[['name', 'length', 'waymarked-link', 'osm-link']])}
+            </body>
+            </html>
+            """
+            (self.html_file.parent / "non_linear.html").write_text(non_linear_html, encoding='utf-8')
+
+            top_non_linear = self.add_trail_links(non_linear_trails_sorted.head(5))
+
         # --- Charts ---
         self._plot_histogram(data['length'], "Distribution of Trail Lengths",
                              self.charts_dir / f"{self.country_code.lower()}_hiking_trails_lengths_histogram.png")
@@ -94,9 +154,10 @@ class HikingTrailsAnalysis(BaseModel):
                              bins=15, color='lightgreen')
 
         long_trails = data[data['length'] >= 25]
-        self._plot_histogram(long_trails['length'], "Distribution of Long Trails (>=25 km)",
-                             self.charts_dir / f"{self.country_code.lower()}_hiking_trails_long_lengths_histogram.png",
-                             bins=15, color='salmon')
+        if not long_trails.empty:
+            self._plot_histogram(long_trails['length'], "Distribution of Long Trails (>=25 km)",
+                                 self.charts_dir / f"{self.country_code.lower()}_hiking_trails_long_lengths_histogram.png",
+                                 bins=15, color='salmon')
 
         self._plot_bar(['With Wikidata', 'Without Wikidata'],
                        [total_length_wikidata, total_length_no_wikidata],
@@ -107,11 +168,31 @@ class HikingTrailsAnalysis(BaseModel):
         self._plot_bar(
             ['Linear Trails', 'Non-linear Trails'],
             [perc_linear, perc_non_linear],
-            "Linear Trails (%) - Higher is better. No trails should have gaps in them",
+            "Linearity of trails (%)",
             self.charts_dir / f"{self.country_code.lower()}_hiking_trails_linear_percentage.png",
+            caption="Non-linear trails often have gaps in them so they should be checked"
         )
 
         # --- HTML ---
+        non_linear_html_top5 = "<p>No non-linear trails found</p>"
+        longest_trail_table_html = "<p>No trails longer than 25 km found</p>"
+        longest_trail_chart_html = ""
+        if not non_linear_trails.empty:
+            non_linear_html_top5 = f"""        
+            <h2>Top 5 Longest Non-linear Trails</h2>
+            {self._make_table(top_non_linear[['name', 'length', 'waymarked-link', 'osm-link']])}
+            <p>
+                <a href="non_linear.html" style="display:inline-block; padding:0.5em 1em; 
+                   background:#2980b9; color:white; text-decoration:none; border-radius:4px;">
+                   More
+                </a>
+            </p>
+            """
+        if not long_trails.empty:
+            longest_trail_table_html = self._make_table(top_longest)
+            longest_trail_chart_html = """
+            <img src="charts/{self.country_code.lower()}_hiking_trails_long_lengths_histogram.png" alt="Long trails histogram">
+            """
         html = f"""
         <!DOCTYPE html>
         <html lang="en">
@@ -142,11 +223,13 @@ class HikingTrailsAnalysis(BaseModel):
         </ul>
 
         <h2>Top 5 Longest Trails</h2>
-        {self._make_table(top_longest)}
+        {longest_trail_table_html}
 
         <h2>Top 5 Shortest Trails</h2>
         {self._make_table(top_shortest)}
-
+        
+        {non_linear_html_top5}
+        
         <h2>Number of Trails per Network</h2>
         {self._make_table(network_counts.reset_index().rename(columns={'index': 'Network', 'network': 'Count'}))}
 
@@ -155,7 +238,7 @@ class HikingTrailsAnalysis(BaseModel):
      alt="Linear trails percentage chart">
         <img src="charts/{self.country_code.lower()}_hiking_trails_lengths_histogram.png" alt="Histogram of trail lengths">
         <img src="charts/{self.country_code.lower()}_hiking_trails_short_lengths_histogram.png" alt="Short trails histogram">
-        <img src="charts/{self.country_code.lower()}_hiking_trails_long_lengths_histogram.png" alt="Long trails histogram">
+        {longest_trail_chart_html}
         <img src="charts/{self.country_code.lower()}_hiking_trails_wikidata_lengths.png" alt="Wikidata bar chart">
 
         </body>
@@ -176,18 +259,21 @@ class HikingTrailsAnalysis(BaseModel):
         plt.close()
 
     @staticmethod
-    def _plot_bar(labels, values, title, outfile):
+    def _plot_bar(labels, values, title, outfile, caption=""):
         plt.figure(figsize=(8, 6))
         plt.bar(labels, values, color=['skyblue', 'lightcoral'])
         plt.title(title)
         plt.ylabel("Total Length (km)")
+        if caption:
+            plt.figtext(0.5, -0.05, caption, wrap=True, ha="center", fontsize=10, style="italic")
         plt.tight_layout()
-        plt.savefig(outfile)
+        plt.savefig(outfile, bbox_inches="tight")
         plt.close()
 
     @staticmethod
     def _make_table(df: pd.DataFrame) -> str:
-        return df.to_html(index=False, border=0)
+        # Don't escape html
+        return df.to_html(index=False, border=0, escape=False)
 
 # --- Example usage ---
 # 1) Generate per-country pages (you likely already do this)

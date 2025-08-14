@@ -81,10 +81,10 @@ class HikingTrailFetcher(BaseModel):
 
     def load_lengths_cache(self) -> dict[int, dict]:
         """Load cached length & linear from CSV"""
-        if not self.lengths_cache_csv.exists():
+        if not config.lengths_cache_csv.exists():
             return {}
         cache = {}
-        with open(self.lengths_cache_csv, newline="", encoding="utf-8") as f:
+        with open(config.lengths_cache_csv, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 cache[int(row["relation_id"])] = {
@@ -95,7 +95,7 @@ class HikingTrailFetcher(BaseModel):
 
     def save_lengths_cache(self, cache: dict[int, dict]) -> None:
         """Save length & linear to cache CSV"""
-        with open(self.lengths_cache_csv, "w", newline="", encoding="utf-8") as f:
+        with open(config.lengths_cache_csv, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["relation_id", "length_km", "linear"])
             writer.writeheader()
             for rel_id, vals in cache.items():
@@ -118,7 +118,7 @@ class HikingTrailFetcher(BaseModel):
                     logging.debug(f"  -> Using cached: {t.length} km, linear={t.linear}")
                     continue
 
-                t.fetch_waymarked_data(self._get_session(), self.waymarked_base_url, self.waymarked_timeout)
+                t.fetch_waymarked_data(self._get_session(), config.waymarked_base_url, self.waymarked_timeout)
                 if t.length is None:
                     logging.error(f"Length not found for trail {t.relation_id} ({t.name})")
                     raise ValueError(f"Length not found for trail {t.relation_id} ({t.name})")

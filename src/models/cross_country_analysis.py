@@ -80,8 +80,8 @@ class CrossCountryAnalysis(BaseModel):
         country_page_abs = config.html_output_directory / df['country_code'].iat[0] / "index.html"
         # Compute proper relative path from this region's index.html
         relative_link = os.path.relpath(country_page_abs, start=self.html_file.parent)
-        #print(relative_link)
-        #exit(0)
+        # print(relative_link)
+        # exit(0)
         return {
             'country_code': df['country_code'].iat[0],
             'country_name': df['country_name'].iat[0],

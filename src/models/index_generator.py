@@ -25,11 +25,7 @@ class IndexGenerator(BaseModel):
 
         # Regions
         for path in config.html_output_directory.glob("regions/*/index.html"):
-            #print(path)
-            #exit(0)
             region_name = path.parent.name
-            #print(region_name)
-            #exit(0)
             rel_path = path.relative_to(config.html_output_directory)
             region_links.append(f'<li><a href="{rel_path}">{region_name}</a></li>')
 
