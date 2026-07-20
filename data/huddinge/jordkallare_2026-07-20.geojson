@@ -1,0 +1,15 @@
+{"type": "FeatureCollection",
+ "bbox": [ 17.81034678, 59.11048047, 18.23706611, 59.31702172],
+ "features": [
+  {"geometry":{"coordinates":[18.033567,59.202626,0.0],"type":"Point"},"id":"jordkallare.304","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.072564,59.176341,0.0],"type":"Point"},"id":"jordkallare.305","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.021622,59.231779,0.0],"type":"Point"},"id":"jordkallare.306","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.019993,59.232292,0.0],"type":"Point"},"id":"jordkallare.307","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.98202,59.203601,0.0],"type":"Point"},"id":"jordkallare.308","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.021342,59.251812],"type":"Point"},"id":"jordkallare.309","properties":{"andrad_av":"svc_csmhud$","andrad_datum":"2023-06-21T10:54:37.753","skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.138454,59.200601,0.0],"type":"Point"},"id":"jordkallare.310","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.870802,59.265378,0.0],"type":"Point"},"id":"jordkallare.311","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.994736,59.186937],"type":"Point"},"id":"jordkallare.312","properties":{"andrad_av":"svc_csmhud$","andrad_datum":"2023-06-21T10:55:36.990","skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.981404,59.179152,0.0],"type":"Point"},"id":"jordkallare.313","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Jordkällare"},"type":"Feature"}
+ ]
+}

@@ -1,0 +1,8 @@
+{"type": "FeatureCollection",
+ "bbox": [ 17.81034678, 59.11048047, 18.23706611, 59.31702172],
+ "features": [
+  {"geometry":{"coordinates":[17.962688,59.190068,0.0],"type":"Point"},"id":"gruvhal.301","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Gruvhål"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.944122,59.191267,0.0],"type":"Point"},"id":"gruvhal.302","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Gruvhål"},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.961748,59.190058,0.0],"type":"Point"},"id":"gruvhal.303","properties":{"andrad_av":null,"andrad_datum":null,"skapad_av":null,"skapad_datum":null,"typ":"Gruvhål"},"type":"Feature"}
+ ]
+}

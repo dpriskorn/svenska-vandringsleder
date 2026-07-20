@@ -1,0 +1,9 @@
+{"type": "FeatureCollection",
+ "bbox": [ 17.81034678, 59.11048047, 18.23706611, 59.31702172],
+ "features": [
+  {"geometry":{"coordinates":[17.88259,59.256533],"type":"Point"},"id":"kallor.1","properties":{"andrad_av":null,"andrad_datum":null,"namn":"Vårby källa","skapad_av":null,"skapad_datum":null},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.893693,59.255401],"type":"Point"},"id":"kallor.2","properties":{"andrad_av":null,"andrad_datum":null,"namn":"Gömmarebäcken","skapad_av":null,"skapad_datum":null},"type":"Feature"}
+ ,{"geometry":{"coordinates":[17.984109,59.227989],"type":"Point"},"id":"kallor.3","properties":{"andrad_av":"marwal02-0-004","andrad_datum":"2025-12-12T10:14:50.157","namn":"Allhelgonakällan","skapad_av":null,"skapad_datum":null},"type":"Feature"}
+ ,{"geometry":{"coordinates":[18.056613,59.214558],"type":"Point"},"id":"kallor.4","properties":{"andrad_av":null,"andrad_datum":null,"namn":"källa Orlången","skapad_av":null,"skapad_datum":null},"type":"Feature"}
+ ]
+}
