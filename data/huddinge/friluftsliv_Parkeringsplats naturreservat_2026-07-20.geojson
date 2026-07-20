@@ -1,0 +1,925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.8842,
+          59.243649
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.314",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:47:02.870",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944087,
+          59.267848,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.315",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.931112,
+          59.264272,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.316",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.931594,
+          59.264167,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.317",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.909674,
+          59.253909,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.318",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.909898,
+          59.252889,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.319",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924714,
+          59.251384,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.320",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.948005,
+          59.255011,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.321",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.873476,
+          59.266785,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.322",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.990653,
+          59.196474
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.324",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:44:50.620",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.964451,
+          59.191752
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.325",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:46:22.697",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.993534,
+          59.186522,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.326",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023936,
+          59.191076,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.327",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.020831,
+          59.193496,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.328",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035946,
+          59.183497,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.329",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.043029,
+          59.186061
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.330",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:47:22.417",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02914,
+          59.208201,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.331",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032645,
+          59.206886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.332",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.03955,
+          59.208728,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.333",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.044827,
+          59.209622,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.334",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02164,
+          59.154513,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.335",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047486,
+          59.165519,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.336",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070476,
+          59.162293,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.337",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.071014,
+          59.163236,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.338",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.068009,
+          59.171441,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.339",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072723,
+          59.174372,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.340",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.075474,
+          59.17636,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.341",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.097081,
+          59.186386,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.342",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.078911,
+          59.204243
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.343",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:44:02.963",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.082167,
+          59.218167
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.344",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:50:31.777",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0811,
+          59.220453
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.345",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:51:31.833",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.013892,
+          59.220019
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.347",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:44:30.773",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021383,
+          59.223942,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.348",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.153928,
+          59.203394,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.349",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.158444,
+          59.228451
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.350",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-02-05T11:00:50.320",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.014517,
+          59.200827,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.351",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.028449,
+          59.225363,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.352",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.977607,
+          59.223182
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.353",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:45:21.150",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.998032,
+          59.190395,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.354",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.950201,
+          59.252528,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.355",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.96057,
+          59.216242
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.356",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:48:55.317",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.056854,
+          59.150428,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.358",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.028728,
+          59.208377,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.359",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.027398,
+          59.208916,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.360",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.012076,
+          59.200434,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.361",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.053703,
+          59.173466,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.362",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.073487,
+          59.17558,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.363",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.143636,
+          59.200062,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.364",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.005695,
+          59.195598,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.365",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Parkeringsplats naturreservat"
+      },
+      "type": "Feature"
+    }
+  ]
+}

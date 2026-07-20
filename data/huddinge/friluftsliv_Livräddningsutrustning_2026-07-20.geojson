@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.911784,
+          59.254223
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.144",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:43:00.177",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924221,
+          59.25302
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.145",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:03:12.810",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.925425,
+          59.251851,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.146",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.92329,
+          59.252024,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.147",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.921094,
+          59.251997,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.148",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.026203,
+          59.193377,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.149",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025671,
+          59.193545,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.150",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021925,
+          59.195264,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.151",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02123,
+          59.195983,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.152",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.970129,
+          59.216581,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.153",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.971833,
+          59.216737,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.154",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.959074,
+          59.214339,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.155",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Livr\u00e4ddningsutrustning"
+      },
+      "type": "Feature"
+    }
+  ]
+}

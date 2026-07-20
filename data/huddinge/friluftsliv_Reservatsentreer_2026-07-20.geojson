@@ -1,0 +1,1779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.887132,
+          59.256881,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.1",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.952525,
+          59.265156,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.2",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.950452,
+          59.258826,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.3",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.950084,
+          59.252544,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.4",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.931439,
+          59.251691,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.5",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.90985,
+          59.253897,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.6",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.933302,
+          59.271929,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.7",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.956636,
+          59.258089,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.8",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.879613,
+          59.241636
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.9",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:00:57.107",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.882216,
+          59.240006
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.10",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:02:01.510",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.16537,
+          59.232503,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.11",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.872131,
+          59.266924,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.12",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.868275,
+          59.26774,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.13",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.875094,
+          59.268821,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.14",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.870435,
+          59.266126,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.15",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.98147,
+          59.195408
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.16",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:53:25.743",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.963599,
+          59.191778,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.17",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.945927,
+          59.211513,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.18",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.069693,
+          59.187947,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.19",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.029235,
+          59.164607
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.20",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:12:32.430",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070863,
+          59.163116,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.21",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.99781,
+          59.190298,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.22",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.014141,
+          59.220101,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.23",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021339,
+          59.223823,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.24",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.028063,
+          59.225744,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.25",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.081094,
+          59.220232,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.28",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.082146,
+          59.21808,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.29",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.079271,
+          59.206258,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.30",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.042913,
+          59.186118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.31",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.04465,
+          59.209691,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.32",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.039482,
+          59.208844,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.33",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.970534,
+          59.222788,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.34",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023358,
+          59.191739,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.35",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.073619,
+          59.175595,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.36",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.066566,
+          59.172485,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.37",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.063215,
+          59.173734,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.38",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.075578,
+          59.176458,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.39",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.143593,
+          59.20002
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.40",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:54:28.523",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.150946,
+          59.201255
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.41",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:53:55.633",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024033,
+          59.19096,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.42",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.888829,
+          59.245148,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.43",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.932009,
+          59.267692,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.44",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944794,
+          59.274413,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.45",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.927583,
+          59.270605,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.46",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.938456,
+          59.273277,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.47",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.945942,
+          59.270085,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.48",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.945573,
+          59.271154,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.49",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.947372,
+          59.266812,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.50",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.950717,
+          59.265722,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.51",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.956662,
+          59.263823,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.52",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.957059,
+          59.26295,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.53",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.952722,
+          59.260766,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.54",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.946828,
+          59.251387,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.55",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.956444,
+          59.255508,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.56",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.957825,
+          59.256148,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.57",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.910509,
+          59.261983,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.58",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.911264,
+          59.242956,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.59",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.913861,
+          59.250196,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.60",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.056892,
+          59.15043,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.61",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.061689,
+          59.176764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.62",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.007438,
+          59.198653
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.63",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:52:16.100",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.967262,
+          59.184983,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.64",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.951087,
+          59.213219,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.65",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.001292,
+          59.218462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.66",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.872745,
+          59.269942,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.67",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.943709,
+          59.267732,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.200",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.947918,
+          59.255078,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.201",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.93112,
+          59.264242,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.202",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.925022,
+          59.251452,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.203",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.15857,
+          59.228433,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.204",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.873364,
+          59.266784,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.205",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.959326,
+          59.214632,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.206",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.977404,
+          59.223173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.207",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.990577,
+          59.196549,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.208",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.078962,
+          59.204199,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.209",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0218,
+          59.154423,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.210",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047384,
+          59.165432,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.211",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.016099,
+          59.201249,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.212",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.993256,
+          59.186542,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.213",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.020958,
+          59.193514,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.214",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072677,
+          59.174355,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.215",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.036116,
+          59.18352,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.216",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.157909,
+          59.234015,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.217",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.884084,
+          59.24368
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.218",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:01:40.247",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.08103,
+          59.220336,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.219",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.990538,
+          59.196534,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.220",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.097023,
+          59.186433
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.221",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:04:44.270",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.044845,
+          59.209478,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.222",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.005652,
+          59.195622,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.369",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.060249,
+          59.170155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.371",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.053615,
+          59.173301
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.372",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.043949,
+          59.173254
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.373",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.871099,
+          59.264933
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.374",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:02:27.820",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.982427,
+          59.220393,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.386",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsentreer"
+      },
+      "type": "Feature"
+    }
+  ]
+}

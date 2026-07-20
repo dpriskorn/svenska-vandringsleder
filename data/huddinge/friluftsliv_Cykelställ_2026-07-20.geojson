@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.02075,
+          59.193598,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.156",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024025,
+          59.191177,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.157",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022006,
+          59.15457
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.158",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:11:13.720",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.15835,
+          59.228519
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.159",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:15:41.127",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021973,
+          59.154595
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.376",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:10:49.240",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.04753,
+          59.165425
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.377",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:13:27.917",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035575,
+          59.18358
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.378",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070843,
+          59.163239
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.379",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:13:12.327",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047511,
+          59.16544
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.380",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:13:44.807",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.069927,
+          59.187942,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.381",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.044906,
+          59.209503
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.384",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:12:08.970",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.039542,
+          59.208789,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.385",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Cykelst\u00e4ll"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.081348,
+          59.175686,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.166",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.055985,
+          59.21431,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.167",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.98404,
+          59.22829,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.168",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.069647,
+          59.18801,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.169",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966413,
+          59.207411,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.170",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.04783,
+          59.166102,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.171",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02231,
+          59.153959
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.172",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:17:15.410",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024857,
+          59.154659,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.173",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Friluftsk\u00e4llor"
+      },
+      "type": "Feature"
+    }
+  ]
+}

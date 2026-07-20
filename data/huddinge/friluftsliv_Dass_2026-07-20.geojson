@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.036617,
+          59.15037
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.160",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:56:08.973",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Dass"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023284,
+          59.153965
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.161",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:16:45.640",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Dass"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023256,
+          59.153952
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.398",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:15:31.440",
+        "skapad_av": "marwal02-0-004",
+        "skapad_datum": "2026-01-21T10:31:10.696",
+        "typ": "Dass"
+      },
+      "type": "Feature"
+    }
+  ]
+}

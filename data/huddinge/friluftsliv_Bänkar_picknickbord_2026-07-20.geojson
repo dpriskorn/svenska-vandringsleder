@@ -1,0 +1,1520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.036976,
+          59.210672,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.68",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035813,
+          59.210321,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.69",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025087,
+          59.192965
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.70",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-06-05T10:21:18.907",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025148,
+          59.193264
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.71",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-06-05T10:23:12.263",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025031,
+          59.194013
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.72",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:04:03.730",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023175,
+          59.19455,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.73",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.03973,
+          59.199904,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.74",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032594,
+          59.202531,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.75",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.03953,
+          59.204554,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.76",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.042682,
+          59.204214,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.77",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.163442,
+          59.209444,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.78",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.175486,
+          59.212666,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.79",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.074466,
+          59.219935,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.80",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.074419,
+          59.219823,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.81",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.042965,
+          59.186001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.82",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.043041,
+          59.185999,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.83",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022268,
+          59.194882
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.84",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T13:49:41.043",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966331,
+          59.207781,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.85",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047841,
+          59.16557,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.86",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023342,
+          59.153431,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.87",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.911708,
+          59.25429
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.88",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:44:30.733",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9436,
+          59.267886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.89",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.925453,
+          59.251842,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.90",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.168116,
+          59.210592,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.91",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.169601,
+          59.210882,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.92",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944231,
+          59.226924
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.93",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:08:34.050",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.073956,
+          59.218367,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.94",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.074001,
+          59.218252,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.95",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070135,
+          59.217163,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.96",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072407,
+          59.216717,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.97",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.07266,
+          59.216822,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.98",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.074159,
+          59.216621,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.99",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0769,
+          59.219057,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.100",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.077017,
+          59.219057,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.101",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.06993,
+          59.224049,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.102",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.154755,
+          59.201939,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.103",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.146335,
+          59.23748,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.104",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.978162,
+          59.221501,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.105",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024468,
+          59.193943
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.108",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:06:38.647",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02325,
+          59.194511,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.109",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.020722,
+          59.19435,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.110",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024625,
+          59.191782,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.111",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023576,
+          59.19196,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.112",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070024,
+          59.187927,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.113",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966407,
+          59.207789,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.114",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.981561,
+          59.203664,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.115",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.981692,
+          59.203722,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.116",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02273,
+          59.153962,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.117",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022785,
+          59.15393
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.118",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:17:03.553",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022367,
+          59.15409
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.119",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:17:44.203",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022498,
+          59.154131
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.120",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:18:10.017",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.039631,
+          59.204559,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.121",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.978041,
+          59.221511,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.122",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.936363,
+          59.243394,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.123",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.936304,
+          59.243399,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.124",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.93843,
+          59.259639
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.125",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T14:09:55.057",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.070342,
+          59.172901,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.126",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02929,
+          59.208169,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.127",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.039465,
+          59.208635
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.128",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:11:22.570",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032176,
+          59.201083,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.129",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022812,
+          59.153818
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.130",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:14:13.440",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.946902,
+          59.257134,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.131",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924721,
+          59.253213
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.132",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:01:47.330",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025147,
+          59.193241
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.134",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-06-05T10:23:25.773",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.025082,
+          59.192947
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.135",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-06-05T10:21:06.640",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072581,
+          59.176658,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.136",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.062869,
+          59.174168,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.137",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.959041,
+          59.2143,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.138",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022692,
+          59.153916,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.139",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022431,
+          59.154138
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.140",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:17:56.730",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.037104,
+          59.151866,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.141",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047751,
+          59.166204,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.142",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.034093,
+          59.151277
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.143",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:48:32.820",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022154,
+          59.196727
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.299",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T10:57:11.847",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032312,
+          59.207076
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.370",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:10:45.260",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.044974,
+          59.209623,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.383",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.976545,
+          59.221855,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.387",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.010917,
+          59.228441
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.390",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:57:47.957",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.010724,
+          59.2285
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.391",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:57:58.477",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032724,
+          59.210537
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.393",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-30T16:14:31.143",
+        "skapad_av": "svc_csmhud$",
+        "skapad_datum": "2024-05-30T16:14:31.143",
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.043566,
+          59.206404
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.394",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-30T16:16:25.850",
+        "skapad_av": "svc_csmhud$",
+        "skapad_datum": "2024-05-30T16:16:25.850",
+        "typ": "B\u00e4nkar/picknickbord"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.02095,
+          59.193543
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.223",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024065,
+          59.191149
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.224",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:14:39.850",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023439,
+          59.191737
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.225",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:13:45.157",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024028,
+          59.191155
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.226",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:14:28.480",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.020881,
+          59.193548
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.227",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T13:52:55.920",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035623,
+          59.183576
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.228",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032185,
+          59.201162
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.229",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.977427,
+          59.223159
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.230",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:57:55.023",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021888,
+          59.154627
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.231",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-05-06T14:37:24.760",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047733,
+          59.1656
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.235",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2024-09-10T14:59:35.653",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.92363,
+          59.25111
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.239",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.90989,
+          59.253841
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.241",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2024-09-10T15:00:02.310",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.947878,
+          59.255055
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.242",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:34:57.837",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.931102,
+          59.264234
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.244",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:34:22.277",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.943751,
+          59.267766
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.245",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:35:33.277",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.938482,
+          59.259647
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.246",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T14:10:09.903",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022925,
+          59.153861
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.247",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.873366,
+          59.266782
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.248",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.872068,
+          59.266952
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.249",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.884428,
+          59.243732
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.250",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.073393,
+          59.175619
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.252",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:48:28.387",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.096994,
+          59.186427
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.253",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:47:57.867",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.150993,
+          59.201228
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.254",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:48:55.910",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.158564,
+          59.228395
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.255",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:46:31.743",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.14368,
+          59.200043
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.256",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:45:46.830",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022117,
+          59.196759
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.300",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T10:56:27.480",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.868588,
+          59.265969
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.368",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:44:48.513",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966443,
+          59.207813
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.382",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2024-09-10T15:01:10.703",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.010731,
+          59.228381
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.388",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:58:14.660",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.931487,
+          59.251679
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.392",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2024-09-10T15:03:15.453",
+        "skapad_av": "svc_csmhud$",
+        "skapad_datum": "2023-06-28T08:09:19.780",
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.078953,
+          59.204189
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.395",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2024-09-10T15:02:53.570",
+        "skapad_av": "marwal02-0-004",
+        "skapad_datum": "2024-09-05T13:58:07.626",
+        "typ": "Soptunnor"
+      },
+      "type": "Feature"
+    }
+  ]
+}

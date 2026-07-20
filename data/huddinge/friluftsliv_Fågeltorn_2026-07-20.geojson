@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.076729,
+          59.220782
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.164",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2025-11-10T09:22:00.790",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "F\u00e5geltorn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072535,
+          59.176705
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.165",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2025-11-10T09:22:22.590",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "F\u00e5geltorn"
+      },
+      "type": "Feature"
+    }
+  ]
+}

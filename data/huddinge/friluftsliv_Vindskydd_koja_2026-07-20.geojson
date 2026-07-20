@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.91164,
+          59.25431
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.273",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:43:43.367",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924234,
+          59.253101
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.274",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:02:50.937",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032185,
+          59.201152
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.275",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:13:58.910",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024936,
+          59.194006
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.276",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:06:10.593",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035388,
+          59.150305
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.277",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:53:24.017",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.036833,
+          59.150103
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.278",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:13:28.883",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023316,
+          59.153375
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.279",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:14:57.827",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035067,
+          59.143918
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.280",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:18:40.820",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022299,
+          59.196728
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.281",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T10:55:23.247",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.936358,
+          59.268642
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.282",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:40:24.917",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.034169,
+          59.151343
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.283",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:52:00.357",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Vindskydd/koja"
+      },
+      "type": "Feature"
+    }
+  ]
+}

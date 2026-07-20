@@ -1,0 +1,366 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.035443,
+          59.143871
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.174",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:01:37.540",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.035264,
+          59.150302
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.175",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:52:34.120",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.037209,
+          59.151962
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.176",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:50:50.057",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.034228,
+          59.151545
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.177",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:51:09.593",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022759,
+          59.153888
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.178",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:17:28.457",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.032169,
+          59.201152,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.179",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022217,
+          59.196732
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.180",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T10:56:41.763",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.072308,
+          59.189335
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.181",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:36:39.043",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022188,
+          59.194877
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.182",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T13:50:49.447",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.024973,
+          59.194001
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.183",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:07:03.630",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966378,
+          59.207766
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.184",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T12:55:31.620",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047796,
+          59.165594
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.185",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T12:58:12.033",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023291,
+          59.153404
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.186",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T12:59:04.370",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.911649,
+          59.254286
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.187",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:44:11.837",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924713,
+          59.253201
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.188",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:02:10.893",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944231,
+          59.22694
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.190",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:08:03.447",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.936237,
+          59.268615
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.193",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T12:55:59.513",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.036596,
+          59.150055
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.196",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:53:59.947",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047801,
+          59.166244
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.197",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:00:52.957",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.010631,
+          59.228393
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.389",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:58:29.503",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Grillplats"
+      },
+      "type": "Feature"
+    }
+  ]
+}

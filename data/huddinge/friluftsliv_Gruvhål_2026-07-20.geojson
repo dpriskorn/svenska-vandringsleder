@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.962688,
+          59.190068,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.301",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Gruvh\u00e5l"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944122,
+          59.191267,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.302",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Gruvh\u00e5l"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.961748,
+          59.190058,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.303",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Gruvh\u00e5l"
+      },
+      "type": "Feature"
+    }
+  ]
+}

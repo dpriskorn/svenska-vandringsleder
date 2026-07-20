@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.03568,
+          59.183482,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.284",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.074076,
+          59.17552,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.285",
+      "properties": {
+        "andrad_av": null,
+        "andrad_datum": null,
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.884333,
+          59.243791
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.286",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:05:14.110",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.873571,
+          59.266708
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.287",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:03:04.103",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.944655,
+          59.267936
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.288",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:00:31.087",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.959151,
+          59.214763
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.289",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:57:21.100",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.023821,
+          59.191159
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.290",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:12:34.777",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.158604,
+          59.228388
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.291",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:16:52.160",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.157911,
+          59.233917
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.292",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:56:06.603",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.005849,
+          59.195683
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.293",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:59:25.490",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.993545,
+          59.186312
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.294",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T08:58:43.607",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.021795,
+          59.154706
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.295",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:14:49.600",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.096995,
+          59.186433
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.296",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2023-06-19T09:04:11.200",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Reservatsportaler"
+      },
+      "type": "Feature"
+    }
+  ]
+}

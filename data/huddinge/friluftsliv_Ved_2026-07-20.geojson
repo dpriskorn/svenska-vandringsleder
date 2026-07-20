@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.032175,
+          59.201156
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.257",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2025-11-10T08:19:27.183",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022199,
+          59.19675
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.258",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T10:54:58.147",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047776,
+          59.165627
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.259",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:05:33.210",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.03724,
+          59.151987
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.260",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:48:45.733",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.037218,
+          59.151986
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.261",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:49:08.290",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.038205,
+          59.150578
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.262",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:36:42.797",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.037258,
+          59.146762
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.263",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:42:34.377",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02325,
+          59.153365
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.264",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:04:04.347",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022885,
+          59.153852
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.265",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:07:54.927",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.966423,
+          59.207809
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.266",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:11:37.693",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.911672,
+          59.25429
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.267",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T08:43:21.200",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.924263,
+          59.253097
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.268",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T09:02:31.250",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.936334,
+          59.268654
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.269",
+      "properties": {
+        "andrad_av": "svc_csmhud$",
+        "andrad_datum": "2024-05-29T13:10:42.430",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.022326,
+          59.1948
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.271",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T13:50:30.450",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02493,
+          59.193983
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.272",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:04:28.083",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.038231,
+          59.150518
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.297",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-22T14:36:32.293",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.010645,
+          59.228341
+        ],
+        "type": "Point"
+      },
+      "id": "friluftsliv.375",
+      "properties": {
+        "andrad_av": "marwal02-0-004",
+        "andrad_datum": "2026-01-23T13:57:36.653",
+        "skapad_av": null,
+        "skapad_datum": null,
+        "typ": "Ved"
+      },
+      "type": "Feature"
+    }
+  ]
+}
