@@ -1,0 +1,144 @@
+{
+  "resultCount": 17,
+  "offset": 0,
+  "limit": 100,
+  "queryTime": 4,
+  "results": [
+    {
+      "latitude": "58.05312119",
+      "name": "Nösnäs friluftsområde grillplats",
+      "id": "1415_grillplats_01",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.82496752"
+    },
+    {
+      "latitude": "58.0625281",
+      "name": "Nösnäs badplats grillplats",
+      "id": "1415_grillplats_02",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.81304012"
+    },
+    {
+      "latitude": "58.05861627",
+      "name": "Stenungsön badplats Hawaii grillplats 1",
+      "id": "1415_grillplats_03",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.79960005"
+    },
+    {
+      "latitude": "58.05844711",
+      "name": "Stenungsön badplats Hawaii grillplats 2",
+      "id": "1415_grillplats_04",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.79981022"
+    },
+    {
+      "latitude": "58.05657973",
+      "name": "Stenungsön södra grillplats 1",
+      "id": "1415_grillplats_05",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.80061808"
+    },
+    {
+      "latitude": "58.0557967",
+      "name": "Stenungsön södra grillplats 2",
+      "id": "1415_grillplats_06",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.80168433"
+    },
+    {
+      "latitude": "58.05495813",
+      "name": "Stenungsön södra grillplats 3",
+      "id": "1415_grillplats_07",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.80035672"
+    },
+    {
+      "latitude": "58.06092357",
+      "name": "Stenungsön tunnelmynningen grillplats",
+      "id": "1415_grillplats_08",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.79355249"
+    },
+    {
+      "latitude": "58.0644894",
+      "name": "Stenungsön Skepparviken grillplats",
+      "id": "1415_grillplats_09",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.79234738"
+    },
+    {
+      "latitude": "58.1143891",
+      "name": "Ödsmål grillplats",
+      "id": "1415_grillplats_10",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.86103839"
+    },
+    {
+      "latitude": "58.12911391",
+      "name": "Hällungen grillplats",
+      "id": "1415_grillplats_11",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.94691265"
+    },
+    {
+      "latitude": "58.06410961",
+      "name": "Gårdsjöns grillplats",
+      "id": "1415_grillplats_12",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "12.01629225"
+    },
+    {
+      "latitude": "58.06063117",
+      "name": "Stora Hästevatten grillplats",
+      "id": "1415_grillplats_13",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "12.03711029"
+    },
+    {
+      "latitude": "58.01522004",
+      "name": "Stora Höga Getskär grillplats",
+      "id": "1415_grillplats_14",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.80073681"
+    },
+    {
+      "latitude": "57.98725162",
+      "name": "Källsby grillplats",
+      "id": "1415_grillplats_15",
+      "source": "2120001298",
+      "updated": "2024-01-03",
+      "longitude": "11.7916611"
+    },
+    {
+      "latitude": "58.00394168",
+      "name": "Toröd grillplats 1",
+      "id": "1415_grillplats_16",
+      "source": "2120001298",
+      "updated": "2024-01-22",
+      "longitude": "11.87491511"
+    },
+    {
+      "latitude": "58.00389756",
+      "name": "Toröd grillplats 2",
+      "id": "1415_grillplats_17",
+      "source": "2120001298",
+      "updated": "2024-01-22",
+      "longitude": "11.8751828"
+    }
+  ]
+}

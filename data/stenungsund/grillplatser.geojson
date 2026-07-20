@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82496752,
+          58.05312119
+        ]
+      },
+      "properties": {
+        "name": "Nösnäs friluftsområde grillplats",
+        "id": "1415_grillplats_01",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.81304012,
+          58.0625281
+        ]
+      },
+      "properties": {
+        "name": "Nösnäs badplats grillplats",
+        "id": "1415_grillplats_02",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79960005,
+          58.05861627
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön badplats Hawaii grillplats 1",
+        "id": "1415_grillplats_03",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79981022,
+          58.05844711
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön badplats Hawaii grillplats 2",
+        "id": "1415_grillplats_04",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80061808,
+          58.05657973
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön södra grillplats 1",
+        "id": "1415_grillplats_05",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80168433,
+          58.0557967
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön södra grillplats 2",
+        "id": "1415_grillplats_06",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80035672,
+          58.05495813
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön södra grillplats 3",
+        "id": "1415_grillplats_07",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79355249,
+          58.06092357
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön tunnelmynningen grillplats",
+        "id": "1415_grillplats_08",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79234738,
+          58.0644894
+        ]
+      },
+      "properties": {
+        "name": "Stenungsön Skepparviken grillplats",
+        "id": "1415_grillplats_09",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86103839,
+          58.1143891
+        ]
+      },
+      "properties": {
+        "name": "Ödsmål grillplats",
+        "id": "1415_grillplats_10",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94691265,
+          58.12911391
+        ]
+      },
+      "properties": {
+        "name": "Hällungen grillplats",
+        "id": "1415_grillplats_11",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01629225,
+          58.06410961
+        ]
+      },
+      "properties": {
+        "name": "Gårdsjöns grillplats",
+        "id": "1415_grillplats_12",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03711029,
+          58.06063117
+        ]
+      },
+      "properties": {
+        "name": "Stora Hästevatten grillplats",
+        "id": "1415_grillplats_13",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80073681,
+          58.01522004
+        ]
+      },
+      "properties": {
+        "name": "Stora Höga Getskär grillplats",
+        "id": "1415_grillplats_14",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7916611,
+          57.98725162
+        ]
+      },
+      "properties": {
+        "name": "Källsby grillplats",
+        "id": "1415_grillplats_15",
+        "source": "2120001298",
+        "updated": "2024-01-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87491511,
+          58.00394168
+        ]
+      },
+      "properties": {
+        "name": "Toröd grillplats 1",
+        "id": "1415_grillplats_16",
+        "source": "2120001298",
+        "updated": "2024-01-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8751828,
+          58.00389756
+        ]
+      },
+      "properties": {
+        "name": "Toröd grillplats 2",
+        "id": "1415_grillplats_17",
+        "source": "2120001298",
+        "updated": "2024-01-22"
+      }
+    }
+  ]
+}
