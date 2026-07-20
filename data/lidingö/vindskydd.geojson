@@ -1,0 +1,105 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Vindskydd",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1667367416, 59.3649906189 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Koltorp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1897818053, 59.3508449316 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Bäverhyddan (Kottlasjön)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1052418699, 59.3798168438 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Augustenro (Knattekojan)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1081744477, 59.3772923737 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Mullekojan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1327607316, 59.384077487 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Örnnästet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.152447304, 59.3797602625 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Strövarlyan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.2141758462, 59.3767814778 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Södergarn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1967502962, 59.3586170552 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Långängen (Friluftskojan)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.1662597816, 59.34118371 ]
+			},
+			"properties" : {
+				"objekt" : "Vindskydd",
+				"plats" : "Kappsta"
+			}
+		}
+	]
+}
