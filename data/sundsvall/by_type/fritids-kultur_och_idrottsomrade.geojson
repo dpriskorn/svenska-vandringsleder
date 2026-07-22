@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 952,
+      "type": "Feature",
+      "properties": {
+        "name": "NP3 Arena/ Idrottsparken",
+        "type": "Fritids-kultur och idrottsområde",
+        "created": "2019-10-28 11:31:04",
+        "updated": "2024-02-15 09:18:30",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 807,
+      "type": "Feature",
+      "properties": {
+        "name": "Alnöns fritidsgård",
+        "type": "Fritids-kultur och idrottsområde",
+        "created": "2019-10-16 10:41:09",
+        "deleted": "2019-11-26 14:17:22"
+      },
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1329,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolby Arkeologstig",
+        "type": "Fornlämning",
+        "created": "2019-12-04 11:14:54",
+        "updated": "2022-01-10 15:40:42",
+        "published": true,
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "tags": [
+          "fornlämningar",
+          "gravfält",
+          "kyrkoruin",
+          "nolby",
+          "nolby arkeologstig",
+          "nolbyhögar",
+          "storhögar",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fornlämning"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2098,
+                "filename": "Nolby högar entré David Schreiner Sundsvalls museum.jpg",
+                "description": "Entrén till Nolby högar och arkeologstigen",
+                "alttext": "Entrén till Nolby högar och arkeologstigen",
+                "sourcetext": "David Schreiner, Sundsvalls museum",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 188336,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2098",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2099,
+                "filename": "Nolby högar Utställning David Schreiner Sundsvalls museum.jpg",
+                "description": "Vid starten för arkeologistigen finns en fast utställning. Den berättar om områdets långa historia. Hur landhöjningen förändrat landskapet och hur platsen använts av människor under flera tusen år.  Från utställningen kan du titta ut över trakten och fundera över hur det en gång sett ut.",
+                "alttext": "Vid starten för arkeologistigen finns en fast utställning. Den berättar om områdets långa historia. Hur landhöjningen förändrat landskapet och hur platsen använts av människor under flera tusen år.  Från utställningen kan du titta ut över trakten och fundera över hur det en gång sett ut.",
+                "sourcetext": "David Schreiner, Sundsvalls museum",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 109119,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2099",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2092,
+                "filename": "20200722_164802.jpg",
+                "description": "Vid starten för arkeologistigen finns en fast utställning med det här häftiga \"taket\" som ger vackra reflexer när solen skiner.",
+                "alttext": "Vid starten för arkeologistigen finns en fast utställning med det här häftiga \"taket\" som ger vackra reflexer när solen skiner.",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 6477228,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2092",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2091,
+                "filename": "20200722_164712.jpg",
+                "description": "Vid starten för arkeologistigen finns en fast utställning med det här häftiga \"taket\" som ger vackra reflexer när solen skiner.",
+                "alttext": "Vid starten för arkeologistigen finns en fast utställning med det här häftiga \"taket\" som ger vackra reflexer när solen skiner.",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 5610153,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2091",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2093,
+                "filename": "20200722_164732.jpg",
+                "description": "Landhöjningen beskrivs med fasta monument ",
+                "alttext": "Landhöjningen beskrivs med fasta monument ",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 5290589,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2093",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2094,
+                "filename": "20200722_164729.jpg",
+                "description": "Landhöjningen beskrivs med fasta monument. För 1000 år sedan...",
+                "alttext": "Landhöjningen beskrivs med fasta monument. För 1000 år sedan...",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 7,
+                "type": "image/jpeg",
+                "size": 5193301,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2094",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2095,
+                "filename": "20200722_164725.jpg",
+                "description": "Landhöjningen beskrivs med fasta monument. Som det ser ut idag.",
+                "alttext": "Landhöjningen beskrivs med fasta monument. Som det ser ut idag.",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 8,
+                "type": "image/jpeg",
+                "size": 5517271,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2095",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2100,
+                "filename": "Nolby högar Storhögar David Schreiner.jpg",
+                "description": "Storhögarna reser sig mäktiga och monumentala. Gravarna, uppförda under järnåldern 350 ? 500-talet, skulle imponera. Vilka som ligger begravda här vet ingen. Kanske en mäktig och viktig person tillsammans med sina finaste saker? Från den högsta högens topp har man fin utsikt över området.",
+                "alttext": "Storhögarna reser sig mäktiga och monumentala. Gravarna, uppförda under järnåldern 350 ? 500-talet, skulle imponera. Vilka som ligger begravda här vet ingen. Kanske en mäktig och viktig person tillsammans med sina finaste saker? Från den högsta högens topp har man fin utsikt över området.",
+                "sourcetext": "David Schreiner, Sundsvalls museum",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 11,
+                "type": "image/jpeg",
+                "size": 211876,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2100",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2096,
+                "filename": "20200722_163450.jpg",
+                "description": "Längs stigen finns informationstavlor",
+                "alttext": "Längs stigen finns informationstavlor",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 12,
+                "type": "image/jpeg",
+                "size": 5613300,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2096",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2097,
+                "filename": "20200722_163320.jpg",
+                "description": "Bänkbord för rast och fika",
+                "alttext": "Bänkbord för rast och fika",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 13,
+                "type": "image/jpeg",
+                "size": 7256808,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2097",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Unik fornlämningsmiljö med Norrlands största storhög, en runsten, en tidig medeltida kyrkoruin och ett gravfält med flera storhögar. Fornstigen erbjuder en lättvandrad runda på ca 1,7 km, med skyltar längs vägen. Vid entrén finns en fast utställning som berättar om områdets långa historia. Hur landhöjningen förändrat landskapet och hur platsen använts av människor under flera tusen år.  Från utställningen kan du titta ut över trakten och fundera över hur det en gång sett ut. Visningar av plasten sker av Sundsvalls museum efter bokning."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/kultur/lokalhistoria-kulturarv/nolby-hogar-2/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/kultur/lokalhistoria-kulturarv/nolby-hogar-2/"
+          }
+        ],
+        "centerPoint": [
+          17.35405204454594,
+          62.284252673364556
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.358934921063973,
+                62.28742005887902
+              ],
+              [
+                17.364841663772733,
+                62.28639010768146
+              ],
+              [
+                17.369089659310387,
+                62.286708472829964
+              ],
+              [
+                17.369178874284444,
+                62.28600639561585
+              ],
+              [
+                17.369911974096073,
+                62.285764937181504
+              ],
+              [
+                17.369569177740654,
+                62.28305923520444
+              ],
+              [
+                17.35880064448735,
+                62.27850087193378
+              ],
+              [
+                17.351532617429328,
+                62.28096798833728
+              ],
+              [
+                17.34828171199359,
+                62.28600710496358
+              ],
+              [
+                17.348160531078275,
+                62.28668279749128
+              ],
+              [
+                17.345963321537496,
+                62.28669302222716
+              ],
+              [
+                17.345773500298915,
+                62.2849988768487
+              ],
+              [
+                17.342946391260238,
+                62.28286423746162
+              ],
+              [
+                17.33863593994208,
+                62.286197015603946
+              ],
+              [
+                17.33850407203755,
+                62.2867378485931
+              ],
+              [
+                17.347637497379626,
+                62.288874004559126
+              ],
+              [
+                17.35159852165338,
+                62.28996544621511
+              ],
+              [
+                17.352409880926228,
+                62.288496794342144
+              ],
+              [
+                17.358934921063973,
+                62.28742005887902
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

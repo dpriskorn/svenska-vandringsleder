@@ -1,0 +1,1198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1538,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Östtjärns strandbad",
+        "type": "Omklädningshytt",
+        "created": "2020-05-08 22:36:24",
+        "updated": "2026-06-22 08:44:21",
+        "published": true,
+        "parentObjects": [
+          526
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1449,
+                "filename": "5D6DA3CD-F02E-451E-A370-DDF742B0B19F.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3323353,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1449",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt "
+          }
+        ],
+        "centerPoint": [
+          17.269000080905766,
+          62.32774942168021
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269000080905766,
+          62.32774942168021
+        ]
+      }
+    },
+    {
+      "id": 1547,
+      "type": "Feature",
+      "properties": {
+        "name": "Omkldäningshytt Luckstabadet",
+        "type": "Omklädningshytt",
+        "created": "2020-06-30 10:43:48",
+        "updated": "2020-06-30 10:45:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1467,
+                "filename": "image - 2020-06-30T104412.916.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3530907,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1467",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt"
+          }
+        ],
+        "centerPoint": [
+          17.052682555510895,
+          62.29799171719148
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052682555510895,
+          62.29799171719148
+        ]
+      }
+    },
+    {
+      "id": 1548,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Norrhassels strandbad",
+        "type": "Omklädningshytt",
+        "created": "2020-06-30 11:03:57",
+        "updated": "2020-06-30 11:33:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1468,
+                "filename": "image - 2020-06-30T110222.143.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4198295,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1468",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt"
+          }
+        ],
+        "centerPoint": [
+          16.746175739180693,
+          62.2555893193702
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.746175739180693,
+          62.2555893193702
+        ]
+      }
+    },
+    {
+      "id": 1549,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Viggesjöns strandbad",
+        "type": "Omklädningshytt",
+        "created": "2020-06-30 11:25:08",
+        "updated": "2020-06-30 11:29:13",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1469,
+                "filename": "image - 2020-06-30T112337.603.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2408307,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1469",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt"
+          }
+        ],
+        "centerPoint": [
+          16.68816120847044,
+          62.3032440593795
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68816120847044,
+          62.3032440593795
+        ]
+      }
+    },
+    {
+      "id": 1591,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats omklädning",
+        "type": "Omklädningshytt",
+        "created": "2020-07-06 16:38:21",
+        "updated": "2023-05-11 14:18:56",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1520,
+                "filename": "image - 2020-07-06T163641.891.jpg",
+                "description": "Onklädningsrum",
+                "alttext": "Onklädningsrum",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2217281,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1520",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.490545910448493,
+          62.41840032503621
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.490545910448493,
+          62.41840032503621
+        ]
+      }
+    },
+    {
+      "id": 1597,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Segersjön",
+        "type": "Omklädningshytt",
+        "created": "2020-07-07 14:13:16",
+        "updated": "2020-07-07 14:13:37",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1521,
+                "filename": "image - 2020-07-07T141055.849.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3080371,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1521",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.045163430340665,
+          62.442932716447636
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.045163430340665,
+          62.442932716447636
+        ]
+      }
+    },
+    {
+      "id": 1673,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats omklädning",
+        "type": "Omklädningshytt",
+        "created": "2020-09-09 11:35:36",
+        "updated": "2023-05-11 14:19:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-09-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1843,
+                "filename": "Edeforsens badplats.jpg",
+                "description": "Onklädningsrum",
+                "alttext": "Onklädningsrum",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3320234,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1843",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.490488971913955,
+          62.41833948603424
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.490488971913955,
+          62.41833948603424
+        ]
+      }
+    },
+    {
+      "id": 1849,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Vången",
+        "type": "Omklädningshytt",
+        "created": "2021-06-12 21:19:09",
+        "updated": "2022-08-31 09:36:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2022-05-01"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt "
+          }
+        ],
+        "centerPoint": [
+          16.576664951045895,
+          62.41575600149922
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.576664951045895,
+          62.41575600149922
+        ]
+      }
+    },
+    {
+      "id": 3094,
+      "type": "Feature",
+      "properties": {
+        "name": "Onklädningshytt Fläsian",
+        "type": "Omklädningshytt",
+        "created": "2021-11-11 09:38:22",
+        "updated": "2022-01-10 16:53:27",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-11-11"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2266,
+                "filename": "Omklädning Fläsian.jpg",
+                "description": "Omklädningshytt Fläsians havsbad",
+                "alttext": "Omklädningshytt vid Fläsians havsbad",
+                "sourcetext": "Joachim Söderlind, Friluftsenhetn",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3837613,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2266",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Onklädningshytt Fläsian"
+          }
+        ],
+        "centerPoint": [
+          17.373201351134735,
+          62.36051953465076
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.373201351134735,
+          62.36051953465076
+        ]
+      }
+    },
+    {
+      "id": 3103,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Sandnäsets strandbad",
+        "type": "Omklädningshytt",
+        "created": "2021-11-11 10:02:28",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt vid Sandnäsets strandbad"
+          }
+        ],
+        "centerPoint": [
+          16.392871329044972,
+          62.69693695568572
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.392871329044972,
+          62.69693695568572
+        ]
+      }
+    },
+    {
+      "id": 3122,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Hornsjön",
+        "type": "Omklädningshytt",
+        "created": "2021-12-17 16:42:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2282,
+                "filename": "IMG_1824.JPG",
+                "description": "Omklädningshytt",
+                "alttext": "Omklädningshytt",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2426161,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2282"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Onklädningshytt"
+          }
+        ],
+        "centerPoint": [
+          17.21201938132755,
+          62.174758442644574
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21201938132755,
+          62.174758442644574
+        ]
+      }
+    },
+    {
+      "id": 3654,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Västra Lövsjön",
+        "type": "Omklädningshytt",
+        "created": "2023-06-14 11:54:24",
+        "updated": "2026-03-17 06:46:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-06-14"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.967611597904625,
+          62.47018826714745
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.967611597904625,
+          62.47018826714745
+        ]
+      }
+    },
+    {
+      "id": 3657,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Bänkåsviken",
+        "type": "Omklädningshytt",
+        "created": "2023-07-03 11:00:19",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2536,
+                "filename": "20230703_104018.jpg",
+                "description": "Omklädningshytt",
+                "alttext": "Omklädningshytt",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6186859,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2536",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt med två bås"
+          }
+        ],
+        "centerPoint": [
+          17.45345033919522,
+          62.36691960493187
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45345033919522,
+          62.36691960493187
+        ]
+      }
+    },
+    {
+      "id": 4459,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Hartungviken",
+        "type": "Omklädningshytt",
+        "created": "2026-04-08 14:31:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2906,
+                "filename": "image (2).jpg",
+                "description": "Omklädningsrum",
+                "alttext": "Litet brunt hus i trä som används som omklädningsrum vid Hartungvikens badplats",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5098637,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2906",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.51765404885388,
+          62.39172721422627
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51765404885388,
+          62.39172721422627
+        ]
+      }
+    },
+    {
+      "id": 4460,
+      "type": "Feature",
+      "properties": {
+        "name": "Omklädningshytt Slädaviken",
+        "type": "Omklädningshytt",
+        "created": "2026-04-08 14:36:35",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2907,
+                "filename": "image (3).jpg",
+                "description": "Omklädningshytt",
+                "alttext": "Brun liten byggnad i trä med två dörrar som används för omklädning vid Hartungvikens badstrand",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4481894,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2907",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omklädningshytt"
+          }
+        ],
+        "centerPoint": [
+          17.473337635732104,
+          62.434846176137945
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.473337635732104,
+          62.434846176137945
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1702,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 11:00:08",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "sidsjön",
+          "sidsjöns utegym",
+          "träning",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1974,
+                "filename": "DSC_0026.JPG",
+                "description": "Sidsjöns utegym",
+                "alttext": "Sidsjöns utegym",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1571503,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1974",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1975,
+                "filename": "20200818_144935.jpg",
+                "description": "Sidsjöns utegym",
+                "alttext": "Sidsjöns utegym",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7345263,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1975",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1976,
+                "filename": "DSC_0032.JPG",
+                "description": "Sidsjöns utegym",
+                "alttext": "Sidsjöns utegym",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2341061,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1976",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym med knappt tiotal olika övningar."
+          }
+        ],
+        "centerPoint": [
+          17.282855554667442,
+          62.37332781848103
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.283253439897035,
+                62.373354967590934
+              ],
+              [
+                17.283043685303944,
+                62.3734803588733
+              ],
+              [
+                17.282459592750175,
+                62.37331141302107
+              ],
+              [
+                17.282593256799903,
+                62.373182241637146
+              ],
+              [
+                17.283253439897035,
+                62.373354967590934
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1704,
+      "type": "Feature",
+      "properties": {
+        "name": "Baldershovs utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 11:31:09",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1978,
+                "filename": "20200805.jpg",
+                "description": "Utegym Baldershov",
+                "alttext": "Utegym Baldershov",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4755860,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1978",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Flertal stationer att träna på, individuellt eller i grupp. Tips på övningar finns på plats. Utegymmet är belyst under kvällstid. Toalett finns när Balderhovs IP är öppet."
+          }
+        ],
+        "centerPoint": [
+          17.31784444830226,
+          62.408453419366744
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.317896037346955,
+                62.40860127938901
+              ],
+              [
+                17.31779633063757,
+                62.40857377058408
+              ],
+              [
+                17.31779235908785,
+                62.40849437947826
+              ],
+              [
+                17.31774617212304,
+                62.40845793383593
+              ],
+              [
+                17.317672987882947,
+                62.408408862126116
+              ],
+              [
+                17.317639882041743,
+                62.408401366635665
+              ],
+              [
+                17.317650933782048,
+                62.40837603808197
+              ],
+              [
+                17.317595627994432,
+                62.408361871426415
+              ],
+              [
+                17.317620217242606,
+                62.40834335815644
+              ],
+              [
+                17.31764094129987,
+                62.40833094391246
+              ],
+              [
+                17.318091284170006,
+                62.408462249178164
+              ],
+              [
+                17.317896037346955,
+                62.40860127938901
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1707,
+      "type": "Feature",
+      "properties": {
+        "name": "Hillstamons utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 11:53:28",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1988,
+                "filename": "20200917_184316.jpg",
+                "description": "Hillstamons utegym",
+                "alttext": "Hillstamons utegym",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5590339,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1988",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym i anslutning till Hillstamons hinderbana och Södra Bergets slalombacke. Det finns 11 st stationer att träna på, individuellt eller i grupp. Utegymmet är belyst under kvällstid."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/spontanidrottsplatser-och-utegym/"
+          }
+        ],
+        "centerPoint": [
+          17.3319848142221,
+          62.371605816841296
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.33207197194817,
+                62.371683325180406
+              ],
+              [
+                17.331986858416034,
+                62.37170285569753
+              ],
+              [
+                17.331913083752767,
+                62.37170107443156
+              ],
+              [
+                17.33183141561363,
+                62.371681321025974
+              ],
+              [
+                17.3317772417358,
+                62.371653060553065
+              ],
+              [
+                17.3317571289745,
+                62.37161718882034
+              ],
+              [
+                17.33176096476295,
+                62.37158292744502
+              ],
+              [
+                17.331803577515796,
+                62.37154600479362
+              ],
+              [
+                17.331930779070554,
+                62.37151068222891
+              ],
+              [
+                17.33200546758308,
+                62.37149635540793
+              ],
+              [
+                17.332102041807524,
+                62.37151284154006
+              ],
+              [
+                17.3321627826134,
+                62.37154199764315
+              ],
+              [
+                17.332210256014754,
+                62.37159551518936
+              ],
+              [
+                17.332176607684936,
+                62.37163631094303
+              ],
+              [
+                17.33212471909776,
+                62.371665342764985
+              ],
+              [
+                17.33207197194817,
+                62.371683325180406
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1708,
+      "type": "Feature",
+      "properties": {
+        "name": "Hantverksparkens utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 11:56:52",
+        "updated": "2022-08-17 11:37:05",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "tags": [
+          "aktivitetsplats",
+          "fotbollsplan",
+          "lekpark",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2329,
+                "filename": "20200910_115604.jpg",
+                "description": "Utegym med vikter i Hantverksparken",
+                "alttext": "Utegym med vikter i Hantverksparken",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5022803,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2329",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1990,
+                "filename": "Utegym Södermalm.jpg",
+                "description": "Utegym i Hantevrksparken",
+                "alttext": "Utegym i Hantevrksparken",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3794361,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1990",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1989,
+                "filename": "Utegym Södermalm 2.jpg",
+                "description": "Utegym i Hantverksparken",
+                "alttext": "Utegym i Hantverksparken",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3913254,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1989",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym i Hantverksparken på Södermalm, i nära anslutning till fotbollsplan och aktivitetspark för barn"
+          }
+        ],
+        "centerPoint": [
+          17.290346180129205,
+          62.38461471197168
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.290389852446335,
+                62.38448308698554
+              ],
+              [
+                17.290563778464257,
+                62.3845476127557
+              ],
+              [
+                17.290540495428555,
+                62.384583198089516
+              ],
+              [
+                17.29063121322414,
+                62.38474323065865
+              ],
+              [
+                17.29051407516386,
+                62.38475207261434
+              ],
+              [
+                17.290319928572416,
+                62.38469469991338
+              ],
+              [
+                17.29013534310155,
+                62.384640152183884
+              ],
+              [
+                17.290072758741168,
+                62.384615031398404
+              ],
+              [
+                17.290106918504,
+                62.384557506797854
+              ],
+              [
+                17.290357470009543,
+                62.384484625496604
+              ],
+              [
+                17.290389852446335,
+                62.38448308698554
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1717,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergsåkers utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 16:19:48",
+        "updated": "2022-01-10 21:54:19",
+        "published": true,
+        "tags": [
+          "bergsåker",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym vid Betselvägen i Bergsåker"
+          }
+        ],
+        "centerPoint": [
+          17.224011051786707,
+          62.41392323455473
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.22389764050813,
+                62.41399364552917
+              ],
+              [
+                17.22383213756303,
+                62.41395848409041
+              ],
+              [
+                17.224103743946863,
+                62.41384854494546
+              ],
+              [
+                17.224189413528755,
+                62.41389243606376
+              ],
+              [
+                17.22389764050813,
+                62.41399364552917
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1718,
+      "type": "Feature",
+      "properties": {
+        "name": "Pilens utegym Kubikenborg",
+        "type": "Utegym",
+        "created": "2020-12-15 16:23:08",
+        "updated": "2022-08-17 11:35:22",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 157,
+          "name": "sundsvall-ortvikens bågskytteklubb"
+        },
+        "tags": [
+          "idrottsplats",
+          "kubikenborgs idrottsplats",
+          "pilens utegym",
+          "spontanidrottsplats",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1998,
+                "filename": "Pilens1.jpg",
+                "description": "Pilens utegym",
+                "alttext": "Utrustning för träning utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 376316,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1998",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2336,
+                "filename": "FullSizeRender2.jpg",
+                "description": "Pilens utegym",
+                "alttext": "Utrustning för träning utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 177325,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2336",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2335,
+                "filename": "FullSizeRender.jpg",
+                "description": "Pilens utegym",
+                "alttext": "Utrustning för träning utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 79974,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2335",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Pilens utegym har flera möjligheter till träning där du använder din egen vikt som tyngd. Träna i grupp eller enskilt. Vid utegymmet finns förslag och beskrivningar till olika övningar."
+          }
+        ],
+        "centerPoint": [
+          17.348667552229447,
+          62.373300547659746
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.348446439660133,
+                62.37339042401504
+              ],
+              [
+                17.348666147676283,
+                62.37318807031635
+              ],
+              [
+                17.348889184036757,
+                62.37323585384789
+              ],
+              [
+                17.34869858237024,
+                62.37339497006662
+              ],
+              [
+                17.34860915990951,
+                62.37339396455086
+              ],
+              [
+                17.348499285874592,
+                62.373408391134326
+              ],
+              [
+                17.348446439660133,
+                62.37339042401504
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1724,
+      "type": "Feature",
+      "properties": {
+        "name": "Utegym Bredsand",
+        "type": "Utegym",
+        "created": "2020-12-15 16:59:11",
+        "updated": "2022-08-17 10:07:44",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "utegym",
+          "bredsand"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2010,
+                "filename": "74918017_830418887391447_5922970942992023552_n.jpg",
+                "description": "Utegym vid Bredsands skola",
+                "alttext": "Utegym vid Bredsands skola",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 426010,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2010",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2009,
+                "filename": "75339476_531700914287552_5035396937453404160_n.jpg",
+                "description": "Utegym vid Bredsands skola",
+                "alttext": "Utegym vid Bredsands skola",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 495349,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2009",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2221,
+                "filename": "Aktivitetsyta.jpg",
+                "description": "Aktivitetsyta",
+                "alttext": "Gymutrustning och bollplan utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2422784,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2221",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym vid Bredsands skola"
+          }
+        ],
+        "centerPoint": [
+          17.36776729929259,
+          62.35392965759957
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.367606094341333,
+                62.35406851991019
+              ],
+              [
+                17.36753771350784,
+                62.354079741822474
+              ],
+              [
+                17.367401963356546,
+                62.35388843285594
+              ],
+              [
+                17.36799508217452,
+                62.353792843782436
+              ],
+              [
+                17.36813711078513,
+                62.35399510927853
+              ],
+              [
+                17.367606094341333,
+                62.35406851991019
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3114,
+      "type": "Feature",
+      "properties": {
+        "name": "Äppellunda IP utegym",
+        "type": "Utegym",
+        "created": "2021-12-10 10:34:35",
+        "updated": "2022-08-17 11:49:28",
+        "published": true,
+        "owner": {
+          "organizationID": 2,
+          "name": "alnö if"
+        },
+        "manager": {
+          "organizationID": 2,
+          "name": "alnö if"
+        },
+        "tags": [
+          "träning",
+          "träningsmaskiner",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gymutrustning för träning utomhus, här använder du din egen vikt som tyngd."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.svenskalag.se/alnoif"
+          }
+        ],
+        "centerPoint": [
+          17.418747750210336,
+          62.425239508640715
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.418632747646452,
+                62.42507416395487
+              ],
+              [
+                17.41902065550334,
+                62.42511981781257
+              ],
+              [
+                17.41884034687148,
+                62.42540583657309
+              ],
+              [
+                17.418475851367962,
+                62.425370253339956
+              ],
+              [
+                17.418632747646452,
+                62.42507416395487
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3227,
+      "type": "Feature",
+      "properties": {
+        "name": "Pilens utegym Kubikenborg",
+        "type": "Utegym",
+        "created": "2022-08-17 11:26:49",
+        "updated": "2022-08-17 11:28:12",
+        "published": true,
+        "owner": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "gym",
+          "träning",
+          "utegym"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2333,
+                "filename": "FullSizeRender.jpg",
+                "description": "Pilens utegym",
+                "alttext": "Utrustning för träning utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 79974,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2333",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2334,
+                "filename": "FullSizeRender2.jpg",
+                "description": "Pilens utegym vid Kubikenborgs IP",
+                "alttext": "Utrustning för träning utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 177325,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2334",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Pilens utegym har flera möjligheter till träning där du använder din egen vikt som tyngd. Träna i grupp eller enskilt. Vid utegymmet finns förslag och beskrivningar till olika övningar."
+          }
+        ],
+        "centerPoint": [
+          17.348666875562735,
+          62.3732854172143
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.348678910084143,
+                62.37319343647274
+              ],
+              [
+                17.348892016450222,
+                62.37323541560787
+              ],
+              [
+                17.348687993972053,
+                62.37339601556446
+              ],
+              [
+                17.3485024749633,
+                62.37340386080537
+              ],
+              [
+                17.348450427514507,
+                62.37338745177814
+              ],
+              [
+                17.348678910084143,
+                62.37319343647274
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3953,
+      "type": "Feature",
+      "properties": {
+        "name": "Utegym Himlabadet",
+        "type": "Utegym",
+        "created": "2024-05-31 12:04:28",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stort utegym med 16 styrkemaskiner med flyttbara vikter som gör dem användbar oavsett förkunskap."
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Gummiasfalt under maskinerna. Många av dem fungerar fint med rullstol, då sitsen går att vika undan. Aningen trång passage in till området."
+          }
+        ],
+        "centerPoint": [
+          17.28688019662991,
+          62.39442017986082
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.28724330950496,
+                62.39453801126082
+              ],
+              [
+                17.286625998009306,
+                62.39443657075537
+              ],
+              [
+                17.28652228685821,
+                62.394364411991376
+              ],
+              [
+                17.28712316614999,
+                62.39429482649905
+              ],
+              [
+                17.28724330950496,
+                62.39453801126082
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3972,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns utegym",
+        "type": "Utegym",
+        "created": "2024-08-23 08:12:41",
+        "updated": "2025-10-23 10:25:40",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2645,
+                "filename": "20240823_075441.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4704011,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2645",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2646,
+                "filename": "20240823_075450.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4526354,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2646",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym med 13 maskiner med ställbar belastning."
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Gummiasfalt runt gymmet. Många av maskinerna går att använda med rullstol."
+          }
+        ],
+        "centerPoint": [
+          17.2794505308077,
+          62.378560124478746
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.279331335607143,
+                62.3786379710012
+              ],
+              [
+                17.27937718836276,
+                62.37844310553999
+              ],
+              [
+                17.279562003479572,
+                62.37845214844922
+              ],
+              [
+                17.279509813913354,
+                62.378649129304485
+              ],
+              [
+                17.279331335607143,
+                62.3786379710012
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4001,
+      "type": "Feature",
+      "properties": {
+        "name": "Utegym Sticksjön",
+        "type": "Utegym",
+        "created": "2024-10-27 09:12:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2684,
+                "filename": "FB_IMG_1730016239119.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Mari Nordstrand Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 135865,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2684",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2685,
+                "filename": "FB_IMG_1730016250885.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Mari Nordstrand Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 107786,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2685",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2686,
+                "filename": "FB_IMG_1730016258504.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Mari Nordstrand Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 56779,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2686",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Underlaget är konstgräs. Ett antal maskiner är tillgängliga med rullstol. "
+          }
+        ],
+        "centerPoint": [
+          17.269337134764207,
+          62.412448726593084
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.269189979829154,
+                62.41256911492656
+              ],
+              [
+                17.26913217400638,
+                62.41241889934903
+              ],
+              [
+                17.269507302910085,
+                62.41237589409529
+              ],
+              [
+                17.269554959550472,
+                62.41252672207369
+              ],
+              [
+                17.269189979829154,
+                62.41256911492656
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4237,
+      "type": "Feature",
+      "properties": {
+        "name": "Utegym Gärde",
+        "type": "Utegym",
+        "created": "2026-01-13 14:52:53",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2793,
+                "filename": "20250325_125855.jpg",
+                "description": "Utegym",
+                "alttext": "Utegym",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4622109,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2793",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utegym ett tiotal maskiner. "
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Utegymet är tillgänglighetsanpassat och många av maskinerna går att använda sittande i rullstol."
+          }
+        ],
+        "centerPoint": [
+          17.351019888056214,
+          62.410818566251336
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.350732061482525,
+                62.41081624696799
+              ],
+              [
+                17.351265143319182,
+                62.410863941058906
+              ],
+              [
+                17.35130097237529,
+                62.41079293028747
+              ],
+              [
+                17.35118301842181,
+                62.41077206201972
+              ],
+              [
+                17.3510160408217,
+                62.410767108034335
+              ],
+              [
+                17.35082830012588,
+                62.41074878875216
+              ],
+              [
+                17.350752445882375,
+                62.41076195552708
+              ],
+              [
+                17.350732061482525,
+                62.41081624696799
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1720,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets utegym",
+        "type": "Utegym",
+        "created": "2020-12-15 16:44:48",
+        "deleted": "2026-06-23 14:13:48"
+      },
+      "geometry": null
+    }
+  ]
+}

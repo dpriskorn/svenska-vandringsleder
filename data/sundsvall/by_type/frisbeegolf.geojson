@@ -1,0 +1,1133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1701,
+      "type": "Feature",
+      "properties": {
+        "name": "Sticksjö Discgolfbana",
+        "type": "Frisbeegolf",
+        "created": "2020-12-15 10:48:26",
+        "updated": "2020-12-15 10:55:19",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "tags": [
+          "discgolf",
+          "discgolfbana",
+          "frisbeegolf",
+          "frisbeegolfbana",
+          "18-hålsbana"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 237,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 18
+          },
+          {
+            "id": 238,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 58
+          },
+          {
+            "id": 239,
+            "name": "Längd (m)",
+            "type": "INTEGER",
+            "value": 1905
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1972,
+                "filename": "Fresbeegolf.JPG",
+                "description": "Sticksjö frisbeegolfbana",
+                "alttext": "Sticksjö frisbeegolfbana",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 347300,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1972",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1970,
+                "filename": "discgolfbana_Granloholm i höstskrud.jpg",
+                "description": "Granloholms discgolfbana i höstskrud",
+                "alttext": "Granloholms discgolfbana i höstskrud",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3973955,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1970",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1971,
+                "filename": "Sticksjö Frisbeebana.jpg",
+                "description": "Ett av hålen på discgolfbanan",
+                "alttext": "Ett av hålen på discgolfbanan",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 1287282,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1971",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1973,
+                "filename": "PICT0227.JPG",
+                "description": "En av korgarna på frisbeegolfbanan",
+                "alttext": "En av korgarna på frisbeegolfbanan",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 493315,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1973",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Discgolfbana som utgår från Granloholms centrum. 18-håls bana. "
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://www.sticksjodiscgolf.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.sticksjodiscgolf.se/"
+          }
+        ],
+        "centerPoint": [
+          17.265484582690195,
+          62.41341972816028
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.270346797932294,
+                62.41240264762651
+              ],
+              [
+                17.269731216125862,
+                62.41257862951439
+              ],
+              [
+                17.269273693350154,
+                62.412550880727
+              ],
+              [
+                17.26550577305469,
+                62.4130547399985
+              ],
+              [
+                17.266118573412125,
+                62.41183785466423
+              ],
+              [
+                17.264444513252823,
+                62.41192542080726
+              ],
+              [
+                17.263485936943667,
+                62.41229804472201
+              ],
+              [
+                17.26154277224727,
+                62.41255589852429
+              ],
+              [
+                17.260645428600725,
+                62.41330969842354
+              ],
+              [
+                17.260723294808972,
+                62.413479414765895
+              ],
+              [
+                17.2607286001196,
+                62.413549732137135
+              ],
+              [
+                17.260268196178984,
+                62.41362760561766
+              ],
+              [
+                17.260417106647957,
+                62.413876630607454
+              ],
+              [
+                17.261663272994852,
+                62.41443975002346
+              ],
+              [
+                17.261992745098496,
+                62.414494747164134
+              ],
+              [
+                17.26282991663157,
+                62.41466721930603
+              ],
+              [
+                17.263577035753592,
+                62.41479589018917
+              ],
+              [
+                17.265444299260825,
+                62.41496669407093
+              ],
+              [
+                17.26656178059903,
+                62.41497366355125
+              ],
+              [
+                17.266803671193575,
+                62.41487418051053
+              ],
+              [
+                17.26715481789331,
+                62.414642169631776
+              ],
+              [
+                17.26707767224057,
+                62.41448250237874
+              ],
+              [
+                17.267970900345638,
+                62.413819245639004
+              ],
+              [
+                17.268578532348226,
+                62.413537795914
+              ],
+              [
+                17.26953213848312,
+                62.41309984282545
+              ],
+              [
+                17.270670415242996,
+                62.4128097383018
+              ],
+              [
+                17.27054080179194,
+                62.41253023577257
+              ],
+              [
+                17.270346797932294,
+                62.41240264762651
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1705,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets 6-håls familjebana",
+        "type": "Frisbeegolf",
+        "created": "2020-12-15 11:44:11",
+        "updated": "2024-10-22 18:37:04",
+        "published": true,
+        "childObjects": [
+          3696,
+          3697,
+          3698,
+          3699,
+          3700,
+          3701
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 237,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 238,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 18
+          },
+          {
+            "id": 239,
+            "name": "Längd (m)",
+            "type": "INTEGER",
+            "value": 361
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1979,
+                "filename": "20200701_082047.jpg",
+                "description": "Discgolfbana",
+                "alttext": "Discgolfbana",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3018056,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1979",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1980,
+                "filename": "20200701_082230.jpg",
+                "description": "Märkning mellan hålen",
+                "alttext": "Märkning mellan hålen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5831769,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1980",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1981,
+                "filename": "Discgolfbana Södra Berget.png",
+                "description": "Bankarta",
+                "alttext": "Bankarta",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/png",
+                "size": 1579628,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1981",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1982,
+                "filename": "Informationstavla Webb.pdf",
+                "description": "Bankarta som PDF",
+                "alttext": "Bankarta som PDF",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "application/pdf",
+                "size": 2974008,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1982",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "6-hålsbana med korta och lite enklare hål. Passar för en kort runda eller familjetur."
+          }
+        ],
+        "centerPoint": [
+          17.310879865656894,
+          62.36547133803134
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.310817843971734,
+                62.3664240277284
+              ],
+              [
+                17.310104159892486,
+                62.3660134455407
+              ],
+              [
+                17.310378531839344,
+                62.3659208839636
+              ],
+              [
+                17.30988228918705,
+                62.36573299310395
+              ],
+              [
+                17.309433553260586,
+                62.36559963053068
+              ],
+              [
+                17.309552099993276,
+                62.36538141843088
+              ],
+              [
+                17.309569856998472,
+                62.3651900237846
+              ],
+              [
+                17.309867580749845,
+                62.364978895320164
+              ],
+              [
+                17.309771804655846,
+                62.364789385144555
+              ],
+              [
+                17.309818909220592,
+                62.3646276769745
+              ],
+              [
+                17.310260281597238,
+                62.36452479988859
+              ],
+              [
+                17.310887984086047,
+                62.3645923258624
+              ],
+              [
+                17.3115697727583,
+                62.36487016648579
+              ],
+              [
+                17.311917907097836,
+                62.36496244751986
+              ],
+              [
+                17.312269331276003,
+                62.36509741912728
+              ],
+              [
+                17.312330383290377,
+                62.36539814171518
+              ],
+              [
+                17.31216880770994,
+                62.36568999116585
+              ],
+              [
+                17.312198388386097,
+                62.366003809075664
+              ],
+              [
+                17.311625133820936,
+                62.36622203429012
+              ],
+              [
+                17.31136021602794,
+                62.366226434705325
+              ],
+              [
+                17.310999334439682,
+                62.366250029631225
+              ],
+              [
+                17.3110074588937,
+                62.36642590788521
+              ],
+              [
+                17.310817843971734,
+                62.3664240277284
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1706,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana 18-hål",
+        "type": "Frisbeegolf",
+        "created": "2020-12-15 11:51:07",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "childObjects": [
+          3696,
+          3697,
+          3698,
+          3702,
+          3703,
+          3705,
+          3706,
+          3707,
+          3708,
+          3709,
+          3710,
+          3711,
+          3712,
+          3713,
+          3714,
+          3715,
+          3716,
+          3717
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 237,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 18
+          },
+          {
+            "id": 238,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 58
+          },
+          {
+            "id": 239,
+            "name": "Längd (m)",
+            "type": "INTEGER",
+            "value": 1768
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1985,
+                "filename": "20200701_082047.jpg",
+                "description": "Discgolfbana",
+                "alttext": "Discgolfbana",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3018056,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1985",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1986,
+                "filename": "20200701_082230.jpg",
+                "description": "Markering mellan hålen",
+                "alttext": "Markering mellan hålen",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5831769,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1986",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1987,
+                "filename": "20200701_082039.jpg",
+                "description": "Utkasten är markerade med tvärliggande stock och skylt för hålet",
+                "alttext": "Utkasten är markerade med tvärliggande stock och skylt för hålet",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8190017,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1987",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1983,
+                "filename": "Discgolfbana Södra Berget.png",
+                "description": "Bankarta",
+                "alttext": "Bankarta",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/png",
+                "size": 1579628,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1983",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1984,
+                "filename": "Informationstavla Webb.pdf",
+                "description": "Bankarta som PDF",
+                "alttext": "Bankarta som PDF",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "application/pdf",
+                "size": 2974008,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1984",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2376,
+                "filename": "20220504_134119.jpg",
+                "description": "Utkast",
+                "alttext": "Plattform för utkast",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 6334257,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2376",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Södra Berget bjuder på två olika banor, dels en familjevänlig sexhålsbana med lite enklare hål och dels en 18-hålsbana med riktigt utmanande hål. Bägge banorna går helt och hållet i skogen, och mestadels på hällmarkerna."
+          }
+        ],
+        "centerPoint": [
+          17.303480075066627,
+          62.3637973749152
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.31073655020094,
+                62.36638766052818
+              ],
+              [
+                17.310102036330367,
+                62.36602102421246
+              ],
+              [
+                17.31050558305687,
+                62.36591877452485
+              ],
+              [
+                17.309367518748605,
+                62.36562084219941
+              ],
+              [
+                17.30949803542899,
+                62.36534711310491
+              ],
+              [
+                17.309538190635273,
+                62.36516540462185
+              ],
+              [
+                17.309748641419407,
+                62.36494566695603
+              ],
+              [
+                17.310090770562397,
+                62.36474888773228
+              ],
+              [
+                17.309820447174815,
+                62.36447175410133
+              ],
+              [
+                17.309365941919864,
+                62.36447426882193
+              ],
+              [
+                17.308473536556424,
+                62.3641320211984
+              ],
+              [
+                17.307375340664557,
+                62.3636473412993
+              ],
+              [
+                17.30677990461889,
+                62.36364715560879
+              ],
+              [
+                17.306332376149307,
+                62.363458445181585
+              ],
+              [
+                17.3059002811319,
+                62.3634706352009
+              ],
+              [
+                17.305529572991194,
+                62.36357735661968
+              ],
+              [
+                17.304848009779306,
+                62.363724428839284
+              ],
+              [
+                17.304427917431834,
+                62.36346988179884
+              ],
+              [
+                17.304160681784303,
+                62.363637747585564
+              ],
+              [
+                17.3038930550603,
+                62.3638181916324
+              ],
+              [
+                17.303446078014066,
+                62.36388342416152
+              ],
+              [
+                17.303180427698155,
+                62.363772155888775
+              ],
+              [
+                17.302690981660795,
+                62.36379534297974
+              ],
+              [
+                17.30191515410717,
+                62.364054596946374
+              ],
+              [
+                17.301174200417766,
+                62.364557172780714
+              ],
+              [
+                17.300701916124257,
+                62.364610242465695
+              ],
+              [
+                17.300191287496,
+                62.36437478104181
+              ],
+              [
+                17.299743933511007,
+                62.36369321210679
+              ],
+              [
+                17.299484548213215,
+                62.363345473873906
+              ],
+              [
+                17.299213225303866,
+                62.36291244072012
+              ],
+              [
+                17.298668017727554,
+                62.362861101278085
+              ],
+              [
+                17.297684163548265,
+                62.36280694573058
+              ],
+              [
+                17.296920912068117,
+                62.36245243555262
+              ],
+              [
+                17.295475871699473,
+                62.36188789802961
+              ],
+              [
+                17.294955894331782,
+                62.36159976894125
+              ],
+              [
+                17.295288646959783,
+                62.36135037774194
+              ],
+              [
+                17.296109481772937,
+                62.36146758686949
+              ],
+              [
+                17.29728986854373,
+                62.36140284311156
+              ],
+              [
+                17.29820306657628,
+                62.361312329099036
+              ],
+              [
+                17.299232875605522,
+                62.361189708594296
+              ],
+              [
+                17.30002865630538,
+                62.36119164336642
+              ],
+              [
+                17.300647224507856,
+                62.3611411855875
+              ],
+              [
+                17.302116972114234,
+                62.36110933284638
+              ],
+              [
+                17.300232433025272,
+                62.36152018410893
+              ],
+              [
+                17.300531804999693,
+                62.361754108914496
+              ],
+              [
+                17.30060058286386,
+                62.36229861062172
+              ],
+              [
+                17.301190727355394,
+                62.362512639495975
+              ],
+              [
+                17.302365900872182,
+                62.36259126384158
+              ],
+              [
+                17.30305666998864,
+                62.36270555580583
+              ],
+              [
+                17.30330124607458,
+                62.362930324078356
+              ],
+              [
+                17.30346030560648,
+                62.3630986748728
+              ],
+              [
+                17.303866330056742,
+                62.36309949636721
+              ],
+              [
+                17.304155959701973,
+                62.36292371687158
+              ],
+              [
+                17.30462352565929,
+                62.36297179484202
+              ],
+              [
+                17.304873274224576,
+                62.363009901260874
+              ],
+              [
+                17.305326375941902,
+                62.36293299591743
+              ],
+              [
+                17.30557297126447,
+                62.36284542985248
+              ],
+              [
+                17.305905210761228,
+                62.36274538042199
+              ],
+              [
+                17.306444227207695,
+                62.362571497694816
+              ],
+              [
+                17.307428666388184,
+                62.36265072640602
+              ],
+              [
+                17.308654250809624,
+                62.36268068695675
+              ],
+              [
+                17.309682151586184,
+                62.3630961182055
+              ],
+              [
+                17.310165222469372,
+                62.36332445956345
+              ],
+              [
+                17.310387661516234,
+                62.363682850710525
+              ],
+              [
+                17.310996627374703,
+                62.36385880949828
+              ],
+              [
+                17.311666993377482,
+                62.36398848514259
+              ],
+              [
+                17.311679366934946,
+                62.36414920600503
+              ],
+              [
+                17.311185895288563,
+                62.36448931367811
+              ],
+              [
+                17.31182656146049,
+                62.36479549527196
+              ],
+              [
+                17.31193007716249,
+                62.3650150493063
+              ],
+              [
+                17.31073655020094,
+                62.36638766052818
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3799,
+      "type": "Feature",
+      "properties": {
+        "name": "Nora Discgolfbana",
+        "type": "Frisbeegolf",
+        "created": "2023-10-18 11:28:32",
+        "updated": "2024-03-22 09:47:24",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 237,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 9
+          },
+          {
+            "id": 238,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 28
+          },
+          {
+            "id": 239,
+            "name": "Längd (m)",
+            "type": "INTEGER",
+            "value": 660
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://udisc.com/courses/nora-discgolfbana-tMlM#!"
+          }
+        ],
+        "centerPoint": [
+          16.926339852764077,
+          62.49269235009961
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.92838065716865,
+                62.492561414330574
+              ],
+              [
+                16.92780743839278,
+                62.49277548516485
+              ],
+              [
+                16.92757594381779,
+                62.493231215599444
+              ],
+              [
+                16.926414231101756,
+                62.49342323532902
+              ],
+              [
+                16.92587017511157,
+                62.49341565674315
+              ],
+              [
+                16.925428457129545,
+                62.49280328640056
+              ],
+              [
+                16.92426164325476,
+                62.4922411359433
+              ],
+              [
+                16.92436881755202,
+                62.492048588952066
+              ],
+              [
+                16.926482859611177,
+                62.49195909532274
+              ],
+              [
+                16.927266482693447,
+                62.491973420624895
+              ],
+              [
+                16.928016390378563,
+                62.49213905188556
+              ],
+              [
+                16.92838065716865,
+                62.492561414330574
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 845,
+      "type": "Feature",
+      "properties": {
+        "name": "Sticksjö Discgolfbana",
+        "type": "Frisbeegolf",
+        "created": "2019-10-18 09:26:49",
+        "updated": "2019-10-18 12:13:57",
+        "deleted": "2019-10-29 13:29:57"
+      },
+      "geometry": null
+    }
+  ]
+}

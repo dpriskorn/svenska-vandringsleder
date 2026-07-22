@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 979,
+      "type": "Feature",
+      "properties": {
+        "name": "Friskis och Svettis",
+        "type": "Gym",
+        "created": "2019-10-29 15:53:54",
+        "updated": "2020-06-29 15:26:45",
+        "published": true,
+        "owner": {
+          "organizationID": 273,
+          "name": "Friksis och svettis"
+        },
+        "manager": {
+          "organizationID": 273,
+          "name": "Friksis och svettis"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "e87bae8a-69a2-43b7-be1f-282a4d3b573e"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Motions- och träningsaktiviteter för alla åldrar, medlemskort krävs"
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.friskissvettis.se/sundsvall/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.friskissvettis.se/sundsvall/"
+          }
+        ],
+        "centerPoint": [
+          17.276844722532125,
+          62.391369039659935
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27590389388137,
+                62.39115249148562
+              ],
+              [
+                17.27639449716385,
+                62.391046184583146
+              ],
+              [
+                17.27626782992948,
+                62.39092168060905
+              ],
+              [
+                17.27695286797925,
+                62.39077179151288
+              ],
+              [
+                17.277786277159432,
+                62.39159630224076
+              ],
+              [
+                17.277101262939937,
+                62.39174517112553
+              ],
+              [
+                17.277214805221934,
+                62.391859822344365
+              ],
+              [
+                17.276723811530683,
+                62.39196596776444
+              ],
+              [
+                17.27590389388137,
+                62.39115249148562
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 997,
+      "type": "Feature",
+      "properties": {
+        "name": "EGO City",
+        "type": "Gym",
+        "created": "2019-10-30 16:35:03",
+        "updated": "2019-10-30 16:35:36",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 998,
+      "type": "Feature",
+      "properties": {
+        "name": "EGO Storgatan",
+        "type": "Gym",
+        "created": "2019-10-30 16:38:12",
+        "updated": "2025-01-15 06:00:06",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 999,
+      "type": "Feature",
+      "properties": {
+        "name": "EGO Alnö",
+        "type": "Gym",
+        "created": "2019-10-30 16:40:19",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1000,
+      "type": "Feature",
+      "properties": {
+        "name": "EGO Kvissleby",
+        "type": "Gym",
+        "created": "2019-10-30 16:45:26",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1001,
+      "type": "Feature",
+      "properties": {
+        "name": "EGO CrossFit",
+        "type": "Gym",
+        "created": "2019-10-30 16:47:49",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1156,
+      "type": "Feature",
+      "properties": {
+        "name": "Sporthallsgymmet",
+        "type": "Gym",
+        "created": "2019-11-15 14:47:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1354,
+      "type": "Feature",
+      "properties": {
+        "name": "StarGym",
+        "type": "Gym",
+        "created": "2019-12-05 14:43:08",
+        "updated": "2019-12-05 16:07:24",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1355,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym Norra Kajen",
+        "type": "Gym",
+        "created": "2019-12-05 15:44:35",
+        "updated": "2024-12-14 06:00:14",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1356,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym Sidsjön",
+        "type": "Gym",
+        "created": "2019-12-05 15:46:04",
+        "updated": "2020-04-06 21:46:50",
+        "published": true,
+        "tags": [
+          "gym",
+          "sportsgym"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "06fe9359-26b8-430b-948d-f1495c26f715"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sportsgym Scandinavia är ett företag i friskvårdsbranschen som erbjuder ett modernt träningsutbud. De erbjuder motionsinriktad träning i olika former. Du kan antingen träna individuellt med styrke- och konditionsmaskiner eller i grupp under ledning av en instruktör."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.sportsgym.nu/orter/sundsvall"
+          }
+        ],
+        "centerPoint": [
+          17.285249536499197,
+          62.37843859978308
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.285463349684363,
+                62.3784317054794
+              ],
+              [
+                17.28533822150186,
+                62.378324911318266
+              ],
+              [
+                17.285833158037562,
+                62.37819993495612
+              ],
+              [
+                17.285958217005806,
+                62.37830681962693
+              ],
+              [
+                17.285463349684363,
+                62.3784317054794
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.284982617408367,
+                62.37837244387091
+              ],
+              [
+                17.28497081391317,
+                62.378375421472924
+              ],
+              [
+                17.285109391151202,
+                62.37849375020095
+              ],
+              [
+                17.28471777291659,
+                62.37859262010761
+              ],
+              [
+                17.284530008450982,
+                62.378432325773296
+              ],
+              [
+                17.284933465986594,
+                62.37833046022944
+              ],
+              [
+                17.284982617408367,
+                62.37837244387091
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.285481111469757,
+                62.37842722012423
+              ],
+              [
+                17.285656872744838,
+                62.37857739212141
+              ],
+              [
+                17.28530992478432,
+                62.37866496955727
+              ],
+              [
+                17.28497081391317,
+                62.378375421472924
+              ],
+              [
+                17.285314317818887,
+                62.37828861980623
+              ],
+              [
+                17.285352529704685,
+                62.378321299872596
+              ],
+              [
+                17.28533822150186,
+                62.378324911318266
+              ],
+              [
+                17.285463349684363,
+                62.3784317054794
+              ],
+              [
+                17.285481111469757,
+                62.37842722012423
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1357,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym Bosvedjan",
+        "type": "Gym",
+        "created": "2019-12-05 15:47:22",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1358,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym Skönsberg",
+        "type": "Gym",
+        "created": "2019-12-05 15:53:25",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1359,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym Skönsmon",
+        "type": "Gym",
+        "created": "2019-12-05 16:05:27",
+        "updated": "2021-03-31 06:00:08",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1360,
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsgym City",
+        "type": "Gym",
+        "created": "2019-12-05 16:06:22",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1361,
+      "type": "Feature",
+      "properties": {
+        "name": "Fitness24seven",
+        "type": "Gym",
+        "created": "2019-12-05 16:10:48",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1362,
+      "type": "Feature",
+      "properties": {
+        "name": "Yogastudion",
+        "type": "Gym",
+        "created": "2019-12-05 16:15:20",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1363,
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Yoga",
+        "type": "Gym",
+        "created": "2019-12-05 16:19:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1364,
+      "type": "Feature",
+      "properties": {
+        "name": "Yoga Shala",
+        "type": "Gym",
+        "created": "2019-12-05 16:24:17",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

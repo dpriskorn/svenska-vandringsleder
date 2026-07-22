@@ -1,0 +1,2025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 282,
+      "type": "Feature",
+      "properties": {
+        "name": "Slädaviken",
+        "type": "Livboj",
+        "created": "2018-06-21 14:47:34",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 290,
+      "type": "Feature",
+      "properties": {
+        "name": "Hartungviken",
+        "type": "Livboj",
+        "created": "2018-06-21 15:17:43",
+        "updated": "2019-10-14 13:16:08",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 300,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Hornsjön",
+        "type": "Livboj",
+        "created": "2018-06-26 14:05:37",
+        "updated": "2021-12-17 16:38:39",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 183,
+                "filename": "IMG_1823.JPG",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2429473,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/183",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.211568245858974,
+          62.17499984037832
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.211568245858974,
+          62.17499984037832
+        ]
+      }
+    },
+    {
+      "id": 304,
+      "type": "Feature",
+      "properties": {
+        "name": "Tranviken",
+        "type": "Livboj",
+        "created": "2018-06-26 14:09:49",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 307,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Hornsjön",
+        "type": "Livboj",
+        "created": "2018-06-26 14:14:49",
+        "updated": "2021-12-17 16:43:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 191,
+                "filename": "IMG_1827.JPG",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3447315,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/191",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.211124961801495,
+          62.174775186466746
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.211124961801495,
+          62.174775186466746
+        ]
+      }
+    },
+    {
+      "id": 331,
+      "type": "Feature",
+      "properties": {
+        "name": "Bänkåsviken",
+        "type": "Livboj",
+        "created": "2018-06-26 15:09:09",
+        "updated": "2023-07-03 10:49:43",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 214,
+                "filename": "393EB8D2-D7CD-40C9-AD01-FB4ECF067F4E.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1014774,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/214",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.45332824018184,
+          62.36620851167788
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45332824018184,
+          62.36620851167788
+        ]
+      }
+    },
+    {
+      "id": 341,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Dyket",
+        "type": "Livboj",
+        "created": "2018-06-26 15:25:40",
+        "updated": "2021-12-17 17:01:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 224,
+                "filename": "IMG_1809.JPG",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2615586,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/224",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.395613770886698,
+          62.29737775317943
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.395613770886698,
+          62.29737775317943
+        ]
+      }
+    },
+    {
+      "id": 343,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Dyket",
+        "type": "Livboj",
+        "created": "2018-06-26 15:28:22",
+        "updated": "2021-12-17 17:02:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 226,
+                "filename": "IMG_1812.JPG",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3222807,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/226",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.39493559610295,
+          62.29700018911316
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.39493559610295,
+          62.29700018911316
+        ]
+      }
+    },
+    {
+      "id": 345,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Fläsian",
+        "type": "Livboj",
+        "created": "2018-06-26 15:40:10",
+        "updated": "2023-05-11 07:20:46",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 229,
+                "filename": "28F29317-9205-45BE-8DB4-4A8155446BED.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3142251,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/229",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 230,
+                "filename": "544EF69D-88BA-47B7-BC61-0688C866487C.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2676009,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/230",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 231,
+                "filename": "85327222-87ED-4CB0-BBCF-ACC025E70907.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2587767,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/231",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 232,
+                "filename": "84B0BC97-B375-4C13-B2EC-3F9A88D2A261.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2588585,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/232",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.37120489931522,
+          62.36106679041469
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37120489931522,
+          62.36106679041469
+        ]
+      }
+    },
+    {
+      "id": 358,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Bredsand",
+        "type": "Livboj",
+        "created": "2018-06-26 16:10:10",
+        "updated": "2026-04-07 10:00:03",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 249,
+                "filename": "E6BE1D74-81C9-44A1-9485-237A977A9355.jpeg",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1411894,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/249",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 246,
+                "filename": "7B2330CC-024A-4A35-8571-483F260FD31C.jpeg",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3976071,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/246",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 247,
+                "filename": "2599B20A-2CD6-4CB1-8B5E-B9B692A2E861.jpeg",
+                "description": "Livboj",
+                "alttext": "Livboj ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2776265,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/247",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 248,
+                "filename": "002A8A06-C2AE-4163-AF84-29F3EA6C4748.jpeg",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3128710,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/248",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.366745048126766,
+          62.345977385724325
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.366745048126766,
+          62.345977385724325
+        ]
+      }
+    },
+    {
+      "id": 366,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj  Sodoms strandbad",
+        "type": "Livboj",
+        "created": "2018-06-26 16:16:26",
+        "updated": "2022-01-10 13:35:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 258,
+                "filename": "IMG_1782.JPG",
+                "description": "Livbåt och livboj",
+                "alttext": "Livbåt och livboj",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2692535,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/258",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Livboj"
+          }
+        ],
+        "centerPoint": [
+          17.37303072404388,
+          62.35288050541321
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37303072404388,
+          62.35288050541321
+        ]
+      }
+    },
+    {
+      "id": 415,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Rännö strandbad",
+        "type": "Livboj",
+        "created": "2018-07-02 09:13:19",
+        "updated": "2022-01-10 14:14:16",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 301,
+                "filename": "image.jpg",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Feriearbetare Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4669145,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/301",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.015952058604586,
+          62.343754085369625
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.015952058604586,
+          62.343754085369625
+        ]
+      }
+    },
+    {
+      "id": 417,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Rännö strandbad",
+        "type": "Livboj",
+        "created": "2018-07-02 09:16:05",
+        "updated": "2022-01-10 14:15:59",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 303,
+                "filename": "image.jpg",
+                "description": "Livboj",
+                "alttext": "Livboj",
+                "sourcetext": "Feriearbetare Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5678633,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/303",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Livboj"
+          }
+        ],
+        "centerPoint": [
+          17.01656451812395,
+          62.343442497761885
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01656451812395,
+          62.343442497761885
+        ]
+      }
+    },
+    {
+      "id": 428,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Lucksta",
+        "type": "Livboj",
+        "created": "2018-07-02 09:38:18",
+        "updated": "2020-06-30 10:41:13",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 314,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2619578,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/314",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.052767112660607,
+          62.2979962327854
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052767112660607,
+          62.2979962327854
+        ]
+      }
+    },
+    {
+      "id": 435,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Norrhassels strandbad",
+        "type": "Livboj",
+        "created": "2018-07-02 10:12:18",
+        "updated": "2020-06-30 11:32:47",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 321,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3969462,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/321",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.745923041719017,
+          62.25551305505147
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745923041719017,
+          62.25551305505147
+        ]
+      }
+    },
+    {
+      "id": 449,
+      "type": "Feature",
+      "properties": {
+        "name": "Livboj Viggesjöns strandbad",
+        "type": "Livboj",
+        "created": "2018-07-02 10:48:18",
+        "updated": "2020-06-30 11:31:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 335,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4133472,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/335",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.687559556604004,
+          62.303392901560166
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.687559556604004,
+          62.303392901560166
+        ]
+      }
+    },
+    {
+      "id": 458,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Räveln",
+        "type": "Livboj",
+        "created": "2018-07-02 11:35:00",
+        "updated": "2020-07-08 17:40:24",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 344,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2705470,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/344",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.827068712420687,
+          62.371734710539734
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.827068712420687,
+          62.371734710539734
+        ]
+      }
+    },
+    {
+      "id": 482,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Livboj",
+        "created": "2018-07-03 09:44:22",
+        "updated": "2020-07-07 14:04:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 363,
+                "filename": "58A8DFD0-EFB3-4EF7-A3EE-688CFE05E5EF.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6608898,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/363",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 364,
+                "filename": "3F51EED9-94A4-4628-BE6B-C9422F062F49.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5653459,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/364",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.043935221124244,
+          62.44319343541258
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.043935221124244,
+          62.44319343541258
+        ]
+      }
+    },
+    {
+      "id": 493,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Vången",
+        "type": "Livboj",
+        "created": "2018-07-04 09:30:51",
+        "updated": "2020-07-06 16:25:02",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 378,
+                "filename": "2FE5EF28-83F3-4830-A2D8-3F17F0F53A04.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3901137,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/378",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.576318688312146,
+          62.4155974122062
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.576318688312146,
+          62.4155974122062
+        ]
+      }
+    },
+    {
+      "id": 507,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats Livboj",
+        "type": "Livboj",
+        "created": "2018-07-06 12:50:08",
+        "updated": "2020-09-09 11:37:24",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 392,
+                "filename": "IMG_1856.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2817475,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/392",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.49067782847203,
+          62.418436620856674
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.49067782847203,
+          62.418436620856674
+        ]
+      }
+    },
+    {
+      "id": 512,
+      "type": "Feature",
+      "properties": {
+        "name": "Bodsjön",
+        "type": "Livboj",
+        "created": "2018-07-06 12:59:25",
+        "updated": "2020-07-06 16:55:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 396,
+                "filename": "AC7A0F5D-193C-4F4B-8000-DE45F9FC3D6D.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3049106,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/396",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 397,
+                "filename": "A205D1E7-5020-4C9D-9B76-F92901059BA5.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3907878,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/397",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.484980919424828,
+          62.47387511619467
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.484980919424828,
+          62.47387511619467
+        ]
+      }
+    },
+    {
+      "id": 523,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Pallviken",
+        "type": "Livboj",
+        "created": "2018-07-06 13:07:29",
+        "updated": "2020-07-07 20:08:24",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 409,
+                "filename": "IMG_1878.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3431877,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/409",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.148745267493343,
+          62.3093243600118
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.148745267493343,
+          62.3093243600118
+        ]
+      }
+    },
+    {
+      "id": 534,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Östtjärn livboj",
+        "type": "Livboj",
+        "created": "2018-07-06 13:24:32",
+        "updated": "2026-06-22 08:44:21",
+        "published": true,
+        "parentObjects": [
+          526
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 420,
+                "filename": "2185933A-7919-4D4D-B0F8-AECED7DDA5F9.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3582912,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/420",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26886681066092,
+          62.327779491970794
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26886681066092,
+          62.327779491970794
+        ]
+      }
+    },
+    {
+      "id": 571,
+      "type": "Feature",
+      "properties": {
+        "name": "Havstoviken livboj",
+        "type": "Livboj",
+        "created": "2018-08-06 15:10:05",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 709,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjön sydväst",
+        "type": "Livboj",
+        "created": "2019-05-07 07:30:58",
+        "updated": "2023-05-09 17:02:27",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-05-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 500,
+                "filename": "15572070174721731709778935015208.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4953705,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/500",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.269813954724423,
+          62.36953515081451
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269813954724423,
+          62.36953515081451
+        ]
+      }
+    },
+    {
+      "id": 349,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Livboj",
+        "created": "2018-06-26 15:47:10",
+        "deleted": "2018-06-26 16:04:32"
+      },
+      "geometry": null
+    },
+    {
+      "id": 352,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Livboj",
+        "created": "2018-06-26 15:50:58",
+        "deleted": "2018-06-26 16:03:49"
+      },
+      "geometry": null
+    }
+  ]
+}

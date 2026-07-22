@@ -1,0 +1,4897 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 115,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget sopkärl Raststugan",
+        "type": "Soptunna",
+        "created": "2018-06-18 10:00:41",
+        "updated": "2021-12-14 08:42:35",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 240 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 18,
+                "filename": "image.jpg",
+                "description": "Sopkärl",
+                "alttext": "Sopkärl",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3274839,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/18",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 19,
+                "filename": "image.jpg",
+                "description": "Sopkärl",
+                "alttext": "Sopkärl",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2699672,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/19",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.310464130871413,
+          62.36673918111893
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.310464130871413,
+          62.36673918111893
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "type": "Feature",
+      "properties": {
+        "name": "Återvinning södra berget",
+        "type": "Soptunna",
+        "created": "2018-06-18 10:04:19",
+        "updated": "2021-12-14 08:56:31",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 20,
+                "filename": "image.jpg",
+                "description": "Sopkärl",
+                "alttext": "Sopkärl",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2812061,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/20",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.310418654696964,
+          62.36675602874215
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.310418654696964,
+          62.36675602874215
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Grillrotundan",
+        "type": "Soptunna",
+        "created": "2018-06-18 10:20:27",
+        "updated": "2021-05-28 08:29:58",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 22,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5559834,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/22",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.30907348533056,
+          62.36684137798295
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30907348533056,
+          62.36684137798295
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Södra berget Mullekojorna",
+        "type": "Soptunna",
+        "created": "2018-06-18 10:39:41",
+        "updated": "2022-08-31 09:29:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig trä med tak (Norra berget)"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2343,
+                "filename": "20210519_080627.jpg",
+                "description": "Papperskorg",
+                "alttext": "Papperskorg",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7891047,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2343",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.303663869962648,
+          62.36600464393859
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.303663869962648,
+          62.36600464393859
+        ]
+      }
+    },
+    {
+      "id": 132,
+      "type": "Feature",
+      "properties": {
+        "name": "Hundlatrin Södra berget Kallaspåret",
+        "type": "Soptunna",
+        "created": "2018-06-18 10:47:24",
+        "updated": "2021-05-28 08:16:53",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Hundlatrin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 37,
+                "filename": "image.jpg",
+                "description": "Hundlatrin",
+                "alttext": "Hundlatrin",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4502746,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/37",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.303009906649883,
+          62.36565418980411
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.303009906649883,
+          62.36565418980411
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "type": "Feature",
+      "properties": {
+        "name": "Grillplats utsikten",
+        "type": "Soptunna",
+        "created": "2018-06-18 11:20:52",
+        "updated": "2025-02-17 10:51:01",
+        "published": true,
+        "parentObjects": [
+          3090
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall grön"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 46,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Friluftsenheten Feriearbetare",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4626204,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/46",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.307521859092148,
+          62.36851217223541
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.307521859092148,
+          62.36851217223541
+        ]
+      }
+    },
+    {
+      "id": 178,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Sidsjöbackens fot",
+        "type": "Soptunna",
+        "created": "2018-06-19 13:34:04",
+        "updated": "2021-12-14 09:41:28",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 77,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4943285,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/77",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27868537434869,
+          62.37062064688306
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27868537434869,
+          62.37062064688306
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "type": "Feature",
+      "properties": {
+        "name": "Hundlatrin Sidsjöns västra sida",
+        "type": "Soptunna",
+        "created": "2018-06-19 14:52:33",
+        "updated": "2021-12-14 09:59:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Hundlatrin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 98,
+                "filename": "image.jpg",
+                "description": "Hundlatrin",
+                "alttext": "Hundlatrin",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3691968,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/98",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27265913064555,
+          62.37414619016865
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27265913064555,
+          62.37414619016865
+        ]
+      }
+    },
+    {
+      "id": 208,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Soptunna",
+        "created": "2018-06-19 14:59:51",
+        "updated": "2026-03-23 14:39:55",
+        "published": true,
+        "parentObjects": [
+          4249
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 105,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5298661,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/105",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27445606197052,
+          62.37482858857093
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27445606197052,
+          62.37482858857093
+        ]
+      }
+    },
+    {
+      "id": 215,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Soptunna",
+        "created": "2018-06-19 15:10:52",
+        "updated": "2023-05-09 17:05:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2017
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 111,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6125900,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/111",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.274695445591128,
+          62.37753553879546
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.274695445591128,
+          62.37753553879546
+        ]
+      }
+    },
+    {
+      "id": 218,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Sidsjöbackens parkering",
+        "type": "Soptunna",
+        "created": "2018-06-20 08:46:53",
+        "updated": "2021-12-14 10:07:15",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 113,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5370602,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/113",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.271565346629068,
+          62.36780500803906
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.271565346629068,
+          62.36780500803906
+        ]
+      }
+    },
+    {
+      "id": 245,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Shreddwood",
+        "type": "Soptunna",
+        "created": "2018-06-20 13:39:23",
+        "updated": "2021-12-17 16:12:26",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Hundlatrin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 133,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2825328,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/133",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.28524505306763,
+          62.36755670560267
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28524505306763,
+          62.36755670560267
+        ]
+      }
+    },
+    {
+      "id": 280,
+      "type": "Feature",
+      "properties": {
+        "name": "Slädaviken",
+        "type": "Soptunna",
+        "created": "2018-06-21 14:44:55",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 291,
+      "type": "Feature",
+      "properties": {
+        "name": "Hartungviken",
+        "type": "Soptunna",
+        "created": "2018-06-21 15:18:32",
+        "updated": "2019-10-14 13:15:41",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 297,
+      "type": "Feature",
+      "properties": {
+        "name": "Hornsjön",
+        "type": "Soptunna",
+        "created": "2018-06-26 14:02:09",
+        "updated": "2020-04-06 15:34:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 301,
+      "type": "Feature",
+      "properties": {
+        "name": "Tranviken",
+        "type": "Soptunna",
+        "created": "2018-06-26 14:06:23",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 321,
+      "type": "Feature",
+      "properties": {
+        "name": "Bänkåsviken soptunnor",
+        "type": "Soptunna",
+        "created": "2018-06-26 14:48:35",
+        "updated": "2023-07-03 11:15:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2537,
+                "filename": "20230703_103945.jpg",
+                "description": "Tre soptunnor",
+                "alttext": "Tre soptunnor",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5770038,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2537",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "3 st soptunnor"
+          }
+        ],
+        "centerPoint": [
+          17.45322247329792,
+          62.36677546896921
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45322247329792,
+          62.36677546896921
+        ]
+      }
+    },
+    {
+      "id": 334,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Dyket",
+        "type": "Soptunna",
+        "created": "2018-06-26 15:12:10",
+        "updated": "2026-06-22 08:30:57",
+        "published": true,
+        "parentObjects": [
+          1380
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 217,
+                "filename": "IMG_1801.JPG",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3327561,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/217",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.395272648500658,
+          62.29751211909604
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.395272648500658,
+          62.29751211909604
+        ]
+      }
+    },
+    {
+      "id": 338,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Dyket",
+        "type": "Soptunna",
+        "created": "2018-06-26 15:20:05",
+        "updated": "2026-06-22 08:30:57",
+        "published": true,
+        "parentObjects": [
+          1380
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 221,
+                "filename": "IMG_1801.JPG",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3327561,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/221",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.395639482706777,
+          62.29744295121199
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.395639482706777,
+          62.29744295121199
+        ]
+      }
+    },
+    {
+      "id": 347,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Fläsian",
+        "type": "Soptunna",
+        "created": "2018-06-26 15:42:17",
+        "updated": "2026-04-07 09:55:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 233,
+                "filename": "CF5226CE-7696-4AEB-A833-1C4084CB6121.jpeg",
+                "description": "Sopkärl",
+                "alttext": "Sopkärl",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3631911,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/233",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 234,
+                "filename": "D5BC69FD-646C-4599-86E1-74711C3E6F79.jpeg",
+                "description": "Sopkärl",
+                "alttext": "Sopkärl",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3086756,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/234",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.371267208937095,
+          62.361002002950606
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.371267208937095,
+          62.361002002950606
+        ]
+      }
+    },
+    {
+      "id": 362,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunnor Bredsand",
+        "type": "Soptunna",
+        "created": "2018-06-26 16:13:29",
+        "updated": "2026-04-07 09:57:32",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 254,
+                "filename": "EB9BDB00-539E-47C2-A91C-170BB7424292.jpeg",
+                "description": "Soptunnor",
+                "alttext": "Soptunnor",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3763929,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/254",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.366868283886763,
+          62.34633019760222
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.366868283886763,
+          62.34633019760222
+        ]
+      }
+    },
+    {
+      "id": 363,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Soptunna",
+        "created": "2018-06-26 16:14:30",
+        "updated": "2022-01-10 13:33:18",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 255,
+                "filename": "IMG_1780.JPG",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3610347,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/255",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.373017094008127,
+          62.35271070462491
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.373017094008127,
+          62.35271070462491
+        ]
+      }
+    },
+    {
+      "id": 420,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Rännö strandbad",
+        "type": "Soptunna",
+        "created": "2018-07-02 09:20:00",
+        "updated": "2025-09-22 10:36:54",
+        "published": true,
+        "parentObjects": [
+          697
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 306,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Feriearbetare Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6812386,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/306",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.015940711258267,
+          62.34375424982335
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.015940711258267,
+          62.34375424982335
+        ]
+      }
+    },
+    {
+      "id": 422,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Lucksta",
+        "type": "Soptunna",
+        "created": "2018-07-02 09:32:38",
+        "updated": "2022-01-10 14:24:34",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 308,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Feriearbetare Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5336290,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/308",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.05252295487857,
+          62.298528640260685
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05252295487857,
+          62.298528640260685
+        ]
+      }
+    },
+    {
+      "id": 432,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Norrhassels strandbad",
+        "type": "Soptunna",
+        "created": "2018-07-02 10:10:04",
+        "updated": "2020-06-30 11:32:31",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 318,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4140922,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/318",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.745380664450867,
+          62.255569437376856
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745380664450867,
+          62.255569437376856
+        ]
+      }
+    },
+    {
+      "id": 434,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Norrhassels strandbad",
+        "type": "Soptunna",
+        "created": "2018-07-02 10:11:46",
+        "updated": "2020-06-30 11:32:39",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 240 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 320,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3304684,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/320",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.74552609383631,
+          62.255539918783434
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.74552609383631,
+          62.255539918783434
+        ]
+      }
+    },
+    {
+      "id": 443,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Viggesjöns strandbad",
+        "type": "Soptunna",
+        "created": "2018-07-02 10:42:47",
+        "updated": "2020-06-30 11:28:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 329,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3664094,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/329",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.687672671049256,
+          62.30340122471371
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.687672671049256,
+          62.30340122471371
+        ]
+      }
+    },
+    {
+      "id": 453,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Viggesjöns strandbad",
+        "type": "Soptunna",
+        "created": "2018-07-02 10:51:50",
+        "updated": "2020-06-30 11:31:57",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 340,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6334492,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/340",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.688499520310884,
+          62.30338274204841
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.688499520310884,
+          62.30338274204841
+        ]
+      }
+    },
+    {
+      "id": 470,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Soptunna",
+        "created": "2018-07-03 09:29:24",
+        "updated": "2020-07-07 14:16:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 240 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 355,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5396452,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/355",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.044063710865757,
+          62.44333803969256
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.044063710865757,
+          62.44333803969256
+        ]
+      }
+    },
+    {
+      "id": 487,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Vången",
+        "type": "Soptunna",
+        "created": "2018-07-04 09:24:23",
+        "updated": "2025-09-22 10:39:08",
+        "published": true,
+        "parentObjects": [
+          699
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 372,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3632303,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/372",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.57663355087186,
+          62.415771746225296
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.57663355087186,
+          62.415771746225296
+        ]
+      }
+    },
+    {
+      "id": 517,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Pallviken",
+        "type": "Soptunna",
+        "created": "2018-07-06 13:02:55",
+        "updated": "2020-07-07 20:09:43",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 403,
+                "filename": "IMG_1871.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2628694,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/403",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.14874076451722,
+          62.309216506438474
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.14874076451722,
+          62.309216506438474
+        ]
+      }
+    },
+    {
+      "id": 547,
+      "type": "Feature",
+      "properties": {
+        "name": "Viforsen",
+        "type": "Soptunna",
+        "created": "2018-07-30 15:41:37",
+        "updated": "2025-07-16 13:43:01",
+        "published": true,
+        "parentObjects": [
+          4140
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-30"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.180365777127307,
+          62.30660237703541
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.180365777127307,
+          62.30660237703541
+        ]
+      }
+    },
+    {
+      "id": 554,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbyströmmen",
+        "type": "Soptunna",
+        "created": "2018-07-31 14:58:38",
+        "updated": "2025-07-16 13:44:28",
+        "published": true,
+        "parentObjects": [
+          1872
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-31"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.32156211465002,
+          62.29644514283705
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32156211465002,
+          62.29644514283705
+        ]
+      }
+    },
+    {
+      "id": 557,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbyströmmen Södra",
+        "type": "Soptunna",
+        "created": "2018-07-31 15:04:45",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 738,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Grenforsen Notstuga 1",
+        "type": "Soptunna",
+        "created": "2019-09-30 15:48:36",
+        "updated": "2021-05-28 08:08:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-28"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.221896016002887,
+          62.30420572638199
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.221896016002887,
+          62.30420572638199
+        ]
+      }
+    },
+    {
+      "id": 739,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Grenforsen Notstuga 2",
+        "type": "Soptunna",
+        "created": "2019-09-30 15:52:22",
+        "updated": "2021-05-28 08:09:07",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-28"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna"
+          }
+        ],
+        "centerPoint": [
+          17.22191717422873,
+          62.3042160607758
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.22191717422873,
+          62.3042160607758
+        ]
+      }
+    },
+    {
+      "id": 743,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Grenforsen Vindskydd",
+        "type": "Soptunna",
+        "created": "2019-09-30 18:18:34",
+        "updated": "2025-07-16 13:43:40",
+        "published": true,
+        "parentObjects": [
+          4138
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-09-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 520,
+                "filename": "20190930_181343.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5648425,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/520",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.22309251532669,
+          62.305238912414595
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.22309251532669,
+          62.305238912414595
+        ]
+      }
+    },
+    {
+      "id": 1614,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Pallviken",
+        "type": "Soptunna",
+        "created": "2020-07-07 20:51:58",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Plasttunna 120 liter"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-07-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1545,
+                "filename": "20200707_202734.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8156683,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1545",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.14868468313791,
+          62.30906018606912
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.14868468313791,
+          62.30906018606912
+        ]
+      }
+    },
+    {
+      "id": 1697,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Hinderbana Hillstamon",
+        "type": "Soptunna",
+        "created": "2020-11-06 14:13:16",
+        "updated": "2024-10-22 18:34:15",
+        "published": true,
+        "parentObjects": [
+          1719
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna vid Hillstamons hinderbana"
+          }
+        ],
+        "centerPoint": [
+          17.33263878113689,
+          62.37165672781952
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.33263878113689,
+          62.37165672781952
+        ]
+      }
+    },
+    {
+      "id": 1743,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Viforsen",
+        "type": "Soptunna",
+        "created": "2020-12-17 12:13:13",
+        "updated": "2025-07-16 13:43:01",
+        "published": true,
+        "parentObjects": [
+          4140
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna"
+          }
+        ],
+        "centerPoint": [
+          17.18049006858842,
+          62.306515513171334
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.18049006858842,
+          62.306515513171334
+        ]
+      }
+    },
+    {
+      "id": 1752,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Västloning",
+        "type": "Soptunna",
+        "created": "2020-12-17 15:58:39",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2037,
+                "filename": "20160808_081820.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8151139,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2037",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sopkorg"
+          }
+        ],
+        "centerPoint": [
+          16.987280571252466,
+          62.61812271867144
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.987280571252466,
+          62.61812271867144
+        ]
+      }
+    },
+    {
+      "id": 1753,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna",
+        "type": "Soptunna",
+        "created": "2020-12-17 15:59:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2038,
+                "filename": "20160808_081820.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8151139,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2038",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna"
+          }
+        ],
+        "centerPoint": [
+          16.987260528028422,
+          62.61812501436966
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.987260528028422,
+          62.61812501436966
+        ]
+      }
+    },
+    {
+      "id": 2813,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna discgolf 5b",
+        "type": "Soptunna",
+        "created": "2021-09-29 08:11:14",
+        "updated": "2022-01-10 16:57:12",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-09-29"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2224,
+                "filename": "20210929_080743.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7939661,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2224",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.311741637889433,
+          62.365011294495645
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.311741637889433,
+          62.365011294495645
+        ]
+      }
+    },
+    {
+      "id": 2814,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna discgolf 3",
+        "type": "Soptunna",
+        "created": "2021-09-29 08:13:23",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-09-29"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.309274791397492,
+          62.36455057212645
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.309274791397492,
+          62.36455057212645
+        ]
+      }
+    },
+    {
+      "id": 2819,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Spårstart Ängen",
+        "type": "Soptunna",
+        "created": "2021-09-30 09:46:21",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig trä med tak (Norra berget)"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-09-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2232,
+                "filename": "20210929_110215.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6088801,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2232",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.308905979070904,
+          62.366468334511076
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.308905979070904,
+          62.366468334511076
+        ]
+      }
+    },
+    {
+      "id": 3338,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Stocken",
+        "type": "Soptunna",
+        "created": "2022-09-20 10:04:02",
+        "updated": "2025-07-16 13:44:05",
+        "published": true,
+        "parentObjects": [
+          4137
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall grön"
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 14
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2390,
+                "filename": "16636609942271996640189434627098.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5514133,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2390",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.244960934845803,
+          62.306438079770984
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.244960934845803,
+          62.306438079770984
+        ]
+      }
+    },
+    {
+      "id": 3626,
+      "type": "Feature",
+      "properties": {
+        "name": "Långliden soptunna",
+        "type": "Soptunna",
+        "created": "2023-05-11 14:30:54",
+        "updated": "2026-04-01 22:24:53",
+        "published": true,
+        "parentObjects": [
+          4454
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall grön"
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2508,
+                "filename": "20160808_104359.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "F",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3886177,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2508",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tömning under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          16.67198780165039,
+          62.9118173385553
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67198780165039,
+          62.9118173385553
+        ]
+      }
+    },
+    {
+      "id": 3631,
+      "type": "Feature",
+      "properties": {
+        "name": "Boda såg Soptunna",
+        "type": "Soptunna",
+        "created": "2023-05-11 14:39:37",
+        "updated": "2026-04-01 22:29:18",
+        "published": true,
+        "parentObjects": [
+          4453
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2511,
+                "filename": "20160808_095858.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3811030,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2511",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tömning under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          16.640282621977818,
+          62.87710420203753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.640282621977818,
+          62.87710420203753
+        ]
+      }
+    },
+    {
+      "id": 3635,
+      "type": "Feature",
+      "properties": {
+        "name": "Järkvissle Soptunnor",
+        "type": "Soptunna",
+        "created": "2023-05-11 14:48:35",
+        "updated": "2026-04-01 22:10:13",
+        "published": true,
+        "parentObjects": [
+          4450
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2515,
+                "filename": "20160808_092527.jpg",
+                "description": "Soptunnor",
+                "alttext": "Soptunnor",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7153359,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2515",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "2 st soptunnor. Tillsyn veckovis under sommarsäsongen."
+          }
+        ],
+        "centerPoint": [
+          16.664720828088587,
+          62.79242979114527
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.664720828088587,
+          62.79242979114527
+        ]
+      }
+    },
+    {
+      "id": 3639,
+      "type": "Feature",
+      "properties": {
+        "name": "Klubbänget Soptunna",
+        "type": "Soptunna",
+        "created": "2023-05-11 14:53:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.684198519857272,
+          62.79018668367324
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.684198519857272,
+          62.79018668367324
+        ]
+      }
+    },
+    {
+      "id": 3645,
+      "type": "Feature",
+      "properties": {
+        "name": "Nilsböle Soptunna",
+        "type": "Soptunna",
+        "created": "2023-05-11 15:04:33",
+        "updated": "2026-04-01 22:35:48",
+        "published": true,
+        "parentObjects": [
+          4455
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 92,
+            "name": "Tömningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2520,
+                "filename": "20160808_083149.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6228318,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2520",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Veckovis tillsyn under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          16.8877297740459,
+          62.6506180099307
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8877297740459,
+          62.6506180099307
+        ]
+      }
+    },
+    {
+      "id": 3658,
+      "type": "Feature",
+      "properties": {
+        "name": "Sopcontainer Tranviken",
+        "type": "Soptunna",
+        "created": "2023-07-12 14:38:30",
+        "updated": "2023-07-13 14:37:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Sopcontainer"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sopcontainer från Ragnsells med lås"
+          }
+        ],
+        "centerPoint": [
+          17.512185151231925,
+          62.363765302922275
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.512185151231925,
+          62.363765302922275
+        ]
+      }
+    },
+    {
+      "id": 3659,
+      "type": "Feature",
+      "properties": {
+        "name": "Sopcontainer Släda",
+        "type": "Soptunna",
+        "created": "2023-07-12 14:39:37",
+        "updated": "2023-07-13 14:37:24",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Sopcontainer"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sopcontainer från Ragnsells med lås"
+          }
+        ],
+        "centerPoint": [
+          17.47267548094653,
+          62.43511990110578
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.47267548094653,
+          62.43511990110578
+        ]
+      }
+    },
+    {
+      "id": 4227,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna Dingersjö",
+        "type": "Soptunna",
+        "created": "2026-01-13 11:44:27",
+        "updated": "2026-01-13 11:53:07",
+        "published": true,
+        "parentObjects": [
+          4230
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall galvad"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2784,
+                "filename": "20170511_091332.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna i metall",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9058758,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2784",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.3814575571022,
+          62.2718271818227
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3814575571022,
+          62.2718271818227
+        ]
+      }
+    },
+    {
+      "id": 4412,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna",
+        "type": "Soptunna",
+        "created": "2026-03-13 08:27:54",
+        "updated": "2026-04-07 09:37:35",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2858,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna med trä kropp och grönt plåtlock",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4658726,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2858",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna vid sidsjön"
+          }
+        ],
+        "centerPoint": [
+          17.27906024245625,
+          62.371296735880925
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27906024245625,
+          62.371296735880925
+        ]
+      }
+    },
+    {
+      "id": 4413,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna 2",
+        "type": "Soptunna",
+        "created": "2026-03-13 08:33:43",
+        "updated": "2026-04-07 09:37:04",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2859,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna med trä kropp och grön plåt lock",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4071423,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2859",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna vid utegymmet"
+          }
+        ],
+        "centerPoint": [
+          17.282914849672462,
+          62.373245498084415
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.282914849672462,
+          62.373245498084415
+        ]
+      }
+    },
+    {
+      "id": 4414,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna hospice",
+        "type": "Soptunna",
+        "created": "2026-03-13 08:45:05",
+        "updated": "2026-04-07 09:38:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig metall grön"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2862,
+                "filename": "image.jpg",
+                "description": "Soptunna vid hospice",
+                "alttext": "Grön plåtsoptunna ",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4973732,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2862",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna vid hospice "
+          }
+        ],
+        "centerPoint": [
+          17.28066615208792,
+          62.37545866643332
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28066615208792,
+          62.37545866643332
+        ]
+      }
+    },
+    {
+      "id": 4416,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna",
+        "type": "Soptunna",
+        "created": "2026-03-13 09:28:04",
+        "updated": "2026-04-07 09:48:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 91,
+            "name": "Typ av soptunna",
+            "type": "DROPDOWN",
+            "value": "Fyrkantig träklädd grönt lock"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2877,
+                "filename": "image.jpg",
+                "description": "Soptunna",
+                "alttext": "Soptunna med trä kropp och lock i grön plåt",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6164293,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2877",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Soptunna vid sidsjön"
+          }
+        ],
+        "centerPoint": [
+          17.27159072995512,
+          62.37339153136878
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27159072995512,
+          62.37339153136878
+        ]
+      }
+    },
+    {
+      "id": 539,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Soptunna",
+        "created": "2018-07-30 08:56:52",
+        "deleted": "2018-07-30 08:57:03"
+      },
+      "geometry": null
+    },
+    {
+      "id": 106,
+      "type": "Feature",
+      "properties": {
+        "name": "Soptunna södraberget infart",
+        "type": "Soptunna",
+        "created": "2018-06-18 09:02:14",
+        "deleted": "2019-10-29 16:04:03"
+      },
+      "geometry": null
+    },
+    {
+      "id": 621,
+      "type": "Feature",
+      "properties": {
+        "name": "Storåtjärn soptunna",
+        "type": "Soptunna",
+        "created": "2018-08-13 15:08:44",
+        "updated": "2020-03-25 10:50:26",
+        "deleted": "2020-03-25 10:50:42"
+      },
+      "geometry": null
+    },
+    {
+      "id": 112,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget infart",
+        "type": "Soptunna",
+        "created": "2018-06-18 09:30:39",
+        "deleted": "2020-03-25 08:58:52"
+      },
+      "geometry": null
+    },
+    {
+      "id": 626,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Soptunna",
+        "created": "2018-08-14 12:40:37",
+        "deleted": "2018-08-14 12:41:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 648,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Soptunna",
+        "created": "2018-12-12 15:03:40",
+        "deleted": "2019-05-15 14:59:04"
+      },
+      "geometry": null
+    },
+    {
+      "id": 137,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget jättekåtan",
+        "type": "Soptunna",
+        "created": "2018-06-18 11:00:44",
+        "deleted": "2021-05-28 08:14:09"
+      },
+      "geometry": null
+    },
+    {
+      "id": 188,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö pulkabacke",
+        "type": "Soptunna",
+        "created": "2018-06-19 13:55:58",
+        "updated": "2021-08-27 08:37:00",
+        "deleted": "2021-12-14 09:52:33"
+      },
+      "geometry": null
+    },
+    {
+      "id": 204,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Soptunna",
+        "created": "2018-06-19 14:56:53",
+        "deleted": "2023-05-09 17:04:14"
+      },
+      "geometry": null
+    },
+    {
+      "id": 212,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Soptunna",
+        "created": "2018-06-19 15:07:22",
+        "deleted": "2023-05-09 16:57:46"
+      },
+      "geometry": null
+    },
+    {
+      "id": 221,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö skidlek",
+        "type": "Soptunna",
+        "created": "2018-06-20 08:51:18",
+        "updated": "2019-05-08 09:05:12",
+        "deleted": "2023-05-09 17:03:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 351,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Soptunna",
+        "created": "2018-06-26 15:48:54",
+        "deleted": "2018-06-26 16:04:11"
+      },
+      "geometry": null
+    },
+    {
+      "id": 355,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Soptunna",
+        "created": "2018-06-26 15:56:58",
+        "deleted": "2018-06-26 16:03:02"
+      },
+      "geometry": null
+    },
+    {
+      "id": 369,
+      "type": "Feature",
+      "properties": {
+        "name": "Test Hornsjhön",
+        "type": "Soptunna",
+        "created": "2018-06-26 16:33:02",
+        "deleted": "2018-06-26 16:40:51"
+      },
+      "geometry": null
+    }
+  ]
+}

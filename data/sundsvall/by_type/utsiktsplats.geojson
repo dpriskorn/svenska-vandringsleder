@@ -1,0 +1,4410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 373,
+      "type": "Feature",
+      "properties": {
+        "name": "Norra Bergets utsiktsplats",
+        "type": "Utsiktsplats",
+        "created": "2018-06-27 09:29:59",
+        "updated": "2022-03-08 15:35:31",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 140
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2300,
+                "filename": "Utsikt över Sundsvallsbukten och Sundsvallsbron - webb (552138).jpg",
+                "description": "Utsikt över Sundsvallsbukten och Sundsvallsbron",
+                "alttext": "Utsikt över Sundsvallsbukten och Sundsvallsbron",
+                "sourcetext": "Fotograf: Evelina Ytterbom",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 156584,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2300"
+              },
+              {
+                "id": 2298,
+                "filename": "Utsikt från Norra Berget - webb (552137).jpg",
+                "description": "Utsikt från Norra berget",
+                "alttext": "Utsikt från Norra berget",
+                "sourcetext": "Fotograf: Evelina Ytterbom",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 204581,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2298"
+              },
+              {
+                "id": 2299,
+                "filename": "Utsikt från Norra berget under fikapaus - webb (554990).jpg",
+                "description": "Utsikt från Norra berget under fikapaus",
+                "alttext": "Utsikt från Norra berget under fikapaus",
+                "sourcetext": "Fotograf: Evelina Ytterbom",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 194990,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2299"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikten över staden från Norra Berget. Utsiktsplatsen är lättillgänglig och asfalterad. Den nås även genom Krönstigen som löper längs med bergskrönet österut."
+          }
+        ],
+        "centerPoint": [
+          17.2944983369268,
+          62.39843805310995
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.294111780667823,
+                62.39850513604224
+              ],
+              [
+                17.294132226083292,
+                62.39843238317551
+              ],
+              [
+                17.294264551253924,
+                62.3983939953193
+              ],
+              [
+                17.294416163565685,
+                62.39838103753141
+              ],
+              [
+                17.294699076550963,
+                62.39840695199919
+              ],
+              [
+                17.294889520001913,
+                62.398425538810066
+              ],
+              [
+                17.294888885538242,
+                62.39846256192581
+              ],
+              [
+                17.294111780667823,
+                62.39850513604224
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 572,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats spikarna",
+        "type": "Utsiktsplats",
+        "created": "2018-08-07 09:22:18",
+        "updated": "2020-12-16 17:33:09",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 438,
+                "filename": "image.jpg",
+                "description": "Utsikt mot Bottenviken",
+                "alttext": "Utsikt mot Bottenviken",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2212524,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/438",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsikt mot Bottenviken"
+          }
+        ],
+        "centerPoint": [
+          17.53480760093211,
+          62.36148242459029
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.53450292041471,
+                62.36177804141788
+              ],
+              [
+                17.53467409289275,
+                62.361189498026796
+              ],
+              [
+                17.53511130029039,
+                62.36118756743954
+              ],
+              [
+                17.53502474761446,
+                62.361752440153495
+              ],
+              [
+                17.53450292041471,
+                62.36177804141788
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 582,
+      "type": "Feature",
+      "properties": {
+        "name": "Vattentornsberget",
+        "type": "Utsiktsplats",
+        "created": "2018-08-07 13:56:14",
+        "updated": "2023-06-27 14:37:52",
+        "published": true,
+        "owner": {
+          "organizationID": 291,
+          "name": "Skönsbergsspårets ekonomiska förening"
+        },
+        "manager": {
+          "organizationID": 291,
+          "name": "Skönsbergsspårets ekonomiska förening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 100
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2533,
+                "filename": "20230627_143224.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6359344,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2533",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2532,
+                "filename": "20230627_143148.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 8240893,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2532",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 445,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 1991856,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/445",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.3585999589537,
+          62.40201000902539
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.358441635903954,
+                62.40206591538071
+              ],
+              [
+                17.358704988827615,
+                62.40197092585919
+              ],
+              [
+                17.358787299475722,
+                62.40211247382845
+              ],
+              [
+                17.358632644081826,
+                62.40213224610911
+              ],
+              [
+                17.358441635903954,
+                62.40206591538071
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 596,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats klockarberget",
+        "type": "Utsiktsplats",
+        "created": "2018-08-09 09:44:37",
+        "updated": "2020-10-21 15:35:18",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 100
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 454,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1688169,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/454",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fin utsikt över Njurunda"
+          }
+        ],
+        "centerPoint": [
+          17.3615464463069,
+          62.27672663258305
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.36126849874803,
+                62.27685700249659
+              ],
+              [
+                17.361114004301626,
+                62.27655353692948
+              ],
+              [
+                17.36195789444063,
+                62.27661432646983
+              ],
+              [
+                17.361774467794966,
+                62.27691027896789
+              ],
+              [
+                17.36126849874803,
+                62.27685700249659
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 597,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats Nolbykullen",
+        "type": "Utsiktsplats",
+        "created": "2018-08-09 10:27:38",
+        "updated": "2026-06-22 09:37:12",
+        "published": true,
+        "parentObjects": [
+          3936
+        ],
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 179
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 455,
+                "filename": "image.jpg",
+                "description": "Utsikt från Nolbykullens topp",
+                "alttext": "Utsikt från Nolbykullens topp",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1861398,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/455",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2132,
+                "filename": "20200825_111807.jpg",
+                "description": "Utsikt söderut mot Hälsingland",
+                "alttext": "Utsikt söderut mot Hälsingland",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 6459880,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2132",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2133,
+                "filename": "20200825_111826.jpg",
+                "description": "Utsikt västerut mot Nolbyströmmen i Ljungan",
+                "alttext": "Utsikt västerut mot Nolbyströmmen i Ljungan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2982705,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2133",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fantastisk panoramautsikt på Nolbykullens topp. Här är det fri sikt mot alla väderstreck. Det finns tre vägar att ta sig hit. Enklast är att följa grusvägen i slalombacken. Men trevligare och vackrare är någon av de två stigarna med orange markering från antingen Bergfotsstugan vid Fiskdammen eller från Hemmanet. Ta det försiktigt på vägen ner!"
+          }
+        ],
+        "centerPoint": [
+          17.364127254545657,
+          62.29979932733845
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.363887563425788,
+                62.299940153990214
+              ],
+              [
+                17.36397773999909,
+                62.29960267597514
+              ],
+              [
+                17.3640407649585,
+                62.29955231843365
+              ],
+              [
+                17.36423577720999,
+                62.299531900952715
+              ],
+              [
+                17.364358289067965,
+                62.29960625842651
+              ],
+              [
+                17.364374859091956,
+                62.29973472131499
+              ],
+              [
+                17.364334037704612,
+                62.29987522492074
+              ],
+              [
+                17.3642934805655,
+                62.299991584353116
+              ],
+              [
+                17.36420053389631,
+                62.30007363160249
+              ],
+              [
+                17.36392644746606,
+                62.30005013248491
+              ],
+              [
+                17.363888380493346,
+                62.29992304116892
+              ],
+              [
+                17.363887563425788,
+                62.299940153990214
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 631,
+      "type": "Feature",
+      "properties": {
+        "name": "Klissberget",
+        "type": "Utsiktsplats",
+        "created": "2018-08-15 09:59:04",
+        "updated": "2024-04-02 09:07:38",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 260
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 482,
+                "filename": "image.jpg",
+                "description": "Utsikt mot Selångersdalen från Klissbergsstugan",
+                "alttext": "Utsikt mot Selångersdalen från Klissbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1984933,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/482",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2619,
+                "filename": "Klissbergsstugan Utsikt 2024.jpg",
+                "description": "Utsikt vintertid mot Selångersdalen från Klissbergsstugan",
+                "alttext": "Utsikt vintertid mot Selångersdalen från Klissbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3496328,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2619",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt mot Selångersdalen"
+          }
+        ],
+        "centerPoint": [
+          17.204000398781027,
+          62.37860490618671
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.204422885531443,
+                62.378692763920185
+              ],
+              [
+                17.203674786655352,
+                62.37873142821362
+              ],
+              [
+                17.203583387246834,
+                62.37858804765778
+              ],
+              [
+                17.204337905745454,
+                62.37847955042854
+              ],
+              [
+                17.204422885531443,
+                62.378692763920185
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 632,
+      "type": "Feature",
+      "properties": {
+        "name": "Omsberget",
+        "type": "Utsiktsplats",
+        "created": "2018-08-15 11:08:22",
+        "updated": "2026-06-22 09:38:52",
+        "published": true,
+        "parentObjects": [
+          779
+        ],
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 220
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2086,
+                "filename": "Omsberget Utsikt österut Lisbeth Zetterberg.jpg",
+                "description": "Utsikten från Omsberget österut mot Sundsvallsfjärden och Alnön",
+                "alttext": "Utsikten från Omsberget österut mot Sundsvallsfjärden och Alnön",
+                "sourcetext": "Lisbeth Zetterberg #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 123411,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2086",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 483,
+                "filename": "image.jpg",
+                "description": "Öppna, släta hällar på Omsberget",
+                "alttext": "Öppna, släta hällar på Omsberget",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2862338,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/483",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2088,
+                "filename": "Omsberget Gammal tall Lisbeth Zetterberg.jpg",
+                "description": "Gammal, knotig tall",
+                "alttext": "Gammal, knotig tall",
+                "sourcetext": "Lisbeth Zetterberg #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 295823,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2088",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2089,
+                "filename": "Omsberget Skrevan Sara Wahlberg.jpg",
+                "description": "Skrevan i norra delen av Omsberget",
+                "alttext": "Skrevan i norra delen av Omsberget",
+                "sourcetext": "Sara Wahlberg #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 78989,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2089",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2087,
+                "filename": "Omsberget Utsikt österut 2 Lisbeth Zetterberg.jpg",
+                "description": "Utsikten från Omsberget österut mot Sundsvallsfjärden och Essvik",
+                "alttext": "Utsikten från Omsberget österut mot Sundsvallsfjärden och Essvik",
+                "sourcetext": "Lisbeth Zetterberg #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 136124,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2087",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Omsberget är en bergsplattå med branta slutningar och släta hällmarker. Här är utsikten lång åt många håll, såväl österut mot Sundsvallsfjärden och Bottenhavet, som söderut mot Njurundabommen och Medelpads sydligaste bergspartier. De månghundraåriga tallarna står glest och ruvar på minnen från svunnen tid. Du kan utgå från flera olika platser. Från Tallstugan väster om berget går markerad led ca 1 km. Även från Fiskdammen öster om E4 utgår markerad led, härifrån är det ca 4 km. Det går även att ansluta på stigar och vägar från Hemmanet, vilket är halvannan kilometer kortare än från Fiskdammen. För den äventyrlige går det även att klättra uppför den minst sagt branta södra sluttningen från crossbanan, men se upp så att du inte ramlar nedför de branta stupen. Oavsett vilket håll du angör från så är vandringen närmast berget krävande, på ojämnt underlag. Passa på att besöka den fem meter djupa skrevan som finns i norra änden av platån. "
+          }
+        ],
+        "centerPoint": [
+          17.323498456972686,
+          62.31632279949963
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.317136998558684,
+                62.312878530840194
+              ],
+              [
+                17.317989512681923,
+                62.31216025526813
+              ],
+              [
+                17.318806719522776,
+                62.31210638970623
+              ],
+              [
+                17.319983643545022,
+                62.31335405605188
+              ],
+              [
+                17.32144608265545,
+                62.31493891617628
+              ],
+              [
+                17.323730381921962,
+                62.31596689188404
+              ],
+              [
+                17.32658363550631,
+                62.31652264049072
+              ],
+              [
+                17.329393813396116,
+                62.31707905367839
+              ],
+              [
+                17.33007730955313,
+                62.31753026724638
+              ],
+              [
+                17.329971485681245,
+                62.318397031800636
+              ],
+              [
+                17.327088559753484,
+                62.32025577121227
+              ],
+              [
+                17.325557183152604,
+                62.320583140383825
+              ],
+              [
+                17.32297197971547,
+                62.320143583284555
+              ],
+              [
+                17.32068040941789,
+                62.31902519141382
+              ],
+              [
+                17.317984577489177,
+                62.316585852059696
+              ],
+              [
+                17.316890734523938,
+                62.31473330565389
+              ],
+              [
+                17.31695051364325,
+                62.31326384287697
+              ],
+              [
+                17.317136998558684,
+                62.312878530840194
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 637,
+      "type": "Feature",
+      "properties": {
+        "name": "Midskogsbrrget",
+        "type": "Utsiktsplats",
+        "created": "2018-08-16 14:37:22",
+        "updated": "2021-06-08 10:23:50",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 240
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 487,
+                "filename": "image.jpg",
+                "description": "Vacker utsikt mot Ljungans dalgång och Marmen",
+                "alttext": "Vacker utsikt mot Ljungans dalgång och Marmen",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2063813,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/487",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2117,
+                "filename": "20210321_065450.jpg",
+                "description": "Bänkbord och grillplats med slående utsikt mot väster. Här kan man njuta vackra solnedgångar!",
+                "alttext": "Bänkbord och grillplats med slående utsikt mot väster. Här kan man njuta vackra solnedgångar!",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4821562,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2117",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2118,
+                "filename": "20210321_073050.jpg",
+                "description": "Torrtall",
+                "alttext": "Torrtall",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 6142920,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2118",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2119,
+                "filename": "20210321_073151.jpg",
+                "description": "Vinpinad tall",
+                "alttext": "Vindpinad tall",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 6501667,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2119",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2120,
+                "filename": "20210321_074351.jpg",
+                "description": "Krokig tall",
+                "alttext": "Krokig tall",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 6428130,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2120",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2121,
+                "filename": "20210321_072737.jpg",
+                "description": "Utsikt mot Omsberget och havet i öster",
+                "alttext": "Utsikt mot Omsberget och havet i öster",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 4235150,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2121",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2122,
+                "filename": "20210321_075614.jpg",
+                "description": "Hackspetten uppskattar torrakan",
+                "alttext": "Hackspettshål i torraka",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 7,
+                "type": "image/jpeg",
+                "size": 6788324,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2122",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Midskogsberget erbjuder vacker utsikt mot framförallt Ljungans dalgång och Marmen, men även österut mot Omsberget och Bottenhavet. Berget har branta sluttningar, men en relativt flack platå, som sluttar svagt mot norr, med gles hällmarkstallskog. Här är det ofta fina förhållanden för skarskidåkning under vårvintern mar-april."
+          }
+        ],
+        "centerPoint": [
+          17.280785991476982,
+          62.3149482825889
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27397150703726,
+                62.316737077498416
+              ],
+              [
+                17.283658266786784,
+                62.30978569183618
+              ],
+              [
+                17.283758316548703,
+                62.30962312216759
+              ],
+              [
+                17.2842381342853,
+                62.30902534295759
+              ],
+              [
+                17.28706596881344,
+                62.307985617406146
+              ],
+              [
+                17.288494727277868,
+                62.308585683587
+              ],
+              [
+                17.288150492378687,
+                62.309174709061715
+              ],
+              [
+                17.287613463923392,
+                62.31405155894632
+              ],
+              [
+                17.284209883654334,
+                62.31990086000636
+              ],
+              [
+                17.283054572306288,
+                62.32177048267298
+              ],
+              [
+                17.279171177094586,
+                62.32131120045765
+              ],
+              [
+                17.272899443687106,
+                62.3190000170194
+              ],
+              [
+                17.27397150703726,
+                62.316737077498416
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1447,
+      "type": "Feature",
+      "properties": {
+        "name": "Hättbergets utsikstplats",
+        "type": "Utsiktsplats",
+        "created": "2020-03-12 13:03:21",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1469,
+      "type": "Feature",
+      "properties": {
+        "name": "Vättabergets utsiktsplats",
+        "type": "Utsiktsplats",
+        "created": "2020-03-12 15:59:21",
+        "updated": "2020-12-22 13:26:31",
+        "published": true,
+        "tags": [
+          "indalsälven",
+          "utsikt",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 208
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1969,
+                "filename": "Utsikt Vättaberget.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1167784,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1969",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Storslagen utsikt över Indalsälvens djupa älvdal med berg som tornar upp sig 400 meter ovan vattenytan."
+          }
+        ],
+        "centerPoint": [
+          16.773367980812193,
+          62.69498086750026
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.773431489894527,
+                62.69518675814492
+              ],
+              [
+                16.773027546467464,
+                62.69502091850476
+              ],
+              [
+                16.77307015982126,
+                62.69487960240932
+              ],
+              [
+                16.77339223507872,
+                62.6947749768365
+              ],
+              [
+                16.773669823553785,
+                62.69490219044005
+              ],
+              [
+                16.77371911798094,
+                62.69511608564208
+              ],
+              [
+                16.773431489894527,
+                62.69518675814492
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1524,
+      "type": "Feature",
+      "properties": {
+        "name": "Tunomsberget",
+        "type": "Utsiktsplats",
+        "created": "2020-04-13 08:23:25",
+        "updated": "2020-06-29 15:18:03",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1403,
+                "filename": "20200412_192613.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7232478,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1403",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1404,
+                "filename": "20200412_192551.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4549974,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1404",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fantastisk utsikt över Ljungandalen"
+          }
+        ],
+        "centerPoint": [
+          17.216875575662147,
+          62.31122909309307
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.21643638662606,
+                62.311635055239066
+              ],
+              [
+                17.215936338013847,
+                62.31084417937323
+              ],
+              [
+                17.21775618298238,
+                62.310820488418855
+              ],
+              [
+                17.217379408516997,
+                62.31151859986165
+              ],
+              [
+                17.21643638662606,
+                62.311635055239066
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1655,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt från Fanbyklacken",
+        "type": "Utsiktsplats",
+        "created": "2020-08-20 17:00:43",
+        "updated": "2026-01-13 15:13:28",
+        "published": true,
+        "childObjects": [
+          567,
+          568
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 506
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1715,
+                "filename": "20200820_105137_1_.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5120791,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1715",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1748,
+                "filename": "IMG_0007.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2928817,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1748",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt norrut över skogslandskapet och sjöar från Sundsvalls högsta berg Fanbyklacken"
+          }
+        ],
+        "centerPoint": [
+          16.544591219100024,
+          62.3044903305824
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.544659610869218,
+                62.30448427167634
+              ],
+              [
+                16.54463943809199,
+                62.304418577114106
+              ],
+              [
+                16.544511602203453,
+                62.304406590509515
+              ],
+              [
+                16.544505098945972,
+                62.30446699518862
+              ],
+              [
+                16.544659610869218,
+                62.30448427167634
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1675,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Rocke",
+        "type": "Utsiktsplats",
+        "created": "2020-09-18 15:18:22",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.778207047484365,
+          62.70628446545618
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.77814588728321,
+                62.70648242298273
+              ],
+              [
+                16.77792638926118,
+                62.70614240069941
+              ],
+              [
+                16.77819784525402,
+                62.70610468172109
+              ],
+              [
+                16.778485767119214,
+                62.7063409957285
+              ],
+              [
+                16.77814588728321,
+                62.70648242298273
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1680,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats Sandörberget",
+        "type": "Utsiktsplats",
+        "created": "2020-09-18 15:38:06",
+        "updated": "2020-09-22 22:18:35",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1905,
+                "filename": "20200922_131553.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6998679,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1905",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.80677077595312,
+          62.66906544617325
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.806463016189507,
+                62.66918625953937
+              ],
+              [
+                16.806716184736917,
+                62.668955977563996
+              ],
+              [
+                16.807093640716804,
+                62.66917215097641
+              ],
+              [
+                16.806463016189507,
+                62.66918625953937
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1731,
+      "type": "Feature",
+      "properties": {
+        "name": "Uvberget",
+        "type": "Utsiktsplats",
+        "created": "2020-12-16 18:11:54",
+        "updated": "2023-10-23 12:36:05",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 167
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2576,
+                "filename": "20201018_131019.jpg",
+                "description": "Utsikt från Uvberget",
+                "alttext": "Utsikt från Uvberget",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7249750,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2576",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vacker utsikt över Hulitjärn och Hulidalgången. Stor slät plattå som är perfekt för picnic."
+          }
+        ],
+        "centerPoint": [
+          17.247615460225823,
+          62.43527351174692
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.247899636325098,
+                62.43528906554119
+              ],
+              [
+                17.247577803447975,
+                62.435338508279365
+              ],
+              [
+                17.24732646510088,
+                62.43528623821448
+              ],
+              [
+                17.24735300323165,
+                62.435177188566584
+              ],
+              [
+                17.247578742540806,
+                62.435177572206186
+              ],
+              [
+                17.247868645972556,
+                62.43522318540799
+              ],
+              [
+                17.247899636325098,
+                62.43528906554119
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1758,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats Skönsbergsspåret",
+        "type": "Utsiktsplats",
+        "created": "2020-12-22 15:41:55",
+        "updated": "2024-10-07 19:10:09",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 77
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2670,
+                "filename": "FB_IMG_1728320792604.jpg",
+                "description": "Utsikt mot Sundsvallsbron",
+                "alttext": "Utsikt mot havsvik och bilbro",
+                "sourcetext": "Mikael Nylander Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 129351,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2670",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2671,
+                "filename": "FB_IMG_1728320786005.jpg",
+                "description": "Utsikt mot Sundsvallsfjärden och Tjuvholmen ",
+                "alttext": "Utsikt mot havet",
+                "sourcetext": "Mikael Nylander Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 60332,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2671",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt över SUndsvallsfjärden, Tjuvholmen och Sundsvallsbron"
+          }
+        ],
+        "centerPoint": [
+          17.356372499345948,
+          62.4022371848287
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.356385998183057,
+                62.40228654205175
+              ],
+              [
+                17.35652636973975,
+                62.40225198136036
+              ],
+              [
+                17.356511043309183,
+                62.40219490985346
+              ],
+              [
+                17.356421404786733,
+                62.40218536256498
+              ],
+              [
+                17.356231348248997,
+                62.40219461286712
+              ],
+              [
+                17.356221087338874,
+                62.4022571462912
+              ],
+              [
+                17.356385998183057,
+                62.40228654205175
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1783,
+      "type": "Feature",
+      "properties": {
+        "name": "Prästhusberget",
+        "type": "Utsiktsplats",
+        "created": "2021-05-17 20:22:28",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          696,
+          4142
+        ],
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 157
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gammal fornborg med branta sluttningar åt alla håll. Fin utsikt framförallt söderut mot Klingstatjärn och bergen bortom Ljungan. Parkera vid Klingsta förskola eller Klingstagården och promenera stigen som kommer upp på bergets baksida."
+          }
+        ],
+        "centerPoint": [
+          17.210285575233367,
+          62.32759721134521
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.21048938062896,
+                62.32771559642129
+              ],
+              [
+                17.21020299913759,
+                62.32771763485801
+              ],
+              [
+                17.21006657184574,
+                62.327626771245455
+              ],
+              [
+                17.210143325764054,
+                62.32756772027409
+              ],
+              [
+                17.210454074337896,
+                62.327603010344035
+              ],
+              [
+                17.210528888214068,
+                62.32766468055835
+              ],
+              [
+                17.21048938062896,
+                62.32771559642129
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1784,
+      "type": "Feature",
+      "properties": {
+        "name": "Orraklinten",
+        "type": "Utsiktsplats",
+        "created": "2021-05-18 09:47:00",
+        "updated": "2021-05-18 13:03:18",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1844,
+      "type": "Feature",
+      "properties": {
+        "name": "Långmyrberget",
+        "type": "Utsiktsplats",
+        "created": "2021-06-08 11:09:48",
+        "updated": "2022-01-10 16:47:02",
+        "published": true,
+        "owner": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "manager": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 230
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2149,
+                "filename": "Vindskyddet vid Långmyrberget med utsikt mot Södra berget.jpg",
+                "description": "Vindskyddet vid Långmyrberget med utsikt mot Södra berget",
+                "alttext": "Vindskyddet vid Långmyrberget med utsikt mot Södra berget",
+                "sourcetext": "Anders Erlandsson fotograf",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 145584,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2149",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2150,
+                "filename": "Fina stigar leder till Långmyrberget.jpg",
+                "description": "Fina stigar leder till Långmyrberge",
+                "alttext": "Fina stigar leder till Långmyrberge",
+                "sourcetext": "Anders Erlandsson fotograf",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 163061,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2150",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2151,
+                "filename": "Grillplats vid Långmyrberget.jpg",
+                "description": "Grillplats vid Långmyrberget",
+                "alttext": "Grillplats vid Långmyrberget",
+                "sourcetext": "Anders Erlandsson fotograf",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 135388,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2151",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2152,
+                "filename": "Vindskyddet vid Långmyrberget.jpg",
+                "description": "Vindskyddet vid Långmyrberget",
+                "alttext": "Vindskyddet vid Långmyrberget",
+                "sourcetext": "Anders Erlandsson fotograf",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 127699,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2152",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2153,
+                "filename": "Skylt om Långmyrberget_ ägare SK Vidar.jpg",
+                "description": "Skylt sitter på vindskyddet om Långmyrberget, ägare SK Vidar",
+                "alttext": "Skylt sitter på vindskyddet om Långmyrberget, ägare SK Vidar",
+                "sourcetext": "Anders Erlandsson fotograf",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 57034,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2153",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Långmyrbergets vindskydd norr om Bergsåker, byggt av SK Vidar 1973.  Långmyrberget ligger mellan Bergsåker, Gudmundsbyn och Kovland. Berget bjuder på njutbara flacka hällmarker och inte alltför branta backar. Hit tar du dig via leder från Bergsåker, Huli eller Brödlösa. Lederna prepareras vintertid för skidåkning av Kovlands skoterklubb. Vid vindskyddet finns en eldplats, men ved får du ta med själv. Inte så lämpligt att elda då det är torrt i markerna, men vintertid så är det skönt med en värmande brasa. Här kan man njuta av såväl orrspel som tjäderspel under vårvintern."
+          }
+        ],
+        "centerPoint": [
+          17.19821406523077,
+          62.44004166716326
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.19816388724313,
+                62.4401348865869
+              ],
+              [
+                17.197990675171695,
+                62.43999304295518
+              ],
+              [
+                17.198256613879856,
+                62.43991970564511
+              ],
+              [
+                17.198425215164967,
+                62.43999876315908
+              ],
+              [
+                17.19816388724313,
+                62.4401348865869
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1848,
+      "type": "Feature",
+      "properties": {
+        "name": "Klippstugan",
+        "type": "Utsiktsplats",
+        "created": "2021-06-08 14:08:12",
+        "updated": "2026-01-13 14:04:59",
+        "published": true,
+        "childObjects": [
+          728,
+          1841,
+          1842,
+          1843,
+          3016,
+          3060
+        ],
+        "manager": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 215
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2158,
+                "filename": "Klippstugan vid Brödlösaklippan_ utsikt över Kovland.jpg",
+                "description": "Klippstugan vid Brödlösaklippan, utsikt över Kovland och Sulå",
+                "alttext": "Klippstugan vid Brödlösaklippan, utsikt över Kovland och Sulå",
+                "sourcetext": "Anders Erlandsson #sundavsll400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 65773,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2158",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2159,
+                "filename": "Grillplats vid Klippstugan.jpg",
+                "description": "Grillplats vid Klippstugan",
+                "alttext": "Grillplats vid Klippstugan",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 50530,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2159",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2160,
+                "filename": "Vindskydd vid Klippstugan.jpg",
+                "description": "Vindskydd vid Klippstugan",
+                "alttext": "Vindskydd vid Klippstugan",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 69696,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2160",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2161,
+                "filename": "Vedförråd vid Klippstugan.jpg",
+                "description": "Vedförråd vid Klippstugan",
+                "alttext": "Vedförråd vid Klippstugan",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 118592,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2161",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2162,
+                "filename": "Utedass vid Klippstugan.jpg",
+                "description": "Utedass vid Klippstugan",
+                "alttext": "Utedass vid Klippstugan",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 127219,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2162",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2163,
+                "filename": "Skylt med öppettider för Klippstugan.jpg",
+                "description": "Skylt med öppettider för Klippstugan under vintern",
+                "alttext": "Skylt med öppettider för Klippstugan under vintern.",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 78536,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2163",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Klippstugan står på kanten av Brödlösaklippen med fin utsikt mot Kovland, Sulåns dalgång och dalgången mot Indal. Hit går vandringsleder från Bergsåker och Huli. Lederna prepareras vintertid för klassisk skidåkning av Kovlands skoterklubb. Här finns grillplats och vindskydd förutom stugan som är öppen lördagar vintertid när det går att köra skidspår. Solnedgången gör sig extra fint från platsen under försommaren. "
+          }
+        ],
+        "centerPoint": [
+          17.206739045241243,
+          62.452941152267
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.206595713198574,
+                62.45312127009375
+              ],
+              [
+                17.206396043141275,
+                62.452988477902
+              ],
+              [
+                17.20650245999528,
+                62.452777023253184
+              ],
+              [
+                17.207030764357985,
+                62.452835116891194
+              ],
+              [
+                17.207080122863935,
+                62.45284187878724
+              ],
+              [
+                17.20704306141982,
+                62.45303858418726
+              ],
+              [
+                17.206595713198574,
+                62.45312127009375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2810,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats Södra Bergets väg",
+        "type": "Utsiktsplats",
+        "created": "2021-09-22 16:46:07",
+        "updated": "2022-01-10 16:57:34",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2217,
+                "filename": "20210118_120559.mp4",
+                "description": "Vinterutsikt från vägen upp till Södra Berget",
+                "alttext": "Vinterutsikt från vägen upp till Södra Berget",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "video/mp4",
+                "size": 36679823,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2217",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkeringsficka efter vägen från Södra Berget mot stan med vidunderlig utsikt över Sndsvalls stad och inland "
+          }
+        ],
+        "centerPoint": [
+          17.310668167955736,
+          62.36870322732934
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.31112750495955,
+                62.36870035106968
+              ],
+              [
+                17.31073808032153,
+                62.368752078159986
+              ],
+              [
+                17.31022158763337,
+                62.36874724252221
+              ],
+              [
+                17.310853166935647,
+                62.36869987774767
+              ],
+              [
+                17.31112750495955,
+                62.36870035106968
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2811,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsplats från Stora Bergssvängen",
+        "type": "Utsiktsplats",
+        "created": "2021-09-22 16:51:48",
+        "updated": "2022-01-10 16:57:25",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2218,
+                "filename": "20210319_172056.mp4",
+                "description": "Utsikt från Stora Bergssvängen mot Norra Berget",
+                "alttext": "Utsikt från Stora Bergssvängen mot Norra Berget",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "video/mp4",
+                "size": 62373717,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2218",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsikt över skogarna från Stora Bergssvängen"
+          }
+        ],
+        "centerPoint": [
+          17.2947356114733,
+          62.36015629735284
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.294727223515466,
+                62.36018915696393
+              ],
+              [
+                17.29463797481562,
+                62.36017805655509
+              ],
+              [
+                17.294623251502443,
+                62.360150640313336
+              ],
+              [
+                17.29467982230747,
+                62.36013545878253
+              ],
+              [
+                17.294778026843282,
+                62.360122105002894
+              ],
+              [
+                17.294846293110158,
+                62.360141932908455
+              ],
+              [
+                17.294846986081076,
+                62.36017460945376
+              ],
+              [
+                17.294727223515466,
+                62.36018915696393
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3090,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsiktsgrillen Södra berget",
+        "type": "Utsiktsplats",
+        "created": "2021-10-18 19:45:14",
+        "updated": "2025-02-17 10:51:01",
+        "published": true,
+        "childObjects": [
+          141,
+          142,
+          143
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 210
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2256,
+                "filename": "20160524_122655.jpg",
+                "description": "Utsiktsplats med grill och bänkbord",
+                "alttext": "Utsiktsplats med grill och bänkbord",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5847495,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2256",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Grillplats med underbar utsikt över Sundsvalls stad och bergen norrut"
+          }
+        ],
+        "centerPoint": [
+          17.30758801912121,
+          62.36857637920984
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.30743482440256,
+                62.36860069977531
+              ],
+              [
+                17.30753717212644,
+                62.368523568683976
+              ],
+              [
+                17.30774160406292,
+                62.3685537051168
+              ],
+              [
+                17.30775241583201,
+                62.36864739936244
+              ],
+              [
+                17.30743482440256,
+                62.36860069977531
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3177,
+      "type": "Feature",
+      "properties": {
+        "name": "Toppen av klätterlederna Midskigsberget",
+        "type": "Utsiktsplats",
+        "created": "2022-05-22 09:49:11",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 3286,
+      "type": "Feature",
+      "properties": {
+        "name": "Vidablick",
+        "type": "Utsiktsplats",
+        "created": "2022-08-31 13:07:20",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 181
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2374,
+                "filename": "20220501_163032.jpg",
+                "description": "Utsikt",
+                "alttext": "Utsikt",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5859474,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2374",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2375,
+                "filename": "20220501_163020.jpg",
+                "description": "Platser som syns från utsiktsplatsen",
+                "alttext": "Inristade namn på platser i träbord",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 6008462,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2375",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fin utsikt mot sydväst."
+          }
+        ],
+        "centerPoint": [
+          17.307251002725774,
+          62.462153552323635
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.307058436430214,
+                62.4613681226494
+              ],
+              [
+                17.30702734740736,
+                62.46138749517096
+              ],
+              [
+                17.30701998624491,
+                62.46136247251474
+              ],
+              [
+                17.307058436430214,
+                62.4613681226494
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3742,
+      "type": "Feature",
+      "properties": {
+        "name": "Skärsättberget utsiktsplats",
+        "type": "Utsiktsplats",
+        "created": "2023-10-06 11:25:50",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 145
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2566,
+                "filename": "20231004_182153.jpg",
+                "description": "Utsikt från Skärsättberget ",
+                "alttext": "Utsikt från Skärsättberget",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8233263,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2566",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fin utsikt över Sör- och Norrbjörken. \r\nSig från Skärsättstugan några hundra meter till utsiktsklippan"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Krävande vandring med klipphällar, stenar och rötter"
+          }
+        ],
+        "centerPoint": [
+          17.267264064213855,
+          62.21450553969266
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.267118569951464,
+                62.21391945786512
+              ],
+              [
+                17.26712973314956,
+                62.21393994242181
+              ],
+              [
+                17.267135532956708,
+                62.21389161026753
+              ],
+              [
+                17.26707066731832,
+                62.21388213101494
+              ],
+              [
+                17.26708785629993,
+                62.2139181540088
+              ],
+              [
+                17.267118569951464,
+                62.21391945786512
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3801,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Nylandsberget",
+        "type": "Utsiktsplats",
+        "created": "2023-10-23 12:45:04",
+        "updated": "2026-06-22 09:52:49",
+        "published": true,
+        "childObjects": [
+          3800
+        ],
+        "parentObjects": [
+          3828,
+          3935
+        ],
+        "tags": [
+          "#sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 85
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2578,
+                "filename": "Nylandsberget Lotte Nord.jpg",
+                "description": "Nylandsbergets vindskydd",
+                "alttext": "Nylandsbergets vindskydd",
+                "sourcetext": "Lotte Nord, #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 815341,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2578",
+                "license": "Kommunalt bruk enbart",
+                "licenseDescription": "Filen får enbart användas av Sundsvalls kommun"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vacker utsikt över Juniskärs skärgård"
+          }
+        ],
+        "centerPoint": [
+          17.428747625532633,
+          62.28859285495895
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.428731358331163,
+                62.288711165671046
+              ],
+              [
+                17.428583469697458,
+                62.28861819616699
+              ],
+              [
+                17.428692174958428,
+                62.28849307899695
+              ],
+              [
+                17.42890745316575,
+                62.28848428511163
+              ],
+              [
+                17.42891137547578,
+                62.28859988900644
+              ],
+              [
+                17.428731358331163,
+                62.288711165671046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3802,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Slätberget",
+        "type": "Utsiktsplats",
+        "created": "2023-10-23 12:49:23",
+        "updated": "2024-09-24 12:21:52",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 82
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2579,
+                "filename": "Slätbergets vindskydd Utsikt Anders Erlandsson.jpg",
+                "description": "Slätberget utsikt",
+                "alttext": "Slätberget utsikt",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6153745,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2579",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsikt över Östersjön och Juniskärs öar"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Smala skogsstigar med stenar och rötter leder till utsiktsplatsen"
+          }
+        ],
+        "centerPoint": [
+          17.433085343922404,
+          62.30790162804856
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.43304038740067,
+                62.30796915797712
+              ],
+              [
+                17.43290110368615,
+                62.30787704709327
+              ],
+              [
+                17.433128668989486,
+                62.30780466492106
+              ],
+              [
+                17.433261234793253,
+                62.3078938756799
+              ],
+              [
+                17.43304038740067,
+                62.30796915797712
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3955,
+      "type": "Feature",
+      "properties": {
+        "name": "Hallstaberget utsikt",
+        "type": "Utsiktsplats",
+        "created": "2024-06-29 10:23:37",
+        "updated": "2024-06-29 10:27:28",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 232
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2640,
+                "filename": "20201027_103031.jpg",
+                "description": "Utsikt över en dimmig Indalsälv",
+                "alttext": "Utsikt över dimmigt landskap",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3041616,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2640",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt över Indalen"
+          }
+        ],
+        "centerPoint": [
+          17.030277627088182,
+          62.60704272652008
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.030322295756445,
+                62.607015839000134
+              ],
+              [
+                17.030244279529107,
+                62.60698234694181
+              ],
+              [
+                17.030219096326448,
+                62.60702248063936
+              ],
+              [
+                17.030284626653806,
+                62.60704713292033
+              ],
+              [
+                17.030322295756445,
+                62.607015839000134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3962,
+      "type": "Feature",
+      "properties": {
+        "name": "Slättberget",
+        "type": "Utsiktsplats",
+        "created": "2024-07-04 16:47:53",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2642,
+                "filename": "20240703_203202.jpg",
+                "description": "Utsikt från Slättberget",
+                "alttext": "Utsikt över barrskog",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5020982,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2642",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Slättberget erbjuder panoramautsikt söderut och västerut. Efter en skogsbrand  i början av 2000-talet så har skogen inte hämtat dig än, så det är både finfin utsikt och nästan tema berghällar. En fascinerande plats. "
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Skogsvandring till berget. Släta berghällar på plats."
+          }
+        ],
+        "centerPoint": [
+          17.257795066448228,
+          62.34562271753056
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.25772100420799,
+                62.3457254083459
+              ],
+              [
+                17.258031165057083,
+                62.34551141859066
+              ],
+              [
+                17.257550525753615,
+                62.34563694145917
+              ],
+              [
+                17.25772100420799,
+                62.3457254083459
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3963,
+      "type": "Feature",
+      "properties": {
+        "name": "Slättberget",
+        "type": "Utsiktsplats",
+        "created": "2024-07-04 16:47:54",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142
+        ],
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 248
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2643,
+                "filename": "20240703_203202.jpg",
+                "description": "Utsikt från Slättberget",
+                "alttext": "Utsikt över barrskog",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5020982,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2643",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Slättberget erbjuder panoramautsikt söderut och västerut. Efter en skogsbrand  i början av 2000-talet så har skogen inte hämtat dig än, så det är både finfin utsikt och nästan tema berghällar. En fascinerande plats. "
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Skogsvandring till berget. Släta berghällar på plats."
+          }
+        ],
+        "centerPoint": [
+          17.257795066448228,
+          62.34562271753056
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.25772100420799,
+                62.3457254083459
+              ],
+              [
+                17.258031165057083,
+                62.34551141859066
+              ],
+              [
+                17.257550525753615,
+                62.34563694145917
+              ],
+              [
+                17.25772100420799,
+                62.3457254083459
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3964,
+      "type": "Feature",
+      "properties": {
+        "name": "Hammalåsen",
+        "type": "Utsiktsplats",
+        "created": "2024-08-15 15:02:23",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 160
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2644,
+                "filename": "20240815_145642.jpg",
+                "description": "Utsikt från Hammalåsen ",
+                "alttext": "Utsikt från Hammalåsen",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5418783,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2644",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härligt öppen plats med utsikt mot Klissberget "
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vandringsled passerar. Vandringen hit är inte så lång, men underlaget knöligt. "
+          }
+        ],
+        "centerPoint": [
+          17.290987258635106,
+          62.42320784192349
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.290958395860084,
+                62.4231976330716
+              ],
+              [
+                17.290841110132124,
+                62.423163047326476
+              ],
+              [
+                17.291105367319616,
+                62.42312263979129
+              ],
+              [
+                17.290958395860084,
+                62.4231976330716
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4187,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Harung",
+        "type": "Utsiktsplats",
+        "created": "2025-12-15 14:39:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 75
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.500975411727755,
+          62.39009284508589
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.500705263242093,
+                62.39025417891887
+              ],
+              [
+                17.501084842778532,
+                62.3899330272964
+              ],
+              [
+                17.50125761352037,
+                62.39005565684563
+              ],
+              [
+                17.500954963674435,
+                62.39025975240402
+              ],
+              [
+                17.500705263242093,
+                62.39025417891887
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4195,
+      "type": "Feature",
+      "properties": {
+        "name": "Hattberget",
+        "type": "Utsiktsplats",
+        "created": "2026-01-05 15:29:00",
+        "updated": "2026-01-05 15:37:51",
+        "published": true,
+        "parentObjects": [
+          4197
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 325
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2758,
+                "filename": "20200422_122744.jpg",
+                "description": "Hattbergsstugan med utsikten bakom",
+                "alttext": "Stuga i skogen med utsikt",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4429756,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2758",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsikt över Indalsälvens dalgång"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Brant skogsstig från dalgången"
+          }
+        ],
+        "centerPoint": [
+          16.711635430497974,
+          62.79088372964216
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.711672380971716,
+                62.79096547701275
+              ],
+              [
+                16.71149852909232,
+                62.79092133843596
+              ],
+              [
+                16.711581759293328,
+                62.79084189490185
+              ],
+              [
+                16.711781711199205,
+                62.79088169365397
+              ],
+              [
+                16.711672380971716,
+                62.79096547701275
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4203,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Döviksjöberget norra1",
+        "type": "Utsiktsplats",
+        "created": "2026-01-08 15:37:53",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 96
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsoikt över Döviksjön, Nolbykullen, Kvissleby och Ljungan"
+          }
+        ],
+        "centerPoint": [
+          17.398619290450863,
+          62.302921615805566
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39866139099953,
+                62.30302874471583
+              ],
+              [
+                17.398436395662195,
+                62.30291695804483
+              ],
+              [
+                17.398674358677546,
+                62.30285250001538
+              ],
+              [
+                17.398810836659905,
+                62.302938154182684
+              ],
+              [
+                17.39866139099953,
+                62.30302874471583
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4204,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Döviksjöberget södra",
+        "type": "Utsiktsplats",
+        "created": "2026-01-08 15:39:11",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 88
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsoikt över Döviksjön, Nolbykullen, Kvissleby och Ljungan"
+          }
+        ],
+        "centerPoint": [
+          17.404364850758135,
+          62.30060721975029
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.404354598787506,
+                62.30065212197825
+              ],
+              [
+                17.404262072508786,
+                62.30057577092964
+              ],
+              [
+                17.404377338712326,
+                62.30053102812323
+              ],
+              [
+                17.404459277004186,
+                62.30061007693229
+              ],
+              [
+                17.404354598787506,
+                62.30065212197825
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4220,
+      "type": "Feature",
+      "properties": {
+        "name": "Brattberget",
+        "type": "Utsiktsplats",
+        "created": "2026-01-13 11:09:01",
+        "updated": "2026-01-13 11:09:34",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 45
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.426695163557138,
+          62.330151079823565
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.42727519873148,
+                62.33114050984871
+              ],
+              [
+                17.426208423139975,
+                62.33132257911753
+              ],
+              [
+                17.42612367730323,
+                62.33060739591299
+              ],
+              [
+                17.42683090984028,
+                62.32898570566228
+              ],
+              [
+                17.4272311601388,
+                62.32925532488669
+              ],
+              [
+                17.42727519873148,
+                62.33114050984871
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4255,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Juniskär",
+        "type": "Utsiktsplats",
+        "created": "2026-01-16 17:05:46",
+        "updated": "2026-01-16 17:06:02",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 50
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Finutsikt över Bodviksfjärden och Juniskärs skärgård."
+          }
+        ],
+        "centerPoint": [
+          17.453258453609727,
+          62.299040554090794
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.45599688517985,
+                62.29968246683902
+              ],
+              [
+                17.45040211551243,
+                62.298638244205925
+              ],
+              [
+                17.450765260655082,
+                62.29839409055995
+              ],
+              [
+                17.454994080748847,
+                62.299188118418805
+              ],
+              [
+                17.456127110236576,
+                62.29959329502196
+              ],
+              [
+                17.45599688517985,
+                62.29968246683902
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4256,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Hångsten",
+        "type": "Utsiktsplats",
+        "created": "2026-01-16 17:06:36",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 20
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Finutsikt över Sundsvallsfjärden och Juniskärs skärgård"
+          }
+        ],
+        "centerPoint": [
+          17.465737270248805,
+          62.30080375340511
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.466472132433367,
+                62.301082080598626
+              ],
+              [
+                17.465033206686012,
+                62.30090187457234
+              ],
+              [
+                17.465615329717707,
+                62.30051434638592
+              ],
+              [
+                17.466363976338872,
+                62.30066108150613
+              ],
+              [
+                17.466472132433367,
+                62.301082080598626
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4271,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Södra Bergets slalombacke",
+        "type": "Utsiktsplats",
+        "created": "2026-01-19 10:01:46",
+        "updated": "2026-03-11 12:49:04",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 315,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 240
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-11"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2857,
+                "filename": "image.jpg",
+                "description": "Utsiktsplats ",
+                "alttext": "Utsiktsplats över hela Sundsvall med bänkar ",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2490567,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2857",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fantastisk utsikt över Sundsvall,Sundsvallsfjärden, Sundsvallsbron, Alnön och hela norra Medelpad. "
+          }
+        ],
+        "centerPoint": [
+          17.32182041374011,
+          62.36937767161673
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.323197737486364,
+                62.369528640565484
+              ],
+              [
+                17.321982310828997,
+                62.36924274965793
+              ],
+              [
+                17.320455498756957,
+                62.369611099574264
+              ],
+              [
+                17.320802461056317,
+                62.36976989839688
+              ],
+              [
+                17.3225985377408,
+                62.36931933061889
+              ],
+              [
+                17.323172781820848,
+                62.36898057688094
+              ],
+              [
+                17.323197737486364,
+                62.369528640565484
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4278,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Döviksjöberget norra1",
+        "type": "Utsiktsplats",
+        "created": "2026-01-19 10:17:39",
+        "updated": "2026-01-19 10:17:51",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 70
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Härlig utsoikt över Döviksjön, Kvissleby och Ljungan"
+          }
+        ],
+        "centerPoint": [
+          17.391464780289365,
+          62.30247622628981
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39121872681547,
+                62.30257038001113
+              ],
+              [
+                17.39123095230174,
+                62.30242752459298
+              ],
+              [
+                17.39160142971438,
+                62.30239280177061
+              ],
+              [
+                17.39172550784858,
+                62.30254519802583
+              ],
+              [
+                17.39121872681547,
+                62.30257038001113
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4286,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Skottsundsberget v'äst",
+        "type": "Utsiktsplats",
+        "created": "2026-01-23 13:37:38",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 67
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt mot Ljungan och Skottsundsslätten"
+          }
+        ],
+        "centerPoint": [
+          17.39415662607269,
+          62.292921855762174
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.393924191461487,
+                62.29301841511739
+              ],
+              [
+                17.393920202668824,
+                62.29290647069144
+              ],
+              [
+                17.394383423517578,
+                62.29280476142433
+              ],
+              [
+                17.394298980939883,
+                62.292977665701734
+              ],
+              [
+                17.393924191461487,
+                62.29301841511739
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4287,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Skottsundsberget norr",
+        "type": "Utsiktsplats",
+        "created": "2026-01-23 13:38:33",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 80
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt mot Dyket och Döviksjön"
+          }
+        ],
+        "centerPoint": [
+          17.39914440714727,
+          62.29353518741655
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39917474829338,
+                62.293663915260105
+              ],
+              [
+                17.39891705898472,
+                62.29351063261985
+              ],
+              [
+                17.39935267392574,
+                62.29343224328821
+              ],
+              [
+                17.39937793115639,
+                62.2935643943002
+              ],
+              [
+                17.39917474829338,
+                62.293663915260105
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4288,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Hanaberget",
+        "type": "Utsiktsplats",
+        "created": "2026-01-23 13:40:02",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 77
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Utsikt mot Skotsstundsslätten och havet"
+          }
+        ],
+        "centerPoint": [
+          17.41063056650333,
+          62.289952982318226
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.410686882030458,
+                62.29007118081649
+              ],
+              [
+                17.410728246890507,
+                62.29001758123562
+              ],
+              [
+                17.41058255097869,
+                62.29003725494381
+              ],
+              [
+                17.41058611368123,
+                62.29008177008307
+              ],
+              [
+                17.410686882030458,
+                62.29007118081649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4296,
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikt Omsberget",
+        "type": "Utsiktsplats",
+        "created": "2026-02-19 12:04:50",
+        "updated": "2026-06-22 09:31:25",
+        "published": true,
+        "parentObjects": [
+          3933
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 63,
+            "name": "Höjd över havet",
+            "type": "INTEGER",
+            "value": 42
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.481845741489288,
+          62.197823487134585
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.482558564014116,
+                62.19816359357805
+              ],
+              [
+                17.481083082243064,
+                62.19807571273405
+              ],
+              [
+                17.481620817156454,
+                62.19747170015562
+              ],
+              [
+                17.48262256754988,
+                62.19775094996807
+              ],
+              [
+                17.482558564014116,
+                62.19816359357805
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 581,
+      "type": "Feature",
+      "properties": {
+        "name": "Korstaberge",
+        "type": "Utsiktsplats",
+        "created": "2018-08-07 13:52:20",
+        "deleted": "2018-08-07 13:52:29"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1629,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbykullen utsiktsplats",
+        "type": "Utsiktsplats",
+        "created": "2020-07-09 15:23:24",
+        "deleted": "2020-07-09 15:27:20"
+      },
+      "geometry": null
+    },
+    {
+      "id": 4240,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönviskbergets utsiktsplats",
+        "type": "Utsiktsplats",
+        "created": "2026-01-13 15:02:13",
+        "deleted": "2026-01-13 15:03:01"
+      },
+      "geometry": null
+    },
+    {
+      "id": 2805,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbykullen",
+        "type": "Utsiktsplats",
+        "created": "2021-09-13 10:43:10",
+        "deleted": "2021-09-13 11:57:10"
+      },
+      "geometry": null
+    },
+    {
+      "id": 320,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågeltornet",
+        "type": "Utsiktsplats",
+        "created": "2018-06-26 14:47:42",
+        "updated": "2019-10-18 16:28:02",
+        "deleted": "2020-03-25 07:54:55"
+      },
+      "geometry": null
+    }
+  ]
+}

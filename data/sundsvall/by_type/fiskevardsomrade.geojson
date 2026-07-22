@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 3965,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Fiskevårdsområde",
+        "created": "2024-08-22 08:48:09",
+        "deleted": "2024-08-22 08:48:21"
+      },
+      "geometry": null
+    },
+    {
+      "id": 3523,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Fiskevårdsområde",
+        "created": "2023-04-05 14:45:40",
+        "deleted": "2023-04-05 14:45:48"
+      },
+      "geometry": null
+    }
+  ]
+}

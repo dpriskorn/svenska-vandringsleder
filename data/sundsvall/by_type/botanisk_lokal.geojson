@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1452,
+      "type": "Feature",
+      "properties": {
+        "name": "Söderbergs hackslått",
+        "type": "Botanisk lokal",
+        "created": "2020-03-12 14:59:44",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 3283,
+      "type": "Feature",
+      "properties": {
+        "name": "Sjukhusskogen",
+        "type": "Botanisk lokal",
+        "created": "2022-08-31 11:09:47",
+        "updated": "2022-08-31 11:15:01",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2358,
+                "filename": "20211121_125811.jpg",
+                "description": "Ståtliga gamla tallar",
+                "alttext": "Gammal tall",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8264271,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2358",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2359,
+                "filename": "20211121_125854.jpg",
+                "description": "Kraftig bark",
+                "alttext": "Trädstam med kraftig bark",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7447699,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2359",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2360,
+                "filename": "20211121_130319.jpg",
+                "description": "Vackra tallkronor",
+                "alttext": "Tallkrona underifrån",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3002541,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2360",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Norr om sjukhuset finns en bergknalle med en smal remsa gammal hälltallskog. Tallarna är pampiga och flera hundra år gamla.\r\nEn stig går från gångbanan i öster och följer bergknallens kam till den västra sidan av skogen. Utsikt över sjukhusområdet och bort till\r\nSödra berget."
+          },
+          {
+            "id": 54,
+            "name": "Arter",
+            "type": "FREETEXT",
+            "value": "Lingon och ljung med fuktiga blåbärsklädda vitmossaområden insprängda lite här och där. Andra trevliga växter är en, liljekonvalj, linnea, midsommarblomster, skogsfibbla, vårärt, häckvicker och skogskovall. Troligen en intressant insektslokal med tanke på de gamla tallarna. Fåglar som spillkråka, rödstjärt och olika trastar trivs i området. Hälltallskog med islandslav och renlavar. Man kan hitta tallticka i området"
+          }
+        ],
+        "centerPoint": [
+          17.306361489364566,
+          62.41171290255248
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.310015470739597,
+                62.41163990489524
+              ],
+              [
+                17.307177584582927,
+                62.41245384154083
+              ],
+              [
+                17.304506892551384,
+                62.41262376737117
+              ],
+              [
+                17.30202492067129,
+                62.41172188179328
+              ],
+              [
+                17.302097587968085,
+                62.41090348436499
+              ],
+              [
+                17.308628896899357,
+                62.410883407567134
+              ],
+              [
+                17.310586845052832,
+                62.4109640976132
+              ],
+              [
+                17.31068940065648,
+                62.411591011576306
+              ],
+              [
+                17.310015470739597,
+                62.41163990489524
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4189,
+      "type": "Feature",
+      "properties": {
+        "name": "Harudden havtorn",
+        "type": "Botanisk lokal",
+        "created": "2025-12-15 15:07:56",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Område med mycket havtorn"
+          }
+        ],
+        "centerPoint": [
+          17.648499318426058,
+          62.222332804186124
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.64827451848396,
+                62.22327238644832
+              ],
+              [
+                17.650389934547867,
+                62.22269378142614
+              ],
+              [
+                17.650688308333567,
+                62.22191852323865
+              ],
+              [
+                17.649670700831336,
+                62.221374640199464
+              ],
+              [
+                17.64717177017927,
+                62.22188008200362
+              ],
+              [
+                17.64627932930429,
+                62.22239506391603
+              ],
+              [
+                17.646431355309232,
+                62.222900167777006
+              ],
+              [
+                17.64827451848396,
+                62.22327238644832
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

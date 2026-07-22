@@ -1,0 +1,416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1060,
+      "type": "Feature",
+      "properties": {
+        "name": "Bosvedjeskolan",
+        "type": "Aktivitetspark",
+        "created": "2019-11-11 14:17:56",
+        "deleted": "2020-12-15 17:06:13"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1579,
+      "type": "Feature",
+      "properties": {
+        "name": "Hillstamons utegym",
+        "type": "Aktivitetspark",
+        "created": "2020-07-01 12:46:57",
+        "updated": "2020-07-01 12:47:54",
+        "deleted": "2020-12-15 11:53:40"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1084,
+      "type": "Feature",
+      "properties": {
+        "name": "Bågevägens Bouleplan",
+        "type": "Aktivitetspark",
+        "created": "2019-11-12 11:13:33",
+        "deleted": "2020-12-15 17:03:41"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1619,
+      "type": "Feature",
+      "properties": {
+        "name": "Sticksjö discgolfbana",
+        "type": "Aktivitetspark",
+        "created": "2020-07-08 18:38:18",
+        "updated": "2020-07-08 18:48:55",
+        "deleted": "2020-07-08 18:53:31"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1620,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana",
+        "type": "Aktivitetspark",
+        "created": "2020-07-08 18:59:45",
+        "deleted": "2020-12-15 11:51:14"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1639,
+      "type": "Feature",
+      "properties": {
+        "name": "Baldershovs utegym",
+        "type": "Aktivitetspark",
+        "created": "2020-08-07 14:14:47",
+        "deleted": "2020-12-15 11:31:18"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1640,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkourpark Falken, Bruksgatan 6",
+        "type": "Aktivitetspark",
+        "created": "2020-08-07 14:21:59",
+        "deleted": "2020-12-15 11:29:11"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1159,
+      "type": "Feature",
+      "properties": {
+        "name": "Boule - Matfors Folkets Park",
+        "type": "Aktivitetspark",
+        "created": "2019-11-15 16:00:51",
+        "deleted": "2020-12-15 17:01:30"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1189,
+      "type": "Feature",
+      "properties": {
+        "name": "Utegym, Södermalm",
+        "type": "Aktivitetspark",
+        "created": "2019-11-20 16:19:21",
+        "deleted": "2019-12-05 14:34:32"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1227,
+      "type": "Feature",
+      "properties": {
+        "name": "Bredsands skola, utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-11-25 11:19:51",
+        "updated": "2019-11-25 11:26:47",
+        "deleted": "2020-12-15 16:59:19"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1229,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan vid Bredsands badplats",
+        "type": "Aktivitetspark",
+        "created": "2019-11-25 14:14:06",
+        "deleted": "2020-12-15 16:56:12"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1235,
+      "type": "Feature",
+      "properties": {
+        "name": "Fläsians bangolf",
+        "type": "Aktivitetspark",
+        "created": "2019-11-25 15:36:06",
+        "deleted": "2020-12-15 16:54:04"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1297,
+      "type": "Feature",
+      "properties": {
+        "name": "Övre Klockarberget, Boulplan",
+        "type": "Aktivitetspark",
+        "created": "2019-12-03 09:10:06",
+        "deleted": "2020-12-15 16:51:12"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1298,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan, Njurundabommen",
+        "type": "Aktivitetspark",
+        "created": "2019-12-03 09:19:31",
+        "deleted": "2020-12-15 16:48:40"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1308,
+      "type": "Feature",
+      "properties": {
+        "name": "Bangolf Dyket",
+        "type": "Aktivitetspark",
+        "created": "2019-12-03 14:55:50",
+        "updated": "2020-06-29 15:14:14",
+        "deleted": "2020-12-15 12:22:09"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1309,
+      "type": "Feature",
+      "properties": {
+        "name": "Äventyrsgolf - Bergafjärden",
+        "type": "Aktivitetspark",
+        "created": "2019-12-03 16:03:19",
+        "updated": "2020-06-29 15:14:28",
+        "deleted": "2020-12-15 12:24:57"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1344,
+      "type": "Feature",
+      "properties": {
+        "name": "Diamantens aktivitetsplats",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 13:28:24",
+        "updated": "2020-12-15 16:04:31",
+        "deleted": "2021-04-22 14:57:24"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1345,
+      "type": "Feature",
+      "properties": {
+        "name": "Friluftscentrums utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 13:39:16",
+        "deleted": "2020-12-15 16:47:04"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1346,
+      "type": "Feature",
+      "properties": {
+        "name": "Hillstamons hinderbana och utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 13:47:47",
+        "deleted": "2020-12-15 16:37:58"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1348,
+      "type": "Feature",
+      "properties": {
+        "name": "Åparken",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:03:12",
+        "updated": "2020-06-29 15:15:59",
+        "deleted": "2020-12-15 12:18:07"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1349,
+      "type": "Feature",
+      "properties": {
+        "name": "Pilens utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:13:48",
+        "deleted": "2020-12-15 16:23:16"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1350,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:19:32",
+        "updated": "2020-08-18 18:07:28",
+        "deleted": "2020-12-15 11:00:23"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1351,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs Parkour",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:22:50",
+        "updated": "2019-12-13 16:45:34",
+        "deleted": "2020-12-15 16:02:31"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1352,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergsåkers utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:28:53",
+        "deleted": "2020-12-15 16:19:59"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1353,
+      "type": "Feature",
+      "properties": {
+        "name": "Södermalms utegym",
+        "type": "Aktivitetspark",
+        "created": "2019-12-05 14:32:45",
+        "updated": "2020-06-29 15:16:07",
+        "deleted": "2020-12-15 11:57:04"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1372,
+      "type": "Feature",
+      "properties": {
+        "name": "Bölomsgården, Boule",
+        "type": "Aktivitetspark",
+        "created": "2019-12-06 16:16:38",
+        "deleted": "2020-12-15 16:17:15"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1374,
+      "type": "Feature",
+      "properties": {
+        "name": "Norrhasselsjön, Boule",
+        "type": "Aktivitetspark",
+        "created": "2019-12-06 16:46:53",
+        "deleted": "2020-12-15 16:17:12"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1375,
+      "type": "Feature",
+      "properties": {
+        "name": "G:a Pappersbruket, Boule",
+        "type": "Aktivitetspark",
+        "created": "2019-12-06 16:48:16",
+        "deleted": "2020-12-15 16:10:22"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1379,
+      "type": "Feature",
+      "properties": {
+        "name": "Dykets Bouleplan",
+        "type": "Aktivitetspark",
+        "created": "2019-12-09 11:46:13",
+        "updated": "2020-06-29 15:16:19",
+        "deleted": "2020-12-15 12:14:22"
+      },
+      "geometry": null
+    },
+    {
+      "id": 955,
+      "type": "Feature",
+      "properties": {
+        "name": "Bredsands Aktivitetspark",
+        "type": "Aktivitetspark",
+        "created": "2019-10-28 14:39:01",
+        "updated": "2020-12-15 16:08:31",
+        "deleted": "2021-04-22 14:48:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 963,
+      "type": "Feature",
+      "properties": {
+        "name": "Äventyrsgolf, Granlo",
+        "type": "Aktivitetspark",
+        "created": "2019-10-29 13:15:11",
+        "updated": "2019-10-29 13:20:00",
+        "deleted": "2020-12-15 17:17:05"
+      },
+      "geometry": null
+    },
+    {
+      "id": 964,
+      "type": "Feature",
+      "properties": {
+        "name": "Sticksjö Discgolfbana",
+        "type": "Aktivitetspark",
+        "created": "2019-10-29 13:29:17",
+        "updated": "2020-09-07 10:51:47",
+        "deleted": "2020-12-15 10:55:46"
+      },
+      "geometry": null
+    },
+    {
+      "id": 966,
+      "type": "Feature",
+      "properties": {
+        "name": "Baldershovs utegym i Haga",
+        "type": "Aktivitetspark",
+        "created": "2019-10-29 13:42:04",
+        "deleted": "2020-12-15 17:11:54"
+      },
+      "geometry": null
+    },
+    {
+      "id": 967,
+      "type": "Feature",
+      "properties": {
+        "name": "Boulebana Kungsbackavägen",
+        "type": "Aktivitetspark",
+        "created": "2019-10-29 14:13:04",
+        "deleted": "2020-12-15 17:11:17"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1491,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Ungdomsfältet",
+        "type": "Aktivitetspark",
+        "created": "2020-04-06 13:36:11",
+        "deleted": "2020-12-15 15:59:23"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1007,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs Bangolf/Minigolf",
+        "type": "Aktivitetspark",
+        "created": "2019-11-01 11:03:28",
+        "updated": "2019-11-01 11:13:44",
+        "deleted": "2020-12-15 17:09:16"
+      },
+      "geometry": null
+    }
+  ]
+}

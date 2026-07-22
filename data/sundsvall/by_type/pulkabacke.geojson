@@ -1,0 +1,340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 107,
+      "type": "Feature",
+      "properties": {
+        "name": "Södraberget infart",
+        "type": "Pulkabacke",
+        "created": "2018-06-18 09:08:52",
+        "updated": "2026-04-07 09:19:43",
+        "published": true,
+        "childObjects": [
+          109,
+          110,
+          1137
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 8,
+                "filename": "image.jpg",
+                "description": "Pulkabacke",
+                "alttext": "Pulkabacke",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3577823,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/8",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Pulkabacke i anslutning till parkeringen, med vindskydd och grillplats."
+          }
+        ],
+        "centerPoint": [
+          17.314454067473356,
+          62.366017677934714
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.31392858368197,
+                62.36643475552952
+              ],
+              [
+                17.31386966744598,
+                62.36630246790006
+              ],
+              [
+                17.314133358057347,
+                62.365930969450204
+              ],
+              [
+                17.314484733417228,
+                62.36571390965085
+              ],
+              [
+                17.314832067472388,
+                62.36558492285547
+              ],
+              [
+                17.315034247910326,
+                62.36567962413339
+              ],
+              [
+                17.31459251666378,
+                62.3659183041079
+              ],
+              [
+                17.314306985104693,
+                62.36614684152349
+              ],
+              [
+                17.31421647044957,
+                62.36637716424897
+              ],
+              [
+                17.31406510141823,
+                62.36645008679386
+              ],
+              [
+                17.31392858368197,
+                62.36643475552952
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 191,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö pulkabacke",
+        "type": "Pulkabacke",
+        "created": "2018-06-19 13:59:54",
+        "updated": "2021-12-28 11:50:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 45,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.270033468481095,
+          62.36783526515992
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27020562102824,
+                62.36829348349966
+              ],
+              [
+                17.26910052808829,
+                62.36799769328419
+              ],
+              [
+                17.27005154067813,
+                62.3673744475379
+              ],
+              [
+                17.27096369516584,
+                62.36763580946478
+              ],
+              [
+                17.27020562102824,
+                62.36829348349966
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1461,
+      "type": "Feature",
+      "properties": {
+        "name": "Anundgårds kälk- och pulkabacke",
+        "type": "Pulkabacke",
+        "created": "2020-03-12 15:32:19",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 4126,
+      "type": "Feature",
+      "properties": {
+        "name": "Pulkabacke Ortviksberget",
+        "type": "Pulkabacke",
+        "created": "2025-03-27 13:16:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 291,
+          "name": "Skönsbergsspårets ekonomiska förening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2711,
+                "filename": "20250327_140831.jpg",
+                "description": "Pulkabacke ",
+                "alttext": "Pulkabacke ",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6442616,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2711",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.35497745236034,
+          62.40350798679813
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.355027759831646,
+                62.40368728092592
+              ],
+              [
+                17.35468005562095,
+                62.403495645082764
+              ],
+              [
+                17.35494444459503,
+                62.40333715002939
+              ],
+              [
+                17.35527747665366,
+                62.40353220444966
+              ],
+              [
+                17.355027759831646,
+                62.40368728092592
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

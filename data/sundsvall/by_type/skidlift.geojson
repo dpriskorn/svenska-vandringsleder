@@ -1,0 +1,664 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 3506,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöbacken bygellift",
+        "type": "Skidlift",
+        "created": "2023-04-05 11:07:25",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 112,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Bygellift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3497,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/slalombackar/sidsjobacken?ae=%C3%96ppettider"
+          }
+        ],
+        "centerPoint": [
+          17.28156594162411,
+          62.36846438938303
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.27592396309929,
+            62.368327957304075
+          ],
+          [
+            17.287207966627427,
+            62.368600592540226
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3507,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöbacken knapplift",
+        "type": "Skidlift",
+        "created": "2023-04-05 11:07:59",
+        "updated": "2025-04-08 08:33:23",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 112,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Knapplift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3498,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/slalombackar/sidsjobacken?ae=%C3%96ppettider"
+          }
+        ],
+        "centerPoint": [
+          17.27830386520902,
+          62.36766501483317
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.275633854502722,
+            62.36807171057461
+          ],
+          [
+            17.28097380263652,
+            62.36725826817863
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3829,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls slalombacke bygellift",
+        "type": "Skidlift",
+        "created": "2023-11-29 09:57:32",
+        "updated": "2023-11-29 09:58:19",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Bygellift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls slalombacke"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3499,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          }
+        ],
+        "centerPoint": [
+          17.325606351215537,
+          62.370953184643746
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.330020627995662,
+            62.372990015645435
+          ],
+          [
+            17.32119267332227,
+            62.36891621038428
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3830,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls slalombacke knapplift",
+        "type": "Skidlift",
+        "created": "2023-11-29 09:58:09",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Bygellift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls slalombacke"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3500,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          }
+        ],
+        "centerPoint": [
+          17.32772972147174,
+          62.372012998224065
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.329133639326923,
+            62.37264026081648
+          ],
+          [
+            17.32632586225914,
+            62.37138572115223
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3831,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken bygellift",
+        "type": "Skidlift",
+        "created": "2023-11-29 09:59:52",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Bygellift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3502,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.369128110703276,
+          62.30007640455068
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.37435351287903,
+            62.30014315782823
+          ],
+          [
+            17.363902727470624,
+            62.30000945466952
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3832,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken knapplift",
+        "type": "Skidlift",
+        "created": "2023-11-29 10:00:19",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 284,
+            "name": "Lifttyp",
+            "type": "DROPDOWN",
+            "value": "Knapplift"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3501,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.37337413869467,
+          62.30151974896284
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.374433765441708,
+            62.30074979087987
+          ],
+          [
+            17.372314458009043,
+            62.302289699141944
+          ]
+        ]
+      }
+    }
+  ]
+}

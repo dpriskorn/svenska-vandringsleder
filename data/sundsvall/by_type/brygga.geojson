@@ -1,0 +1,3146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 160,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Ankeborg",
+        "type": "Brygga",
+        "created": "2018-06-19 12:51:21",
+        "updated": "2021-12-14 10:02:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2000
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 60,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5827303,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/60",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27971821853369,
+          62.37731482388137
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27971821853369,
+          62.37731482388137
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjö Hospice",
+        "type": "Brygga",
+        "created": "2018-06-19 13:10:40",
+        "updated": "2021-12-14 10:02:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 65,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5567832,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/65",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.28156156102452,
+          62.374664574284054
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28156156102452,
+          62.374664574284054
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön viken",
+        "type": "Brygga",
+        "created": "2018-06-19 13:12:46",
+        "updated": "2021-12-14 09:11:02",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 66,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5912100,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/66",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.282413460048538,
+          62.374488425944286
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.282413460048538,
+          62.374488425944286
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön utegym",
+        "type": "Brygga",
+        "created": "2018-06-19 13:16:58",
+        "updated": "2021-12-14 09:11:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 67,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5515603,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/67",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.282017681164593,
+          62.37332248110879
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.282017681164593,
+          62.37332248110879
+        ]
+      }
+    },
+    {
+      "id": 173,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön",
+        "type": "Brygga",
+        "created": "2018-06-19 13:26:57",
+        "updated": "2021-12-14 09:37:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 73,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3046320,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/73",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.278542492350212,
+          62.371382145875295
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.278542492350212,
+          62.371382145875295
+        ]
+      }
+    },
+    {
+      "id": 174,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjö slalombacken",
+        "type": "Brygga",
+        "created": "2018-06-19 13:28:32",
+        "updated": "2021-12-14 09:38:45",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 74,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4784263,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/74",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27817740178727,
+          62.37084248911997
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27817740178727,
+          62.37084248911997
+        ]
+      }
+    },
+    {
+      "id": 179,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjö pumphus",
+        "type": "Brygga",
+        "created": "2018-06-19 13:36:45",
+        "updated": "2021-12-14 09:41:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 78,
+                "filename": "image.jpg",
+                "description": "Brygga vid pumphuset",
+                "alttext": "Brygga vid pumphuset",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5630939,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/78",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27724376855298,
+          62.36987452240753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27724376855298,
+          62.36987452240753
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "type": "Feature",
+      "properties": {
+        "name": "Handikappbrygga Sidsjöstugan",
+        "type": "Brygga",
+        "created": "2018-06-19 13:49:12",
+        "updated": "2021-12-14 09:45:47",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 84,
+                "filename": "image.jpg",
+                "description": "Handikappanpassad brygga",
+                "alttext": "Handikappanpassad brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4587179,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/84",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad brygga med räcken och plan anslutning mot land."
+          }
+        ],
+        "centerPoint": [
+          17.275056897103564,
+          62.36931751805374
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275056897103564,
+          62.36931751805374
+        ]
+      }
+    },
+    {
+      "id": 193,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön",
+        "type": "Brygga",
+        "created": "2018-06-19 14:40:35",
+        "updated": "2021-12-14 09:56:37",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 90,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1910463,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/90",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.269986635694213,
+          62.369529123090196
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269986635694213,
+          62.369529123090196
+        ]
+      }
+    },
+    {
+      "id": 196,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjöns västra sida",
+        "type": "Brygga",
+        "created": "2018-06-19 14:46:21",
+        "updated": "2021-12-14 09:56:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 93,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6309790,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/93",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27039367670666,
+          62.371584377503765
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27039367670666,
+          62.371584377503765
+        ]
+      }
+    },
+    {
+      "id": 198,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjöns västra sida",
+        "type": "Brygga",
+        "created": "2018-06-19 14:49:26",
+        "updated": "2021-12-14 09:57:15",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 95,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5499760,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/95",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Metallbrygga"
+          }
+        ],
+        "centerPoint": [
+          17.271776676644393,
+          62.37329147172519
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.271776676644393,
+          62.37329147172519
+        ]
+      }
+    },
+    {
+      "id": 209,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Abborvikens badplats",
+        "type": "Brygga",
+        "created": "2018-06-19 15:01:05",
+        "updated": "2026-03-23 14:39:55",
+        "published": true,
+        "parentObjects": [
+          4249
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 106,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4788369,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/106",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27491246067943,
+          62.374700437081096
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27491246067943,
+          62.374700437081096
+        ]
+      }
+    },
+    {
+      "id": 309,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Hornsjön",
+        "type": "Brygga",
+        "created": "2018-06-26 14:16:26",
+        "updated": "2021-12-17 16:44:13",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 193,
+                "filename": "IMG_1828.JPG",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2185360,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/193",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.210696093886423,
+          62.1750306586897
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.210696093886423,
+          62.1750306586897
+        ]
+      }
+    },
+    {
+      "id": 336,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Dyket",
+        "type": "Brygga",
+        "created": "2018-06-26 15:18:24",
+        "updated": "2026-06-22 08:30:57",
+        "published": true,
+        "parentObjects": [
+          1380
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 219,
+                "filename": "IMG_1811.JPG",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1995845,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/219",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.395454451710478,
+          62.297246537325
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.395454451710478,
+          62.297246537325
+        ]
+      }
+    },
+    {
+      "id": 419,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Rännö strandbad",
+        "type": "Brygga",
+        "created": "2018-07-02 09:17:41",
+        "updated": "2022-01-10 14:20:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 305,
+                "filename": "image.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Feriearbetare Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5896746,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/305",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.015832847682656,
+          62.343307279312114
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.015832847682656,
+          62.343307279312114
+        ]
+      }
+    },
+    {
+      "id": 424,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplata Lucksta",
+        "type": "Brygga",
+        "created": "2018-07-02 09:34:17",
+        "updated": "2020-06-30 10:48:17",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 310,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3690868,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/310",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.052797139085612,
+          62.29832919662476
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052797139085612,
+          62.29832919662476
+        ]
+      }
+    },
+    {
+      "id": 431,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Norrhassels strandbad",
+        "type": "Brygga",
+        "created": "2018-07-02 10:09:31",
+        "updated": "2020-06-30 11:32:16",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 317,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4505342,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/317",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.745767665838606,
+          62.255450542727544
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745767665838606,
+          62.255450542727544
+        ]
+      }
+    },
+    {
+      "id": 455,
+      "type": "Feature",
+      "properties": {
+        "name": "Bänkbord Viggesjöns strandbad",
+        "type": "Brygga",
+        "created": "2018-07-02 10:54:31",
+        "updated": "2020-06-30 11:32:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 341,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2600506,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/341",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.687692936991535,
+          62.30375454783263
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.687692936991535,
+          62.30375454783263
+        ]
+      }
+    },
+    {
+      "id": 479,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Brygga",
+        "created": "2018-07-03 09:40:44",
+        "updated": "2020-07-07 14:15:45",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 361,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4133115,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/361",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.043856412376776,
+          62.443099715649836
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.043856412376776,
+          62.443099715649836
+        ]
+      }
+    },
+    {
+      "id": 492,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Vången",
+        "type": "Brygga",
+        "created": "2018-07-04 09:29:58",
+        "updated": "2020-07-06 16:26:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 377,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2668241,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/377",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.575646145943594,
+          62.41567339371356
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.575646145943594,
+          62.41567339371356
+        ]
+      }
+    },
+    {
+      "id": 501,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats Brygga",
+        "type": "Brygga",
+        "created": "2018-07-04 09:54:15",
+        "updated": "2023-05-09 17:10:48",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 386,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2649402,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/386",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.49051035579237,
+          62.41764657259252
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.49051035579237,
+          62.41764657259252
+        ]
+      }
+    },
+    {
+      "id": 503,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats Brygga",
+        "type": "Brygga",
+        "created": "2018-07-04 09:56:10",
+        "updated": "2023-05-09 17:10:15",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 509,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Ede strandbad",
+        "type": "Brygga",
+        "created": "2018-07-06 12:52:06",
+        "updated": "2021-02-23 15:40:05",
+        "published": true,
+        "tags": [
+          "fiske",
+          "kanot",
+          "brygga"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 394,
+                "filename": "IMG_1858.JPG",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4267835,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/394",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.49016155834671,
+          62.41807432211586
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.49016155834671,
+          62.41807432211586
+        ]
+      }
+    },
+    {
+      "id": 521,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Pallviken",
+        "type": "Brygga",
+        "created": "2018-07-06 13:05:30",
+        "updated": "2020-07-07 20:08:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 407,
+                "filename": "IMG_1877.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2255905,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/407",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.14838801908956,
+          62.30920627341516
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.14838801908956,
+          62.30920627341516
+        ]
+      }
+    },
+    {
+      "id": 535,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Östtjärn",
+        "type": "Brygga",
+        "created": "2018-07-06 13:25:43",
+        "updated": "2026-06-22 08:44:21",
+        "published": true,
+        "parentObjects": [
+          526
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "bad",
+          "badplats",
+          "sandstrand"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 421,
+                "filename": "0DA1D726-2C4F-4A40-833F-4C6AFB9DBA92.jpeg",
+                "description": "Brygga vid Östtjärns badplats",
+                "alttext": "Badbrygga i vatten",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2636898,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/421",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mindre badplats med brygga och omklädningshytt vid Östtjärns badplats."
+          }
+        ],
+        "centerPoint": [
+          17.26886249094027,
+          62.327863508961585
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26886249094027,
+          62.327863508961585
+        ]
+      }
+    },
+    {
+      "id": 622,
+      "type": "Feature",
+      "properties": {
+        "name": "Storåstjärn brygga",
+        "type": "Brygga",
+        "created": "2018-08-13 15:09:30",
+        "updated": "2020-04-06 19:49:36",
+        "published": true,
+        "owner": {
+          "organizationID": 271,
+          "name": "Njurunda Södra Fiskevårdsområde"
+        },
+        "manager": {
+          "organizationID": 271,
+          "name": "Njurunda Södra Fiskevårdsområde"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-08-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 473,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2949327,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/473",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.348451092207114,
+          62.190956868695565
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.348451092207114,
+          62.190956868695565
+        ]
+      }
+    },
+    {
+      "id": 629,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga orrsjön",
+        "type": "Brygga",
+        "created": "2018-08-14 14:14:34",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1141,
+      "type": "Feature",
+      "properties": {
+        "name": "Sörtjärn",
+        "type": "Brygga",
+        "created": "2019-11-14 16:22:05",
+        "updated": "2020-06-30 11:01:54",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stor handikappanpassad brygga."
+          }
+        ],
+        "centerPoint": [
+          16.724822964424558,
+          62.222393423448736
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.724822964424558,
+          62.222393423448736
+        ]
+      }
+    },
+    {
+      "id": 1437,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga nedanför Stordalen",
+        "type": "Brygga",
+        "created": "2020-03-12 11:41:57",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1439,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga vid Stensjöbodarna",
+        "type": "Brygga",
+        "created": "2020-03-12 11:56:29",
+        "updated": "2020-07-07 14:47:35",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.41793170894358,
+          62.753999159606266
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41793170894358,
+          62.753999159606266
+        ]
+      }
+    },
+    {
+      "id": 1440,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga vid flotte till Stensjöbodarna",
+        "type": "Brygga",
+        "created": "2020-03-12 11:58:10",
+        "updated": "2020-07-07 14:38:44",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vid Stensjöbodarna finns en flotte som kan lånas för att ta sig till Fäbodvallen. Det går att ta sig till bryggan med rullator, men svårt med rullstol."
+          }
+        ],
+        "centerPoint": [
+          16.41942712959193,
+          62.749444472341
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41942712959193,
+          62.749444472341
+        ]
+      }
+    },
+    {
+      "id": 1537,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Östtjärn norr",
+        "type": "Brygga",
+        "created": "2020-05-08 22:19:16",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1595,
+      "type": "Feature",
+      "properties": {
+        "name": "Skarpuddsbadet brygga",
+        "type": "Brygga",
+        "created": "2020-07-07 13:58:27",
+        "published": true,
+        "owner": {
+          "organizationID": 277,
+          "name": "Hullsjöns bygdeförening"
+        },
+        "manager": {
+          "organizationID": 277,
+          "name": "Hullsjöns bygdeförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.68935725270381,
+          62.53137527781847
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68935725270381,
+          62.53137527781847
+        ]
+      }
+    },
+    {
+      "id": 1598,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Västerlövsjön",
+        "type": "Brygga",
+        "created": "2020-07-07 14:21:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.96731641568926,
+          62.470308267382954
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.96731641568926,
+          62.470308267382954
+        ]
+      }
+    },
+    {
+      "id": 1599,
+      "type": "Feature",
+      "properties": {
+        "name": "Flytbrygga Västerlövsjön",
+        "type": "Brygga",
+        "created": "2020-07-07 14:21:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.967274587540373,
+          62.4705434244657
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.967274587540373,
+          62.4705434244657
+        ]
+      }
+    },
+    {
+      "id": 1828,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga norr Abborviken",
+        "type": "Brygga",
+        "created": "2021-05-24 16:50:07",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Brygga"
+          }
+        ],
+        "centerPoint": [
+          17.27517876412084,
+          62.37519260989863
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27517876412084,
+          62.37519260989863
+        ]
+      }
+    },
+    {
+      "id": 1829,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga norr Abborviken",
+        "type": "Brygga",
+        "created": "2021-05-24 16:51:03",
+        "updated": "2023-05-09 17:00:23",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2437,
+                "filename": "image (5).jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5604613,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2437",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Brygga"
+          }
+        ],
+        "centerPoint": [
+          17.275295110239508,
+          62.37613802161505
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275295110239508,
+          62.37613802161505
+        ]
+      }
+    },
+    {
+      "id": 1864,
+      "type": "Feature",
+      "properties": {
+        "name": "Tjuvholmens Brygga",
+        "type": "Brygga",
+        "created": "2021-07-07 15:39:24",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2184,
+                "filename": "20210707_153646.jpg",
+                "description": "Tjuvholmens gästbrygga",
+                "alttext": "Tjuvholmens gästbrygga",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2987988,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2184",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun gator och belysning",
+            "reportDescription": "Felanmälan av gator, vägar, gång- och cykelvägar, parkering samt belysning",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.368934504616465,
+          62.38628296174449
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.368934504616465,
+          62.38628296174449
+        ]
+      }
+    },
+    {
+      "id": 1868,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön",
+        "type": "Brygga",
+        "created": "2021-07-09 09:41:33",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.2700678733609,
+          62.37053899458467
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2700678733609,
+          62.37053899458467
+        ]
+      }
+    },
+    {
+      "id": 1869,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sidsjön",
+        "type": "Brygga",
+        "created": "2021-07-09 09:42:46",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.272995758151954,
+          62.37402750790331
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.272995758151954,
+          62.37402750790331
+        ]
+      }
+    },
+    {
+      "id": 3102,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Sandnäsets strandbad",
+        "type": "Brygga",
+        "created": "2021-11-11 10:01:11",
+        "updated": "2022-01-10 16:52:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2272,
+                "filename": "Sandnäset brygga.jpg",
+                "description": "Bryggan vid Sandnäset",
+                "alttext": "Bryggan vid Sandnäset",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3965905,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2272",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Brygga vid Sandnäsets strandbad"
+          }
+        ],
+        "centerPoint": [
+          16.393071405654254,
+          62.69665344450794
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.393071405654254,
+          62.69665344450794
+        ]
+      }
+    },
+    {
+      "id": 3282,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Himlabadet",
+        "type": "Brygga",
+        "created": "2022-08-31 10:38:08",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2356,
+                "filename": "20211009_130643.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6648069,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2356",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2357,
+                "filename": "20211009_130647.jpg",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4752018,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2357",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.290898610144087,
+          62.39354985766012
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.290898610144087,
+          62.39354985766012
+        ]
+      }
+    },
+    {
+      "id": 3493,
+      "type": "Feature",
+      "properties": {
+        "name": "Brygga Bjässjön",
+        "type": "Brygga",
+        "created": "2023-02-01 11:37:47",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2022
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Liten brygga 10 meter från land, då det är väldigt grunt."
+          }
+        ],
+        "centerPoint": [
+          17.096575849677077,
+          62.63106281089033
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.096575849677077,
+          62.63106281089033
+        ]
+      }
+    },
+    {
+      "id": 3567,
+      "type": "Feature",
+      "properties": {
+        "name": "Spikarnas gästbrygga",
+        "type": "Brygga",
+        "created": "2023-05-08 13:21:06",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun gator och belysning",
+            "reportDescription": "Felanmälan av gator, vägar, gång- och cykelvägar, parkering samt belysning",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.528178916912154,
+          62.36246092220306
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.528178916912154,
+          62.36246092220306
+        ]
+      }
+    },
+    {
+      "id": 516,
+      "type": "Feature",
+      "properties": {
+        "name": "Bodsjön",
+        "type": "Brygga",
+        "created": "2018-07-06 13:02:09",
+        "updated": "2020-07-06 16:52:57",
+        "deleted": "2020-07-08 17:23:50"
+      },
+      "geometry": null
+    },
+    {
+      "id": 536,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjön test",
+        "type": "Brygga",
+        "created": "2018-07-30 08:15:14",
+        "deleted": "2018-07-30 08:16:13"
+      },
+      "geometry": null
+    },
+    {
+      "id": 200,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Brygga",
+        "created": "2018-06-19 14:52:18",
+        "updated": "2021-05-24 16:55:50",
+        "deleted": "2023-05-09 17:00:54"
+      },
+      "geometry": null
+    },
+    {
+      "id": 205,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Brygga",
+        "created": "2018-06-19 14:57:55",
+        "updated": "2023-05-09 16:59:08",
+        "deleted": "2023-05-09 17:00:33"
+      },
+      "geometry": null
+    },
+    {
+      "id": 317,
+      "type": "Feature",
+      "properties": {
+        "name": "Hornsjön",
+        "type": "Brygga",
+        "created": "2018-06-26 14:37:59",
+        "updated": "2020-04-06 15:38:49",
+        "deleted": "2020-04-06 15:41:33"
+      },
+      "geometry": null
+    }
+  ]
+}

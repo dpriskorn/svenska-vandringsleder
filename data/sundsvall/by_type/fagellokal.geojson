@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1327,
+      "type": "Feature",
+      "properties": {
+        "name": "Skrängstasjön",
+        "type": "Fågellokal",
+        "created": "2019-12-04 11:05:20",
+        "updated": "2021-05-18 11:00:04",
+        "published": true,
+        "tags": [
+          "fågellokal",
+          "fågelskådning",
+          "fågeltorn",
+          "medelpads ornitologiska förening",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1248,
+                "filename": "fågeltorn_skrängsta.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 53164,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1248",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Lokal med mycket flyttfåglar. Skrängstasjön är en slättsjö med i vissa partier rejäla vassruggar. På flera ställen går jordbruksmarker ned mot sjön och på andra är lövskogen dominerande. I den nordligaste delen finns några sankare partier utefter stranden. Sjön har stort genomflöde, vilket medför att isen går upp tidigt på våren vid in- och utlopp. Fågelsäsongen vid Skrängstasjön startar i allmänhet under mitten-andra halvan av mars, då de tidigaste vårfåglarna (sångsvan, stare, tofsvipa, sånglärka och ringduva) anländer. Åkrarna kring sjön blir i allmänhet snöfria kring mitten av april. Denna tid på året kan antalet rastande och förbisträckande fåglar vara stort. Under andra halvan av april når rovfågelsträcket sitt maximum med vråkar, hökar, blå kärrhök och flera falkarter, men även någon enstaka havs- eller kungsörn. Förutom rastande änder och vadare och det ibland fina rovfågelsträcket kan nämnas att trana under senare år setts i allt större antal (max 300 ex/dag hittills). En bit in i maj avtar antalet rastande fåglar ganska snabbt, men artantalet kan fortfarande vara högt och med intressanta arter som t ex dvärgmås och lärkfalk och vissa år även dubbelbeckasin. Efter det att vårsträcket ebbat ut är det som nattsångarlokal sjön drar. De allra bästa områdena för detta finns vid sjöns västra sida, vid Myre. Här hörs tämligen regelbundet någon kärr- eller gräshoppsångare, ibland även någon busk- eller flodsångare. Vattenrall och småfläckig sumphöna hörs vissa år i norra delen av sjön. Bland häckande fåglar kan nämnas t ex sävsångare (flera par), och hornuggla (vissa år). Under de allra senaste åren har även brun kärrhök tillkommit som häckfågel. Under hösten är Skrängstasjön inte lika välbesökt, men ringmärkning har visat att en hel del olika tättingar rastar, med arter som t ex blåhake och emellanåt videsparv. Vissa dagar och vid rätt väderlekstyp, kan även rovfågelsträcket vara hyggligt."
+          },
+          {
+            "id": 61,
+            "name": "Arter",
+            "type": "FREETEXT",
+            "value": "Fågelsäsongen vid Skrängstasjön startar i allmänhet under mitten-andra halvan av mars, då de tidigaste vårfåglarna (sångsvan, stare, tofsvipa, sånglärka och ringduva) anländer. Åkrarna kring sjön blir i allmänhet snöfria kring mitten av april. Denna tid på året kan antalet rastande och förbisträckande fåglar vara stort. Under andra halvan av april når rovfågelsträcket sitt maximum med vråkar, hökar, blå kärrhök och flera falkarter, men även någon enstaka havs- eller kungsörn. Förutom rastande änder och vadare och det ibland fina rovfågelsträcket kan nämnas att trana under senare år setts i allt större antal (max 300 ex/dag hittills). En bit in i maj avtar antalet rastande fåglar ganska snabbt, men artantalet kan fortfarande vara högt och med intressanta arter som t ex dvärgmås och lärkfalk och vissa år även dubbelbeckasin. Efter det att vårsträcket ebbat ut är det som nattsångarlokal sjön drar. De allra bästa områdena för detta finns vid sjöns västra sida, vid Myre. Här hörs tämligen regelbundet någon kärr- eller gräshoppsångare, ibland även någon busk- eller flodsångare. Vattenrall och småfläckig sumphöna hörs vissa år i norra delen av sjön. Bland häckande fåglar kan nämnas t ex sävsångare (flera par), och hornuggla (vissa år). Under de allra senaste åren har även brun kärrhök tillkommit som häckfågel. Under hösten är Skrängstasjön inte lika välbesökt, men ringmärkning har visat att en hel del olika tättingar rastar, med arter som t ex blåhake och emellanåt videsparv. Vissa dagar och vid rätt väderlekstyp, kan även rovfågelsträcket vara hyggligt."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://birdlife.se/om-oss/regionala-foreningar/medelpads-ornitologiska-forening/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://birdlife.se/om-oss/regionala-foreningar/medelpads-ornitologiska-forening/"
+          }
+        ],
+        "centerPoint": [
+          17.39112313506183,
+          62.24752351565012
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.383725573274628,
+                62.252991775495
+              ],
+              [
+                17.38198725536064,
+                62.250647859334244
+              ],
+              [
+                17.378366648991534,
+                62.2479539838074
+              ],
+              [
+                17.380892634698764,
+                62.244430482004226
+              ],
+              [
+                17.386129294570765,
+                62.24246966793571
+              ],
+              [
+                17.39244177560576,
+                62.242119554584065
+              ],
+              [
+                17.40152031611235,
+                62.2423851548615
+              ],
+              [
+                17.403618398543326,
+                62.24381735202887
+              ],
+              [
+                17.394823116949645,
+                62.24821408551248
+              ],
+              [
+                17.39028129650087,
+                62.25241632734892
+              ],
+              [
+                17.385710764263624,
+                62.252997894857664
+              ],
+              [
+                17.383725573274628,
+                62.252991775495
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1328,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågellokal Mingen",
+        "type": "Fågellokal",
+        "created": "2019-12-04 11:08:42",
+        "updated": "2022-01-10 15:41:13",
+        "published": true,
+        "tags": [
+          "fågellokal",
+          "fågelskådning",
+          "fågeltorn",
+          "medelpads ornitologiska förening",
+          "mingen"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mingen är av riksintresse som häckningsplats för strand- och sjölevande fåglar. Det som gör sjön unik, tillsammans med Skrängstasjön, är att sjön till stor del är omgärdad av åkermark ända ner mot strandkanten. Den typen av sjöar är ytterst ovanlig i norra Sverige. Sjön är näringsrik och grund, med på vissa ställen stora vassbälten, framförallt i den västra och norra delen. I vissa partier når skog fram till sjön och i andra områden breder jordbruksmarken ut sig ända ned mot strandkanten. I och med det ringa genomflödet blir Mingen isfri relativt sent (början av maj). Sjön är som intressantast att besöka från början av maj och fram till midsommartid. I samband med islossningen rastar t ex flera olika arter simänder och doppingar. Kring mitten av maj ses ofta ett flertal olika vadararter. Vissa år kan tranor ses på nordsträck i rätt betydande antal. Även ett flertal rovfågelsarter sträcker förbi. Häckfågelfaunan bjuder på arter som brunand och brun kärrhök, möjligtvis även vattenrall, rörhöna och t o m gråhakedopping. Rör- och sävsångare finns det gott om i vassarna. I omgivningarna kring Mingen häckar lärkfalk, härmsångare och stjärtmes. Ett stort antal för Medelpad ovanliga arter har noterats här genom åren."
+          },
+          {
+            "id": 61,
+            "name": "Arter",
+            "type": "FREETEXT",
+            "value": "I samband med islossningen rastar t ex flera olika arter simänder och doppingar. Kring mitten av maj ses ofta ett flertal olika vadararter. Vissa år kan tranor ses på nordsträck i rätt betydande antal. Även ett flertal rovfågelsarter sträcker förbi. Häckfågelfaunan bjuder på arter som brunand och brun kärrhök, möjligtvis även vattenrall, rörhöna och t o m gråhakedopping. Rör- och sävsångare finns det gott om i vassarna. I omgivningarna kring Mingen häckar lärkfalk, härmsångare och stjärtmes. Ett stort antal för Medelpad ovanliga arter har noterats här genom åren."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://birdlife.se/om-oss/regionala-foreningar/medelpads-ornitologiska-forening/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://birdlife.se/om-oss/regionala-foreningar/medelpads-ornitologiska-forening/"
+          }
+        ],
+        "centerPoint": [
+          17.45198868404044,
+          62.23315116662524
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.427568352520964,
+                62.23443569482763
+              ],
+              [
+                17.42714850244908,
+                62.23323601707516
+              ],
+              [
+                17.431171190561077,
+                62.22964507223654
+              ],
+              [
+                17.437668146846004,
+                62.22601052521756
+              ],
+              [
+                17.4533832752977,
+                62.22311814693147
+              ],
+              [
+                17.46333846791445,
+                62.22098020938761
+              ],
+              [
+                17.465344902567416,
+                62.23236118209545
+              ],
+              [
+                17.457325116503938,
+                62.23713048512981
+              ],
+              [
+                17.469688180272147,
+                62.23801738104775
+              ],
+              [
+                17.4759911011111,
+                62.23599386162998
+              ],
+              [
+                17.477273663364187,
+                62.23848564799356
+              ],
+              [
+                17.47264291352168,
+                62.241183535976226
+              ],
+              [
+                17.46953611039925,
+                62.242747680304454
+              ],
+              [
+                17.46325815140381,
+                62.24245694289872
+              ],
+              [
+                17.460747666554173,
+                62.24340677460617
+              ],
+              [
+                17.4597977818266,
+                62.24498271309251
+              ],
+              [
+                17.45566491964584,
+                62.24455299243567
+              ],
+              [
+                17.453495427515637,
+                62.24041704107278
+              ],
+              [
+                17.443660990921774,
+                62.2401379846235
+              ],
+              [
+                17.44063420810069,
+                62.237374862962845
+              ],
+              [
+                17.427568352520964,
+                62.23443569482763
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

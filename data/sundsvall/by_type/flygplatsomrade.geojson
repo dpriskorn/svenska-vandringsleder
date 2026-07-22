@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 855,
+      "type": "Feature",
+      "properties": {
+        "name": "Flygfält - Bänkås",
+        "type": "Flygplatsområde",
+        "created": "2019-10-18 14:20:37",
+        "deleted": "2019-11-26 14:13:21"
+      },
+      "geometry": null
+    }
+  ]
+}

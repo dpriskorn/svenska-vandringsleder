@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1710,
+      "type": "Feature",
+      "properties": {
+        "name": "Åparken skatepark",
+        "type": "Skatepark",
+        "created": "2020-12-15 12:17:53",
+        "updated": "2022-01-10 21:54:02",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "tags": [
+          "bmx",
+          "bmx-cykel",
+          "cykel",
+          "cykelbana",
+          "skateboard",
+          "skatepark"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 244,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Betong"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Åparken är en anläggning som är byggd för Skateboardåkning och BMX-Cykel, du får även åka Inlines och Kickbike i Åparken."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.ungisundsvall.se/motesplatser/aparken/"
+          }
+        ],
+        "centerPoint": [
+          17.310289474082982,
+          62.39332272483707
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.3096951887825,
+                62.393239356343564
+              ],
+              [
+                17.309762208832176,
+                62.393180914898196
+              ],
+              [
+                17.3108759506956,
+                62.393262009452044
+              ],
+              [
+                17.310843416084065,
+                62.39337419163507
+              ],
+              [
+                17.310768126507984,
+                62.39343779977783
+              ],
+              [
+                17.310659436859755,
+                62.39346173065816
+              ],
+              [
+                17.310049876330133,
+                62.393398421696325
+              ],
+              [
+                17.309894568127657,
+                62.39337987653771
+              ],
+              [
+                17.309793683397235,
+                62.393364451622375
+              ],
+              [
+                17.30978432713444,
+                62.3933273927432
+              ],
+              [
+                17.30969550155564,
+                62.393299698301405
+              ],
+              [
+                17.3096951887825,
+                62.393239356343564
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

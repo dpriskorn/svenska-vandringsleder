@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1846,
+      "type": "Feature",
+      "properties": {
+        "name": "Minnessten om norskt polistruppsläger",
+        "type": "Monument",
+        "created": "2021-06-08 13:13:31",
+        "updated": "2021-09-22 10:05:28",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Brukssamhälle"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Skönt att vila vid tänkvärd plats, norskmonumentet i Baggböle Njurunda. En fridfull plats och ett historiskt utflyktsmål med bruset från Stångån. Stenen står på platsen för det norska polistruppsläger, som fanns i Baggböle åren 1944-1945.  Där bedrevs militärutbildning av unga norska män som flytt från sitt hemland under den tyska ockupationen. Stenen restes år 1988 av norska veteraner med stöd av kommunerna i Trondheim och Sundsvall. Platsen invigdes i närvaro av det två ländernas försvarsministrar. Sundsvalls kommun har lovat att svara för områdets skötsel och för anläggningens fortbestånd. Platsen sköts av Söröjebygdens Intresseförening åt kommunen.  Stenen står väl synlig när man närmar sig platsen för lägret, man ser den rakt fram när man kommer på bron över Baggböleåsen . Vid stenen finns en informationstavla som sattes upp av norska veteraner 1997. Det finns bänk för meditation och fikaplats. Söröjebyggdens Intresseförening sköter grusgång och grönytan runtomkring."
+          }
+        ],
+        "centerPoint": [
+          17.26721567853477,
+          62.202562520732435
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.267302363638883,
+                62.2028081528484
+              ],
+              [
+                17.267060640977963,
+                62.20263609287194
+              ],
+              [
+                17.266974592708824,
+                62.202386052154154
+              ],
+              [
+                17.267266109337964,
+                62.202324708326195
+              ],
+              [
+                17.267438259234552,
+                62.20246647502235
+              ],
+              [
+                17.267328097995,
+                62.20261285965474
+              ],
+              [
+                17.267420059541305,
+                62.20276222422979
+              ],
+              [
+                17.267302363638883,
+                62.2028081528484
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3833,
+      "type": "Feature",
+      "properties": {
+        "name": "Toppflagga Södra Berget",
+        "type": "Monument",
+        "created": "2023-12-11 12:26:05",
+        "updated": "2023-12-11 12:26:43",
+        "deleted": "2026-06-22 09:43:33"
+      },
+      "geometry": null
+    }
+  ]
+}

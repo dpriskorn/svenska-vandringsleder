@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 374,
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurang Grankotten",
+        "type": "Servering",
+        "created": "2018-06-27 09:32:53",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 3284,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststugan",
+        "type": "Servering",
+        "created": "2022-08-31 11:29:46",
+        "updated": "2025-02-17 10:52:15",
+        "deleted": "2025-05-28 10:31:20"
+      },
+      "geometry": null
+    }
+  ]
+}

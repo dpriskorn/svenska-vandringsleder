@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1230,
+      "type": "Feature",
+      "properties": {
+        "name": "Bredsands båthamn",
+        "type": "Småbåtshamn",
+        "created": "2019-11-25 14:15:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1261,
+      "type": "Feature",
+      "properties": {
+        "name": "Båthamn, Flodberg",
+        "type": "Småbåtshamn",
+        "created": "2019-11-27 13:17:15",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1262,
+      "type": "Feature",
+      "properties": {
+        "name": "Sunds Båtklubb",
+        "type": "Småbåtshamn",
+        "created": "2019-11-27 13:20:52",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1391,
+      "type": "Feature",
+      "properties": {
+        "name": "Gustavsbergs båthamn",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:18:37",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1392,
+      "type": "Feature",
+      "properties": {
+        "name": "Båthamn, Hovid",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:21:24",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1393,
+      "type": "Feature",
+      "properties": {
+        "name": "Vindhem (Sundsvalls Segelsällskap)",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:25:36",
+        "updated": "2020-03-25 16:47:00",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1395,
+      "type": "Feature",
+      "properties": {
+        "name": "Nacka båthamn",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:30:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1396,
+      "type": "Feature",
+      "properties": {
+        "name": "Stenvikskajen, Ankarsvik",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:33:52",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1398,
+      "type": "Feature",
+      "properties": {
+        "name": "Svartvik, småbåtshamn",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 10:50:14",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1400,
+      "type": "Feature",
+      "properties": {
+        "name": "Klampenborg, småbåtshamn",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 15:23:16",
+        "updated": "2020-06-29 15:16:53",
+        "published": true,
+        "owner": {
+          "organizationID": 156,
+          "name": "sundsvall-njurunda båtklubb"
+        },
+        "manager": {
+          "organizationID": 156,
+          "name": "sundsvall-njurunda båtklubb"
+        },
+        "tags": [
+          "båt",
+          "båthamn",
+          "klampenborg",
+          "småbåtshamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Småbåtshamn - för medlemskap och info läs mer på http://www.snbk.org/"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "http://www.snbk.org/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.snbk.org/"
+          }
+        ],
+        "centerPoint": [
+          17.3939508173596,
+          62.326743291587455
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39107957809609,
+                62.32720482794943
+              ],
+              [
+                17.39307037085824,
+                62.32761781488649
+              ],
+              [
+                17.39409627947139,
+                62.32653326928424
+              ],
+              [
+                17.396204970006984,
+                62.32697113708516
+              ],
+              [
+                17.396838655006828,
+                62.326491396016344
+              ],
+              [
+                17.394160201060195,
+                62.32588019028287
+              ],
+              [
+                17.392788021087185,
+                62.32727244548718
+              ],
+              [
+                17.391282746777687,
+                62.32699121611929
+              ],
+              [
+                17.39107957809609,
+                62.32720482794943
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1405,
+      "type": "Feature",
+      "properties": {
+        "name": "Ön - brygga för båtar",
+        "type": "Småbåtshamn",
+        "created": "2019-12-11 16:17:46",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1414,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvall Cityhamn",
+        "type": "Småbåtshamn",
+        "created": "2019-12-13 13:37:24",
+        "updated": "2023-05-09 17:08:29",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "cityhamn",
+          "småbåtshamn",
+          "sundsvalls cityhamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sundsvall Cityhamn, läge 6224 N  1719 E, har 99 båtplatser och bryggor som är utrustad med y-bom i fem olika längder, 5, 8, 9 och 10,5 meter. I anslutning till hamnen finns en handikappanpassad servicebyggnad med utrustat kök, wc, dusch och tvättrum. Här finns även en servicebrygga för tankning av bensin och diesel samt avfallshantering. "
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "http://cityhamn.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://cityhamn.se/"
+          }
+        ],
+        "centerPoint": [
+          17.32084236653629,
+          62.389210343216206
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.318702889617644,
+                62.389207308616314
+              ],
+              [
+                17.32221887074402,
+                62.389696868574084
+              ],
+              [
+                17.322939293826146,
+                62.388665337669096
+              ],
+              [
+                17.319093673040033,
+                62.388850641654805
+              ],
+              [
+                17.318702889617644,
+                62.389207308616314
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1415,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls båtsällskap",
+        "type": "Småbåtshamn",
+        "created": "2019-12-13 16:42:29",
+        "updated": "2021-09-23 15:02:08",
+        "published": true,
+        "tags": [
+          "båthamn",
+          "småbåtshamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Småbåtshamn"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://subss.se/sbs/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://subss.se/sbs/"
+          }
+        ],
+        "centerPoint": [
+          17.349230322311545,
+          62.394396593249226
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.346767836707908,
+                62.39489311764107
+              ],
+              [
+                17.348054033500347,
+                62.39522975269488
+              ],
+              [
+                17.34810639933407,
+                62.39572548402816
+              ],
+              [
+                17.349176677031256,
+                62.395726291887755
+              ],
+              [
+                17.34982927358648,
+                62.39592901427319
+              ],
+              [
+                17.350663153571748,
+                62.395506333672174
+              ],
+              [
+                17.350738913951364,
+                62.39543590589327
+              ],
+              [
+                17.35160986611446,
+                62.394277100253696
+              ],
+              [
+                17.35172588461156,
+                62.39403778521315
+              ],
+              [
+                17.350618383857896,
+                62.39330213303445
+              ],
+              [
+                17.349504169706154,
+                62.39291233037872
+              ],
+              [
+                17.348045007014843,
+                62.39287408057219
+              ],
+              [
+                17.346606032805347,
+                62.39311108833824
+              ],
+              [
+                17.346767836707908,
+                62.39489311764107
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2812,
+      "type": "Feature",
+      "properties": {
+        "name": "Gustavsvarfs hamnförening",
+        "type": "Småbåtshamn",
+        "created": "2021-09-23 15:36:14",
+        "updated": "2021-09-23 15:36:49",
+        "published": true,
+        "owner": {
+          "organizationID": 47,
+          "name": "gustafsvarfs hamnförening."
+        },
+        "manager": {
+          "organizationID": 47,
+          "name": "gustafsvarfs hamnförening."
+        },
+        "tags": [
+          "båthamn",
+          "sjösättningsplats",
+          "småbåtshamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Båthamn för medlemmar"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://gustafsvarf.home.blog/"
+          }
+        ],
+        "centerPoint": [
+          17.411265186421026,
+          62.40420733255171
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.411551657749833,
+                62.40491330641779
+              ],
+              [
+                17.411337196537392,
+                62.40501005838012
+              ],
+              [
+                17.411241567776507,
+                62.404933133737224
+              ],
+              [
+                17.41122368163593,
+                62.40486240689503
+              ],
+              [
+                17.411216440234014,
+                62.40482292784759
+              ],
+              [
+                17.41116607597589,
+                62.404752763246506
+              ],
+              [
+                17.411203986951154,
+                62.40470181563569
+              ],
+              [
+                17.411188888036513,
+                62.404598351184646
+              ],
+              [
+                17.411147098624983,
+                62.404555600130166
+              ],
+              [
+                17.411132051131762,
+                62.404537001377676
+              ],
+              [
+                17.41099369627237,
+                62.40450167791186
+              ],
+              [
+                17.410780337175463,
+                62.40448912459723
+              ],
+              [
+                17.410642669152498,
+                62.40451288118592
+              ],
+              [
+                17.41053199566975,
+                62.40450159517647
+              ],
+              [
+                17.41042859335897,
+                62.40449646965686
+              ],
+              [
+                17.410220839436633,
+                62.40449126394558
+              ],
+              [
+                17.41016523588566,
+                62.40445702222833
+              ],
+              [
+                17.40992887445297,
+                62.404382531949025
+              ],
+              [
+                17.40988920752116,
+                62.40434424253489
+              ],
+              [
+                17.409893496759526,
+                62.40412791577414
+              ],
+              [
+                17.409952020000635,
+                62.40409735703115
+              ],
+              [
+                17.40999871036017,
+                62.403970192269995
+              ],
+              [
+                17.410283949675712,
+                62.40389421993786
+              ],
+              [
+                17.410360229880393,
+                62.40362949916102
+              ],
+              [
+                17.410391697295765,
+                62.403616381755306
+              ],
+              [
+                17.410816766707562,
+                62.40364978819365
+              ],
+              [
+                17.411192311867815,
+                62.403545946071624
+              ],
+              [
+                17.411570732122126,
+                62.403415551928035
+              ],
+              [
+                17.41186660781873,
+                62.40339272836424
+              ],
+              [
+                17.412130590608403,
+                62.40347371095594
+              ],
+              [
+                17.41215292667391,
+                62.40391965977916
+              ],
+              [
+                17.41218453790527,
+                62.40397569006597
+              ],
+              [
+                17.41210369891441,
+                62.40412800340921
+              ],
+              [
+                17.412149993773074,
+                62.40418126483815
+              ],
+              [
+                17.412163457493996,
+                62.40423069436125
+              ],
+              [
+                17.412593432660774,
+                62.40421884657753
+              ],
+              [
+                17.41266080723114,
+                62.40431511899941
+              ],
+              [
+                17.41263434258546,
+                62.40439038580315
+              ],
+              [
+                17.41234493980598,
+                62.404380939790926
+              ],
+              [
+                17.4122590178716,
+                62.40435728226013
+              ],
+              [
+                17.412189498514575,
+                62.40437410408387
+              ],
+              [
+                17.412073263747388,
+                62.404445267675904
+              ],
+              [
+                17.411717250889787,
+                62.40489975232595
+              ],
+              [
+                17.411564190715556,
+                62.404917489912634
+              ],
+              [
+                17.411551657749833,
+                62.40491330641779
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1727,
+      "type": "Feature",
+      "properties": {
+        "name": "Pumptrack Bosvedjeskolan",
+        "type": "Pumptrack",
+        "created": "2020-12-15 17:06:06",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "bosvedjan",
+          "cykel",
+          "cykelbana",
+          "pumptrack",
+          "cykling"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 243,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2012,
+                "filename": "cykelbana_ bosvedjeskolan.JPG",
+                "description": "Cykelbana Bosvedjeskolan",
+                "alttext": "Cykelbana Bosvedjeskolan",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 113388,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2012",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En mindre cykelbana på Bosvedjeskolans skolgård."
+          }
+        ],
+        "centerPoint": [
+          17.3356082293868,
+          62.42047021904032
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.335870587513163,
+                62.42055134918342
+              ],
+              [
+                17.335412136180526,
+                62.42054897583059
+              ],
+              [
+                17.335344009335056,
+                62.42050988593138
+              ],
+              [
+                17.335312033880804,
+                62.42044755977954
+              ],
+              [
+                17.335345541962084,
+                62.42039042233993
+              ],
+              [
+                17.335452494665144,
+                62.420371028397874
+              ],
+              [
+                17.33553859891356,
+                62.420397244506006
+              ],
+              [
+                17.335614131486746,
+                62.42039220673319
+              ],
+              [
+                17.335656873354168,
+                62.42038394684394
+              ],
+              [
+                17.335748556441594,
+                62.420377381036886
+              ],
+              [
+                17.335852540493217,
+                62.420389467581415
+              ],
+              [
+                17.335881775404882,
+                62.4204166368059
+              ],
+              [
+                17.335899917820196,
+                62.42047542301379
+              ],
+              [
+                17.335870587513163,
+                62.42055134918342
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3250,
+      "type": "Feature",
+      "properties": {
+        "name": "Ortviksparkens pumptrack",
+        "type": "Pumptrack",
+        "created": "2022-08-23 13:08:18",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 243,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Asfalt"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.355723832043967,
+          62.398254579968615
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.355888454114826,
+                62.39842110575341
+              ],
+              [
+                17.35533293995339,
+                62.398248200134475
+              ],
+              [
+                17.355555936400588,
+                62.398086014370634
+              ],
+              [
+                17.356116128226486,
+                62.39828398504659
+              ],
+              [
+                17.355888454114826,
+                62.39842110575341
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3251,
+      "type": "Feature",
+      "properties": {
+        "name": "Sticksjö pumptrack",
+        "type": "Pumptrack",
+        "created": "2022-08-23 13:09:25",
+        "updated": "2023-09-07 10:50:15",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 243,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Asfalt"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2562,
+                "filename": "20230907_104606.jpg",
+                "description": "Pumptrack",
+                "alttext": "Pumptrack",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8830624,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2562",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2563,
+                "filename": "20230907_104651.jpg",
+                "description": "Informationstavla",
+                "alttext": "Informationstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 10354890,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2563",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Asfalterad väg till pumptracken. "
+          }
+        ],
+        "centerPoint": [
+          17.26871471002338,
+          62.41257268959482
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.268354802116274,
+                62.412480354785984
+              ],
+              [
+                17.268684941525024,
+                62.41275910828469
+              ],
+              [
+                17.269071491420412,
+                62.4126371499148
+              ],
+              [
+                17.26880804066497,
+                62.412379941041685
+              ],
+              [
+                17.268354802116274,
+                62.412480354785984
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

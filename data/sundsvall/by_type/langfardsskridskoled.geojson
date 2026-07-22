@@ -1,0 +1,562 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1478,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns isbana",
+        "type": "Långfärdsskridskoled",
+        "created": "2020-03-25 07:44:50",
+        "updated": "2025-02-21 08:13:11",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "isbana",
+          "långfärdsskridsko",
+          "skridsko",
+          "skridskobana"
+        ],
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket lätt"
+          },
+          {
+            "id": 124,
+            "name": "Ledtyp",
+            "type": "DROPDOWN",
+            "value": "Iordningställd"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls skridskoleder"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 2025,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 2026,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 2027,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Längd (meter)",
+            "type": "INTEGER",
+            "value": 2000
+          },
+          {
+            "id": 100,
+            "name": "Stigning total (meter)",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 113,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2018,
+                "filename": "Sidsjön Skridsko (5).JPG",
+                "description": "Långfärdsskridskoåkning på Sidsjöns is",
+                "alttext": "Långfärdsskridskoåkning i motljus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3517725,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2018",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1750,
+                "filename": "pGovE9RQ.jpeg.jpg",
+                "description": "Långfärdsskridskoåkning på Sidsjöns is",
+                "alttext": "Långfärdsskridskoåkning på blankis",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 857109,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1750",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 110,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Plogad bana på Sidsjöns is. Banan plogas så snart isen håller för skötselfordon. Vid vissa väderförhållanden då vatten tränger upp mellan isen och snön kan det vara svårt att ploga banan, och då kan det ta tid innan den färdigställs. Banan spolas och/eller skrapas med en slik för att skapa bästa möjliga yta, men som i all sjöis förekommer det sprickor och ojämnheter. Gå ej på banan, då det försvårar skötseln. Bredvid banan plogas en bana avsedd för promenad. Se skyltning på plats."
+          }
+        ],
+        "centerPoint": [
+          17.276044905207122,
+          62.37364020384056
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.27519470050403,
+            62.36956703592094
+          ],
+          [
+            17.275723693778026,
+            62.36968913758364
+          ],
+          [
+            17.276291077526665,
+            62.37003188000818
+          ],
+          [
+            17.27694088621869,
+            62.370604600056254
+          ],
+          [
+            17.277535738935317,
+            62.371308967778155
+          ],
+          [
+            17.278516158901002,
+            62.37195673266886
+          ],
+          [
+            17.279318723509444,
+            62.37282867449101
+          ],
+          [
+            17.280069178432772,
+            62.37329915536804
+          ],
+          [
+            17.28064560605117,
+            62.373458458282954
+          ],
+          [
+            17.281459718771863,
+            62.373626155839176
+          ],
+          [
+            17.28182186487577,
+            62.37383143264315
+          ],
+          [
+            17.281849357809,
+            62.37419306146533
+          ],
+          [
+            17.281109792419112,
+            62.374436512527964
+          ],
+          [
+            17.280437401272597,
+            62.37470903255809
+          ],
+          [
+            17.279702121653575,
+            62.375294369596084
+          ],
+          [
+            17.279608136261118,
+            62.37586428481603
+          ],
+          [
+            17.279524164064238,
+            62.37637346408381
+          ],
+          [
+            17.278125508616558,
+            62.37735184844616
+          ],
+          [
+            17.27784959718189,
+            62.377426767973766
+          ],
+          [
+            17.27784959718189,
+            62.377426767973766
+          ],
+          [
+            17.276893106177972,
+            62.37738207030286
+          ],
+          [
+            17.27617565786695,
+            62.37706189823698
+          ],
+          [
+            17.276096883721284,
+            62.376308855599994
+          ],
+          [
+            17.275860892291995,
+            62.37519630474266
+          ],
+          [
+            17.275676708904406,
+            62.37476683323159
+          ],
+          [
+            17.27507206891442,
+            62.37450515834634
+          ],
+          [
+            17.27507206891442,
+            62.37450515834634
+          ],
+          [
+            17.27356486141323,
+            62.3737653979852
+          ],
+          [
+            17.272406872813526,
+            62.37306015168886
+          ],
+          [
+            17.271684715205264,
+            62.37246903512765
+          ],
+          [
+            17.271178778378637,
+            62.37179336641933
+          ],
+          [
+            17.27086110280558,
+            62.37131577869118
+          ],
+          [
+            17.27085917478124,
+            62.37100402069843
+          ],
+          [
+            17.271105055607354,
+            62.37081896954538
+          ],
+          [
+            17.27238003346371,
+            62.370496426356134
+          ],
+          [
+            17.27297197027479,
+            62.37030572106882
+          ],
+          [
+            17.2736356372004,
+            62.37020436080354
+          ],
+          [
+            17.2744461357882,
+            62.3700402514916
+          ],
+          [
+            17.274746977527933,
+            62.369723544688334
+          ],
+          [
+            17.27519470050403,
+            62.36956703592094
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3367,
+      "type": "Feature",
+      "properties": {
+        "name": "Skridskobana Gärdehov",
+        "type": "Långfärdsskridskoled",
+        "created": "2022-11-11 12:04:42",
+        "updated": "2023-01-06 08:13:30",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "långfärdsskridsko",
+          "rundbana",
+          "skridskobana",
+          "skrinnarbana"
+        ],
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket lätt"
+          },
+          {
+            "id": 112,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Gott skick"
+          },
+          {
+            "id": 124,
+            "name": "Ledtyp",
+            "type": "DROPDOWN",
+            "value": "Iordningställd"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls skridskoleder"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3366,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Längd (meter)",
+            "type": "INTEGER",
+            "value": 500
+          },
+          {
+            "id": 100,
+            "name": "Stigning total (meter)",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 110,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Skrinnarbana för hastighetsåkning. Fungerar fint även för långfärdsskridskor. Bandyplan ligger innanför skrinnarbanan."
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/gardehov-arena/anlaggningar-i-gardehov-arena"
+          }
+        ],
+        "centerPoint": [
+          17.34630969780556,
+          62.41150751581759
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.34746986797509,
+            62.41131554825299
+          ],
+          [
+            17.347650119585015,
+            62.411332626730776
+          ],
+          [
+            17.347778784322895,
+            62.41138326285209
+          ],
+          [
+            17.347844639849544,
+            62.41146261690137
+          ],
+          [
+            17.34785654732761,
+            62.41154539464458
+          ],
+          [
+            17.347810272308855,
+            62.4116467544397
+          ],
+          [
+            17.347721074050835,
+            62.41175386657737
+          ],
+          [
+            17.34759466600012,
+            62.41180125775684
+          ],
+          [
+            17.347429568641477,
+            62.411839242759584
+          ],
+          [
+            17.347207767895497,
+            62.41184549449049
+          ],
+          [
+            17.34503053725456,
+            62.411736320276546
+          ],
+          [
+            17.34480037457719,
+            62.41170499151611
+          ],
+          [
+            17.344650055225543,
+            62.411654717147904
+          ],
+          [
+            17.34451185396337,
+            62.41155143430313
+          ],
+          [
+            17.34449740153315,
+            62.41143601079109
+          ],
+          [
+            17.34455628476531,
+            62.41135707048288
+          ],
+          [
+            17.34471243184746,
+            62.41127397863558
+          ],
+          [
+            17.344947328221288,
+            62.41122727848076
+          ],
+          [
+            17.345294247325523,
+            62.411226467445786
+          ],
+          [
+            17.34567000787399,
+            62.41124780037999
+          ],
+          [
+            17.34746986797509,
+            62.41131554825299
+          ]
+        ]
+      }
+    }
+  ]
+}

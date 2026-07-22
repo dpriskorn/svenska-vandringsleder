@@ -1,0 +1,943 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1423,
+      "type": "Feature",
+      "properties": {
+        "name": "Norra Bergets utsiktstorn",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:30:04",
+        "updated": "2020-07-07 21:00:42",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 22
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1323,
+                "filename": "image (7).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2123328,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1323",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "6388fcdb-1de8-4718-b52c-67cd76dffd25"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fantastisk utsikt över Sundsvalls stad, Sundsvallsbron och inloppet."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.norraberget.se/ata-shoppa/oppettider/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.norraberget.se/se-gora/friluftsmuseet/utsiktstornet/"
+          }
+        ],
+        "centerPoint": [
+          17.29404227148373,
+          62.39852569053167
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.293986603041223,
+                62.39858914380534
+              ],
+              [
+                17.29397028671942,
+                62.39855903265285
+              ],
+              [
+                17.294119396283374,
+                62.39854163351766
+              ],
+              [
+                17.294135694101012,
+                62.39857175393943
+              ],
+              [
+                17.293986603041223,
+                62.39858914380534
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1424,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågeltorn i Stöde",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:31:17",
+        "updated": "2020-08-20 09:39:56",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-20"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1706,
+                "filename": "20200820_092806.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7091189,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1706",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1707,
+                "filename": "20200820_092538.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8802552,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1707",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1708,
+                "filename": "20200820_091950.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4870925,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1708",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1709,
+                "filename": "20200820_091956.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4254648,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1709",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1710,
+                "filename": "20200820_091747.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6398479,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1710",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "a4158479-f8dc-4230-a84e-3943871513c3"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sex metee högt fågeltorn med tak och utsikt över Ljungans fågelrika delta i Stödesjön."
+          }
+        ],
+        "centerPoint": [
+          16.59175014601633,
+          62.41795713257932
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.591805825392093,
+                62.41798362674921
+              ],
+              [
+                16.59178046071608,
+                62.41801132631586
+              ],
+              [
+                16.591710176341202,
+                62.417997485871254
+              ],
+              [
+                16.59173556089792,
+                62.41796979506877
+              ],
+              [
+                16.591805825392093,
+                62.41798362674921
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1425,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågeltorn Mingen",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:32:20",
+        "updated": "2026-06-22 09:34:29",
+        "published": true,
+        "parentObjects": [
+          3934
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-09-07"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2556,
+                "filename": "20230907_082206.jpg",
+                "description": "Fågeltorn",
+                "alttext": "Fågeltorn ",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 11290051,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2556",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2557,
+                "filename": "20230907_082103.jpg",
+                "description": "Utsikt från fågeltorn",
+                "alttext": "Utsikt från fågeltorn",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7241621,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2557",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2558,
+                "filename": "20230907_082138.jpg",
+                "description": "Plattform på fågeltorn",
+                "alttext": "Plattform på fågeltorn",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8988203,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2558",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2559,
+                "filename": "20230907_082317.jpg",
+                "description": "Spång till fågeltorn",
+                "alttext": "Spång till fågeltorn",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 10333787,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2559",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2560,
+                "filename": "20230907_082335.jpg",
+                "description": "Information om Mingen",
+                "alttext": "Information om Mingen",
+                "sourcetext": "Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 9362672,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2560",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c50c8d66-99fa-43c2-a6e4-b49d84822ae0"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Dubblett i fågeltorn vid syster-sjöarna Mingen och Skrängstasjön! Fågelsjöarna i Njurunda är välkända fågelsträcksområden. I samband med islossningen rastar t ex flera olika arter simänder och doppingar. Kring mitten av maj ses ofta ett flertal olika vadararter. Vissa år kan tranor ses på nordsträck i rätt betydande antal. Även ett flertal rovfågelsarter sträcker förbi. Häckfågelfaunan bjuder på arter som brunand och brun kärrhök, möjligtvis även vattenrall, rörhöna och gråhakedopping. Rör- och sävsångare finns det gott om i vassarna. I omgivningarna kring Mingen häckar lärkfalk, härmsångare och stjärtmes. Ett stort antal för Medelpad ovanliga arter har noterats här genom åren."
+          },
+          {
+            "id": 290,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Brant trapp upp på plattformen"
+          }
+        ],
+        "centerPoint": [
+          17.430110769737677,
+          62.230170388996854
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.430136518810787,
+                62.230228756162404
+              ],
+              [
+                17.43016537005313,
+                62.23023424984811
+              ],
+              [
+                17.43012994548604,
+                62.230274790424986
+              ],
+              [
+                17.430101074990798,
+                62.230269297068865
+              ],
+              [
+                17.430136518810787,
+                62.230228756162404
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1426,
+      "type": "Feature",
+      "properties": {
+        "name": "Skrängstasjöns fågeltorn",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:33:10",
+        "updated": "2022-01-10 16:07:04",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 5
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1320,
+                "filename": "IMG_1819.JPG",
+                "description": "Fågeltorn",
+                "alttext": "Fågeltorn",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2185397,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1320",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1321,
+                "filename": "fågeltorn_skrängsta.jpg",
+                "description": "Omgivningen kring fågeltornet",
+                "alttext": "Omgivningen kring fågeltornet",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 53164,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1321",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "172a2649-531d-4e7b-b57d-2a224015a97b"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Dubblett i fågeltorn vid syster-sjöarna Mingen och Skrängstasjön! Fågelsjöarna i Njurunda är välkända fågelsträcksområden. Vanliga vårfåglar är tofsvipor med sina lustiga visselljud. Kungsörnar är inte heller en ovanlig syn där de kretasar högt i skyn. I maj hörs rariteten rördrommen särskilt i Mingen som tutar morgon och kväll ungefär som att blåsa i en flaska med lite vatten i."
+          }
+        ],
+        "centerPoint": [
+          17.393142638029634,
+          62.24929342448889
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39298727125612,
+                62.24872979942999
+              ],
+              [
+                17.39302700207824,
+                62.24874242362217
+              ],
+              [
+                17.39299790309249,
+                62.24876235069662
+              ],
+              [
+                17.39295817225594,
+                62.248749726496214
+              ],
+              [
+                17.39298727125612,
+                62.24872979942999
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1427,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelskådningsplattform Selångersfjärden",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:35:23",
+        "updated": "2023-02-13 12:58:31",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "tags": [
+          "fågelskådning",
+          "fågeltorn"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "sundsvalls kommun stadsbyggnadskontoret"
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "a054ca2b-38e0-4f0d-9d76-c89d35401d90"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En plattform för att skåda på fåglar i Selångersfjärden"
+          }
+        ],
+        "centerPoint": [
+          17.217307903469965,
+          62.401662858238886
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.21735767116906,
+                62.40168619553256
+              ],
+              [
+                17.217347393998583,
+                62.40171394537555
+              ],
+              [
+                17.217276442462577,
+                62.401708277092055
+              ],
+              [
+                17.217286739693314,
+                62.40168053591562
+              ],
+              [
+                17.21735767116906,
+                62.40168619553256
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1428,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelskådningsplattform Stornäset",
+        "type": "Utsiktstorn",
+        "created": "2020-01-29 15:37:18",
+        "updated": "2020-04-07 20:56:01",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "länsstyrelsen västernorrland"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "d0403d9f-f3d5-489c-b0c3-b4efab514b56"
+          }
+        ],
+        "centerPoint": [
+          17.497618698193875,
+          62.45064469946799
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.497439228614297,
+                62.450146351203415
+              ],
+              [
+                17.49751279102657,
+                62.45013960910932
+              ],
+              [
+                17.4975242646303,
+                62.450166489911695
+              ],
+              [
+                17.4974507021548,
+                62.45017323201212
+              ],
+              [
+                17.497439228614297,
+                62.450146351203415
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4272,
+      "type": "Feature",
+      "properties": {
+        "name": "Starttorn Sundsvalls slalombacke",
+        "type": "Utsiktstorn",
+        "created": "2026-01-19 10:04:53",
+        "updated": "2026-03-11 12:49:50",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 228,
+            "name": "Höjd",
+            "type": "INTEGER",
+            "value": 245
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-11"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2855,
+                "filename": "image.jpg",
+                "description": "Utsiktstorn ",
+                "alttext": "Utsiktstorn i trä med utsikt över sundsvall",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2263310,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2855",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2856,
+                "filename": "image.jpg",
+                "description": "Utsikt från starttornet",
+                "alttext": "Utsikt över stad",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2387379,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2856",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "381b06f6-e8b5-43f0-a835-f3822668d1fe"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Starttornet i Sundsvalls slalombacke ger en fantastisk utsikt i nära på 360 grader. "
+          }
+        ],
+        "centerPoint": [
+          17.322232651588187,
+          62.36896765407421
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.322151847832465,
+                62.368946259811324
+              ],
+              [
+                17.322222432286818,
+                62.36892064661497
+              ],
+              [
+                17.322302846404895,
+                62.36893687022528
+              ],
+              [
+                17.322310078200758,
+                62.368977116004935
+              ],
+              [
+                17.32224154233979,
+                62.36900196765621
+              ],
+              [
+                17.322163644109906,
+                62.36898602531927
+              ],
+              [
+                17.322151847832465,
+                62.368946259811324
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

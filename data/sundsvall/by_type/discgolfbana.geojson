@@ -1,0 +1,1940 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 3696,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 1",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:32:13",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1705,
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 48
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.310693117512738,
+          62.36620784251296
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.310936745972196,
+            62.366386347714645
+          ],
+          [
+            17.310749086907272,
+            62.36619886682805
+          ],
+          [
+            17.310393522791337,
+            62.36603831243099
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3697,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 2",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:32:53",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1705,
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 54
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.310026446217964,
+          62.36571400462843
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.310452982846844,
+            62.36586835260338
+          ],
+          [
+            17.309599913962842,
+            62.36555965532324
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3698,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 3",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:38:46",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1705,
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 94
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30999288621576,
+          62.3648931671331
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.30972355883305,
+            62.36539365948214
+          ],
+          [
+            17.310011798943595,
+            62.36470745266952
+          ],
+          [
+            17.310243293764994,
+            62.364578388767846
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3699,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 4b",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:39:53",
+        "updated": "2024-10-22 18:37:04",
+        "published": true,
+        "parentObjects": [
+          1705
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 44
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.310934950239023,
+          62.36481572700296
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.310465470505143,
+            62.364729230112
+          ],
+          [
+            17.311404432649155,
+            62.364902222297005
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3700,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 5b",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:40:40",
+        "updated": "2024-10-22 18:37:04",
+        "published": true,
+        "parentObjects": [
+          1705
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 48
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.311693920703572,
+          62.36521007274041
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.311763333639362,
+            62.365028883194945
+          ],
+          [
+            17.311624506952512,
+            62.365391262250725
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3701,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 6b",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:41:17",
+        "updated": "2024-10-22 18:37:04",
+        "published": true,
+        "parentObjects": [
+          1705
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 62
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.311744136292653,
+          62.365820088312454
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.311977332053985,
+            62.36558655876551
+          ],
+          [
+            17.311747361955888,
+            62.365890104758535
+          ],
+          [
+            17.311507711796747,
+            62.36598360102547
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3702,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 4",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:42:44",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 74
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30909153327226,
+          62.36412981380697
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.30974630102913,
+            62.364366371179685
+          ],
+          [
+            17.308981324886005,
+            62.36407632417134
+          ],
+          [
+            17.308546982551473,
+            62.36394674337519
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3703,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 5",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:44:00",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 98
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30578656334529,
+          62.363455924114845
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.306666935654537,
+            62.36337444814866
+          ],
+          [
+            17.306262573880627,
+            62.36329666444014
+          ],
+          [
+            17.305369639021105,
+            62.36351060707163
+          ],
+          [
+            17.304847093202266,
+            62.36364196945271
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3704,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 5c",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:44:40",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 45
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30619996591583,
+          62.363317817853606
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.306666935654537,
+            62.36337444814866
+          ],
+          [
+            17.306262573880627,
+            62.36329666444014
+          ],
+          [
+            17.305670389638067,
+            62.36328233916008
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3705,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 6",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:45:28",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 84
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30391187464376,
+          62.363601384378725
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.304414266669202,
+            62.36333432658254
+          ],
+          [
+            17.304066716245536,
+            62.3634889383347
+          ],
+          [
+            17.303788269215403,
+            62.363725885427236
+          ],
+          [
+            17.30337823636845,
+            62.36385638513437
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3706,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 7",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:46:45",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 132
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.30157873570874,
+          62.36412637597755
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.302291938277182,
+            62.363603303025
+          ],
+          [
+            17.30196511470998,
+            62.36382369686581
+          ],
+          [
+            17.30183928360793,
+            62.36401813502957
+          ],
+          [
+            17.301517481667013,
+            62.36419821320599
+          ],
+          [
+            17.30100121003652,
+            62.36452483090158
+          ],
+          [
+            17.300857349896614,
+            62.364590071262306
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3707,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 8",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:49:20",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 171
+          },
+          {
+            "id": 270,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2636,
+                "filename": "Hål 8.jpg",
+                "description": "Korgen på hål 8",
+                "alttext": "DIscgolfkorg",
+                "sourcetext": "Frilufstenheten Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 82708,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2636",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.299727271004887,
+          62.36356281920448
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.300330780802188,
+            62.36432319166573
+          ],
+          [
+            17.299723226474047,
+            62.36352885697618
+          ],
+          [
+            17.299127835853607,
+            62.362836406163446
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3708,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 9",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:51:13",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 48
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.298851460214873,
+          62.362476291489536
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.29887829488355,
+            62.362779679080276
+          ],
+          [
+            17.298728882558823,
+            62.362418807595716
+          ],
+          [
+            17.298947202976592,
+            62.362230387693934
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3709,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 10",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:53:26",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 80
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.29817193192591,
+          62.362390709558426
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.298727544712847,
+            62.3620831489084
+          ],
+          [
+            17.29796250074668,
+            62.36244781026512
+          ],
+          [
+            17.297825741364015,
+            62.36264116783448
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3710,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 11",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:54:34",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 120
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.296546718258316,
+          62.36205378376866
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.297658120123526,
+            62.36221899173697
+          ],
+          [
+            17.29543532845294,
+            62.36188856686601
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3711,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 12",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:56:29",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 83
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.296590940891043,
+          62.36160580987929
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.29582351731075,
+            62.361585534768665
+          ],
+          [
+            17.297358365418866,
+            62.36162608075336
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3712,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 13",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:57:57",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 107
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.299130393459986,
+          62.3613357322116
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.297919605666273,
+            62.36134969870423
+          ],
+          [
+            17.30034117990629,
+            62.36132175519006
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3713,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 14",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 18:59:59",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 149
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.302276383393416,
+          62.362894480945776
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.30079533917182,
+            62.362473917445996
+          ],
+          [
+            17.303012105857523,
+            62.36304197472756
+          ],
+          [
+            17.303021736126595,
+            62.363167538683456
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3714,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 15",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 19:01:22",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 85
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.304979678904978,
+          62.36297167891613
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.304196003071105,
+            62.36291651616884
+          ],
+          [
+            17.30486146175171,
+            62.362982940661375
+          ],
+          [
+            17.305353627843353,
+            62.36302004795087
+          ],
+          [
+            17.30550762479523,
+            62.36296720711398
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3715,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 16",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 19:02:32",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 49
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.307698189326366,
+          62.36256579363119
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.30717942130559,
+            62.362576910729985
+          ],
+          [
+            17.308216956922415,
+            62.36255467460043
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3716,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 17",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 19:03:46",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 115
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.309312680769853,
+          62.36305447546878
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.308572390674442,
+            62.36253117675724
+          ],
+          [
+            17.309497196550467,
+            62.363260114398
+          ],
+          [
+            17.309868475204038,
+            62.3633721319312
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3717,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets discgolfbana hål 18",
+        "type": "Discgolfbana",
+        "created": "2023-09-04 19:05:25",
+        "updated": "2024-10-22 18:39:07",
+        "published": true,
+        "parentObjects": [
+          1706
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 276,
+            "name": "Vinterskötsel",
+            "type": "DROPDOWN",
+            "value": "Ingen skötsel"
+          },
+          {
+            "id": 298,
+            "name": "Par",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 299,
+            "name": "Avstånd",
+            "type": "INTEGER",
+            "value": 120
+          },
+          {
+            "id": 268,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 278,
+            "name": "Sommarled",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 269,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Nej"
+          },
+          {
+            "id": 292,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Vältrampad skogsmark"
+          }
+        ],
+        "centerPoint": [
+          17.311074305359252,
+          62.36417147624399
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.31026325993274,
+            62.3639373693517
+          ],
+          [
+            17.31135945302271,
+            62.36413445379088
+          ],
+          [
+            17.31135945302271,
+            62.36413445379088
+          ],
+          [
+            17.311315063535393,
+            62.36447962483993
+          ]
+        ]
+      }
+    }
+  ]
+}

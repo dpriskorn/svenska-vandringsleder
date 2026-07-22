@@ -1,0 +1,850 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 641,
+      "type": "Feature",
+      "properties": {
+        "name": "Gärdehov, A-hall och B-hall",
+        "type": "Ishall",
+        "created": "2018-10-11 13:31:18",
+        "updated": "2025-02-14 06:00:02",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "a-hall",
+          "b-hall",
+          "gärdehov",
+          "ishall",
+          "ishockey",
+          "mässhall"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1981
+          },
+          {
+            "id": 12,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 178,
+            "name": "Antal planer",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2419,
+                "filename": "DSC_0163.JPG",
+                "description": "Gärdehov Arena A-hall",
+                "alttext": "Människor som åker skridskor i ishall",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2414165,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2419",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2418,
+                "filename": "Gärde ishallar.jpg",
+                "description": "Gärdehov Arena A-hall",
+                "alttext": "Byggnader för idrott",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 747179,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2418",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2420,
+                "filename": "DSC_0176_L.jpg",
+                "description": "Gärdehov Arena B-hall",
+                "alttext": "Vattenflask på sargkanten med skridskoåkare på isen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3838610,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2420",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c70f2c6a-b815-40dd-a133-6c380fc52404"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "A-hall (Brandcode Center) - I A-hallen arrangeras årligen flera publika mässor. På sportsidan är ishockey och konståkning representerad i hallen. Fakta: Yta 64 x 35 meter. Publikkpacitet i arenan: 2 500 personer varav 1300 sittplatser.  B-hall (Ungdomshallen) - Ungdomshallen är en is- och mässhall med läktarplatser. Fakta: Total golvyta 2 200 kvm, läktarplats för 500 personer. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/gardehov-arena/anlaggningar-i-gardehov-arena"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/gardehov-arena"
+          },
+          {
+            "id": 290,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Hiss finns med anvisade platser för rullstolsburen."
+          }
+        ],
+        "centerPoint": [
+          17.34773876978501,
+          62.412445934534176
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.345975603255496,
+                62.41256444409595
+              ],
+              [
+                17.34607162492787,
+                62.41211577671224
+              ],
+              [
+                17.347120022350488,
+                62.4121641888126
+              ],
+              [
+                17.34713915061005,
+                62.41208236140507
+              ],
+              [
+                17.34748528287674,
+                62.412099515227304
+              ],
+              [
+                17.34746669392969,
+                62.41218019538028
+              ],
+              [
+                17.347655476474944,
+                62.412188911504096
+              ],
+              [
+                17.347554686956684,
+                62.41263845985657
+              ],
+              [
+                17.345975603255496,
+                62.41256444409595
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.347613991623216,
+                62.412373923241276
+              ],
+              [
+                17.348550350065082,
+                62.41242025821047
+              ],
+              [
+                17.34855487518778,
+                62.41240807641251
+              ],
+              [
+                17.348697258603845,
+                62.412415024562726
+              ],
+              [
+                17.348694859337172,
+                62.412426658645764
+              ],
+              [
+                17.34918241641036,
+                62.41245060561283
+              ],
+              [
+                17.349186451844318,
+                62.41243909659507
+              ],
+              [
+                17.349252590280912,
+                62.4124429474428
+              ],
+              [
+                17.349242665669635,
+                62.41248825903819
+              ],
+              [
+                17.349515706962677,
+                62.41250324060779
+              ],
+              [
+                17.349450338564292,
+                62.412790744473035
+              ],
+              [
+                17.349178375499697,
+                62.4127776932989
+              ],
+              [
+                17.34917408439835,
+                62.412789646664
+              ],
+              [
+                17.349107509917847,
+                62.41278567739733
+              ],
+              [
+                17.349110352071236,
+                62.41277426034703
+              ],
+              [
+                17.348622494412275,
+                62.41275099165856
+              ],
+              [
+                17.348618421809395,
+                62.41276227677424
+              ],
+              [
+                17.348475125748053,
+                62.41275531696764
+              ],
+              [
+                17.348477443177856,
+                62.41274436677626
+              ],
+              [
+                17.347990639199875,
+                62.41272019805007
+              ],
+              [
+                17.347987258641265,
+                62.41273216296769
+              ],
+              [
+                17.347920447429658,
+                62.41272862818371
+              ],
+              [
+                17.347926048372926,
+                62.41270323614786
+              ],
+              [
+                17.34780427835126,
+                62.41269643372537
+              ],
+              [
+                17.347780967699144,
+                62.4126440849884
+              ],
+              [
+                17.34755669798986,
+                62.41262952644521
+              ],
+              [
+                17.347613991623216,
+                62.412373923241276
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.346179729018726,
+                62.41257400969432
+              ],
+              [
+                17.347280623943693,
+                62.41262561528311
+              ],
+              [
+                17.347238950653935,
+                62.41267442941473
+              ],
+              [
+                17.346777847653687,
+                62.41265203294676
+              ],
+              [
+                17.346738442550848,
+                62.41270074127279
+              ],
+              [
+                17.346158134776516,
+                62.41267312181218
+              ],
+              [
+                17.346179729018726,
+                62.41257400969432
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 920,
+      "type": "Feature",
+      "properties": {
+        "name": "Ånäshallen",
+        "type": "Ishall",
+        "created": "2019-10-24 14:15:17",
+        "updated": "2025-10-28 06:00:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1317,
+      "type": "Feature",
+      "properties": {
+        "name": "Modin och Zetterberg hallen",
+        "type": "Ishall",
+        "created": "2019-12-04 09:22:47",
+        "updated": "2025-11-08 06:00:09",
+        "published": true,
+        "owner": {
+          "organizationID": 115,
+          "name": "Njurunda SK"
+        },
+        "manager": {
+          "organizationID": 115,
+          "name": "Njurunda SK"
+        },
+        "tags": [
+          "ishall",
+          "ishockey",
+          "njurunda",
+          "njurunda ishall",
+          "njurunda sk",
+          "skridskor"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 178,
+            "name": "Antal planer",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "njurunda sk"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1237,
+                "filename": "Njurunda IK ishallen (3).JPG",
+                "description": "Modin & Zetterberg hallen",
+                "alttext": "Isplan med läktare inomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2663583,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1237",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1236,
+                "filename": "Njurunda ishall (4).JPG",
+                "description": "Hockeyplan i Modin & Zetterberg hallen",
+                "alttext": "Isbelagd yta inomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2795992,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1236",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1238,
+                "filename": "Njurunda IK ishallen (8).JPG",
+                "description": "Modin & Zetterberg hallen",
+                "alttext": "Nyspolad is inomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2437332,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1238",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1240,
+                "filename": "Njurunda ishall isbana ute (1).JPG",
+                "description": "Modin & Zetterberg hallen",
+                "alttext": "Isplan med sarg utomhus med en ishallsbyggnad i bakgrunden",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 2863303,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1240",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1239,
+                "filename": "Njurunda ishall.JPG",
+                "description": "Modin & Zetterberg hallen",
+                "alttext": "Ishallsbyggnad utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 2460984,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1239",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "d134084b-4252-47c9-a05e-b7c396d13725"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ishall som fungerar som hemmaarena för Njurunda SK. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://admin.istiden.se/ut/njurunda-sportklubb/modin-zetterberg-hallen"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.laget.se/NjurundaSportklubb"
+          }
+        ],
+        "centerPoint": [
+          17.367037850374217,
+          62.268237453409476
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.367892690643693,
+                62.26840768477296
+              ],
+              [
+                17.367542542921022,
+                62.26842647193721
+              ],
+              [
+                17.367471118706476,
+                62.268137321020454
+              ],
+              [
+                17.36782120772819,
+                62.26811831946215
+              ],
+              [
+                17.367892690643693,
+                62.26840768477296
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.367542542921022,
+                62.26842647193721
+              ],
+              [
+                17.36627739067651,
+                62.268494058581524
+              ],
+              [
+                17.36618822876215,
+                62.26813295181371
+              ],
+              [
+                17.367087249412688,
+                62.26808492734989
+              ],
+              [
+                17.367068028965296,
+                62.26800678281042
+              ],
+              [
+                17.36743170761195,
+                62.267987352931165
+              ],
+              [
+                17.367542542921022,
+                62.26842647193721
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3379,
+      "type": "Feature",
+      "properties": {
+        "name": "FD Maskin Arena (Ånäshallen)",
+        "type": "Ishall",
+        "created": "2022-12-01 16:47:20",
+        "updated": "2025-10-28 06:00:14",
+        "published": true,
+        "owner": {
+          "organizationID": 70,
+          "name": "kovlands IF"
+        },
+        "manager": {
+          "organizationID": 70,
+          "name": "kovlands IF"
+        },
+        "tags": [
+          "ishall",
+          "ishockey",
+          "allmänhetensåkning",
+          "ånäshallen"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Planerad"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kovlands idrottsförening"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2423,
+                "filename": "Kovlands ishall (7).JPG",
+                "description": "Läktare och isplan i FD Maskin Arena",
+                "alttext": "Isplan med läktare inomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2335890,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2423",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2422,
+                "filename": "Kovlands ishall (8).JPG",
+                "description": "Entré till FD Maskin Arena",
+                "alttext": "Entrédörr till ishallen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2948382,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2422",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2424,
+                "filename": "Kovlands ishall (1).JPG",
+                "description": "FD Maskin Arena utomhus",
+                "alttext": "Ishallsbyggnad utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2938191,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2424",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "fae771f8-ee45-4fbf-8bc8-c76eaeff8161"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "FD Maskin Arena, hemmaarena för Kovlands IF A-lag och ungdomsverksamhet."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.svenskalag.se/kovlandhockey/kalender"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.svenskalag.se/kovlandhockey/kontakt"
+          }
+        ],
+        "centerPoint": [
+          17.146778915681377,
+          62.468608890643566
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.147071968965797,
+                62.468915909953324
+              ],
+              [
+                17.147038636091242,
+                62.46892874638928
+              ],
+              [
+                17.146978420860385,
+                62.46892406951613
+              ],
+              [
+                17.14695513353101,
+                62.46898831076741
+              ],
+              [
+                17.14623522683251,
+                62.46893239090799
+              ],
+              [
+                17.146359274888027,
+                62.468590214308236
+              ],
+              [
+                17.146273063254732,
+                62.46858351698274
+              ],
+              [
+                17.14628653536397,
+                62.46854635259741
+              ],
+              [
+                17.146372746893167,
+                62.46855304991462
+              ],
+              [
+                17.146467118441926,
+                62.46829272241181
+              ],
+              [
+                17.147187965497327,
+                62.468348715354686
+              ],
+              [
+                17.147049718970152,
+                62.46873009245525
+              ],
+              [
+                17.14713669662905,
+                62.46873684818557
+              ],
+              [
+                17.14717348767299,
+                62.46863535452603
+              ],
+              [
+                17.147348206023874,
+                62.46864892466038
+              ],
+              [
+                17.14725722835351,
+                62.46889990601293
+              ],
+              [
+                17.14724366188204,
+                62.46889883190134
+              ],
+              [
+                17.14723549150253,
+                62.4689209410257
+              ],
+              [
+                17.147074813756877,
+                62.4689082164347
+              ],
+              [
+                17.147071968965797,
+                62.468915909953324
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.14633038002009,
+                62.46828228203792
+              ],
+              [
+                17.14648068691909,
+                62.46822872704902
+              ],
+              [
+                17.147076326046367,
+                62.468274994001185
+              ],
+              [
+                17.1470533916744,
+                62.46833826203071
+              ],
+              [
+                17.146467118441926,
+                62.46829272241181
+              ],
+              [
+                17.146383107243317,
+                62.46852446888733
+              ],
+              [
+                17.146246432368123,
+                62.46851385172321
+              ],
+              [
+                17.14633038002009,
+                62.46828228203792
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

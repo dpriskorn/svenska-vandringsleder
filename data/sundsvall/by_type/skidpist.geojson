@@ -1,0 +1,2892 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 3517,
+      "type": "Feature",
+      "properties": {
+        "name": "Barnbacken",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:31:22",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3516,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.277150288669677,
+          62.36767530574804
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.2805621657774,
+            62.3671343577657
+          ],
+          [
+            17.279067939791844,
+            62.367382621851064
+          ],
+          [
+            17.276918468340803,
+            62.36766422170032
+          ],
+          [
+            17.275592028715344,
+            62.367877014807384
+          ],
+          [
+            17.275411485596752,
+            62.36795917164605
+          ],
+          [
+            17.275349513709795,
+            62.36803436080075
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3518,
+      "type": "Feature",
+      "properties": {
+        "name": "Shredwood vänster",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:32:03",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3512,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 3513,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 3514,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 3515,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 5
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.282768956699375,
+          62.36773004622763
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.286498348849904,
+            62.36854547946222
+          ],
+          [
+            17.286462199950797,
+            62.36851533184034
+          ],
+          [
+            17.286403191353934,
+            62.36849045257545
+          ],
+          [
+            17.286301267404895,
+            62.36844318191721
+          ],
+          [
+            17.28616562159442,
+            62.368383582650395
+          ],
+          [
+            17.28607193853314,
+            62.36834242051519
+          ],
+          [
+            17.28594051028881,
+            62.36827151414745
+          ],
+          [
+            17.285823165205127,
+            62.368224301733854
+          ],
+          [
+            17.28565890471019,
+            62.36814075404738
+          ],
+          [
+            17.285587359978898,
+            62.368056689297674
+          ],
+          [
+            17.28551582722608,
+            62.36794289967428
+          ],
+          [
+            17.28536830572549,
+            62.367827208703986
+          ],
+          [
+            17.28536830572549,
+            62.367827208703986
+          ],
+          [
+            17.285263699578255,
+            62.36774945914279
+          ],
+          [
+            17.285176527787243,
+            62.36770405330688
+          ],
+          [
+            17.28507594495714,
+            62.36767233138013
+          ],
+          [
+            17.284955245546307,
+            62.36764185341936
+          ],
+          [
+            17.284792971891704,
+            62.36761759542616
+          ],
+          [
+            17.2844764712281,
+            62.3675833854064
+          ],
+          [
+            17.28416935829514,
+            62.36755228535851
+          ],
+          [
+            17.283974898156046,
+            62.3675354913158
+          ],
+          [
+            17.283813965604363,
+            62.36751309924023
+          ],
+          [
+            17.283720088301013,
+            62.36749381717331
+          ],
+          [
+            17.28356840999875,
+            62.36745214296969
+          ],
+          [
+            17.283408818559142,
+            62.36740549267591
+          ],
+          [
+            17.283261297063856,
+            62.367373148426076
+          ],
+          [
+            17.283080247958843,
+            62.367347646207705
+          ],
+          [
+            17.282842872460428,
+            62.367327120016476
+          ],
+          [
+            17.282547829462874,
+            62.36731156985997
+          ],
+          [
+            17.2822498522642,
+            62.36730780479579
+          ],
+          [
+            17.2822498522642,
+            62.36730780479579
+          ],
+          [
+            17.282173661297744,
+            62.36730721581439
+          ],
+          [
+            17.281978885245326,
+            62.36730331236102
+          ],
+          [
+            17.281956402378906,
+            62.367302861770455
+          ],
+          [
+            17.281646607240095,
+            62.36731903394054
+          ],
+          [
+            17.281481651372673,
+            62.36733178506019
+          ],
+          [
+            17.281331447675946,
+            62.36734889021956
+          ],
+          [
+            17.28108066113362,
+            62.36738434451684
+          ],
+          [
+            17.28108066113362,
+            62.36738434451684
+          ],
+          [
+            17.28072124512043,
+            62.36745400897658
+          ],
+          [
+            17.280525443868953,
+            62.36749754918545
+          ],
+          [
+            17.280361829117822,
+            62.367528027297794
+          ],
+          [
+            17.280218330929927,
+            62.367542955332155
+          ],
+          [
+            17.280170051175297,
+            62.36754419933358
+          ],
+          [
+            17.28005739838444,
+            62.36753549131784
+          ],
+          [
+            17.279938040095445,
+            62.36753424731456
+          ],
+          [
+            17.27982672842643,
+            62.36754668734613
+          ],
+          [
+            17.279659090346588,
+            62.367575921401674
+          ],
+          [
+            17.279491452291442,
+            62.36760328942161
+          ],
+          [
+            17.27890570061163,
+            62.36781273374646
+          ],
+          [
+            17.278302240196627,
+            62.36801902371034
+          ],
+          [
+            17.278105335272908,
+            62.36808889148602
+          ],
+          [
+            17.27798769513164,
+            62.368199900627395
+          ],
+          [
+            17.277962684357135,
+            62.36838114395797
+          ],
+          [
+            17.277859546385226,
+            62.368508759887796
+          ],
+          [
+            17.277477334875986,
+            62.368751372588186
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3519,
+      "type": "Feature",
+      "properties": {
+        "name": "Shredwood höger",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:32:22",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3511,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.28293316846165,
+          62.36770975584918
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.28536830572549,
+            62.367827208703986
+          ],
+          [
+            17.284919508585162,
+            62.3679454539503
+          ],
+          [
+            17.284415464174455,
+            62.36800904659139
+          ],
+          [
+            17.284208090861984,
+            62.367987306003116
+          ],
+          [
+            17.28366369581004,
+            62.367805142472804
+          ],
+          [
+            17.283099971689065,
+            62.367653467341796
+          ],
+          [
+            17.282575567749188,
+            62.36759166509134
+          ],
+          [
+            17.282358997534256,
+            62.367603179451976
+          ],
+          [
+            17.281974200733764,
+            62.36765684514477
+          ],
+          [
+            17.28172624880784,
+            62.367670968510474
+          ],
+          [
+            17.28148338508988,
+            62.367609574697326
+          ],
+          [
+            17.281257188328286,
+            62.36748253172269
+          ],
+          [
+            17.28108066113362,
+            62.36738434451684
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3520,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöbacken",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:33:06",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3508,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.279238055945434,
+          62.3692463596383
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.286359058384672,
+            62.36875660796182
+          ],
+          [
+            17.28479060469766,
+            62.36894847496114
+          ],
+          [
+            17.283385127172526,
+            62.3689484749552
+          ],
+          [
+            17.281602607582656,
+            62.36946327961578
+          ],
+          [
+            17.279570433592813,
+            62.36993660782506
+          ],
+          [
+            17.27883610068518,
+            62.369835394507106
+          ],
+          [
+            17.27776053460046,
+            62.36968861313555
+          ],
+          [
+            17.27749211381197,
+            62.3695884390845
+          ],
+          [
+            17.277022573195904,
+            62.36939370978574
+          ],
+          [
+            17.27673149558503,
+            62.369267721067295
+          ],
+          [
+            17.276616628670617,
+            62.36914513544197
+          ],
+          [
+            17.27650890085437,
+            62.368938199259716
+          ],
+          [
+            17.27638910511312,
+            62.368821980188336
+          ],
+          [
+            17.27626736843252,
+            62.36871585052307
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3521,
+      "type": "Feature",
+      "properties": {
+        "name": "Genvägen",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:33:22",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3509,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.27967280301869,
+          62.3691101942096
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.281602607582656,
+            62.36946327961578
+          ],
+          [
+            17.28072143141263,
+            62.369266509801285
+          ],
+          [
+            17.2788898958571,
+            62.36895957770844
+          ],
+          [
+            17.277477334875986,
+            62.368751372588186
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3522,
+      "type": "Feature",
+      "properties": {
+        "name": "Branten",
+        "type": "Skidpist",
+        "created": "2023-04-05 11:33:45",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3510,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/sidsjobacken"
+          }
+        ],
+        "centerPoint": [
+          17.279492183038286,
+          62.36881368913661
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.283385127172526,
+            62.3689484749552
+          ],
+          [
+            17.28079226834705,
+            62.36884496550499
+          ],
+          [
+            17.279538847544966,
+            62.368807669504044
+          ],
+          [
+            17.277477334875986,
+            62.368751372588186
+          ],
+          [
+            17.27626736843252,
+            62.36871585052307
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3529,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken Stora backen",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:27:55",
+        "updated": "2023-12-15 09:53:42",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket svår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3525,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 3527,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Längd (meter)",
+            "type": "INTEGER",
+            "value": 700
+          },
+          {
+            "id": 100,
+            "name": "Stigning total (meter)",
+            "type": "INTEGER",
+            "value": 150
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.36798707533268,
+          62.30036049585536
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.36417819853672,
+            62.300091864972245
+          ],
+          [
+            17.36426528486026,
+            62.300306634176145
+          ],
+          [
+            17.36441454252271,
+            62.3004876561691
+          ],
+          [
+            17.364592293806126,
+            62.3005500092919
+          ],
+          [
+            17.36508134868587,
+            62.30058694681016
+          ],
+          [
+            17.3659657170121,
+            62.30049896736894
+          ],
+          [
+            17.367003952731665,
+            62.30037567171394
+          ],
+          [
+            17.36754925750512,
+            62.300358866004125
+          ],
+          [
+            17.36754925750512,
+            62.300358866004125
+          ],
+          [
+            17.36901712744022,
+            62.30028603843231
+          ],
+          [
+            17.371252394591345,
+            62.30027305117206
+          ],
+          [
+            17.374552487703284,
+            62.300337385809556
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3530,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken Stora backen vänster",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:28:25",
+        "updated": "2023-12-15 09:53:53",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket svår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3526,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.37123745334054,
+          62.300758933379434
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.36754925750512,
+            62.300358866004125
+          ],
+          [
+            17.368394944782764,
+            62.300548101477524
+          ],
+          [
+            17.3698655691357,
+            62.300839857790635
+          ],
+          [
+            17.371312413561757,
+            62.301172237633814
+          ],
+          [
+            17.371885821161893,
+            62.30118256612598
+          ],
+          [
+            17.372705898259596,
+            62.3010327773892
+          ],
+          [
+            17.3736332611969,
+            62.30059952033464
+          ],
+          [
+            17.374552487703284,
+            62.300337385809556
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3531,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken Parken",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:28:54",
+        "updated": "2023-12-15 09:54:03",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3528,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.371051987437422,
+          62.29989605091107
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.36754925750512,
+            62.300358866004125
+          ],
+          [
+            17.367984137150305,
+            62.299926465848536
+          ],
+          [
+            17.368703666051356,
+            62.29959736645196
+          ],
+          [
+            17.369771860530467,
+            62.29939441993207
+          ],
+          [
+            17.37028255052978,
+            62.29944901993586
+          ],
+          [
+            17.37236535999092,
+            62.2998488588746
+          ],
+          [
+            17.373220710532507,
+            62.2999767599347
+          ],
+          [
+            17.373357140529304,
+            62.3000188799359
+          ],
+          [
+            17.37353966053119,
+            62.30013160993328
+          ],
+          [
+            17.37374559121007,
+            62.30025806538985
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3532,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbybacken Lilla backen",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:30:12",
+        "updated": "2023-12-15 09:53:09",
+        "published": true,
+        "owner": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "manager": {
+          "organizationID": 300,
+          "name": "Nolby Alpina"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Nolbybacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3524,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.nolbybacken.nu/"
+          }
+        ],
+        "centerPoint": [
+          17.37344734782603,
+          62.30127695838114
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.372181938304152,
+            62.30219842030584
+          ],
+          [
+            17.373556520534116,
+            62.30122650993447
+          ],
+          [
+            17.37385360054048,
+            62.30099376993378
+          ],
+          [
+            17.374197274836632,
+            62.30068912511415
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3534,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönviksbacken",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:36:14",
+        "updated": "2023-12-15 09:53:21",
+        "published": true,
+        "owner": {
+          "organizationID": 301,
+          "name": "Skönviksbacken"
+        },
+        "manager": {
+          "organizationID": 301,
+          "name": "Skönviksbacken"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Skönviksbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3533,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          }
+        ],
+        "centerPoint": [
+          17.31678345344505,
+          62.465601559774655
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.31966789905136,
+            62.46197492898835
+          ],
+          [
+            17.318977340865242,
+            62.46245409977935
+          ],
+          [
+            17.318168712595696,
+            62.46323193444866
+          ],
+          [
+            17.317141188656006,
+            62.464689787326314
+          ],
+          [
+            17.315447772496164,
+            62.467018626710335
+          ],
+          [
+            17.31469920706802,
+            62.46787338915792
+          ],
+          [
+            17.314835027682957,
+            62.46857518059974
+          ],
+          [
+            17.315329215329065,
+            62.468994435641285
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3540,
+      "type": "Feature",
+      "properties": {
+        "name": "Vetten Alpin Stora backen",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:43:49",
+        "updated": "2023-12-15 09:53:32",
+        "published": true,
+        "owner": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "manager": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket svår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Vetten alpin"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3537,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              },
+              {
+                "objectID": 3538,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          }
+        ],
+        "centerPoint": [
+          16.77105014485889,
+          62.69768176282468
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.769951338945464,
+            62.69628602828587
+          ],
+          [
+            16.769751185620407,
+            62.696604127698585
+          ],
+          [
+            16.76980621855422,
+            62.696975488356415
+          ],
+          [
+            16.769869487487462,
+            62.69730149521489
+          ],
+          [
+            16.770763825189054,
+            62.697878770590435
+          ],
+          [
+            16.770763825189054,
+            62.697878770590435
+          ],
+          [
+            16.771706103957936,
+            62.69824119218856
+          ],
+          [
+            16.77268584023387,
+            62.69858663737334
+          ],
+          [
+            16.77313199198036,
+            62.698710729475046
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3541,
+      "type": "Feature",
+      "properties": {
+        "name": "Vetten Alpin Barnbacken",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:44:23",
+        "updated": "2023-12-15 09:52:41",
+        "published": true,
+        "owner": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "manager": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Vetten alpin"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3535,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          }
+        ],
+        "centerPoint": [
+          16.7697852379333,
+          62.69634979601159
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.771416910149753,
+            62.69572336149209
+          ],
+          [
+            16.76815349659271,
+            62.69697621173807
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3542,
+      "type": "Feature",
+      "properties": {
+        "name": "Vetten Alpin Högra backen",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:44:58",
+        "updated": "2023-12-15 09:52:49",
+        "published": true,
+        "owner": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "manager": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Svår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Vetten alpin"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3536,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          }
+        ],
+        "centerPoint": [
+          16.770951701542145,
+          62.69686472277225
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.771416910149753,
+            62.69572336149209
+          ],
+          [
+            16.771015767938042,
+            62.69615327138901
+          ],
+          [
+            16.771159696502444,
+            62.69672964823807
+          ],
+          [
+            16.770857874137825,
+            62.69717338715781
+          ],
+          [
+            16.770496098155782,
+            62.69752989582555
+          ],
+          [
+            16.770763825189054,
+            62.697878770590435
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3543,
+      "type": "Feature",
+      "properties": {
+        "name": "Vetten Alpin Vänstra backen",
+        "type": "Skidpist",
+        "created": "2023-04-05 15:45:25",
+        "updated": "2023-12-15 09:52:58",
+        "published": true,
+        "owner": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "manager": {
+          "organizationID": 282,
+          "name": "Vetten Alpin"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Mycket svår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Vetten alpin"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3539,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Liftkort"
+          }
+        ],
+        "centerPoint": [
+          16.7700796989796,
+          62.69803461080679
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.769751185620407,
+            62.696604127698585
+          ],
+          [
+            16.76914575623883,
+            62.69737095450287
+          ],
+          [
+            16.76899187283572,
+            62.69800136505236
+          ],
+          [
+            16.76906382149255,
+            62.69828955451931
+          ],
+          [
+            16.769375867577995,
+            62.69847416160179
+          ],
+          [
+            16.770171859989482,
+            62.69851440073832
+          ],
+          [
+            16.770849461672164,
+            62.69840529638389
+          ],
+          [
+            16.771447280007536,
+            62.69833490412443
+          ],
+          [
+            16.771920247084854,
+            62.698316698186396
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3969,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls slalombacke - Stora backen",
+        "type": "Skidpist",
+        "created": "2024-08-22 09:05:23",
+        "updated": "2026-06-24 08:32:09",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls slalombacke"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3966,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Längd (meter)",
+            "type": "INTEGER",
+            "value": 650
+          },
+          {
+            "id": 100,
+            "name": "Stigning total (meter)",
+            "type": "INTEGER",
+            "value": 142
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Ja"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          }
+        ],
+        "centerPoint": [
+          17.326665011444206,
+          62.37105238647854
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.322106591989378,
+            62.369082509220696
+          ],
+          [
+            17.323973626434,
+            62.36970209712561
+          ],
+          [
+            17.32613696428685,
+            62.37055742089779
+          ],
+          [
+            17.3280443815193,
+            62.37164866596013
+          ],
+          [
+            17.32953199412378,
+            62.37244517468045
+          ],
+          [
+            17.330197314573844,
+            62.372878263700954
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3970,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls slalombacke - Till höger",
+        "type": "Skidpist",
+        "created": "2024-08-22 09:07:40",
+        "updated": "2026-06-24 08:32:25",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls slalombacke"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3967,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Ja"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          }
+        ],
+        "centerPoint": [
+          17.32881351039396,
+          62.371274404463776
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.32613696428685,
+            62.37055742089779
+          ],
+          [
+            17.328034029737662,
+            62.370584371823334
+          ],
+          [
+            17.32933955308315,
+            62.37066310690986
+          ],
+          [
+            17.32956688532277,
+            62.370801789821826
+          ],
+          [
+            17.32929701340186,
+            62.37151036433842
+          ],
+          [
+            17.329432608438022,
+            62.37209480932574
+          ],
+          [
+            17.32988765054759,
+            62.37270892992869
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3971,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls slalombacke - Barnbacken",
+        "type": "Skidpist",
+        "created": "2024-08-22 09:08:05",
+        "updated": "2026-06-24 08:15:48",
+        "published": true,
+        "owner": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "manager": {
+          "organizationID": 181,
+          "name": "sundsvalls slalomklubb"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Lätt"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sundsvalls slalombacke"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3968,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 281,
+            "name": "Sorteringsordning",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 104,
+            "name": "Avgift",
+            "type": "FREETEXT",
+            "value": "Ja"
+          },
+          {
+            "id": 283,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvallsslalombacke.se/"
+          }
+        ],
+        "centerPoint": [
+          17.327314668326984,
+          62.3721477349264
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.32578009420185,
+            62.37147337774772
+          ],
+          [
+            17.32672542041286,
+            62.37208393669826
+          ],
+          [
+            17.32779553493875,
+            62.372384544739035
+          ],
+          [
+            17.328957690547455,
+            62.37264905993057
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4084,
+      "type": "Feature",
+      "properties": {
+        "name": "Skogsslingan",
+        "type": "Skidpist",
+        "created": "2025-01-16 09:59:07",
+        "updated": "2025-01-20 08:31:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 109,
+            "name": "Svårighet",
+            "type": "DROPDOWN",
+            "value": "Medelsvår"
+          },
+          {
+            "id": 282,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 134,
+            "name": "Ledgrupp",
+            "type": "DROPDOWN",
+            "value": "Sidsjöbacken"
+          },
+          {
+            "id": 274,
+            "name": "Led",
+            "type": "COMBINEDTRAIL",
+            "referencedObjects": [
+              {
+                "objectID": 3214,
+                "fieldID": 262,
+                "direction": "NORMAL"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 103,
+            "name": "Belysning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 108,
+            "name": "Tillgänglighetsanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 287,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.28415211324355,
+          62.36810093321811
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.28565890471019,
+            62.36814075404738
+          ],
+          [
+            17.285579812106075,
+            62.36812109931339
+          ],
+          [
+            17.28552090947792,
+            62.36812961002143
+          ],
+          [
+            17.285472165551827,
+            62.36815304055932
+          ],
+          [
+            17.285420708967198,
+            62.36818824969056
+          ],
+          [
+            17.285397898017337,
+            62.36822047397692
+          ],
+          [
+            17.285402568005406,
+            62.36825811400134
+          ],
+          [
+            17.285413247388902,
+            62.368275342550724
+          ],
+          [
+            17.285421082973674,
+            62.368287983319426
+          ],
+          [
+            17.285460889164128,
+            62.3683367804293
+          ],
+          [
+            17.285482399431267,
+            62.36840599355778
+          ],
+          [
+            17.285390654080068,
+            62.36843348284174
+          ],
+          [
+            17.28531773252677,
+            62.368423784383104
+          ],
+          [
+            17.285236518572226,
+            62.36839997352528
+          ],
+          [
+            17.28523718267977,
+            62.36829016508078
+          ],
+          [
+            17.285215272693154,
+            62.36823939777271
+          ],
+          [
+            17.28512922566643,
+            62.36822320956303
+          ],
+          [
+            17.285087626719502,
+            62.36824568446479
+          ],
+          [
+            17.285062503435118,
+            62.36827124145341
+          ],
+          [
+            17.284985049180396,
+            62.36829681953146
+          ],
+          [
+            17.284920293093492,
+            62.36829955905604
+          ],
+          [
+            17.284870292539363,
+            62.36828277885185
+          ],
+          [
+            17.284843676864977,
+            62.36824130836524
+          ],
+          [
+            17.284879059291974,
+            62.36818457145355
+          ],
+          [
+            17.284891584901942,
+            62.368135753171615
+          ],
+          [
+            17.284870631096467,
+            62.368097542353546
+          ],
+          [
+            17.28483557749644,
+            62.36806375374358
+          ],
+          [
+            17.28478564109064,
+            62.36804781059681
+          ],
+          [
+            17.28468445724339,
+            62.368046119176995
+          ],
+          [
+            17.28465180597785,
+            62.36806760891819
+          ],
+          [
+            17.284622193879763,
+            62.368152748106326
+          ],
+          [
+            17.284600993357635,
+            62.36818243136797
+          ],
+          [
+            17.284588549669134,
+            62.36820861825105
+          ],
+          [
+            17.284529564123478,
+            62.36823975991628
+          ],
+          [
+            17.284494218537525,
+            62.36824955978606
+          ],
+          [
+            17.284450771822108,
+            62.36824775853063
+          ],
+          [
+            17.28435726123398,
+            62.368228339761664
+          ],
+          [
+            17.284321488492363,
+            62.368208811356425
+          ],
+          [
+            17.2842587448641,
+            62.36819056383337
+          ],
+          [
+            17.28425085390779,
+            62.368158005548764
+          ],
+          [
+            17.284255833883567,
+            62.368128588586096
+          ],
+          [
+            17.284236345886796,
+            62.36810963102054
+          ],
+          [
+            17.284178226124794,
+            62.368104717937804
+          ],
+          [
+            17.284075112370502,
+            62.36810138143868
+          ],
+          [
+            17.28403499672999,
+            62.36811964095561
+          ],
+          [
+            17.2839676998046,
+            62.368160138435094
+          ],
+          [
+            17.283942046942645,
+            62.36820246685164
+          ],
+          [
+            17.28390519808838,
+            62.368239950148876
+          ],
+          [
+            17.283848160711173,
+            62.36824926768427
+          ],
+          [
+            17.283783997068465,
+            62.36823607212617
+          ],
+          [
+            17.283724285177037,
+            62.3682102312371
+          ],
+          [
+            17.283744315357275,
+            62.36811770619342
+          ],
+          [
+            17.283826916507785,
+            62.36801744911902
+          ],
+          [
+            17.283837112827275,
+            62.367985432124975
+          ],
+          [
+            17.28383043231406,
+            62.36796877880878
+          ],
+          [
+            17.283782808216802,
+            62.367959502565775
+          ],
+          [
+            17.283687732049312,
+            62.36796692980526
+          ],
+          [
+            17.28359649558986,
+            62.368001114742476
+          ],
+          [
+            17.283527205118485,
+            62.36803913027207
+          ],
+          [
+            17.283451023366645,
+            62.36808144955472
+          ],
+          [
+            17.283413875243944,
+            62.36809127872434
+          ],
+          [
+            17.2833789311261,
+            62.36808263242759
+          ],
+          [
+            17.283345617745326,
+            62.36804797677393
+          ],
+          [
+            17.283351064025606,
+            62.368000951082976
+          ],
+          [
+            17.283340989749227,
+            62.36796339968945
+          ],
+          [
+            17.28332595426569,
+            62.367931796760395
+          ],
+          [
+            17.28329204856598,
+            62.36791307562402
+          ],
+          [
+            17.283251041452353,
+            62.367919615472296
+          ],
+          [
+            17.283168879745222,
+            62.367954489374355
+          ],
+          [
+            17.283101263707014,
+            62.36799080090628
+          ],
+          [
+            17.283030381171287,
+            62.36800788858219
+          ],
+          [
+            17.282946838532535,
+            62.36800087758612
+          ],
+          [
+            17.28286170459735,
+            62.367972938946416
+          ],
+          [
+            17.28281702552572,
+            62.36790745811794
+          ],
+          [
+            17.28278447680056,
+            62.36788284757683
+          ],
+          [
+            17.282750718945792,
+            62.36784233205569
+          ],
+          [
+            17.282712445302614,
+            62.36781362465065
+          ],
+          [
+            17.282652798820386,
+            62.36778862042244
+          ],
+          [
+            17.28256206803701,
+            62.36775825894666
+          ],
+          [
+            17.28251177173436,
+            62.36771382387682
+          ],
+          [
+            17.282436689127316,
+            62.36767566233543
+          ],
+          [
+            17.282394238733254,
+            62.367639480054635
+          ],
+          [
+            17.282358997534256,
+            62.367603179451976
+          ]
+        ]
+      }
+    }
+  ]
+}

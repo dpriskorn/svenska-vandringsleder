@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 640,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö skidlek",
+        "type": "Skidlekområde",
+        "created": "2018-10-11 12:54:36",
+        "updated": "2021-08-02 10:54:32",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

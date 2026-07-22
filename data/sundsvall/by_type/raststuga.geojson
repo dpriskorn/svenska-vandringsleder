@@ -1,0 +1,4879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 267,
+      "type": "Feature",
+      "properties": {
+        "name": "Jaktkojan",
+        "type": "Raststuga",
+        "created": "2018-06-21 09:22:37",
+        "updated": "2026-06-22 09:29:32",
+        "published": true,
+        "childObjects": [
+          268
+        ],
+        "parentObjects": [
+          695,
+          4142,
+          4488
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-11-14"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1700,
+                "filename": "20200818_111035.jpg",
+                "description": "Jaktkojan ",
+                "alttext": "Jaktkojan ",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8119033,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1700",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2070,
+                "filename": "20210501_073512.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4248166,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2070",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2071,
+                "filename": "20210501_073520.jpg",
+                "description": "Eldstad",
+                "alttext": "Eldstad",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4691159,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2071",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2072,
+                "filename": "20210501_073534.jpg",
+                "description": "Sex slafar",
+                "alttext": "Sex slafar",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 3781992,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2072",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "795057d0-2ca1-4563-9a34-545edbd46592"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ombonad övernattnings- och raststuga med 4 britsar, samt sittplatser. Invändig kamin för värme och matlagning. Utomhus finns grillplats med sittbänkar, samt torrtoalett och vedbod."
+          }
+        ],
+        "centerPoint": [
+          17.297763845417162,
+          62.35883831442953
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.29777803909508,
+                62.35871735576485
+              ],
+              [
+                17.297811569302564,
+                62.35875847025865
+              ],
+              [
+                17.2977006839794,
+                62.35877796559479
+              ],
+              [
+                17.29766717389121,
+                62.35873685972392
+              ],
+              [
+                17.29777803909508,
+                62.35871735576485
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 468,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Oxsta fiskeplats",
+        "type": "Raststuga",
+        "created": "2018-07-03 09:07:03",
+        "updated": "2020-12-17 15:26:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 15
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1658,
+                "filename": "20160808_123352.jpg",
+                "description": "Raststuga Oxsta",
+                "alttext": "Raststuga Oxsta",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7005983,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1658",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1657,
+                "filename": "20160808_123142.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7023950,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1657",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1659,
+                "filename": "20160808_124002.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4265030,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1659",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "804950ad-ad4a-4e83-bb4d-f5137469117c"
+          }
+        ],
+        "centerPoint": [
+          17.164610284292632,
+          62.43837168771725
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.164736892425815,
+                62.43863026483982
+              ],
+              [
+                17.16467980502727,
+                62.43865604290232
+              ],
+              [
+                17.164619275812964,
+                62.438627260012
+              ],
+              [
+                17.164676343852253,
+                62.438601482274755
+              ],
+              [
+                17.164736892425815,
+                62.43863026483982
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 548,
+      "type": "Feature",
+      "properties": {
+        "name": "Notstugan Grenforsen",
+        "type": "Raststuga",
+        "created": "2018-07-30 15:43:11",
+        "updated": "2023-06-13 06:00:01",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 12
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 12
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-10-01"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1887,
+                "filename": "20161010_090736.jpg",
+                "description": "Raststuga",
+                "alttext": "Raststuga",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3711256,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1887",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1890,
+                "filename": "20200710_075135.jpg",
+                "description": "Grenforsen",
+                "alttext": "Grenforsen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5637552,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1890",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2028,
+                "filename": "20200710_075149.jpg",
+                "description": "Grenforsen",
+                "alttext": "Grenforsen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8647289,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2028",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2029,
+                "filename": "DSC_0061.JPG",
+                "description": "Grenforsen",
+                "alttext": "Grenforsen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 11255447,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2029",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "de968134-41a3-4364-9547-f64cdfc0135f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Notstuga vid Grenforsen med två bänkbord och eldmöjligheter inomhus. Utomhus finns ytterligare tre bänkbord, samt en grill. Vedbod på baksidan av huset samt torrtoalett i anslutning till byggnaden."
+          }
+        ],
+        "centerPoint": [
+          17.2217509056043,
+          62.30443845103757
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.221800303467322,
+                62.30433596679128
+              ],
+              [
+                17.221656778547317,
+                62.3043536982245
+              ],
+              [
+                17.221630451888583,
+                62.3043075397916
+              ],
+              [
+                17.22171078851365,
+                62.30429760758539
+              ],
+              [
+                17.221684265222144,
+                62.30425113800528
+              ],
+              [
+                17.221747452561548,
+                62.304243329849236
+              ],
+              [
+                17.221800303467322,
+                62.30433596679128
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 550,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Nolbyströmmen",
+        "type": "Raststuga",
+        "created": "2018-07-31 09:01:21",
+        "updated": "2025-07-16 13:44:28",
+        "published": true,
+        "parentObjects": [
+          1872
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Saknas"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1893,
+                "filename": "DSC_0071.JPG",
+                "description": "Gamla notstugan vid Nolbyströmmen",
+                "alttext": "Gamla notstugan vid Nolbyströmmen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 14528165,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1893",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1892,
+                "filename": "DSC_0065.JPG",
+                "description": "Nolbyströmmen",
+                "alttext": "Nolbyströmmen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 14075844,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1892",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1894,
+                "filename": "DSC_0073.JPG",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 11527028,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1894",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1895,
+                "filename": "DSC_0074.JPG",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 9944892,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1895",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3dbc9794-aedf-4f0c-bbeb-b29d42600ae4"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gamla notstugan vid Nolbyströmmen är numera raststuga med möjlighet till övernattning. I anslutning finns grillplats och bänkbord, samt torrtoalett."
+          }
+        ],
+        "centerPoint": [
+          17.321488444314408,
+          62.296453924950264
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.321507354599788,
+                62.29638485665292
+              ],
+              [
+                17.321554785101593,
+                62.296449899197384
+              ],
+              [
+                17.321454032875202,
+                62.29646582572197
+              ],
+              [
+                17.321406621137005,
+                62.29640077385163
+              ],
+              [
+                17.321507354599788,
+                62.29638485665292
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 565,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Håltjärn",
+        "type": "Raststuga",
+        "created": "2018-08-03 13:45:08",
+        "updated": "2026-04-08 15:14:18",
+        "published": true,
+        "parentObjects": [
+          696,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-02-09"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Håltjärns raststuga",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "7099a2d0-2078-4293-b84e-d70543de3ffd"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mycket sliten"
+          }
+        ],
+        "centerPoint": [
+          17.155722832259233,
+          62.335522895467186
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.155632782669365,
+                62.33536865211705
+              ],
+              [
+                17.15573927735252,
+                62.33536872541743
+              ],
+              [
+                17.155738675872882,
+                62.335400469205446
+              ],
+              [
+                17.15563365620226,
+                62.335399959970395
+              ],
+              [
+                17.155632782669365,
+                62.33536865211705
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1121,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Sandriset",
+        "type": "Raststuga",
+        "created": "2019-11-14 12:45:35",
+        "updated": "2026-04-01 22:17:39",
+        "published": true,
+        "parentObjects": [
+          4451
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Okänd"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1818,
+                "filename": "Sandrisets kanotrastplats (13).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2940258,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1818",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1819,
+                "filename": "Sandrisets kanotrastplats (16).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3192694,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1819",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1820,
+                "filename": "Sandrisets kanotrastplats (22).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2995653,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1820",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1821,
+                "filename": "Sandrisets kanotrastplats (23).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 2931389,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1821",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1817,
+                "filename": "Sandrisets kanotrastplats (11).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 3064955,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1817",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1816,
+                "filename": "Sandrisets kanotrastplats (10).JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 2932978,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1816",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "658fd317-572f-4147-9c6a-293243681e5c"
+          }
+        ],
+        "centerPoint": [
+          16.727063953967676,
+          62.75140522818472
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.72709114931892,
+                62.75135453894438
+              ],
+              [
+                16.727168878554593,
+                62.75139425378696
+              ],
+              [
+                16.72703514510046,
+                62.75144928948213
+              ],
+              [
+                16.72695741589747,
+                62.751409574565756
+              ],
+              [
+                16.72709114931892,
+                62.75135453894438
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1123,
+      "type": "Feature",
+      "properties": {
+        "name": "Skiftestjärnsstugan",
+        "type": "Raststuga",
+        "created": "2019-11-14 13:46:29",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          698,
+          699,
+          4142,
+          4158
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-20"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1722,
+                "filename": "20200820_141751.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8718325,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1722",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1723,
+                "filename": "20200820_141918.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4728474,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1723",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1724,
+                "filename": "20200820_141925.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4255901,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1724",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1725,
+                "filename": "20200820_142521.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8299949,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1725",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3fc1eee0-66fb-4445-a6de-b9555544cfa9"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Övernattningsstuga med två britsar och bord med stolar. Kamin för värme invändigt. Utvändigt finns grill och bänkbord. Ingen vedförsörjning."
+          }
+        ],
+        "centerPoint": [
+          16.753715011310728,
+          62.344007077151055
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.753800995552574,
+                62.34417348986276
+              ],
+              [
+                16.75384873358127,
+                62.34423422931216
+              ],
+              [
+                16.75372950252234,
+                62.34425449752936
+              ],
+              [
+                16.753681743829333,
+                62.34419373136602
+              ],
+              [
+                16.753800995552574,
+                62.34417348986276
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1124,
+      "type": "Feature",
+      "properties": {
+        "name": "Skärsättstugan",
+        "type": "Raststuga",
+        "created": "2019-11-14 13:53:14",
+        "updated": "2025-10-17 22:46:51",
+        "published": true,
+        "parentObjects": [
+          4160
+        ],
+        "owner": {
+          "organizationID": 188,
+          "name": "torrsjö byalag"
+        },
+        "manager": {
+          "organizationID": 188,
+          "name": "torrsjö byalag"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 15
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "torrsjö byalag"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2570,
+                "filename": "20231004_172646.jpg",
+                "description": "Stigen upp till stugan från öster",
+                "alttext": "Stigen upp till stugan från öster",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7573989,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2570",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2571,
+                "filename": "20231004_172656.jpg",
+                "description": "Stigen upp till stugan från öster",
+                "alttext": "Stigen upp till stugan från öster",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 7114778,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2571",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2572,
+                "filename": "20231004_173104.jpg",
+                "description": "Välkommen upp!",
+                "alttext": "Gubbe gjord av kapat träd",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 8880625,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2572",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "66c70498-a8e2-48c6-a19d-3a9aa9b6bd3e"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Skärsättsberget i Njurunda strax söder om Öjen där Torrsjö byalag gjort i ordning jättefin stuga, grillplats, dass, vedbod (swish-nr finns). Några hundra meter söder om stugan finns en fin utsiktsplats över Sör- och Norr-Björken. Drygt 1 km upp i skoterspår/stig och man ser Nolbykullens stolta profil. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://torrsjo.wordpress.com/skarsattstugan/"
+          }
+        ],
+        "centerPoint": [
+          17.266474072696134,
+          62.21413690424295
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.266670721645156,
+                62.21469386569378
+              ],
+              [
+                17.266573037858567,
+                62.21469768070161
+              ],
+              [
+                17.266565883412426,
+                62.21465769175967
+              ],
+              [
+                17.266663567070882,
+                62.21465387675744
+              ],
+              [
+                17.266670721645156,
+                62.21469386569378
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1127,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Åsen i Liden",
+        "type": "Raststuga",
+        "created": "2019-11-14 13:58:39",
+        "updated": "2026-04-01 22:19:33",
+        "published": true,
+        "parentObjects": [
+          4452
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1822,
+                "filename": "Liden.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5487098,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1822",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1823,
+                "filename": "Lidens kanotrastplats (2).JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3016331,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1823",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1824,
+                "filename": "Lidens kanotrastplats (6).JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2354736,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1824",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1825,
+                "filename": "Lidens kanotrastplats.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3037097,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1825",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c83c69a8-b44a-462f-89e8-a384ddaa583a"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjligheter. Utvändigt finns grillplats med bänkbord och vedlår. I anslutning finns torrtoalett."
+          }
+        ],
+        "centerPoint": [
+          16.786771238723922,
+          62.69711631860143
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.786683117859926,
+                62.69715394974202
+              ],
+              [
+                16.786721148471276,
+                62.69709815081659
+              ],
+              [
+                16.7868693995661,
+                62.697119480746196
+              ],
+              [
+                16.7868313496773,
+                62.69717527995949
+              ],
+              [
+                16.786683117859926,
+                62.69715394974202
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1128,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Långliden",
+        "type": "Raststuga",
+        "created": "2019-11-14 14:07:23",
+        "updated": "2026-04-01 22:24:53",
+        "published": true,
+        "parentObjects": [
+          4454
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "kanot",
+          "rastplats",
+          "kanotrastplats"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1627,
+                "filename": "20160808_103814.jpg",
+                "description": "Raststuga Långliden",
+                "alttext": "Raststuga Långliden",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6548200,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1627",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1827,
+                "filename": "LångLidens kanotrastplats (6).JPG",
+                "description": "Raststugan invändigt",
+                "alttext": "Raststugan invändigt",
+                "sourcetext": "Friluftseneten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2906266,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1827",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2263,
+                "filename": "långliden nya bänkar grill.jpg",
+                "description": "Grillplats med sittbänkar vid Långliden",
+                "alttext": "Grillplats med sittbänkar vid Långliden",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 11,
+                "type": "image/jpeg",
+                "size": 265726,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2263"
+              },
+              {
+                "id": 1826,
+                "filename": "LångLidens kanotrastplats (2).JPG",
+                "description": "Dass",
+                "alttext": "Dass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 12,
+                "type": "image/jpeg",
+                "size": 3007834,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1826",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1829,
+                "filename": "LångLidens kanotrastplats.jpg",
+                "description": "Kanotrastplats",
+                "alttext": "Kanotrastplats",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 12,
+                "type": "image/jpeg",
+                "size": 2941380,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1829",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "884ae759-b411-4316-9097-4948fdacf6b2"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjligheter. Utvändigt finns grillplats med bänkbord och vedlår. I anslutning finns torrtoalett."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/friluftsliv-och-natur/bat-och-kanot/"
+          }
+        ],
+        "centerPoint": [
+          16.672035053586225,
+          62.91162546621043
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.67209828551471,
+                62.91174782613049
+              ],
+              [
+                16.67213609064284,
+                62.91178520984082
+              ],
+              [
+                16.672044555088856,
+                62.91180443844929
+              ],
+              [
+                16.67200675005185,
+                62.9117670547142
+              ],
+              [
+                16.67209828551471,
+                62.91174782613049
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1130,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Järkvissle",
+        "type": "Raststuga",
+        "created": "2019-11-14 14:14:01",
+        "updated": "2026-04-01 22:10:13",
+        "published": true,
+        "parentObjects": [
+          4450
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1830,
+                "filename": "Järkvissle (1).JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1752230,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1830",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1831,
+                "filename": "Kanotrastplatsen i Järkvissle (2).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1135511,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1831",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1832,
+                "filename": "Kanotrastplatsen i Järkvissle (4).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1237081,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1832",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1625,
+                "filename": "20160808_092624.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6193189,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1625",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1626,
+                "filename": "20160808_092809.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7043638,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1626",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "219c5845-669b-41ad-ba55-6032b541e721"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjligheter. Utvändigt finns grillplats med vedlår och bänkbord. I anslutning finns torrdass."
+          }
+        ],
+        "centerPoint": [
+          16.66451719649915,
+          62.79287317661816
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.664464031879294,
+                62.79267941298002
+              ],
+              [
+                16.66453437288842,
+                62.792703143785005
+              ],
+              [
+                16.664489570777732,
+                62.7927309842549
+              ],
+              [
+                16.664419249839177,
+                62.7927072621676
+              ],
+              [
+                16.664464031879294,
+                62.79267941298002
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1131,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Nilsböle",
+        "type": "Raststuga",
+        "created": "2019-11-14 14:22:15",
+        "updated": "2026-04-01 22:35:48",
+        "published": true,
+        "parentObjects": [
+          4455
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1836,
+                "filename": "Nilsböle kanotrastplats.JPG",
+                "description": "Raststuga Nilsböle",
+                "alttext": "Raststuga Nilsböle",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3044194,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1836",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1833,
+                "filename": "Nilsböle kanotrastplats (3).JPG",
+                "description": "Raststuga",
+                "alttext": "Raststuga",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2994910,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1833",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1834,
+                "filename": "Nilsböle kanotrastplats (4).JPG",
+                "description": "Raststuga invändigt",
+                "alttext": "Raststuga invändigt",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2481244,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1834",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "578a5296-3615-4d35-8ea1-d51186787a2c"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjlighet. Utvändigt finns grillplats med bänkbord och vedlår. I anslutning finns torrtoalett."
+          }
+        ],
+        "centerPoint": [
+          16.88792992224073,
+          62.650571474076614
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.88793618562413,
+                62.65055321488156
+              ],
+              [
+                16.888028212562055,
+                62.650589568441845
+              ],
+              [
+                16.88793621351623,
+                62.650638905789414
+              ],
+              [
+                16.8878439726184,
+                62.65060256402899
+              ],
+              [
+                16.88793618562413,
+                62.65055321488156
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1134,
+      "type": "Feature",
+      "properties": {
+        "name": "Bagarstugan Rigåsen",
+        "type": "Raststuga",
+        "created": "2019-11-14 14:59:00",
+        "updated": "2022-01-10 15:34:50",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1413,
+                "filename": "20200416_084944.jpg",
+                "description": "Bagarstugan",
+                "alttext": "Bagarstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5440974,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1413",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1417,
+                "filename": "20200416_084932.jpg",
+                "description": "Grillplats",
+                "alttext": "Grillplats",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 5796551,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1417",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1414,
+                "filename": "20200416_085350.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 11,
+                "type": "image/jpeg",
+                "size": 3071370,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1414",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1415,
+                "filename": "20200416_085342.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 12,
+                "type": "image/jpeg",
+                "size": 2883951,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1415",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1416,
+                "filename": "20200416_085335.jpg",
+                "description": "Kamin",
+                "alttext": "Kamin",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 13,
+                "type": "image/jpeg",
+                "size": 5282848,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1416",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "45ac652a-d02f-463a-a516-fbc4ec2c1137"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Djupt inne i Medelpads skogar grundades någon gång under 1700-talet det högt belägna nybygget Rigåsen. Här levde människor ända in på 1940-talet. Som besökare kan du njuta av blomsterprakten och tystnaden. Vissa av byggnaderna är bevarade och står öppna för besökare. I bagarstugan med kamin går det att övernatta. Vandra hit från parkeringen längs skogsbilvägen söder om reservatet, eller från Lövsjön västerut. Vintertid passerar skoterled och norr om re4servatet finns ett stort myrområde där snön ofta ligger ända in i maj månad, med fantastiska möjligheter till skarskidåkning."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.lansstyrelsen.se/vasternorrland/besok-och-upptack/naturreservat/rigasen.html"
+          }
+        ],
+        "centerPoint": [
+          17.048495498092045,
+          62.82216237922952
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.048440736548347,
+                62.822033184555934
+              ],
+              [
+                17.04858152894671,
+                62.82208318588144
+              ],
+              [
+                17.048507645991247,
+                62.82212672221491
+              ],
+              [
+                17.04836661880584,
+                62.82207673321059
+              ],
+              [
+                17.048440736548347,
+                62.822033184555934
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1138,
+      "type": "Feature",
+      "properties": {
+        "name": "Abborrtjärnen",
+        "type": "Raststuga",
+        "created": "2019-11-14 16:09:33",
+        "updated": "2020-06-30 10:58:51",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "fields": [
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "attmars fvo"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "9104b8d7-0e4f-47f1-a384-225f031b5a6d"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/friluftsliv-och-natur/fiske-i-sundsvall/fiskevardsomraden-fvo/attmars-fvo/"
+          }
+        ],
+        "centerPoint": [
+          17.0167092567821,
+          62.24504750189059
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.0167346364029,
+                62.244948306774695
+              ],
+              [
+                17.016803706840957,
+                62.24499624971688
+              ],
+              [
+                17.016656984286715,
+                62.24504221950987
+              ],
+              [
+                17.01658812496002,
+                62.244994264449
+              ],
+              [
+                17.0167346364029,
+                62.244948306774695
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1144,
+      "type": "Feature",
+      "properties": {
+        "name": "Långåstjärns raststuga",
+        "type": "Raststuga",
+        "created": "2019-11-14 16:35:29",
+        "updated": "2025-04-22 11:37:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "ede-boda fvo"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-07-08"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1551,
+                "filename": "20200708_150713.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7668187,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1551",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1552,
+                "filename": "20200708_150722.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4981552,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1552",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1550,
+                "filename": "20200708_150636.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4441730,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1550",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1549,
+                "filename": "20200708_150630.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 4690650,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1549",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1548,
+                "filename": "20200708_150615.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 3928546,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1548",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "bf9466db-7683-4c89-ab9e-b0b7924b4a70"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Långåstjärns raststuga"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://fiskeisundsvall.se/fiskeomraden/14-ede-boda-fvo/"
+          }
+        ],
+        "centerPoint": [
+          16.524784290540474,
+          62.46667634142557
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.524785923214697,
+                62.46651586620415
+              ],
+              [
+                16.524812027994127,
+                62.46656609898931
+              ],
+              [
+                16.524722243144215,
+                62.46657611171919
+              ],
+              [
+                16.524696099741366,
+                62.46652587934044
+              ],
+              [
+                16.524785923214697,
+                62.46651586620415
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1210,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Boda såg",
+        "type": "Raststuga",
+        "created": "2019-11-22 11:55:26",
+        "updated": "2026-04-01 22:29:18",
+        "published": true,
+        "parentObjects": [
+          4453
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1628,
+                "filename": "20160808_095229.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7649708,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1628",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1629,
+                "filename": "20160808_095247.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8848040,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1629",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1630,
+                "filename": "20160808_095330.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6359262,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1630",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1631,
+                "filename": "20160808_095845.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4394988,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1631",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Boda såg raststuga",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "60c4f9ce-44ea-4d2a-b620-f4e3e6a23a79"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjligheter. Utomhus finns grillplats med sittbänkar och bänkbord. I anslutning finns också torrdass."
+          }
+        ],
+        "centerPoint": [
+          16.64075502416775,
+          62.87661873986927
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.6409151671596,
+                62.87744220169347
+              ],
+              [
+                16.64099624356093,
+                62.8774421826139
+              ],
+              [
+                16.640994927458262,
+                62.87746615015279
+              ],
+              [
+                16.640914206228512,
+                62.87746619202955
+              ],
+              [
+                16.6409151671596,
+                62.87744220169347
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1432,
+      "type": "Feature",
+      "properties": {
+        "name": "Klubbängets raststuga",
+        "type": "Raststuga",
+        "created": "2020-03-12 11:34:00",
+        "updated": "2026-04-01 22:12:12",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Saknas"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-22"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1421,
+                "filename": "20200422_102910.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7680280,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1421",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Klubbängets raststuga",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "1594a2ee-8761-4a27-a973-278c0337cd3b"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En dryg kilometer nedströms Järkvissle kraftverk ligger Klubbängets raststuga. I anslutning till stugan går en anlagd naturstig i två slingor, som informerar om växtligheten i niporna och örtrikedomen vid Hattbergets sydbrant. Branten hyser också landets nordvästligaste hasselbestånd. Stigen passerar också riksväg 86 och utsiktens turistgård. "
+          }
+        ],
+        "centerPoint": [
+          16.684203134946696,
+          62.790020823710535
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.68418638067688,
+                62.790152304853535
+              ],
+              [
+                16.684292898313714,
+                62.79015186434785
+              ],
+              [
+                16.684291459563696,
+                62.790193960574804
+              ],
+              [
+                16.68418685294653,
+                62.790193534282096
+              ],
+              [
+                16.68418638067688,
+                62.790152304853535
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1446,
+      "type": "Feature",
+      "properties": {
+        "name": "Hallstabergsstugan",
+        "type": "Raststuga",
+        "created": "2020-03-12 12:58:16",
+        "updated": "2021-07-30 11:33:26",
+        "published": true,
+        "owner": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1934
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 5
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 5
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-10-27"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1933,
+                "filename": "20201027_102220.jpg",
+                "description": "Hallstabergsstugan",
+                "alttext": "Hallstabergsstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7696495,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1933",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1934,
+                "filename": "20201027_103010.jpg",
+                "description": "Utsikt från hallstaberget",
+                "alttext": "Utsikt från Hallstaberget",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4966308,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1934",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1935,
+                "filename": "20201027_102412.jpg",
+                "description": "Interiör Hallstabergsstugan",
+                "alttext": "Interiör Hallstabergsstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4244286,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1935",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1936,
+                "filename": "20201027_103031.jpg",
+                "description": "Utsikt från Hallstaberget",
+                "alttext": "Utsikt från hallstaberget",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 3041616,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1936",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1937,
+                "filename": "20201027_102247.jpg",
+                "description": "Interiör Hallstabergsstugan",
+                "alttext": "Interiör Hallstabergsstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 4643393,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1937",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1938,
+                "filename": "20201027_102258.jpg",
+                "description": "Interiör Hallstabergsstugan",
+                "alttext": "Interiör Hallstabergsstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 4408820,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1938",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1939,
+                "filename": "20201027_101619.jpg",
+                "description": "Historik Hallstabergsstugan",
+                "alttext": "Historik Hallstabergsstugan",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 7,
+                "type": "image/jpeg",
+                "size": 4785791,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1939",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1940,
+                "filename": "20201027_102400.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 8,
+                "type": "image/jpeg",
+                "size": 4848610,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1940",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1941,
+                "filename": "20201027_102306.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 9,
+                "type": "image/jpeg",
+                "size": 4635919,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1941",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1942,
+                "filename": "20201027_102406.jpg",
+                "description": "Interiör",
+                "alttext": "Interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 11,
+                "type": "image/jpeg",
+                "size": 4559830,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1942",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2102,
+                "filename": "20201027_100420.jpg",
+                "description": "Stigen från sydöstra sidan är bitvis skyltad",
+                "alttext": "Stigen från sydöstra sidan är bitvis skyltad",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 12,
+                "type": "image/jpeg",
+                "size": 7707045,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2102",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2103,
+                "filename": "20201027_101230.jpg",
+                "description": "Brant med ledstång i rep en kort bit",
+                "alttext": "Brant med ledstång i rep en kort bit",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 13,
+                "type": "image/jpeg",
+                "size": 8135678,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2103",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "5da77d97-8186-424f-b638-d8ffcba1c9bc"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Hallstabergsstugan byggdes 1934 av Indals hembygdsförening. Den är ombonad och interiören har nog samma datering som huset. Utsikten är magnifik över Indalsälven. Grillplats finns och ved i vedbod strax intill."
+          }
+        ],
+        "centerPoint": [
+          17.030507740565636,
+          62.60695919718067
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.030614651293252,
+                62.607131442668624
+              ],
+              [
+                17.03051944427562,
+                62.607144164082975
+              ],
+              [
+                17.030474563575755,
+                62.60707285697629
+              ],
+              [
+                17.030569770385323,
+                62.60706013559313
+              ],
+              [
+                17.030614651293252,
+                62.607131442668624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1453,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede flottarstuga",
+        "type": "Raststuga",
+        "created": "2020-03-12 15:02:48",
+        "updated": "2020-09-09 12:08:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1465,
+      "type": "Feature",
+      "properties": {
+        "name": "Vättabergets toppstuga",
+        "type": "Raststuga",
+        "created": "2020-03-12 15:42:09",
+        "updated": "2020-07-07 16:25:42",
+        "published": true,
+        "owner": {
+          "organizationID": 280,
+          "name": "Lidens hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 280,
+          "name": "Lidens hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "858ba661-cc23-4243-8a1b-234057ede1b0"
+          }
+        ],
+        "centerPoint": [
+          16.773453111012063,
+          62.6952558891574
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.773511621228234,
+                62.69519002203786
+              ],
+              [
+                16.773506101632606,
+                62.69521142392466
+              ],
+              [
+                16.773485865813477,
+                62.69521064719392
+              ],
+              [
+                16.77346362935428,
+                62.695219215082844
+              ],
+              [
+                16.77342611599234,
+                62.695217453633084
+              ],
+              [
+                16.77340874029384,
+                62.69520797681301
+              ],
+              [
+                16.773366250862264,
+                62.69520601786946
+              ],
+              [
+                16.773371706645992,
+                62.69518256977356
+              ],
+              [
+                16.7734147034617,
+                62.6951841901105
+              ],
+              [
+                16.773435098551065,
+                62.69517685755384
+              ],
+              [
+                16.773471051648826,
+                62.69517867463314
+              ],
+              [
+                16.77349033585047,
+                62.69518901616278
+              ],
+              [
+                16.773511621228234,
+                62.69519002203786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1486,
+      "type": "Feature",
+      "properties": {
+        "name": "Skarpåskojan",
+        "type": "Raststuga",
+        "created": "2020-03-25 12:38:42",
+        "updated": "2020-07-07 14:32:19",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 11
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "holms hembygdsförening"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "4b064d3d-8d4e-4b17-82f6-211ce23cfbf6"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med enkla väggfasta slafar som kan användas för övernattning för den som har egen sovutrustning med sig. En dag i början av 1990-talet råkade skogsvårdskonsulenten, Ingvar Holmqvist, komma fram till en halvt nedrasad skogskoja vid norra kanten av Skarpåstjärnen i Vike. Han tog sig tid att undersöka den närmare och insåg genast dess kulturhistoriska värde. Efter många kontakter med markägarna, hembygdsföreningen och tänkbara medfinansiärer blev kojan till sist restaurerad och kunde återinvigas i november 1995. Den hade då genom insatser från skogsvårdsstyrelsen, ALU-pengar, Holms hembygdsförening och markägarna återställts till i huvudsak sitt ursprungliga skick."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://visit.nordvastra.com/itinerary/skarpaskojan/"
+          }
+        ],
+        "centerPoint": [
+          16.485453657554253,
+          62.70695273393827
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.48548233847106,
+                62.70691487098204
+              ],
+              [
+                16.485559877690342,
+                62.70693867545462
+              ],
+              [
+                16.485433104474605,
+                62.707025778203146
+              ],
+              [
+                16.485355565127232,
+                62.707001973661185
+              ],
+              [
+                16.48548233847106,
+                62.70691487098204
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1488,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-03-25 16:51:56",
+        "updated": "2023-08-31 06:00:07",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "holms hembygdsförening"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "0689db32-e8ed-4978-85cc-de1242a2e472"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan är utrustad med två enkelsängar, bord med stolar, kamin, kokplatta och lampa med gasol samt husgeråd."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.41778702726542,
+          62.754579734310894
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.41776133222521,
+                62.7545440886354
+              ],
+              [
+                16.417869655229765,
+                62.754568105088886
+              ],
+              [
+                16.417813971151496,
+                62.75462086025806
+              ],
+              [
+                16.41770564756704,
+                62.7545968347894
+              ],
+              [
+                16.41776133222521,
+                62.7545440886354
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1489,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-03-25 16:56:21",
+        "updated": "2022-03-02 14:45:03",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "holms hembygdsförening"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "d4a015df-171a-4b44-a283-fdb74daf8c22"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan är utrustad med familjesäng med plats för tre personer, bord och bänkar, hörnskåp, kamin, gasollampa och husgeråd."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.42143552814919,
+          62.754395151365095
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.421435792824287,
+                62.75436314115166
+              ],
+              [
+                16.42151073206732,
+                62.75439652351777
+              ],
+              [
+                16.421436270186906,
+                62.75443165932459
+              ],
+              [
+                16.421361350078143,
+                62.754398267748165
+              ],
+              [
+                16.421435792824287,
+                62.75436314115166
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1602,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-07-07 14:53:36",
+        "updated": "2023-08-31 06:00:07",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "87b3261e-ea98-46ab-beda-5c8d6c710c84"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan är utrustad med familjesäng med plats för tre personer, bord och bänkar, hörnskåp, kamin, gasollampa och husgeråd."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.418589260409327,
+          62.75546012311846
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.41862330556877,
+                62.75556077516703
+              ],
+              [
+                16.418710216192984,
+                62.755620799209865
+              ],
+              [
+                16.418620971397527,
+                62.75564794935107
+              ],
+              [
+                16.41853404173144,
+                62.755587934423374
+              ],
+              [
+                16.41862330556877,
+                62.75556077516703
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1603,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-07-07 14:55:43",
+        "updated": "2022-03-02 14:44:19",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 6
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "459c3ef4-3287-45e3-bc06-95e00bd216fb"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan är utrustad med två familjesängar med plats för sex personer, bord och bänkar, hörnskåp, kamin, gasollampa och husgeråd. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.417596251942175,
+          62.75546085386992
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.41750388944824,
+                62.75528831833721
+              ],
+              [
+                16.417530668857133,
+                62.7552383504992
+              ],
+              [
+                16.417600405419872,
+                62.755246202398524
+              ],
+              [
+                16.41757364569481,
+                62.75529617005207
+              ],
+              [
+                16.41750388944824,
+                62.75528831833721
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1608,
+      "type": "Feature",
+      "properties": {
+        "name": "Eldhus Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-07-07 15:37:10",
+        "updated": "2023-08-31 06:00:07",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 50
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 50
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "9484cb8a-f655-4aff-9171-d5929f903f5c"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Eldhus inrett med öppen eldstad med möjlighet till grillning, wokning och att koka mat. Gasollampa och med sittplats vid bord för 50 personer. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.42170546918981,
+          62.754594050408265
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.421740881149436,
+                62.75448455113679
+              ],
+              [
+                16.42179611036884,
+                62.75458807414358
+              ],
+              [
+                16.421647523442115,
+                62.75460473074195
+              ],
+              [
+                16.42159229471076,
+                62.75450120767571
+              ],
+              [
+                16.421740881149436,
+                62.75448455113679
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1609,
+      "type": "Feature",
+      "properties": {
+        "name": "Eldhus Stor-Stensjön",
+        "type": "Raststuga",
+        "created": "2020-07-07 15:38:47",
+        "updated": "2022-03-02 14:47:50",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 30
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 30
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3cc5dd85-fb61-4e3e-a90e-21b3c2b79c6c"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Eldhus inrett med öppen eldstad med möjlighet till grillning, wokning och att koka mat. Gasollampa och med sittplats vid bord för 30 personer. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.hembygd.se/holm/page/20424"
+          }
+        ],
+        "centerPoint": [
+          16.418332606340496,
+          62.75458790182058
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.418259153361056,
+                62.754568915049006
+              ],
+              [
+                16.418309539576153,
+                62.75451880757014
+              ],
+              [
+                16.41838985548772,
+                62.754535771886815
+              ],
+              [
+                16.418339489383662,
+                62.75458588816943
+              ],
+              [
+                16.418259153361056,
+                62.754568915049006
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1610,
+      "type": "Feature",
+      "properties": {
+        "name": "Hattbergsstugan",
+        "type": "Raststuga",
+        "created": "2020-07-07 16:13:25",
+        "updated": "2026-01-05 15:37:51",
+        "published": true,
+        "parentObjects": [
+          4197
+        ],
+        "owner": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1533,
+                "filename": "20200422_122744_1_.jpg",
+                "description": "Stugan och utsikten ",
+                "alttext": "Stugan och utsikten ",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4429756,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1533",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1537,
+                "filename": "20200422_130152.jpg",
+                "description": "Altan med bänkbord utanför stugan.",
+                "alttext": "Altan med bänkbord utanför stugan.",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 6521155,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1537",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1534,
+                "filename": "20200422_122817.jpg",
+                "description": "Skjutdörrar av glas gör att man nästan bor ute fast man är inne",
+                "alttext": "Skjutdörrar av glas gör att man nästan bor ute fast man är inne",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 5302287,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1534",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1536,
+                "filename": "20200422_122839.jpg",
+                "description": "Bord och stolar",
+                "alttext": "Bord och stolar",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 4915792,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1536",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1535,
+                "filename": "20200422_122832.jpg",
+                "description": "Bord och stolar",
+                "alttext": "Bord och stolar",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 4749659,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1535",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Hattbergets raststuga",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "50f012b5-59a0-42ea-a10e-11e5b56f7ea4"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Upp till hattberget leder en fin stig. Vandringen är mödosam med 230 höjdmeter som ska avverkas. Men utsikten är härlig och den fina stugan är väl värd ett besök. Stugan innehåller en kamin, bord och stolar samt möjligheter till övernattning för en handfull besökare."
+          }
+        ],
+        "centerPoint": [
+          16.711595930525604,
+          62.79105874158395
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.711622838132037,
+                62.7909469839272
+              ],
+              [
+                16.711622051649282,
+                62.79098579591071
+              ],
+              [
+                16.71152409113841,
+                62.79098542576059
+              ],
+              [
+                16.711524877750087,
+                62.79094661377724
+              ],
+              [
+                16.711622838132037,
+                62.7909469839272
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1677,
+      "type": "Feature",
+      "properties": {
+        "name": "Svarttjärnsstugan",
+        "type": "Raststuga",
+        "created": "2020-09-18 15:31:31",
+        "updated": "2020-09-22 22:24:11",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-09-22"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1906,
+                "filename": "20200922_104147.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7139022,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1906",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1907,
+                "filename": "20200922_104211.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4322203,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1907",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1908,
+                "filename": "20200922_104309.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4357848,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1908",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1912,
+                "filename": "20200922_104223.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4005702,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1912",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1913,
+                "filename": "20200922_104239.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4608112,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1913",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1914,
+                "filename": "20200922_104243.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4467981,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1914",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Sundsjöåsens raststuga",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "d124c581-3506-4d90-b5b4-123a544ff511"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mycket fin övernattningsstuga med 4 våningssängar på 120 cm. Madrasser finns. Matbord och sittbänkar. Vedkamin och ved. "
+          }
+        ],
+        "centerPoint": [
+          16.868423101147236,
+          62.634870882864035
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.868387381636914,
+                62.63495549346144
+              ],
+              [
+                16.86851171220183,
+                62.6349561787801
+              ],
+              [
+                16.86851136591872,
+                62.63499654180344
+              ],
+              [
+                16.86838703518477,
+                62.63499585648506
+              ],
+              [
+                16.868387381636914,
+                62.63495549346144
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1744,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Loning",
+        "type": "Raststuga",
+        "created": "2020-12-17 15:31:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 20,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "282fc99a-7d39-49bb-8c9b-c1cf9c4a13ca"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med bänkbord och eldmöjligheter både ute och inne"
+          }
+        ],
+        "centerPoint": [
+          16.987285672907973,
+          62.618037460574186
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.987214388936017,
+                62.618042039708136
+              ],
+              [
+                16.987311934285632,
+                62.61801628676544
+              ],
+              [
+                16.98736325196134,
+                62.61805748095379
+              ],
+              [
+                16.987265707722415,
+                62.61808325187317
+              ],
+              [
+                16.987214388936017,
+                62.618042039708136
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1865,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Tjuvholmen",
+        "type": "Raststuga",
+        "created": "2021-07-07 15:56:01",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Saknas"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1996
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2185,
+                "filename": "20210707_153223.jpg",
+                "description": "Raststugan Tjuvholmen",
+                "alttext": "Raststuga Tjuvholmen",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6496120,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2185",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2186,
+                "filename": "20210707_152727.jpg",
+                "description": "Bänkbord",
+                "alttext": "Bänkbord",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4836890,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2186",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2187,
+                "filename": "20210707_153239.jpg",
+                "description": "Raststuga Tjuvholmen",
+                "alttext": "Raststuga Tjuvholmen ",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 7944149,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2187",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun gator och belysning",
+            "reportDescription": "Felanmälan av gator, vägar, gång- och cykelvägar, parkering samt belysning",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "26fa8c2b-6494-41c2-8045-44f2d586290c"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med plats för 30 personer vid bänkbord"
+          }
+        ],
+        "centerPoint": [
+          17.37013761372928,
+          62.386266111547286
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.370148136777185,
+                62.3862302257994
+              ],
+              [
+                17.370253022198103,
+                62.38630252895715
+              ],
+              [
+                17.370137171280813,
+                62.386338752728975
+              ],
+              [
+                17.370032257476204,
+                62.38626633322335
+              ],
+              [
+                17.370148136777185,
+                62.3862302257994
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4164,
+      "type": "Feature",
+      "properties": {
+        "name": "Asphyddan",
+        "type": "Raststuga",
+        "created": "2025-10-17 22:58:59",
+        "updated": "2026-06-22 09:46:34",
+        "published": true,
+        "owner": {
+          "organizationID": 38,
+          "name": "friluftsfrämjandet i sundsvall"
+        },
+        "manager": {
+          "organizationID": 38,
+          "name": "friluftsfrämjandet i sundsvall"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 218,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 21,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 215,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2934,
+                "filename": "image.jpg",
+                "description": "Utflyktstuga",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5249599,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2934",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "80c68f80-08ee-4c55-8904-2cd56582a037"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med öppen spis och bord med sittplats för ett tiotal personer. "
+          }
+        ],
+        "centerPoint": [
+          17.289724599157406,
+          62.347587097633706
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.289636607511827,
+                62.34756882243879
+              ],
+              [
+                17.28972986164755,
+                62.34752494436612
+              ],
+              [
+                17.289799366498706,
+                62.347555283087296
+              ],
+              [
+                17.289705077606083,
+                62.34760060697732
+              ],
+              [
+                17.289636607511827,
+                62.34756882243879
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4212,
+      "type": "Feature",
+      "properties": {
+        "name": "Knylstugan Jerikoberget",
+        "type": "Raststuga",
+        "created": "2026-01-13 10:29:31",
+        "published": true,
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3044c91a-88c4-4c93-a3fd-0e6855cabc85"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med övernattningsmöjlighet"
+          }
+        ],
+        "centerPoint": [
+          16.886852409959637,
+          62.68334300171674
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.88686695031627,
+                62.68314692168649
+              ],
+              [
+                16.886785952444367,
+                62.68317702974363
+              ],
+              [
+                16.886740485087746,
+                62.68315119062317
+              ],
+              [
+                16.88682150302781,
+                62.68312109130053
+              ],
+              [
+                16.88686695031627,
+                62.68314692168649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4221,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Lill-Lubban",
+        "type": "Raststuga",
+        "created": "2026-01-13 11:15:14",
+        "updated": "2026-01-13 11:37:38",
+        "published": true,
+        "parentObjects": [
+          666
+        ],
+        "owner": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "manager": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2777,
+                "filename": "20250630_203631.jpg",
+                "description": "Raststuga Lill-Lubban",
+                "alttext": "Raststuga med stora glaspartier i skogen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6887572,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2777",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "1d9b8d98-4b3b-4780-b2e7-2cfb9f014665"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Raststuga med stort bord med sitttplatser.\r\nIngår i Lill-Lubbans gästhamn. Gästhamnsregler och -avgifter gäller för nyttjande."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.svenskagasthamnar.se/bottenhavet/lill-lubban/"
+          }
+        ],
+        "centerPoint": [
+          17.51837783239661,
+          62.172615785033756
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.51848642782066,
+                62.172625854019145
+              ],
+              [
+                17.518391990327252,
+                62.17269565814082
+              ],
+              [
+                17.518285612575887,
+                62.17266420914993
+              ],
+              [
+                17.518380050219825,
+                62.17259440509976
+              ],
+              [
+                17.51848642782066,
+                62.172625854019145
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1678,
+      "type": "Feature",
+      "properties": {
+        "name": "Raststuga Flyggebodarna",
+        "type": "Raststuga",
+        "created": "2020-09-18 15:32:15",
+        "deleted": "2020-09-22 12:58:16"
+      },
+      "geometry": null
+    },
+    {
+      "id": 236,
+      "type": "Feature",
+      "properties": {
+        "name": "Backstugan",
+        "type": "Raststuga",
+        "created": "2018-06-20 13:13:59",
+        "updated": "2021-12-17 16:07:26",
+        "deleted": "2023-05-11 14:13:48"
+      },
+      "geometry": null
+    },
+    {
+      "id": 258,
+      "type": "Feature",
+      "properties": {
+        "name": "Brokojan",
+        "type": "Raststuga",
+        "created": "2018-06-21 08:45:28",
+        "updated": "2021-12-17 16:23:02",
+        "deleted": "2023-05-11 14:16:59"
+      },
+      "geometry": null
+    }
+  ]
+}

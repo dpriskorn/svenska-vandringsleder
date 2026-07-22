@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1719,
+      "type": "Feature",
+      "properties": {
+        "name": "Hillstamons hinderbana",
+        "type": "Hinderbana",
+        "created": "2020-12-15 16:34:09",
+        "updated": "2024-10-22 18:34:15",
+        "published": true,
+        "childObjects": [
+          1695,
+          1697,
+          3078,
+          3079,
+          3992
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "hillstamon",
+          "hillstamons hinderbana",
+          "hinderbana",
+          "obstacle race"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 242,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Träflis"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1999,
+                "filename": "20200917_183909.jpg",
+                "description": "Hillstamons hinderbanor",
+                "alttext": "Hillstamons hinderbanor",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4865295,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1999",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2000,
+                "filename": "20200917_183919.jpg",
+                "description": "Skyltar som visar hinderbanornas upplägg",
+                "alttext": "Skyltar som visar hinderbanornas upplägg",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5356442,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2000",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Hinderbanan ligger på Hillstamon, intill Södra Bergets slalombacke. Det finns en stor bana med 13 hinder och en liten bana med 11 hinder. Bägge aktiverar alla kroppens muskler. Den lilla banan är lite enklare och är en bra start för den som inte är van, medan den stora banan har en del utmanande hinder som kräver vana och god fysisk form. Informationstavlan på plats visar en översikt över banan och hur man tar sig över hindren. Tänk på att hindren kan vara hala vid blött väder. Bägge banorna är belysta. All träning sker på egen risk och målsman ansvarar för minderåriga barn."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://youtu.be/cfHw6BqzAEw"
+          }
+        ],
+        "centerPoint": [
+          17.33336478892322,
+          62.37160950613249
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.332998175846278,
+                62.371945402529214
+              ],
+              [
+                17.332496367647742,
+                62.3716193856559
+              ],
+              [
+                17.333005268402243,
+                62.37140969627934
+              ],
+              [
+                17.333364377941578,
+                62.37129303822638
+              ],
+              [
+                17.333632010359082,
+                62.371253347968754
+              ],
+              [
+                17.333799305918063,
+                62.371315919588746
+              ],
+              [
+                17.334232914688403,
+                62.37160032930466
+              ],
+              [
+                17.333632483967182,
+                62.37181658697949
+              ],
+              [
+                17.333053811689787,
+                62.37196458585834
+              ],
+              [
+                17.332998175846278,
+                62.371945402529214
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

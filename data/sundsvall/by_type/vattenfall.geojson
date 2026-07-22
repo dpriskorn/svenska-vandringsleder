@@ -1,0 +1,307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1470,
+      "type": "Feature",
+      "properties": {
+        "name": "Brattfallet",
+        "type": "Vattenfall",
+        "created": "2020-03-17 13:31:30",
+        "updated": "2023-09-29 10:23:22",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1902,
+                "filename": "20200922_154456.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8974868,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1902",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1903,
+                "filename": "20200922_155814.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6477559,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1903",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1904,
+                "filename": "20200922_155835.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6799591,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1904",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Brattfallet är ett vattenfall i Bjässjöån som förändrades dramatiskt i samband med skyfallen 2001. Då erroderades nya fåror och rasbranter i åns nedre lopp. Enorma mängder sten och fullstora träd rullade utför nipan. Än idag är platsen riskabel med stor risk för nytta ras."
+          }
+        ],
+        "centerPoint": [
+          16.738805101379576,
+          62.75074237816423
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.738120336238996,
+                62.750792156193036
+              ],
+              [
+                16.738298699094514,
+                62.75054359339445
+              ],
+              [
+                16.739492963519364,
+                62.75075103792113
+              ],
+              [
+                16.73922340085775,
+                62.750940398940784
+              ],
+              [
+                16.738120336238996,
+                62.750792156193036
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1681,
+      "type": "Feature",
+      "properties": {
+        "name": "Vattenfall Boda såg",
+        "type": "Vattenfall",
+        "created": "2020-09-18 15:44:16",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 3665,
+      "type": "Feature",
+      "properties": {
+        "name": "Vattenfall Fagerdalsparken",
+        "type": "Vattenfall",
+        "created": "2023-08-28 08:20:04",
+        "updated": "2024-06-10 09:37:23",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2546,
+                "filename": "20230828_081459.jpg",
+                "description": "Vattenfall",
+                "alttext": "Vattenfall",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3918016,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2546",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2547,
+                "filename": "20230828_081527.jpg",
+                "description": "Vilbänk vid vattenfallet",
+                "alttext": "Vilbänk vid vattenfall",
+                "sourcetext": "Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 7670139,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2547",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Litet vattenfall som kan bli rätt imponerande vid höga flöden"
+          }
+        ],
+        "centerPoint": [
+          17.283445326270474,
+          62.38233951819131
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.28337962898883,
+                62.38218126044431
+              ],
+              [
+                17.283466132654162,
+                62.38217921298325
+              ],
+              [
+                17.283465119082095,
+                62.38223706176163
+              ],
+              [
+                17.283353221464342,
+                62.38222569629855
+              ],
+              [
+                17.28337962898883,
+                62.38218126044431
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4185,
+      "type": "Feature",
+      "properties": {
+        "name": "Vattenfall Lillån",
+        "type": "Vattenfall",
+        "created": "2025-12-15 14:35:12",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.79807899299531,
+          62.43314147773759
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.798125856353764,
+                62.43330446462017
+              ],
+              [
+                16.797700036581453,
+                62.43307866877947
+              ],
+              [
+                16.798300773097747,
+                62.4329653335781
+              ],
+              [
+                16.798456183713494,
+                62.433204672112645
+              ],
+              [
+                16.798125856353764,
+                62.43330446462017
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1431,
+      "type": "Feature",
+      "properties": {
+        "name": "Boda vattenfall",
+        "type": "Vattenfall",
+        "created": "2020-03-12 11:23:33",
+        "deleted": "2020-10-29 09:53:11"
+      },
+      "geometry": null
+    }
+  ]
+}

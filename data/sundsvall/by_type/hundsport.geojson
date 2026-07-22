@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1132,
+      "type": "Feature",
+      "properties": {
+        "name": "Matfors Brukshundsklubb",
+        "type": "Hundsport",
+        "created": "2019-11-14 14:48:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1266,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls Brukshundsklubb",
+        "type": "Hundsport",
+        "created": "2019-11-27 14:22:54",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1310,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurunda Brukshundsklubb",
+        "type": "Hundsport",
+        "created": "2019-12-03 16:23:54",
+        "updated": "2020-06-29 15:14:37",
+        "published": true,
+        "owner": {
+          "organizationID": 106,
+          "name": "njurunda brukshundklubb"
+        },
+        "manager": {
+          "organizationID": 106,
+          "name": "njurunda brukshundklubb"
+        },
+        "tags": [
+          "brukshundsklubb",
+          "hund",
+          "lydnad",
+          "njurunda brukshundsklubb",
+          "valpkurs"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1222,
+                "filename": "Njurunda Brukshundklubb (1).JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3134215,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1222",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1223,
+                "filename": "Njurunda Brukshundklubb (4).JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3047633,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1223",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1224,
+                "filename": "Njurunda Brukshundklubb.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3116549,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1224",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Erbjuder bland annat kurser för valpar, lydnad, viltspår, tävlingsförberedande, agility, apell och tjänstehundskurs "
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "http://www.njurundabhk.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.njurundabhk.se/"
+          }
+        ],
+        "centerPoint": [
+          17.4288626164122,
+          62.32117751865799
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.428368872550095,
+                62.32201853319122
+              ],
+              [
+                17.42989827629504,
+                62.32194654297109
+              ],
+              [
+                17.43000623568867,
+                62.32142237411397
+              ],
+              [
+                17.428461381383777,
+                62.32035224582396
+              ],
+              [
+                17.42789732268817,
+                62.32046268394715
+              ],
+              [
+                17.427740252297713,
+                62.32052577806409
+              ],
+              [
+                17.427707756192518,
+                62.32079289413595
+              ],
+              [
+                17.427719510740236,
+                62.32093853611815
+              ],
+              [
+                17.428061371263084,
+                62.32128963923995
+              ],
+              [
+                17.428159900915503,
+                62.321438794593625
+              ],
+              [
+                17.428211598654684,
+                62.32154350505136
+              ],
+              [
+                17.42834657257242,
+                62.3217423158111
+              ],
+              [
+                17.42831311894006,
+                62.32186360146175
+              ],
+              [
+                17.428382761148242,
+                62.32192273542336
+              ],
+              [
+                17.428368872550095,
+                62.32201853319122
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

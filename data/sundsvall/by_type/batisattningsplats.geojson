@@ -1,0 +1,1590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1330,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Vikarn",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 08:34:22",
+        "updated": "2021-01-25 16:10:55",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Båtramp i Vikarn"
+          }
+        ],
+        "centerPoint": [
+          17.078089066826976,
+          62.28965385972752
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078089066826976,
+          62.28965385972752
+        ]
+      }
+    },
+    {
+      "id": 1332,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Lindsjön",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 08:39:38",
+        "updated": "2021-01-25 16:09:51",
+        "published": true,
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Båtramp i Lindsjön"
+          }
+        ],
+        "centerPoint": [
+          17.03542702015126,
+          62.28235961396282
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.03542702015126,
+          62.28235961396282
+        ]
+      }
+    },
+    {
+      "id": 1333,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Gryttjen",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 08:48:39",
+        "updated": "2021-07-28 11:45:26",
+        "published": true,
+        "manager": {
+          "organizationID": 289,
+          "name": "Attmars Fiskevårdsområde"
+        },
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Båtramp, Gryttjen"
+          }
+        ],
+        "centerPoint": [
+          16.92845318932129,
+          62.244401248117796
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.92845318932129,
+          62.244401248117796
+        ]
+      }
+    },
+    {
+      "id": 1334,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Indalsälven",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 08:52:26",
+        "updated": "2021-01-25 16:13:49",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1335,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Holmsjön",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 09:00:14",
+        "updated": "2021-01-25 16:12:36",
+        "published": true,
+        "owner": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "tags": [
+          "båtisättningsplats",
+          "båtramp",
+          "holmsjön"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vid Holmsjön finns fyra ramper: 1.2 kilometer före Österström om du kommer från Sundsvall, (sydöstra delen av sjön), 2.1 kilometer efter Österström om du kommer från Sundsvall (mellersta delen av sjön), vid bron i Sandnäset och sundet mellan Holmsjön och Fagervikssjön vid Gimåfors (västra delen av sjön)."
+          }
+        ],
+        "centerPoint": [
+          16.390515900299583,
+          62.69484636033476
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.390515900299583,
+          62.69484636033476
+        ]
+      }
+    },
+    {
+      "id": 1336,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Hullsjön",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:09:39",
+        "updated": "2021-01-25 16:12:46",
+        "published": true,
+        "owner": {
+          "organizationID": 278,
+          "name": "Hullsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 278,
+          "name": "Hullsjöns FVO"
+        },
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En båtramp finns vid norra delen av Stor-Hullsjön, läs mer på https://sundsvall.se/uppleva-och-gora/friluftsliv-och-natur/fiske-i-sundsvall/fiskevardsomraden-fvo/hullsjons-fvo/"
+          }
+        ],
+        "centerPoint": [
+          16.694843483192688,
+          62.54071981015133
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694843483192688,
+          62.54071981015133
+        ]
+      }
+    },
+    {
+      "id": 1337,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Åstön/Tynderö",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:21:07",
+        "updated": "2021-01-25 16:10:13",
+        "published": true,
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sjösättningsmöjligheter finns vid Åstön/Tynderö, Alnö, Klingerfjärden, Ortviken, Lörudden och Skatan. I vissa fall även riktiga ramper. En del ramper är ej avgiftsfria."
+          }
+        ],
+        "centerPoint": [
+          17.635252212249917,
+          62.4409901331017
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.635252212249917,
+          62.4409901331017
+        ]
+      }
+    },
+    {
+      "id": 1338,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Alnö",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:21:50",
+        "updated": "2021-09-23 15:40:47",
+        "published": true,
+        "owner": {
+          "organizationID": 47,
+          "name": "gustafsvarfs hamnförening."
+        },
+        "manager": {
+          "organizationID": 47,
+          "name": "gustafsvarfs hamnförening."
+        },
+        "tags": [
+          "båtisättningsplats",
+          "båtramp",
+          "sjösättningsplats",
+          "sjösättningsramp"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Planerad"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sjösättningsmöjligheter vid Gustavsvarfs hamnförening"
+          }
+        ],
+        "centerPoint": [
+          17.410638097786016,
+          62.40448637073832
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.410638097786016,
+          62.40448637073832
+        ]
+      }
+    },
+    {
+      "id": 1339,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Klingerfjärden",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:24:07",
+        "updated": "2021-01-25 16:13:31",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1340,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Sundsvalls båtsällskap",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:45:04",
+        "updated": "2021-09-23 14:55:42",
+        "published": true,
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Betong"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.34752873565019,
+          62.39371104877807
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.34752873565019,
+          62.39371104877807
+        ]
+      }
+    },
+    {
+      "id": 1341,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Lörudden",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:46:47",
+        "updated": "2021-01-25 16:13:22",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1342,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Skatan",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 10:48:48",
+        "updated": "2021-12-06 12:50:12",
+        "published": true,
+        "tags": [
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Betong"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-09-23"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sjösättningsmöjligheter vid Skatan"
+          }
+        ],
+        "centerPoint": [
+          17.505510721722057,
+          62.194951709434655
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.505510721722057,
+          62.194951709434655
+        ]
+      }
+    },
+    {
+      "id": 1394,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Eriksdal",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-11 10:28:19",
+        "updated": "2021-01-25 16:12:00",
+        "published": true,
+        "tags": [
+          "alnön",
+          "båtisättningsplats",
+          "båtramp"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1292,
+                "filename": "båtramp_ga_kajen_eriksdal.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 69820,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1292",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Eriksdal, gamla kajen"
+          }
+        ],
+        "centerPoint": [
+          17.37290022135192,
+          62.47970124749911
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37290022135192,
+          62.47970124749911
+        ]
+      }
+    },
+    {
+      "id": 1436,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats vid Stordalen",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-12 11:41:06",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1471,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Järkvissle",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:48:19",
+        "updated": "2026-04-01 22:10:13",
+        "published": true,
+        "parentObjects": [
+          4450
+        ],
+        "tags": [
+          "båtiläggningsplats",
+          "sjösättningsplats"
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Bra plats för iläggning av båt från trailer"
+          }
+        ],
+        "centerPoint": [
+          16.664416912010452,
+          62.79236279242324
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.664416912010452,
+          62.79236279242324
+        ]
+      }
+    },
+    {
+      "id": 1472,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Liden",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:49:21",
+        "updated": "2026-04-01 22:19:33",
+        "published": true,
+        "parentObjects": [
+          4452
+        ],
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.78675964656448,
+          62.69690812777572
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.78675964656448,
+          62.69690812777572
+        ]
+      }
+    },
+    {
+      "id": 1473,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Nilsböle",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:51:12",
+        "updated": "2020-04-07 21:02:43",
+        "published": true,
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.887149586752724,
+          62.651089654712756
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887149586752724,
+          62.651089654712756
+        ]
+      }
+    },
+    {
+      "id": 1474,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Sunnås",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:52:47",
+        "updated": "2021-01-25 16:13:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1475,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Kävstabron",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:55:00",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1476,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Kävstabron 2",
+        "type": "Båtisättningsplats",
+        "created": "2020-03-17 16:55:40",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1638,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Spikarna",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-04 22:57:16",
+        "updated": "2021-01-25 16:11:50",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1599,
+                "filename": "20200804_193105.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6559415,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1599",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1600,
+                "filename": "20200804_193111.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4595735,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1600",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.526509554930783,
+          62.36083614705915
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.526509554930783,
+          62.36083614705915
+        ]
+      }
+    },
+    {
+      "id": 1641,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Marmen Lucksta",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-12 14:06:17",
+        "updated": "2021-01-25 16:11:41",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.052741278702126,
+          62.29143720396058
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052741278702126,
+          62.29143720396058
+        ]
+      }
+    },
+    {
+      "id": 1642,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Vikarbodarna Björköfjärden",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-12 14:18:09",
+        "updated": "2021-01-25 16:10:38",
+        "published": true,
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.496486568571708,
+          62.206410574981454
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.496486568571708,
+          62.206410574981454
+        ]
+      }
+    },
+    {
+      "id": 1643,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Norrsjön",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-12 14:36:35",
+        "updated": "2021-01-25 16:10:46",
+        "published": true,
+        "owner": {
+          "organizationID": 182,
+          "name": "sundsvalls sportfiskeklubb"
+        },
+        "manager": {
+          "organizationID": 182,
+          "name": "sundsvalls sportfiskeklubb"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.9811967769829,
+          62.5597547350716
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9811967769829,
+          62.5597547350716
+        ]
+      }
+    },
+    {
+      "id": 1644,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Österström",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-13 12:01:54",
+        "updated": "2021-01-25 16:09:31",
+        "published": true,
+        "owner": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.724160810644197,
+          62.63134881343211
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.724160810644197,
+          62.63134881343211
+        ]
+      }
+    },
+    {
+      "id": 1645,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Holmsjön Anundgård",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-13 12:15:39",
+        "updated": "2021-01-25 16:09:40",
+        "published": true,
+        "owner": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.624521140572487,
+          62.65755179063329
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.624521140572487,
+          62.65755179063329
+        ]
+      }
+    },
+    {
+      "id": 1646,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Åstön/Tynderö",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-13 13:21:06",
+        "updated": "2021-01-25 16:10:04",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.67381098842932,
+          62.43341757351818
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.67381098842932,
+          62.43341757351818
+        ]
+      }
+    },
+    {
+      "id": 1647,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Malstabodsjön",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-13 13:47:24",
+        "updated": "2021-07-28 11:54:43",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.9825973447751,
+          62.239358571324935
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9825973447751,
+          62.239358571324935
+        ]
+      }
+    },
+    {
+      "id": 1648,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Bölomssjön",
+        "type": "Båtisättningsplats",
+        "created": "2020-08-13 13:49:17",
+        "updated": "2021-07-28 11:53:51",
+        "published": true,
+        "owner": {
+          "organizationID": 5,
+          "name": "attmars fvo"
+        },
+        "manager": {
+          "organizationID": 289,
+          "name": "Attmars Fiskevårdsområde"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.096191310776504,
+          62.225278249545305
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.096191310776504,
+          62.225278249545305
+        ]
+      }
+    },
+    {
+      "id": 1685,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Stor-Sundsjön",
+        "type": "Båtisättningsplats",
+        "created": "2020-09-22 12:57:45",
+        "updated": "2021-01-25 16:11:08",
+        "published": true,
+        "owner": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Asfalt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1901,
+                "filename": "20200922_094520.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7291581,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1901",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Relativt brant isättningsplats. Delvis asfaltunderlag."
+          }
+        ],
+        "centerPoint": [
+          16.84619505655664,
+          62.62120646949226
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.84619505655664,
+          62.62120646949226
+        ]
+      }
+    },
+    {
+      "id": 1763,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Stor-Otern",
+        "type": "Båtisättningsplats",
+        "created": "2021-01-25 16:09:05",
+        "published": true,
+        "owner": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "manager": {
+          "organizationID": 279,
+          "name": "Holmsjöns FVO"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.723490980265108,
+          62.65158110405015
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.723490980265108,
+          62.65158110405015
+        ]
+      }
+    },
+    {
+      "id": 1850,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättning Vången",
+        "type": "Båtisättningsplats",
+        "created": "2021-06-12 21:22:00",
+        "published": true,
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2170,
+                "filename": "20210610_112605.jpg",
+                "description": "Båtisättningsplats",
+                "alttext": "Båtisättningsplats",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8380844,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2170",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Båtisättningsplats med grusunderlag"
+          }
+        ],
+        "centerPoint": [
+          16.577875426778185,
+          62.41598457609991
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.577875426778185,
+          62.41598457609991
+        ]
+      }
+    },
+    {
+      "id": 3280,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättningsplats Ortviken",
+        "type": "Båtisättningsplats",
+        "created": "2022-08-31 10:15:35",
+        "published": true,
+        "owner": {
+          "organizationID": 120,
+          "name": "ortvikens motorbåtsklubb"
+        },
+        "manager": {
+          "organizationID": 120,
+          "name": "ortvikens motorbåtsklubb"
+        },
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Asfalt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2353,
+                "filename": "20210707_130451.jpg",
+                "description": "Båtisättningsplats",
+                "alttext": "Båtisättningsplats",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7312714,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2353",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rampen ligger inom Ortvikens motorklubbs hamnområde. Kontakta dem för information om iläggningsplatsen."
+          }
+        ],
+        "centerPoint": [
+          17.359793310687337,
+          62.39809021556468
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.359793310687337,
+          62.39809021556468
+        ]
+      }
+    },
+    {
+      "id": 3954,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättning Kungsholmen",
+        "type": "Båtisättningsplats",
+        "created": "2024-06-28 12:37:41",
+        "updated": "2024-06-28 12:39:06",
+        "published": true,
+        "fields": [
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2638,
+                "filename": "20240628_123243.jpg",
+                "description": "Båtisättning möjlig vid liten sandstrand",
+                "alttext": "Grusväg ner mot vatten",
+                "sourcetext": "Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5685052,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2638",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2639,
+                "filename": "20240628_123306.jpg",
+                "description": "Båtisättning möjlig vid liten sandstrand",
+                "alttext": "Liten sandstrand ",
+                "sourcetext": "Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3934773,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2639",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Naturisättningsplats på liten sandstrand"
+          }
+        ],
+        "centerPoint": [
+          17.3876143666065,
+          62.299796155166455
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3876143666065,
+          62.299796155166455
+        ]
+      }
+    },
+    {
+      "id": 3957,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtisättning Navarn",
+        "type": "Båtisättningsplats",
+        "created": "2024-07-03 12:48:33",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 214,
+            "name": "Underlag",
+            "type": "DROPDOWN",
+            "value": "Grus"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2024-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2641,
+                "filename": "20240702_201838.jpg",
+                "description": "Båtisättningsplats",
+                "alttext": "Grusväg som går rakt ner i vattnet",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4215575,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2641",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Naturlig ìsättningsplats. Grus på land och sand i vattnet. "
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Halvdålig skogsbilväg fram till platsen. Vägen ner till sjön är fin. Bottnen sandig med lite dy. dy"
+          }
+        ],
+        "centerPoint": [
+          16.75953497379522,
+          62.57979756304576
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.75953497379522,
+          62.57979756304576
+        ]
+      }
+    },
+    {
+      "id": 1331,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtramp, Marmen",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 08:37:20",
+        "updated": "2020-06-30 10:20:03",
+        "deleted": "2020-08-13 12:18:46"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1343,
+      "type": "Feature",
+      "properties": {
+        "name": "Båtramp, Öjen",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-05 12:44:13",
+        "updated": "2020-08-12 14:30:54",
+        "deleted": "2020-08-13 12:17:42"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1871,
+      "type": "Feature",
+      "properties": {
+        "name": "Malstabodsjöns båtisättningsplats",
+        "type": "Båtisättningsplats",
+        "created": "2021-07-28 11:51:31",
+        "deleted": "2021-07-28 11:54:19"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1404,
+      "type": "Feature",
+      "properties": {
+        "name": "Västbo - Sjösättning båt",
+        "type": "Båtisättningsplats",
+        "created": "2019-12-11 16:14:44",
+        "deleted": "2020-08-13 12:20:07"
+      },
+      "geometry": null
+    }
+  ]
+}

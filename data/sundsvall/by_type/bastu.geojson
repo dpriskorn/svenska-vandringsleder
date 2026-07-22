@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1448,
+      "type": "Feature",
+      "properties": {
+        "name": "Plåtvikens bastu",
+        "type": "Bastu",
+        "created": "2020-03-12 13:08:36",
+        "updated": "2023-05-22 22:20:57",
+        "published": true,
+        "owner": {
+          "organizationID": 127,
+          "name": "sca"
+        },
+        "manager": {
+          "organizationID": 127,
+          "name": "sca"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 227,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "sca"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "e4c17894-ee22-41c5-bf66-55f56b82c246"
+          }
+        ],
+        "centerPoint": [
+          16.896742305933,
+          62.8263718256665
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.89677029792833,
+                62.82635906647876
+              ],
+              [
+                16.89680508334405,
+                62.826413877638466
+              ],
+              [
+                16.896724460383204,
+                62.82642464261652
+              ],
+              [
+                16.896689635296056,
+                62.82636982299448
+              ],
+              [
+                16.89677029792833,
+                62.82635906647876
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4223,
+      "type": "Feature",
+      "properties": {
+        "name": "Bastu Lill-Lubban",
+        "type": "Bastu",
+        "created": "2026-01-13 11:27:37",
+        "updated": "2026-01-13 11:37:38",
+        "published": true,
+        "parentObjects": [
+          666
+        ],
+        "owner": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "manager": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 227,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Ved"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2779,
+                "filename": "20250630_204301.jpg",
+                "description": "Bastu på Lill-Lubban",
+                "alttext": "Bastubyggnad i skogen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6005705,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2779",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2780,
+                "filename": "20250630_204323.jpg",
+                "description": "Interiör bastu Lill-Lubban",
+                "alttext": "Interiör i bastun på Lill-Lubban",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4389447,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2780",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "bc8d77cd-08ed-4faf-8ecc-d78e3aac94af"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedeladad bastu på Lill-Lubban\r\nGästhamnsregler och -avgifter gäller för byggnaden"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.svenskagasthamnar.se/bottenhavet/lill-lubban/"
+          }
+        ],
+        "centerPoint": [
+          17.52079839009698,
+          62.172506074342465
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.520740480086435,
+                62.17254847266363
+              ],
+              [
+                17.520812568620123,
+                62.172511882185994
+              ],
+              [
+                17.520877646094164,
+                62.17253989574426
+              ],
+              [
+                17.5208055376448,
+                62.17257647763706
+              ],
+              [
+                17.520740480086435,
+                62.17254847266363
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1856,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns bastu",
+        "type": "Bastu",
+        "created": "2021-07-02 09:16:52",
+        "deleted": "2021-07-03 14:22:12"
+      },
+      "geometry": null
+    }
+  ]
+}

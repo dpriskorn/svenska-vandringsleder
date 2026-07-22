@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 4270,
+      "type": "Feature",
+      "properties": {
+        "name": "Bäckaskog",
+        "type": "Byggnadsminne",
+        "created": "2026-01-19 09:56:38",
+        "updated": "2026-01-19 10:00:01",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Utflyktsstuga/Skogvaktarstuga"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mitt mellan gula femman på Södra Berget och spåret mot NTO fanns denna stuga upplåten för stadsskogvaktaren fram till 1940-talet. Idag finns inga synliga rester kvar. Går man dock och sparkar på mossan på platsen där stugan en gång i tiden fanns, kan man hitta rester av taktegel eller kanske en gammal kaffepanna.\r\n\r\nDet var här SK Vidars medlemmar samlades under första åren efter klubben bildats 1893. Alltså innan Klissbergsstugan kommit till var Bäckaskog stället för Vidarfolket att dricka sitt kaffe och vila mellan turerna! \r\nDåvarande tjänstgörande stadskamrerare, adjunkt C.O.Lindahl - som förresten var medlem i SK Vidar ? ordnade så att skidklubben fick disponera ett rum här mot en avgift av tio kronor om året. Även om bilden inte visar detta så fanns den mycket stiliga Vidarloggan uppsatt på väggen ovanför ingången till den delen som folk på utflykt samt skogsarbetarna använde. Stadsskogvaktaren hade en egen ingång till den delen av stugan som han använde i sitt arbete. \r\n\r\nSista åren fram till 1930?talet användes stugan mer och mer sporadiskt. Då stugan förföll och staden inte ville reparera, sade man upp avtalet.\r\nDå kommer Jaktstugan in i bilden. Dit flyttade nämligen stadsskogvaktaren efter Bäckaskog rivits.\r\nNågon gång därefter revs stugan ner och samma timmer användes då den röda stugan intill LV5:s gamla vaktbyggnad längs Granmodalsgatan byggdes. Här kan vi alltså slå hål på ytterligare ett gammalt rykte som påstår att Bäckaskogs historia avslutades i en brand. Så var alltså inte fallet, utan själva stommen till stugan står kvar än ? även om på ett nytt ställe!\r\n\r\nSå här står det i SK Vidars 100 års jubileumsskrift ? ett urklipp från Vidar Stugan Dagbok:\r\n?Sedan närmare 20 år tillbaka har Vidar förhyrt ett rum i Sundsvalls stads skogvaktarstuga bakom Södra Stadsberget. ?Bäckaskog? har under alla dessa år varit en kär tillflyktsort för Vidars medlemmar. Särskilt under söndagarna har här varit fullt hus. En sillfrukost i Bäckaskog, började vid minus 20 och slutade vid lika många grader plus, har varit veckans upplevelse och ?vida berömt i Norden? som skalden sjunger. Den gamla, nötta liggaren i Bäckaskog talar sitt tydliga språk om all den ursprungliga livsglädje, som här haft sin plats. Om du vänder på de gulnande bladen skall du se namn som återkomma regelbundet år efter år ? från den gamla doktorn, som snart fyller sina 80 år. Men ännu går miltals med endast en stav på fädrens vis, och till yngre generationer i flera led.?\r\n Men Bäckaskog blev för trångt, Vidars medlemsantal svällde ut och man måste ha större utrymme.\r\n"
+          }
+        ],
+        "centerPoint": [
+          17.312369511837336,
+          62.35720173330234
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.312523334530532,
+                62.35723932597126
+              ],
+              [
+                17.312232390443693,
+                62.35729445116274
+              ],
+              [
+                17.31236854719345,
+                62.357145891327825
+              ],
+              [
+                17.312523334530532,
+                62.35723932597126
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4273,
+      "type": "Feature",
+      "properties": {
+        "name": "Toppflaggan Sädra Berget",
+        "type": "Byggnadsminne",
+        "created": "2026-01-19 10:07:00",
+        "updated": "2026-06-22 09:45:05",
+        "published": true,
+        "owner": {
+          "organizationID": 304,
+          "name": "W.F.-bröder"
+        },
+        "manager": {
+          "organizationID": 304,
+          "name": "W.F.-bröder"
+        },
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Okänt"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2933,
+                "filename": "20230712_083355.jpg",
+                "description": "Skylt om toppflaggan",
+                "alttext": "Skylt som beskriver toppflaggan på Södra Berget",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4107755,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2933",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Flagga som står på toppen av Södra Stadsberget. tidigare placerad där hotellet numera står. Därefter flyttad till denna plats då hotellet byggdes 1986."
+          }
+        ],
+        "centerPoint": [
+          17.31296244945712,
+          62.3684992762701
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.312972627279763,
+                62.36850847915471
+              ],
+              [
+                17.312908934877406,
+                62.36848667884914
+              ],
+              [
+                17.312983470401722,
+                62.368470353214256
+              ],
+              [
+                17.31300966342842,
+                62.368478147073084
+              ],
+              [
+                17.312972627279763,
+                62.36850847915471
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

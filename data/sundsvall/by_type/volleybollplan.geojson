@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1046,
+      "type": "Feature",
+      "properties": {
+        "name": "Beachvolleyboll",
+        "type": "Volleybollplan",
+        "created": "2019-11-06 16:30:27",
+        "deleted": "2019-11-26 13:49:32"
+      },
+      "geometry": null
+    }
+  ]
+}

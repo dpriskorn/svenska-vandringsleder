@@ -1,0 +1,5280 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 183,
+      "type": "Feature",
+      "properties": {
+        "name": "Solbänk värmestugan Sidsjön",
+        "type": "Sittbänk",
+        "created": "2018-06-19 13:46:48",
+        "updated": "2021-12-14 09:44:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Solbänk"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 82,
+                "filename": "image.jpg",
+                "description": "Solbänk",
+                "alttext": "Solbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6252708,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/82",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27589906600094,
+          62.36888219461413
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27589906600094,
+          62.36888219461413
+        ]
+      }
+    },
+    {
+      "id": 187,
+      "type": "Feature",
+      "properties": {
+        "name": "Solbänk Sidsjö skidlek och pulkabacke",
+        "type": "Sittbänk",
+        "created": "2018-06-19 13:55:00",
+        "updated": "2022-01-10 21:49:19",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Solbänk"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1572,
+                "filename": "20200520_072308.jpg",
+                "description": "Solbänk",
+                "alttext": "Solbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 8763230,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1572",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26925874875519,
+          62.368016888793534
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26925874875519,
+          62.368016888793534
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "type": "Feature",
+      "properties": {
+        "name": "Backstugan",
+        "type": "Sittbänk",
+        "created": "2018-06-20 13:19:23",
+        "updated": "2021-12-17 16:08:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 129,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2785421,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/129",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.292126592633196,
+          62.36790840472193
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.292126592633196,
+          62.36790840472193
+        ]
+      }
+    },
+    {
+      "id": 249,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänkar Sidsjöbackens topp",
+        "type": "Sittbänk",
+        "created": "2018-06-20 14:49:09",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 137,
+                "filename": "image.jpg",
+                "description": "Sittbänkar",
+                "alttext": "Sittbänkar",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6013867,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/137",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänkar runt eldstaden"
+          }
+        ],
+        "centerPoint": [
+          17.286435218092134,
+          62.36899030681774
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.286435218092134,
+          62.36899030681774
+        ]
+      }
+    },
+    {
+      "id": 254,
+      "type": "Feature",
+      "properties": {
+        "name": "Solbänk Sidsjöbackens topp",
+        "type": "Sittbänk",
+        "created": "2018-06-20 14:55:00",
+        "updated": "2024-10-22 18:35:41",
+        "published": true,
+        "parentObjects": [
+          643
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Solbänk"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 141,
+                "filename": "image.jpg",
+                "description": "Solbänk",
+                "alttext": "Solbänk",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3218370,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/141",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.286494556610567,
+          62.36900029490798
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.286494556610567,
+          62.36900029490798
+        ]
+      }
+    },
+    {
+      "id": 263,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk vid Brokojan",
+        "type": "Sittbänk",
+        "created": "2018-06-21 08:50:23",
+        "updated": "2021-12-17 16:26:31",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 148,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6100599,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/148",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.299471860019597,
+          62.36462616547978
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.299471860019597,
+          62.36462616547978
+        ]
+      }
+    },
+    {
+      "id": 265,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk i Brokojan",
+        "type": "Sittbänk",
+        "created": "2018-06-21 08:53:50",
+        "updated": "2021-12-17 16:27:30",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 150,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2981077,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/150",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29950094646015,
+          62.364697588890486
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29950094646015,
+          62.364697588890486
+        ]
+      }
+    },
+    {
+      "id": 268,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk i Jaktkojan",
+        "type": "Sittbänk",
+        "created": "2018-06-21 09:24:49",
+        "updated": "2026-06-22 09:29:32",
+        "published": true,
+        "parentObjects": [
+          267,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 152,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1936361,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/152",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29778312674654,
+          62.35875454865465
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29778312674654,
+          62.35875454865465
+        ]
+      }
+    },
+    {
+      "id": 269,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk vid Jaktkojan",
+        "type": "Sittbänk",
+        "created": "2018-06-21 10:29:07",
+        "updated": "2026-06-22 09:29:21",
+        "published": true,
+        "parentObjects": [
+          4142,
+          4488
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2337,
+                "filename": "20210501_073620.jpg",
+                "description": "Sittbänkar runt grillen",
+                "alttext": "Sittbänkar runt grill",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6141961,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2337",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.297731139654868,
+          62.35869693514708
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.297731139654868,
+          62.35869693514708
+        ]
+      }
+    },
+    {
+      "id": 273,
+      "type": "Feature",
+      "properties": {
+        "name": "Solbänk Fågelbergsstugan",
+        "type": "Sittbänk",
+        "created": "2018-06-21 11:50:59",
+        "updated": "2026-06-22 08:54:38",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4486
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Solbänk"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 156,
+                "filename": "image.jpg",
+                "description": "Solbänk",
+                "alttext": "Solbänk",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2978799,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/156",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.292745126035417,
+          62.33970329934599
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.292745126035417,
+          62.33970329934599
+        ]
+      }
+    },
+    {
+      "id": 425,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Lucksta",
+        "type": "Sittbänk",
+        "created": "2018-07-02 09:35:33",
+        "updated": "2020-06-30 10:46:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 311,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7049928,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/311",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.05271765105714,
+          62.29822136029193
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05271765105714,
+          62.29822136029193
+        ]
+      }
+    },
+    {
+      "id": 438,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Norrhassels strandbad",
+        "type": "Sittbänk",
+        "created": "2018-07-02 10:16:57",
+        "updated": "2020-06-30 11:33:05",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 324,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5051237,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/324",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.745495746792407,
+          62.25559726064677
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745495746792407,
+          62.25559726064677
+        ]
+      }
+    },
+    {
+      "id": 454,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänkar Viggesjöns strandbad",
+        "type": "Sittbänk",
+        "created": "2018-07-02 10:53:10",
+        "updated": "2020-06-30 11:31:18",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 339,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4503556,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/339",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänkar runt grillen"
+          }
+        ],
+        "centerPoint": [
+          16.687671869793352,
+          62.30338004542985
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.687671869793352,
+          62.30338004542985
+        ]
+      }
+    },
+    {
+      "id": 472,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Sittbänk",
+        "created": "2018-07-03 09:33:49",
+        "updated": "2020-07-07 14:18:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 357,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6323690,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/357",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.04501146703219,
+          62.4429761781053
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04501146703219,
+          62.4429761781053
+        ]
+      }
+    },
+    {
+      "id": 497,
+      "type": "Feature",
+      "properties": {
+        "name": "Ede badplats Sittbänk",
+        "type": "Sittbänk",
+        "created": "2018-07-04 09:51:19",
+        "updated": "2020-09-09 11:36:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 382,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6732986,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/382",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.491122164165418,
+          62.41845951947666
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.491122164165418,
+          62.41845951947666
+        ]
+      }
+    },
+    {
+      "id": 708,
+      "type": "Feature",
+      "properties": {
+        "name": "Ryggis",
+        "type": "Sittbänk",
+        "created": "2019-04-25 19:20:12",
+        "updated": "2026-01-13 14:03:37",
+        "published": true,
+        "owner": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Granitblock med träbrits"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-04-25"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 499,
+                "filename": "15562127772003504237124362855431.jpg",
+                "description": "Parkbänk",
+                "alttext": "Parkbänk",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8996688,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/499",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.311931945718243,
+          62.40374155247589
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.311931945718243,
+          62.40374155247589
+        ]
+      }
+    },
+    {
+      "id": 1492,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget solbänk Mullekojorna",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:04:42",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1370,
+                "filename": "image (52).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3187727,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1370",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Solbänk i skönt söderläge"
+          }
+        ],
+        "centerPoint": [
+          17.304284585466032,
+          62.366006335920524
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.304284585466032,
+          62.366006335920524
+        ]
+      }
+    },
+    {
+      "id": 1493,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget Tarzanstigen",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:06:46",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1371,
+                "filename": "image (53).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3030210,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1371",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.323360767898304,
+          62.36771773547106
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.323360767898304,
+          62.36771773547106
+        ]
+      }
+    },
+    {
+      "id": 1494,
+      "type": "Feature",
+      "properties": {
+        "name": "Norra Berget Bureplatsen",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:08:47",
+        "updated": "2020-04-06 14:10:33",
+        "published": true,
+        "owner": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Granitblock med träbrits"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-27"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1372,
+                "filename": "image (54).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4245857,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1372",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29033415750918,
+          62.40276421820266
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29033415750918,
+          62.40276421820266
+        ]
+      }
+    },
+    {
+      "id": 1495,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Ankeborg",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:13:21",
+        "updated": "2026-04-07 09:39:17",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Svarta rörben Brun träsits"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2006
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2863,
+                "filename": "image.jpg",
+                "description": "Sittbänk ankeborg",
+                "alttext": "Två röda sittbänkar placerade längst med en röd trä vägg",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4661487,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2863",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.280058469269765,
+          62.377342693025945
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.280058469269765,
+          62.377342693025945
+        ]
+      }
+    },
+    {
+      "id": 1496,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön norra sidan",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:16:35",
+        "updated": "2020-04-06 14:24:04",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1376,
+                "filename": "image (59).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7232005,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1376",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.27970624369808,
+          62.377841543500054
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27970624369808,
+          62.377841543500054
+        ]
+      }
+    },
+    {
+      "id": 1497,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk utanför värmestugan",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:20:44",
+        "updated": "2020-04-06 14:20:53",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1374,
+                "filename": "image (57).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4801618,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1374",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.276147901684528,
+          62.368805306934185
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.276147901684528,
+          62.368805306934185
+        ]
+      }
+    },
+    {
+      "id": 1498,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk cykelväg Ankeborg",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:22:53",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Svarta rörben Brun träsits"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1375,
+                "filename": "image (58).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5325798,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1375",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.281398980969623,
+          62.377953865246745
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.281398980969623,
+          62.377953865246745
+        ]
+      }
+    },
+    {
+      "id": 1499,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk östra sidan Sidsjön",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:25:53",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1377,
+                "filename": "image (60).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6936992,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1377",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.279466375007264,
+          62.37168911743697
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.279466375007264,
+          62.37168911743697
+        ]
+      }
+    },
+    {
+      "id": 1500,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk utegym Sidsjön",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:27:47",
+        "updated": "2020-08-18 20:01:40",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1378,
+                "filename": "image (61).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7588664,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1378",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.281401102023136,
+          62.372932591471105
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.281401102023136,
+          62.372932591471105
+        ]
+      }
+    },
+    {
+      "id": 1502,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön sydväst",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:31:13",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1380,
+                "filename": "image (64).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6878710,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1380",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.269733197309115,
+          62.36950674729993
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269733197309115,
+          62.36950674729993
+        ]
+      }
+    },
+    {
+      "id": 1503,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk efter Vackra bäcken",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:33:17",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2000
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-05-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1381,
+                "filename": "20190507_073635_1_.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8962556,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1381",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.272916571604863,
+          62.36790213015233
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.272916571604863,
+          62.36790213015233
+        ]
+      }
+    },
+    {
+      "id": 1504,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk efter Vackra bäcken",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:34:55",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-05-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1382,
+                "filename": "20190507_073619_1_.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7511053,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1382",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.272791158727664,
+          62.367984640308826
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.272791158727664,
+          62.367984640308826
+        ]
+      }
+    },
+    {
+      "id": 1505,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön väst",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:38:06",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1383,
+                "filename": "image (66).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6528341,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1383",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.280396825586898,
+          62.372049030136985
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.280396825586898,
+          62.372049030136985
+        ]
+      }
+    },
+    {
+      "id": 1508,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk östra sidan Sidsjön",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:43:15",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1386,
+                "filename": "image (69).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6787128,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1386",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.279936966902326,
+          62.37186848372897
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.279936966902326,
+          62.37186848372897
+        ]
+      }
+    },
+    {
+      "id": 1510,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk i kolarkojan Tarzanstigen",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:46:46",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2017
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1388,
+                "filename": "image (71).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1853906,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1388",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.32169673635458,
+          62.36650144055294
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32169673635458,
+          62.36650144055294
+        ]
+      }
+    },
+    {
+      "id": 1511,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk vid Tarzanstigens timmerbröt",
+        "type": "Sittbänk",
+        "created": "2020-04-06 15:29:09",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2017
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1389,
+                "filename": "image (74).jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4595236,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1389",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.32305823812382,
+          62.36741813082351
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32305823812382,
+          62.36741813082351
+        ]
+      }
+    },
+    {
+      "id": 1512,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Hornsjöns strandbad",
+        "type": "Sittbänk",
+        "created": "2020-04-06 15:32:13",
+        "updated": "2020-04-06 15:38:15",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2000
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1391,
+                "filename": "IMG_1834.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3972113,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1391",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.21100788408999,
+          62.17467753389421
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21100788408999,
+          62.17467753389421
+        ]
+      }
+    },
+    {
+      "id": 1513,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänkar Sodom",
+        "type": "Sittbänk",
+        "created": "2020-04-06 15:49:27",
+        "updated": "2020-04-06 15:50:26",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben och ryggstöd"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2000
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1392,
+                "filename": "IMG_1786.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2800800,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1392",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.373013672686692,
+          62.35307838895591
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.373013672686692,
+          62.35307838895591
+        ]
+      }
+    },
+    {
+      "id": 1532,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk runt grill i Rigåsen",
+        "type": "Sittbänk",
+        "created": "2020-04-19 16:14:43",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1419,
+                "filename": "20200416_084932.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5796551,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1419",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.04869403056601,
+          62.82190316251954
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04869403056601,
+          62.82190316251954
+        ]
+      }
+    },
+    {
+      "id": 1688,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk läng Lidens elljusspår",
+        "type": "Sittbänk",
+        "created": "2020-10-27 12:21:20",
+        "published": true,
+        "owner": {
+          "organizationID": 265,
+          "name": "Indals-Lidens SK"
+        },
+        "manager": {
+          "organizationID": 265,
+          "name": "Indals-Lidens SK"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-10-27"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1923,
+                "filename": "20201027_121813.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 9352999,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1923",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Enkel sittbänk av stock "
+          }
+        ],
+        "centerPoint": [
+          16.8124670394285,
+          62.69970813151624
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8124670394285,
+          62.69970813151624
+        ]
+      }
+    },
+    {
+      "id": 1735,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk runt grillplats Nolbyströmmen",
+        "type": "Sittbänk",
+        "created": "2020-12-17 11:49:15",
+        "updated": "2025-07-16 13:44:28",
+        "published": true,
+        "parentObjects": [
+          1872
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2024,
+                "filename": "20160714_181159.jpg",
+                "description": "Sittbänkar runt grillplatsen",
+                "alttext": "Sittbänkar runt grillplatsen",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3310396,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2024",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänkar runt tre sidor av grillplatsen"
+          }
+        ],
+        "centerPoint": [
+          17.321393313741954,
+          62.29633524190029
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.321393313741954,
+          62.29633524190029
+        ]
+      }
+    },
+    {
+      "id": 1759,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Skönsbergsspåret",
+        "type": "Sittbänk",
+        "created": "2020-12-22 15:43:16",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben och ryggstöd"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk"
+          }
+        ],
+        "centerPoint": [
+          17.354941480992967,
+          62.40262352705758
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.354941480992967,
+          62.40262352705758
+        ]
+      }
+    },
+    {
+      "id": 1760,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Skönsbergsspåret",
+        "type": "Sittbänk",
+        "created": "2020-12-22 15:44:32",
+        "updated": "2024-10-07 19:12:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben och ryggstöd"
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2024
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2024-10-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2672,
+                "filename": "FB_IMG_1728320780364.jpg",
+                "description": "Sittbänk och vindskydd",
+                "alttext": "Sittbänk och vindskydd",
+                "sourcetext": "Mikael Nylander Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 188073,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2672",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Det går fint att rulla till bänken med rullstol. "
+          }
+        ],
+        "centerPoint": [
+          17.356465105164084,
+          62.40220348209686
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.356465105164084,
+          62.40220348209686
+        ]
+      }
+    },
+    {
+      "id": 1761,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Skänsbergsspåret",
+        "type": "Sittbänk",
+        "created": "2020-12-22 15:45:32",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben och ryggstöd"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk"
+          }
+        ],
+        "centerPoint": [
+          17.354950528881933,
+          62.40787165299017
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.354950528881933,
+          62.40787165299017
+        ]
+      }
+    },
+    {
+      "id": 1762,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Skönsbergsspåret",
+        "type": "Sittbänk",
+        "created": "2020-12-22 15:46:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock med metallben"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk"
+          }
+        ],
+        "centerPoint": [
+          17.347803246736365,
+          62.40359217860564
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.347803246736365,
+          62.40359217860564
+        ]
+      }
+    },
+    {
+      "id": 1770,
+      "type": "Feature",
+      "properties": {
+        "name": "Vilbänk botten av Ryggis",
+        "type": "Sittbänk",
+        "created": "2021-03-25 20:14:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Granitblock med träbrits"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-03-25"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2055,
+                "filename": "16166996250443601016840064994095.jpg",
+                "description": "Vilbänk",
+                "alttext": "Vilbänk",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4264094,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2055",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vilbänk botten av Ryggisspåret"
+          }
+        ],
+        "centerPoint": [
+          17.310830562412388,
+          62.401435205913955
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.310830562412388,
+          62.401435205913955
+        ]
+      }
+    },
+    {
+      "id": 1775,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Klampenborg norra udden",
+        "type": "Sittbänk",
+        "created": "2021-05-01 01:09:19",
+        "updated": "2026-01-13 10:59:29",
+        "published": true,
+        "parentObjects": [
+          4218
+        ],
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Svarta rörben Brun träsits"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-04-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2059,
+                "filename": "received_455138115562707.jpeg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2064516,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2059",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk med utsikt mot Sundsvallsfjärden "
+          }
+        ],
+        "centerPoint": [
+          17.393191899139687,
+          62.33552668224051
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.393191899139687,
+          62.33552668224051
+        ]
+      }
+    },
+    {
+      "id": 3088,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Utsikt Stora Bergssvängen",
+        "type": "Sittbänk",
+        "created": "2021-10-07 13:18:41",
+        "updated": "2022-01-10 16:54:17",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2255,
+                "filename": "Resized_20211005_133100.jpg",
+                "description": "Sittbänk med utsikt mot Norra berget",
+                "alttext": "Sittbänk med utsikt mot Norra berget ",
+                "sourcetext": "Pessi Liukkonen, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 258806,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2255",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk med härlig utsikt mot norr"
+          }
+        ],
+        "centerPoint": [
+          17.294721749312806,
+          62.36012931933076
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.294721749312806,
+          62.36012931933076
+        ]
+      }
+    },
+    {
+      "id": 3089,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Utsikt 2 Stora Bergssvängen",
+        "type": "Sittbänk",
+        "created": "2021-10-07 13:20:47",
+        "updated": "2022-01-10 16:54:10",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2253,
+                "filename": "Resized_20211005_143826.jpg",
+                "description": "Sittbänk och grillplats",
+                "alttext": "Sittbänk och grillplats",
+                "sourcetext": "Pessi Liukkonen, Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 259079,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2253",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2254,
+                "filename": "Resized_20211005_143812.jpg",
+                "description": "Sittbänk med utsikt ",
+                "alttext": "Sittbänk med utsikt ",
+                "sourcetext": "Pessi Liukkonen,  Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 233503,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2254",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk avskilt med glimtande utsikt mellan träden"
+          }
+        ],
+        "centerPoint": [
+          17.301452000989705,
+          62.358235402197764
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.301452000989705,
+          62.358235402197764
+        ]
+      }
+    },
+    {
+      "id": 3179,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Naturstigen Södra Tallen",
+        "type": "Sittbänk",
+        "created": "2022-05-31 08:38:57",
+        "updated": "2026-06-22 09:42:43",
+        "published": true,
+        "parentObjects": [
+          695,
+          778,
+          968
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2022-05-31"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2380,
+                "filename": "20220531_083619.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6665298,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2380",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2381,
+                "filename": "20220531_083631.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5483775,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2381",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.31278771034053,
+          62.36543066270836
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31278771034053,
+          62.36543066270836
+        ]
+      }
+    },
+    {
+      "id": 3285,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Klingstabäcken",
+        "type": "Sittbänk",
+        "created": "2022-08-31 13:00:18",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          696,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2373,
+                "filename": "20220415_085940.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6773315,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2373",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.191735311052174,
+          62.32812564282677
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.191735311052174,
+          62.32812564282677
+        ]
+      }
+    },
+    {
+      "id": 3979,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Gubben",
+        "type": "Sittbänk",
+        "created": "2024-09-19 12:43:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2024
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2024-09-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2662,
+                "filename": "20240919_120230.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk vid vatten",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4249120,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2662",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2663,
+                "filename": "20240919_120239.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4634689,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2663",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk med härlig utsikt över vattnet. Perfekt kvällssol. "
+          }
+        ],
+        "centerPoint": [
+          17.38224169504461,
+          62.446817489003415
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38224169504461,
+          62.446817489003415
+        ]
+      }
+    },
+    {
+      "id": 4125,
+      "type": "Feature",
+      "properties": {
+        "name": "Skolbänk pulkabacke Ortviksberget",
+        "type": "Sittbänk",
+        "created": "2025-03-27 13:14:52",
+        "updated": "2026-01-13 14:49:15",
+        "published": true,
+        "parentObjects": [
+          4236
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 291,
+          "name": "Skönsbergsspårets ekonomiska förening"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Solbänk"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2024
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-03-27"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2791,
+                "filename": "IMG_20241126_151318.jpg",
+                "description": "Solbänkar",
+                "alttext": "Solbänkar",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2471705,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2791",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "2 st solbämkar"
+          }
+        ],
+        "centerPoint": [
+          17.35464883411766,
+          62.40347541103972
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35464883411766,
+          62.40347541103972
+        ]
+      }
+    },
+    {
+      "id": 4141,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Rännöspåret",
+        "type": "Sittbänk",
+        "created": "2025-08-26 08:16:18",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-08-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2742,
+                "filename": "20250826_081232.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk i naturen",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9672446,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2742",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk utan arm- eller ryggstöd på slät stenhäll"
+          }
+        ],
+        "centerPoint": [
+          17.016143094191857,
+          62.33838838605899
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.016143094191857,
+          62.33838838605899
+        ]
+      }
+    },
+    {
+      "id": 4337,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk vid mullekojorna",
+        "type": "Sittbänk",
+        "created": "2026-03-09 09:20:20",
+        "updated": "2026-03-10 12:13:04",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2813,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk i snön",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4239292,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2813",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.30391329331326,
+          62.366248857196645
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30391329331326,
+          62.366248857196645
+        ]
+      }
+    },
+    {
+      "id": 4340,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Tillgänglighetsslingan",
+        "type": "Sittbänk",
+        "created": "2026-03-09 10:49:41",
+        "updated": "2026-03-10 12:30:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2821,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4517145,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2821",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.30658742033723,
+          62.36575275964733
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30658742033723,
+          62.36575275964733
+        ]
+      }
+    },
+    {
+      "id": 4341,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Tillgänglighetsslingan",
+        "type": "Sittbänk",
+        "created": "2026-03-09 10:53:40",
+        "updated": "2026-03-10 12:29:35",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2822,
+                "filename": "image.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5070298,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2822",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.308855719254478,
+          62.3658533479922
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.308855719254478,
+          62.3658533479922
+        ]
+      }
+    },
+    {
+      "id": 4342,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Tillgänglighetsslingan",
+        "type": "Sittbänk",
+        "created": "2026-03-09 10:57:35",
+        "updated": "2026-03-10 12:28:30",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Rundstock helt i trä"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.31105970150048,
+          62.36608695443811
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31105970150048,
+          62.36608695443811
+        ]
+      }
+    },
+    {
+      "id": 4415,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk",
+        "type": "Sittbänk",
+        "created": "2026-03-13 09:17:09",
+        "updated": "2026-04-07 09:45:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2025
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2874,
+                "filename": "image.jpg",
+                "description": "Sittbänk med utsikt över sidsjön",
+                "alttext": "Sittbänk i trä med utsikt över sjö",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5484543,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2874",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sittbänk med utsikt mot Sidsjön"
+          }
+        ],
+        "centerPoint": [
+          17.275019155782108,
+          62.37585323583106
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275019155782108,
+          62.37585323583106
+        ]
+      }
+    },
+    {
+      "id": 4445,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Håkanstå",
+        "type": "Sittbänk",
+        "created": "2026-03-30 18:02:53",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2901,
+                "filename": "17748864455226056248658192729845.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk av trä utan ryggstöd i skogen",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4705776,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2901",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.278060819497657,
+          62.4021100244355
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.278060819497657,
+          62.4021100244355
+        ]
+      }
+    },
+    {
+      "id": 4446,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Håkanstå",
+        "type": "Sittbänk",
+        "created": "2026-03-30 18:06:26",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-31"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2902,
+                "filename": "17748866588776480314780728260398.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk med träsits i skogen.",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5485547,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2902",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27866080246923,
+          62.40152546705425
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27866080246923,
+          62.40152546705425
+        ]
+      }
+    },
+    {
+      "id": 4447,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Håkanstå",
+        "type": "Sittbänk",
+        "created": "2026-03-30 18:09:14",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-31"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2903,
+                "filename": "17748869040264342781327574590808.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk av trä vid sig",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4693305,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2903",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.28227743407542,
+          62.4012422987781
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28227743407542,
+          62.4012422987781
+        ]
+      }
+    },
+    {
+      "id": 4448,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Håkanstå",
+        "type": "Sittbänk",
+        "created": "2026-03-30 18:10:18",
+        "updated": "2026-03-30 18:10:33",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-31"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2904,
+                "filename": "1774886978910686566921400282145.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk av trä i skogen",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5023328,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2904",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.282811878746607,
+          62.40120046130658
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.282811878746607,
+          62.40120046130658
+        ]
+      }
+    },
+    {
+      "id": 4463,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Bosvedjespåret topp",
+        "type": "Sittbänk",
+        "created": "2026-04-09 20:38:56",
+        "published": true,
+        "fields": [
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Övrig"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2908,
+                "filename": "20260409_181059.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk i skogen bredvid motionsspår",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4636677,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2908",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.312615398187116,
+          62.41638671688555
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.312615398187116,
+          62.41638671688555
+        ]
+      }
+    },
+    {
+      "id": 4470,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk vintervandring Södra Berget",
+        "type": "Sittbänk",
+        "created": "2026-05-13 08:01:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 90,
+            "name": "Typ av sittbänk",
+            "type": "DROPDOWN",
+            "value": "Brun i sågat virke med ryggstöd"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2026
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-05-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2915,
+                "filename": "20260513_075935.jpg",
+                "description": "Sittbänk",
+                "alttext": "Sittbänk i trä med ryggstöd",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4500637,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2915",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.296694391890178,
+          62.366775989028525
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.296694391890178,
+          62.366775989028525
+        ]
+      }
+    },
+    {
+      "id": 543,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk krokforsen",
+        "type": "Sittbänk",
+        "created": "2018-07-30 11:33:33",
+        "deleted": "2020-12-16 18:38:20"
+      },
+      "geometry": null
+    },
+    {
+      "id": 252,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöbacken (Toppen)",
+        "type": "Sittbänk",
+        "created": "2018-06-20 14:53:41",
+        "deleted": "2020-04-15 11:39:10"
+      },
+      "geometry": null
+    },
+    {
+      "id": 253,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöbacken (toppen)",
+        "type": "Sittbänk",
+        "created": "2018-06-20 14:54:51",
+        "deleted": "2019-05-15 15:10:59"
+      },
+      "geometry": null
+    },
+    {
+      "id": 412,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Rännö",
+        "type": "Sittbänk",
+        "created": "2018-07-02 09:11:13",
+        "deleted": "2020-06-30 13:16:39"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1501,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön var?",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:29:39",
+        "deleted": "2023-05-09 17:01:18"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1506,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön var?",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:39:51",
+        "deleted": "2023-05-09 17:01:27"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1507,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Sidsjön var?",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:41:28",
+        "updated": "2021-05-24 17:17:43",
+        "deleted": "2023-05-09 17:01:34"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1509,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk jaktkojan",
+        "type": "Sittbänk",
+        "created": "2020-04-06 14:45:01",
+        "deleted": "2022-08-31 09:07:03"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1515,
+      "type": "Feature",
+      "properties": {
+        "name": "Sittbänk Fanbyklacken",
+        "type": "Sittbänk",
+        "created": "2020-04-06 16:01:31",
+        "updated": "2020-04-07 21:05:27",
+        "deleted": "2020-08-20 16:56:27"
+      },
+      "geometry": null
+    }
+  ]
+}

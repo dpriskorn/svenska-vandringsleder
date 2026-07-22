@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1773,
+      "type": "Feature",
+      "properties": {
+        "name": "Hundrastplats Södra kajen",
+        "type": "Hundrastplats",
+        "created": "2021-04-27 16:27:42",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Inhägnad hundrastplats med bänkbord."
+          }
+        ],
+        "centerPoint": [
+          17.325169106967778,
+          62.38795942959165
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.324635314923473,
+                62.38791652499211
+              ],
+              [
+                17.325618397832613,
+                62.387809586375646
+              ],
+              [
+                17.325715518584573,
+                62.3880141516471
+              ],
+              [
+                17.325099751071022,
+                62.38810741393058
+              ],
+              [
+                17.324639090563448,
+                62.38810504803946
+              ],
+              [
+                17.324635314923473,
+                62.38791652499211
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

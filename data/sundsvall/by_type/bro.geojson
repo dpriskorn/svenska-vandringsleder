@@ -1,0 +1,251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1853,
+      "type": "Feature",
+      "properties": {
+        "name": "Bro elljusspår Bredsandsbäcken 1",
+        "type": "Bro",
+        "created": "2021-06-22 09:15:41",
+        "updated": "2026-04-07 09:54:46",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-06-22"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2173,
+                "filename": "20210622_075100.jpg",
+                "description": "Träbro",
+                "alttext": "Träbro",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8010479,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2173",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Träbro över Bredsandsbäcken"
+          },
+          {
+            "id": 258,
+            "name": "Längd (m)",
+            "type": "FREETEXT",
+            "value": "4"
+          },
+          {
+            "id": 259,
+            "name": "Bredd (m)",
+            "type": "FREETEXT",
+            "value": "4"
+          },
+          {
+            "id": 260,
+            "name": "Längd bärbjälkar (m)",
+            "type": "FREETEXT",
+            "value": "6"
+          },
+          {
+            "id": 261,
+            "name": "Konstruktion",
+            "type": "FREETEXT",
+            "value": "Bärlinor av elljusspårstolpar, samt slitlager av tryckimpregnerad 45x220"
+          }
+        ],
+        "centerPoint": [
+          17.32104640487731,
+          62.35544528296832
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32104640487731,
+          62.35544528296832
+        ]
+      }
+    },
+    {
+      "id": 3091,
+      "type": "Feature",
+      "properties": {
+        "name": "Bro över Mingbäcken",
+        "type": "Bro",
+        "created": "2021-11-11 09:22:44",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 4003,
+      "type": "Feature",
+      "properties": {
+        "name": "Bro elljusspår Gärde",
+        "type": "Bro",
+        "created": "2024-11-06 10:02:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2024-11-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2688,
+                "filename": "17308836137887215801174685341285.jpg",
+                "description": "Bro",
+                "alttext": "Bro",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6717060,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2688",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Träbro med stålreglar. 4 meter bred. Räcken. "
+          },
+          {
+            "id": 258,
+            "name": "Längd (m)",
+            "type": "FREETEXT",
+            "value": "8"
+          },
+          {
+            "id": 259,
+            "name": "Bredd (m)",
+            "type": "FREETEXT",
+            "value": "4"
+          },
+          {
+            "id": 260,
+            "name": "Längd bärbjälkar (m)",
+            "type": "FREETEXT",
+            "value": "8"
+          },
+          {
+            "id": 261,
+            "name": "Konstruktion",
+            "type": "FREETEXT",
+            "value": "Stenupplag. Bärande ståltankar 10 st. Brospann och räckte i 50z150 träreglar "
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Bron har träreglar som brospann och högt räcke. Anslutning något knölig. "
+          }
+        ],
+        "centerPoint": [
+          17.34993229576415,
+          62.41020599075601
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.34993229576415,
+          62.41020599075601
+        ]
+      }
+    }
+  ]
+}

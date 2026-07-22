@@ -1,0 +1,2201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 154,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget tarzanstigen Kolarkojan",
+        "type": "Friluftsstuga",
+        "created": "2018-06-18 13:46:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 721,
+      "type": "Feature",
+      "properties": {
+        "name": "Klissbergsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-11 09:57:57",
+        "updated": "2026-07-08 15:49:55",
+        "published": true,
+        "owner": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "manager": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "tags": [
+          "friluftsstuga",
+          "klissbergsstugan",
+          "servering",
+          "skidor",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1919
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "sk vidar"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1778,
+                "filename": "Kliss2.jpg",
+                "description": "Klissbergsstugan i solsken",
+                "alttext": "Stuga i solskenet",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 17555437,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1778",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1776,
+                "filename": "Klisstugan (10).jpg",
+                "description": "Entré till Klissbergsstugan",
+                "alttext": "Entré till en stuga",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 705151,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1776",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1777,
+                "filename": "Klisstugan (3).jpg",
+                "description": "Utsikt över Sundsvall från Klissbergsstugan",
+                "alttext": "Utsikt över Sundsvall",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 736354,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1777",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "SK Vidar",
+            "reportDescription": "Skidklubben Vidar",
+            "reportLink": "https://www.skvidar.se/#Contact",
+            "reportPhone": "+46 70 2119607",
+            "reportEmail": "post@skvidar.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Klissbergsstugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "45297045-52bc-497c-8925-b4ab81ef92f2"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Klissbergsstugan ligger på toppen av Klissberget, 266 m.ö.h, som är ett av Sundsvalls högsta stadsnära berg. Stugan uppfördes 1919 och är en av de äldsta utflyktsstugorna i Sundsvalls omgivning. Stugan drivs av skidklubben Vidar, som är landets äldsta skidklubb.\r\nStugan har öppet söndagar under höst och vinter, men även sommaröppet. Se facebnooksida för detaljerade öppettider. \r\nStugan går att nå via flera olika vandringsstigar som går genom vackra skogsmiljöer. Du kan välja att gå från Klissvägen, Sidsjö, Sallyhill eller Nacksta."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.skvidar.se/#Klissbergsstugan"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.skvidar.se/#Contact"
+          }
+        ],
+        "centerPoint": [
+          17.203647015847025,
+          62.37850091911547
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.20386488807163,
+                62.378520061885844
+              ],
+              [
+                17.203481196487637,
+                62.37857416912737
+              ],
+              [
+                17.20343482848175,
+                62.37850319879231
+              ],
+              [
+                17.203818461292723,
+                62.37844909259911
+              ],
+              [
+                17.20386488807163,
+                62.378520061885844
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 725,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelbergsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:39:45",
+        "updated": "2026-07-08 15:52:21",
+        "published": true,
+        "parentObjects": [
+          695,
+          778,
+          4142,
+          4486
+        ],
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 216,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 8
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "friluftsfrämjandet sundsvall"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-11-14"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1448,
+                "filename": "20200505_071200.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8145736,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1448",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1447,
+                "filename": "20200505_071108.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4793480,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1447",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2361,
+                "filename": "20211213_111345.jpg",
+                "description": "Fågelbergsstugan i vinterskrud",
+                "alttext": "Fågelbergsstugan i vinterskrud",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4766970,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2361",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1779,
+                "filename": "Fågelberg2.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 4054254,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1779",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Fågelbergsstugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "997d7476-fc9e-4b36-a6c6-2c5db18723c8"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fågelbergsstugan är en imponerade friluftsstuga i två våningar som ligger på det 228 meter höga Fågelberget söder om Sundsvall. Stugan är en gammal skolbyggnad från Indal som flyttades hit under 1900-talets första hälft med häst och släde. Hit leder ett antal leder från bland annat Sidsjön, Södra berget, Hillstamon, Bredsand, Vaple, Vintertjärn och Östtjärn. Från stugan kan du skymta havet vid solbänken som är lägligt placerad på ena gaveln. Stugan har öppet på helger vintertid när det är skidföre, vissa helger under hösten, samt under sommaren. För detaljerad info om öppettider se facebooksida. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/sundsvall/utflyktsstugor/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/sundsvall/utflyktsstugor/"
+          }
+        ],
+        "centerPoint": [
+          17.292712061906514,
+          62.33971631954918
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.2926222569518,
+                62.33984586998547
+              ],
+              [
+                17.292630459865315,
+                62.3397077625474
+              ],
+              [
+                17.292835196172614,
+                62.33971032316514
+              ],
+              [
+                17.29282719396296,
+                62.3398485171198
+              ],
+              [
+                17.2926222569518,
+                62.33984586998547
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 727,
+      "type": "Feature",
+      "properties": {
+        "name": "Hulistugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:41:19",
+        "updated": "2026-07-08 15:54:53",
+        "published": true,
+        "owner": {
+          "organizationID": 131,
+          "name": "selånger sok."
+        },
+        "manager": {
+          "organizationID": 131,
+          "name": "selånger sok."
+        },
+        "tags": [
+          "friluftsstuga",
+          "hulistugan",
+          "servering",
+          "skidåkning",
+          "värmestuga",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "selånger sok."
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1783,
+                "filename": "Hulistugan Granlohol_.jpg",
+                "description": "Hulistugan sommartid",
+                "alttext": "Hulistugan sommartid",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3175256,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1783",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 587,
+                "filename": "hulistugan.jpg",
+                "description": "Hulistugan i vinterskrud",
+                "alttext": "Hulistugan i vinterskrud",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 64923,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/587",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1866,
+                "filename": "20170223_132502.jpg",
+                "description": "Fina skidspår in mot Hulistugan",
+                "alttext": "Fina skidspår in mot Hulistugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3076132,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1866",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1784,
+                "filename": "Hulistugan - Granloholm.jpg",
+                "description": "Välkommen till Hulistugan!",
+                "alttext": "Välkommen till Hulistugan!",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 3377114,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1784",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Hulistugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "4651653f-1325-47f5-8950-77297e5333e5"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Hulistugan köptes 1926 av SK Vidar och har sedan dess använts som utflyktsmål för skidturer. Numera är det Selånger SOK som driver vionterkafé i stugan under helgerna. Men stugan har även sommaröppet. Här serveras bland annat våfflor, glass, smörgåsar, godbitar och såväl varm som kall dryck.  I stugan finns även dusch och omklädningsmöjligheter. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.selangersok.y.se/Hulistugan/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://selangersok.azurewebsites.net/foreningen/"
+          }
+        ],
+        "centerPoint": [
+          17.260840552588608,
+          62.41959522605636
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.26097436214672,
+                62.419527521968064
+              ],
+              [
+                17.260973814613994,
+                62.41954695465123
+              ],
+              [
+                17.26105265221758,
+                62.4195473636548
+              ],
+              [
+                17.26105118000489,
+                62.41960458133865
+              ],
+              [
+                17.26086413479866,
+                62.41960339569621
+              ],
+              [
+                17.260863462003943,
+                62.4196393895796
+              ],
+              [
+                17.26075581771698,
+                62.419638891078705
+              ],
+              [
+                17.26075649847797,
+                62.41960274440764
+              ],
+              [
+                17.26061979683746,
+                62.41960190903656
+              ],
+              [
+                17.260621980508635,
+                62.41952536378873
+              ],
+              [
+                17.26097436214672,
+                62.419527521968064
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 728,
+      "type": "Feature",
+      "properties": {
+        "name": "Klippstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:41:52",
+        "updated": "2026-01-13 14:04:59",
+        "published": true,
+        "parentObjects": [
+          1848
+        ],
+        "owner": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "manager": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "tags": [
+          "friluftsstuga",
+          "skotercafé",
+          "fikastuga"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Okänd"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kovlands skoterklubb"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1781,
+                "filename": "Klippstugan.jpg",
+                "description": "Klippstugan ",
+                "alttext": "Klippstugan ",
+                "sourcetext": "Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 138473,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1781",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2145,
+                "filename": "20210601_204331.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4409082,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2145",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "ebef794d-4f49-4f65-8f69-65fdd42f2aaf"
+          },
+          {
+            "id": 18,
+            "name": "Regler",
+            "type": "FREETEXT",
+            "value": "Öppet lördagar 11-14 vintertid när det går att köra skidspår till stugan. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.facebook.com/groups/248477001867733/?hoisted_section_header_type=recently_seen&multi_permalinks=7174921035889927"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.facebook.com/groups/248477001867733/?hoisted_section_header_type=recently_seen&multi_permalinks=7174921035889927"
+          }
+        ],
+        "centerPoint": [
+          17.20690630259961,
+          62.45315126048431
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.206942320380836,
+                62.45298024973523
+              ],
+              [
+                17.2068002388105,
+                62.45299759313869
+              ],
+              [
+                17.206769654504374,
+                62.452943866040734
+              ],
+              [
+                17.206911755204757,
+                62.452926522362866
+              ],
+              [
+                17.206942320380836,
+                62.45298024973523
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 730,
+      "type": "Feature",
+      "properties": {
+        "name": "Café Södra Berget",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:43:37",
+        "updated": "2026-04-08 15:14:18",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142
+        ],
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1995
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid friluftsenheten"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-11-14"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2627,
+                "filename": "Cafe Södra Berget 2024.jpg",
+                "description": "Café Södra Berget",
+                "alttext": "Cafébyggnad med flaggstång framför ",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5838143,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2627",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2628,
+                "filename": "P1030668.JPG",
+                "description": "Kakfat",
+                "alttext": "Fat med kakor på",
+                "sourcetext": "Anders Erlandsson Frilufstenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5145600,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2628",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2629,
+                "filename": "20211115_131742.jpg",
+                "description": "Interiör från Caféets entré",
+                "alttext": "Takfönster i sexkantig entré på cafébyggnad på Södra Berget i Sundsvall",
+                "sourcetext": "Anders Erlandsson Frilufstenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 1628294,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2629",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "a34490fb-528c-446d-9c19-ea3b4d8780ce"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Café med servering av kaffe, te, choklad, kylda drycker, fikabröd, varma och kalla smörgåsar, korv, chokladkakor, energibars, mm. Sommartid även styckeglass och mjukglass. På helger och skollov våfflor och vintertid soppa. Öppet 10-16 vardag som helg. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/friluftsanlaggningar/friluftscentrum-----------sodra-berget"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/friluftsanlaggningar/friluftscentrum-----------sodra-berget"
+          }
+        ],
+        "centerPoint": [
+          17.30937277798069,
+          62.36657461310625
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.30952356654007,
+                62.3664649561563
+              ],
+              [
+                17.309558392065675,
+                62.36649116629126
+              ],
+              [
+                17.309587216099693,
+                62.36648309061207
+              ],
+              [
+                17.30963765701213,
+                62.36652128165675
+              ],
+              [
+                17.309436120053107,
+                62.36657956764497
+              ],
+              [
+                17.309422155398295,
+                62.366601612442416
+              ],
+              [
+                17.30940263827137,
+                62.36661129376535
+              ],
+              [
+                17.309357077140287,
+                62.366618946696605
+              ],
+              [
+                17.30926092859763,
+                62.366702882226264
+              ],
+              [
+                17.309114627384364,
+                62.366667161776114
+              ],
+              [
+                17.30921031418012,
+                62.366583000526255
+              ],
+              [
+                17.30926188577412,
+                62.366595175094965
+              ],
+              [
+                17.30928068763008,
+                62.366578707606685
+              ],
+              [
+                17.30929376057062,
+                62.366577242412134
+              ],
+              [
+                17.309302620235204,
+                62.366559709610954
+              ],
+              [
+                17.309295852905997,
+                62.366553418988204
+              ],
+              [
+                17.30934899210174,
+                62.36654600850913
+              ],
+              [
+                17.309377961052498,
+                62.36653755329893
+              ],
+              [
+                17.309348207121232,
+                62.36651468941596
+              ],
+              [
+                17.30952356654007,
+                62.3664649561563
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 731,
+      "type": "Feature",
+      "properties": {
+        "name": "Hovbergsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:44:24",
+        "updated": "2026-07-08 15:55:05",
+        "published": true,
+        "owner": {
+          "organizationID": 40,
+          "name": "friluftsfrämjandet, alnö lokalavd."
+        },
+        "manager": {
+          "organizationID": 40,
+          "name": "friluftsfrämjandet, alnö lokalavd."
+        },
+        "tags": [
+          "alnö",
+          "raststuga",
+          "skidåkning",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1974
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "friluftsfrämjandet alnö"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2349,
+                "filename": "20210705_105238.jpg",
+                "description": "Hovbergsstugan",
+                "alttext": "Hovbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8760441,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2349",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1755,
+                "filename": "J-Ckzwqw.jpeg.jpg",
+                "description": "Hovbergsstugan i vårvinterskrud",
+                "alttext": "Hovbergsstugan i vårvinterskrud",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1921686,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1755",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2350,
+                "filename": "20210705_105254.jpg",
+                "description": "Utsikt från Hovbergsstugan",
+                "alttext": "Utsikt från Hovbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8831198,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2350",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2351,
+                "filename": "20210705_110922.jpg",
+                "description": "Hovbergsstugan",
+                "alttext": "Hovbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 7265032,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2351",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2352,
+                "filename": "20210705_111524.jpg",
+                "description": "Uteplats vid Hovbergsstugan",
+                "alttext": "Uteplats vid Hovbergsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 7039331,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2352",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1753,
+                "filename": "Hovberget Alnön (2).JPG",
+                "description": "Toaletter vid Hovberget",
+                "alttext": "Liten byggnad med två dörrar",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 2988651,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1753",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "4be4361e-266d-4960-95c9-bc93fccd30c0"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Hovbergsstugan ligger på Alnöns högsta punkt 135 meter över havet och bjuder på härlig havsutsikt. Många stigar leder till stugan, men det gamla elljusspåret från Räbbmon som numera är en bred stig utan belysning, är mest lättvandrad och följer åsen ända fram till stugan. Serveringen erbjuder toast, våfflor, korv, bullar och dryck, som kaffe, the, choklad och saft. Hovbergsstugan är öppen under sommar, höst och vinter. För aktuella öppettider se Hemsidan och Facebook. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/alno/Hovbersstugan/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/alno/styrelse/"
+          }
+        ],
+        "centerPoint": [
+          17.4721824224327,
+          62.39943202034337
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.4723139961496,
+                62.39952425513085
+              ],
+              [
+                17.472188833349392,
+                62.399551425857254
+              ],
+              [
+                17.47207973852055,
+                62.39944341917259
+              ],
+              [
+                17.472204913645502,
+                62.399416167493115
+              ],
+              [
+                17.4723139961496,
+                62.39952425513085
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 732,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönviksstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:45:30",
+        "updated": "2020-07-07 20:59:42",
+        "published": true,
+        "owner": {
+          "organizationID": 187,
+          "name": "timrå sok"
+        },
+        "manager": {
+          "organizationID": 187,
+          "name": "timrå sok"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "El"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "timrå sok"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "d0fb3699-d8e9-4374-b5aa-009ddc51797c"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Skönviksbergets Friluftscentrum är ett friluftsområde i Timrå kommun. Anläggningen är föreningsdriven, av Timrå SOK och Sundsvall Biathlon, men sköts sedan hösten 2018 av EQ Kultur. På anläggningen finns Medelpads enda skidskytteanläggning. Det finns även ett elljusspår, indelat i olika slingor"
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://xn--sknviksberget-jmb.se/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://xn--sknviksberget-jmb.se/"
+          }
+        ],
+        "centerPoint": [
+          17.292619711109083,
+          62.46166671410594
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.292407145257748,
+                62.4616297660893
+              ],
+              [
+                17.29240109503929,
+                62.46153516146074
+              ],
+              [
+                17.29281306530948,
+                62.461529602467394
+              ],
+              [
+                17.29281898765166,
+                62.461625304767274
+              ],
+              [
+                17.292748867984574,
+                62.461626232865825
+              ],
+              [
+                17.292752162766273,
+                62.461676539077764
+              ],
+              [
+                17.29271885626499,
+                62.4616769787842
+              ],
+              [
+                17.292724627518215,
+                62.461769702175324
+              ],
+              [
+                17.29249004988085,
+                62.4617728303763
+              ],
+              [
+                17.292480947439618,
+                62.461628804579355
+              ],
+              [
+                17.292407145257748,
+                62.4616297660893
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 989,
+      "type": "Feature",
+      "properties": {
+        "name": "Alnö Scoutkår",
+        "type": "Friluftsstuga",
+        "created": "2019-10-29 16:18:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1303,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergfotsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-12-03 13:58:08",
+        "updated": "2026-07-08 15:54:11",
+        "published": true,
+        "parentObjects": [
+          4480
+        ],
+        "owner": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "manager": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "tags": [
+          "fiskdammen",
+          "nolby",
+          "sundsvall400toppar",
+          "bergfotsstugan",
+          "nolbykullen",
+          "friluftsfrämjandet"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Gasol"
+          },
+          {
+            "id": 15,
+            "name": "Antal sittplatser",
+            "type": "INTEGER",
+            "value": 20
+          },
+          {
+            "id": 216,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "friluftsfrämjandet njurunda"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2538,
+                "filename": "20211113_131109.jpg",
+                "description": "Bergfotsstugan",
+                "alttext": "Bergfotsstugan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2298383,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2538",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "a10ecb91-fd9c-40a4-8e1a-b7876a412c61"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Bergfotsstugan ligger på Nolbykullens västsida, med utsikt över Fiskdammen. Stugan håller öppet med servering under sommaren samt vissa helger under höst och vinter. Se hemsidan för detaljerad info om öppettider."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/njurunda/aktuellt/bergfotsstugan/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/njurunda/om-oss1/"
+          },
+          {
+            "id": 290,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Till stugan leder en grusad körväg som är framkomlig med rullstol, även om lutningen sista biten är aningen brant. Ramp finns till sittplatserna utomhus."
+          }
+        ],
+        "centerPoint": [
+          17.357773705008995,
+          62.300133192657505
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.35781152050253,
+                62.30023807563625
+              ],
+              [
+                17.357654583347475,
+                62.30017334836611
+              ],
+              [
+                17.357760214027778,
+                62.30011751999331
+              ],
+              [
+                17.357917151118716,
+                62.300182247144896
+              ],
+              [
+                17.35781152050253,
+                62.30023807563625
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1304,
+      "type": "Feature",
+      "properties": {
+        "name": "Scoutstugan (tidigare NTO-stugan)",
+        "type": "Friluftsstuga",
+        "created": "2019-12-03 14:02:43",
+        "updated": "2020-08-28 08:26:50",
+        "published": true,
+        "owner": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "manager": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "tags": [
+          "nto-stugan",
+          "scout",
+          "scoutstuga"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "södermalms scoutkår"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1732,
+                "filename": "20200828_081243.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8796015,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1732",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1733,
+                "filename": "20200828_081701.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6828388,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1733",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Scoutstugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "206ddbab-169d-4969-92d4-c815b6b48ab4"
+          },
+          {
+            "id": 18,
+            "name": "Regler",
+            "type": "FREETEXT",
+            "value": "Öppet söndagar i mars 11-14"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": " Öppet söndagar 11-14 under mars. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://scout-sundsvall.scout.se/nto-stugan/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://scout-sundsvall.scout.se/nto-stugan/"
+          }
+        ],
+        "centerPoint": [
+          17.338151138558768,
+          62.355438033372174
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.33818465398435,
+                62.35543935646585
+              ],
+              [
+                17.338247108599433,
+                62.355527616608526
+              ],
+              [
+                17.338146483846458,
+                62.35554289511175
+              ],
+              [
+                17.338084057172313,
+                62.35545474222219
+              ],
+              [
+                17.33818465398435,
+                62.35543935646585
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1365,
+      "type": "Feature",
+      "properties": {
+        "name": "Svanängsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-12-06 11:18:37",
+        "updated": "2022-01-10 16:11:07",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "friluftsfrämjandet i sundsvall",
+          "friluftsstuga",
+          "medskogsbron",
+          "skidstuga",
+          "svanängsstugan"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 219,
+            "name": "Uppvärmning",
+            "type": "DROPDOWN",
+            "value": "Gasol"
+          },
+          {
+            "id": 216,
+            "name": "Antal sovplatser",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "friluftsfrämjandet sundsvall"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2019-11-14"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1264,
+                "filename": "svanängsstugan.jpg",
+                "description": "Svanängsstugan",
+                "alttext": "Svanängsstugan",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 70795,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1264",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1780,
+                "filename": "Svanäng2.jpg",
+                "description": "Uthus",
+                "alttext": "Uthus",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5471895,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1780",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Svanängsstugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c55b5284-c909-4754-90c0-ba47b218e9b4"
+          },
+          {
+            "id": 18,
+            "name": "Regler",
+            "type": "FREETEXT",
+            "value": "Öppet lördag och söndag 11-14 när det går att köra upp gasol och förnödenheter vintertid. "
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Svanängsstugan ligger på toppen av Svanängsåsen drygt 300 meter över havet. Stugan är öppen lördag och söndag vintertid när skidspåren kan dras. Start från Medskogsbron. Här serveras kaffe, te, varma koppen, smörgåsar och chokladkakor."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/sundsvall/utflyktsstugor/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.friluftsframjandet.se/regioner/mitt/lokalavdelningar/sundsvall/utflyktsstugor/"
+          }
+        ],
+        "centerPoint": [
+          17.171299266504306,
+          62.34787613026632
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.171381000161094,
+                62.34780383823732
+              ],
+              [
+                17.17117550494843,
+                62.347810781384034
+              ],
+              [
+                17.171167287384225,
+                62.34775774925279
+              ],
+              [
+                17.17137280672075,
+                62.34775087757588
+              ],
+              [
+                17.171381000161094,
+                62.34780383823732
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1371,
+      "type": "Feature",
+      "properties": {
+        "name": "Ängomsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-12-06 16:11:16",
+        "updated": "2023-06-09 06:00:07",
+        "published": true,
+        "owner": {
+          "organizationID": 37,
+          "name": "friluftsfrämjandet i matfors"
+        },
+        "manager": {
+          "organizationID": 37,
+          "name": "friluftsfrämjandet i matfors"
+        },
+        "tags": [
+          "friluftsfrämjandet i matfors."
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "f28e2bc8-a23c-4183-927c-838f2b95e643"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Friluftsstuga i Ängom"
+          }
+        ],
+        "centerPoint": [
+          17.039446483370682,
+          62.357630415346556
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.039555903021686,
+                62.35764779582529
+              ],
+              [
+                17.03958552385685,
+                62.357700932471154
+              ],
+              [
+                17.039366628611145,
+                62.35772728959745
+              ],
+              [
+                17.039336814457762,
+                62.35767414676298
+              ],
+              [
+                17.039555903021686,
+                62.35764779582529
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1381,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöns friluftsområde",
+        "type": "Friluftsstuga",
+        "created": "2019-12-09 14:20:24",
+        "updated": "2022-01-10 21:50:50",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "bangolf",
+          "fiske",
+          "friluftsstuga",
+          "kajakuthyning",
+          "kanotuthyrning",
+          "långfärdsskridskor",
+          "minigolf",
+          "skidor",
+          "skiduthyrning",
+          "skidåkning",
+          "vinter"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Sidsjöstugan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "9bc0d01d-cabc-4966-8dd6-46507de343c9"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan har öppet vintertid med servering, skidutyhrning, långfärdsskridsko, fiske mm. Sommartid är stugan öppen för servering, bangolf, kanot/kajakuthyrning, fiske, kick-off, dagkonferenser, äventyr mm. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.slalombackar.se/sidsjobacken/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/friluftsliv-och-natur/friluftsanlaggningar/sidsjo-friluftsomrade/"
+          }
+        ],
+        "centerPoint": [
+          17.275920141791,
+          62.36852153296862
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.275773703742548,
+                62.368410212019256
+              ],
+              [
+                17.275913698105377,
+                62.36839046528162
+              ],
+              [
+                17.276062630223944,
+                62.368618163575505
+              ],
+              [
+                17.275922634903683,
+                62.36863791046668
+              ],
+              [
+                17.275773703742548,
+                62.368410212019256
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1611,
+      "type": "Feature",
+      "properties": {
+        "name": "Toppstugan Vättaberget",
+        "type": "Friluftsstuga",
+        "created": "2020-07-07 16:27:31",
+        "published": true,
+        "owner": {
+          "organizationID": 280,
+          "name": "Lidens hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 280,
+          "name": "Lidens hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 14,
+            "name": "Max antal personer",
+            "type": "INTEGER",
+            "value": 50
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "6c826ad3-9eab-4c8e-88e2-b2b71f68add8"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Öppet med servering under sommaren"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.nordvastra.com/itinerary/skansborg-jarkvissle-copy/"
+          }
+        ],
+        "centerPoint": [
+          16.772891781885807,
+          62.69476679069056
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.77302996675215,
+                62.694711763733665
+              ],
+              [
+                16.773076132788034,
+                62.69480679785493
+              ],
+              [
+                16.77275791454298,
+                62.69483941396557
+              ],
+              [
+                16.772711749474063,
+                62.69474437973679
+              ],
+              [
+                16.77302996675215,
+                62.694711763733665
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 580,
+      "type": "Feature",
+      "properties": {
+        "name": "Hovstugan Alnö",
+        "type": "Friluftsstuga",
+        "created": "2018-08-07 11:04:04",
+        "deleted": "2019-11-14 13:09:38"
+      },
+      "geometry": null
+    },
+    {
+      "id": 583,
+      "type": "Feature",
+      "properties": {
+        "name": "Hulistugan",
+        "type": "Friluftsstuga",
+        "created": "2018-08-07 14:10:47",
+        "deleted": "2019-11-14 13:08:53"
+      },
+      "geometry": null
+    },
+    {
+      "id": 585,
+      "type": "Feature",
+      "properties": {
+        "name": "Scoutstuga",
+        "type": "Friluftsstuga",
+        "created": "2018-08-07 14:38:12",
+        "deleted": "2019-11-14 13:08:13"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1119,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjöstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-11-14 12:38:16",
+        "updated": "2019-11-14 12:52:58",
+        "deleted": "2021-05-24 17:08:27"
+      },
+      "geometry": null
+    },
+    {
+      "id": 724,
+      "type": "Feature",
+      "properties": {
+        "name": "Svanängsstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:39:05",
+        "updated": "2019-12-19 06:00:00",
+        "deleted": "2021-04-21 13:15:55"
+      },
+      "geometry": null
+    },
+    {
+      "id": 726,
+      "type": "Feature",
+      "properties": {
+        "name": "Scoutstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:40:26",
+        "updated": "2020-07-22 06:00:01",
+        "deleted": "2023-07-12 10:00:22"
+      },
+      "geometry": null
+    },
+    {
+      "id": 729,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelsången",
+        "type": "Friluftsstuga",
+        "created": "2019-09-27 15:42:33",
+        "updated": "2019-11-14 12:59:55",
+        "deleted": "2023-03-16 15:14:23"
+      },
+      "geometry": null
+    },
+    {
+      "id": 222,
+      "type": "Feature",
+      "properties": {
+        "name": "Skidlek / Sidsjö",
+        "type": "Friluftsstuga",
+        "created": "2018-06-20 08:53:20",
+        "deleted": "2019-11-14 13:11:01"
+      },
+      "geometry": null
+    },
+    {
+      "id": 272,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelbergsstugan",
+        "type": "Friluftsstuga",
+        "created": "2018-06-21 11:35:40",
+        "deleted": "2019-11-14 13:10:25"
+      },
+      "geometry": null
+    },
+    {
+      "id": 850,
+      "type": "Feature",
+      "properties": {
+        "name": "Sporthallen",
+        "type": "Friluftsstuga",
+        "created": "2019-10-18 10:25:04",
+        "updated": "2019-11-14 12:53:19",
+        "deleted": "2019-10-18 10:25:23"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1366,
+      "type": "Feature",
+      "properties": {
+        "name": "Uvstugan",
+        "type": "Friluftsstuga",
+        "created": "2019-12-06 13:40:04",
+        "deleted": "2019-12-06 15:58:36"
+      },
+      "geometry": null
+    },
+    {
+      "id": 935,
+      "type": "Feature",
+      "properties": {
+        "name": "SOK-stugan",
+        "type": "Friluftsstuga",
+        "created": "2019-10-25 11:19:03",
+        "deleted": "2019-10-29 15:35:03"
+      },
+      "geometry": null
+    }
+  ]
+}

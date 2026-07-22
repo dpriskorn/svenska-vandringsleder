@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1679,
+      "type": "Feature",
+      "properties": {
+        "name": "Led till Sandörberget",
+        "type": "Skoterled",
+        "created": "2020-09-18 15:37:08",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

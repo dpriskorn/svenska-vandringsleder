@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 538,
+      "type": "Feature",
+      "properties": {
+        "name": "Infotavla",
+        "type": "Infotavla",
+        "created": "2018-07-30 08:50:31",
+        "deleted": "2018-07-30 08:50:40"
+      },
+      "geometry": null
+    },
+    {
+      "id": 593,
+      "type": "Feature",
+      "properties": {
+        "name": "infotavla långörnen",
+        "type": "Infotavla",
+        "created": "2018-08-08 14:42:56",
+        "deleted": "2020-04-06 19:36:34"
+      },
+      "geometry": null
+    },
+    {
+      "id": 970,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets Naturstig 1",
+        "type": "Infotavla",
+        "created": "2019-10-29 15:20:31",
+        "updated": "2019-11-05 14:32:02",
+        "deleted": "2019-11-05 14:32:27"
+      },
+      "geometry": null
+    },
+    {
+      "id": 502,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Ede",
+        "type": "Infotavla",
+        "created": "2018-07-04 09:55:21",
+        "deleted": "2020-07-06 16:40:08"
+      },
+      "geometry": null
+    }
+  ]
+}

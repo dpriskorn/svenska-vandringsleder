@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 962,
+      "type": "Feature",
+      "properties": {
+        "name": "Drakstadens skatepark",
+        "type": "Cykelhall",
+        "created": "2019-10-29 09:42:09",
+        "updated": "2025-10-23 16:15:33",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 851,
+      "type": "Feature",
+      "properties": {
+        "name": "Skyttebana",
+        "type": "Skjutbana",
+        "created": "2019-10-18 11:11:13",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 893,
+      "type": "Feature",
+      "properties": {
+        "name": "Blåbergets skytteanläggning",
+        "type": "Skjutbana",
+        "created": "2019-10-22 12:01:20",
+        "updated": "2019-11-26 13:42:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 908,
+      "type": "Feature",
+      "properties": {
+        "name": "Lidens skjutbana",
+        "type": "Skjutbana",
+        "created": "2019-10-23 11:42:30",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 909,
+      "type": "Feature",
+      "properties": {
+        "name": "Indals skjutbana",
+        "type": "Skjutbana",
+        "created": "2019-10-23 11:54:27",
+        "updated": "2020-10-26 16:38:49",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1045,
+      "type": "Feature",
+      "properties": {
+        "name": "Jaktskyttebana",
+        "type": "Skjutbana",
+        "created": "2019-11-06 16:27:40",
+        "updated": "2020-03-12 15:01:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1173,
+      "type": "Feature",
+      "properties": {
+        "name": "Sköle skjutbana",
+        "type": "Skjutbana",
+        "created": "2019-11-18 16:25:38",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1205,
+      "type": "Feature",
+      "properties": {
+        "name": "M3 Sundsvalls Skyttecentrum",
+        "type": "Skjutbana",
+        "created": "2019-11-21 16:09:32",
+        "updated": "2021-08-27 08:48:02",
+        "published": true,
+        "owner": {
+          "organizationID": 183,
+          "name": "sundsvalls sportskytteklubb"
+        },
+        "manager": {
+          "organizationID": 183,
+          "name": "sundsvalls sportskytteklubb"
+        },
+        "tags": [
+          "krutvapen",
+          "luftvapen",
+          "skjutbana",
+          "skyttecentrum",
+          "sundsvalls sportskytteklubb"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1024,
+                "filename": "m3_sundsvalls_skyttecentrum.jpg",
+                "description": "Ingång till bergrum med skjutanläggning",
+                "alttext": "Ingång till bergrum med skjutanläggning",
+                "sourcetext": "Idrott och fritidsavdelningen",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 74217,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1024",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Skjutbana i bergrum. Sundsvalls skyttecentrum för luft och krutvapen. Anläggningen utgörs av 15 banor för luftvapen och 10 banor för krutvapen."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://www.pistolskytteforbundet.se/foreningar/vasternorrlands-lans-pistolskyttekrets/sundsvalls-sportskytteklubb/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.pistolskytteforbundet.se/foreningar/vasternorrlands-lans-pistolskyttekrets/sundsvalls-sportskytteklubb/"
+          }
+        ],
+        "centerPoint": [
+          17.304295496627436,
+          62.37918239217902
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.304761575704624,
+                62.379398416056716
+              ],
+              [
+                17.304880175758004,
+                62.379356044921046
+              ],
+              [
+                17.304941468451755,
+                62.3789455244882
+              ],
+              [
+                17.30383667739357,
+                62.37899076854006
+              ],
+              [
+                17.303637704732722,
+                62.37927153241547
+              ],
+              [
+                17.303931999136342,
+                62.37940136161952
+              ],
+              [
+                17.304761575704624,
+                62.379398416056716
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1323,
+      "type": "Feature",
+      "properties": {
+        "name": "Skedlo Jaktskyttebana",
+        "type": "Skjutbana",
+        "created": "2019-12-04 10:16:28",
+        "updated": "2020-06-29 15:15:20",
+        "published": true,
+        "manager": {
+          "organizationID": 137,
+          "name": "skedlo jaktskyttebana"
+        },
+        "tags": [
+          "jaktskyttebana",
+          "skedlo jaktskyttebana",
+          "skytte",
+          "skyttebana"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1243,
+                "filename": "skedlo_jaktskyttebana_01.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 59214,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1243",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1244,
+                "filename": "skedlo_jaktskyttebana_02.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 71280,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1244",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Jaktskyttebana med skytte 100-300 m."
+          }
+        ],
+        "centerPoint": [
+          17.412198380002117,
+          62.25495471832068
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.412307290030732,
+                62.25621110814951
+              ],
+              [
+                17.412118141111698,
+                62.25602958423114
+              ],
+              [
+                17.41195187411824,
+                62.255870009120954
+              ],
+              [
+                17.411847842905544,
+                62.25571869151403
+              ],
+              [
+                17.411567397983866,
+                62.2554329753119
+              ],
+              [
+                17.41161429720549,
+                62.255439368813306
+              ],
+              [
+                17.411671097552397,
+                62.25542666294865
+              ],
+              [
+                17.410433878465955,
+                62.25432999159961
+              ],
+              [
+                17.41102158737866,
+                62.25418967719413
+              ],
+              [
+                17.410043394618942,
+                62.253414808093126
+              ],
+              [
+                17.410370698300298,
+                62.253326141333254
+              ],
+              [
+                17.410280279747663,
+                62.253207010509946
+              ],
+              [
+                17.411068889493237,
+                62.25295190851385
+              ],
+              [
+                17.411653131057236,
+                62.25290655185006
+              ],
+              [
+                17.4121917581288,
+                62.25336993730582
+              ],
+              [
+                17.410459808124227,
+                62.25363137600852
+              ],
+              [
+                17.411153702642405,
+                62.25415813440131
+              ],
+              [
+                17.413880365069357,
+                62.25645033255252
+              ],
+              [
+                17.41400399856613,
+                62.256554256498156
+              ],
+              [
+                17.414173557526077,
+                62.256517470718265
+              ],
+              [
+                17.41437003232282,
+                62.256700072728194
+              ],
+              [
+                17.413328761290266,
+                62.256992700836555
+              ],
+              [
+                17.41259994317161,
+                62.25643504272237
+              ],
+              [
+                17.412307290030732,
+                62.25621110814951
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1324,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurunda Jaktskyttebana",
+        "type": "Skjutbana",
+        "created": "2019-12-04 10:29:32",
+        "updated": "2019-12-13 14:19:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1383,
+      "type": "Feature",
+      "properties": {
+        "name": "Kolstabodarna - Skjutbana",
+        "type": "Skjutbana",
+        "created": "2019-12-09 16:04:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1386,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönviksbergets skyttebana",
+        "type": "Skjutbana",
+        "created": "2019-12-09 16:48:04",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1387,
+      "type": "Feature",
+      "properties": {
+        "name": "Jaktskyttecentrum",
+        "type": "Skjutbana",
+        "created": "2019-12-09 16:53:18",
+        "updated": "2022-01-25 16:07:41",
+        "published": true,
+        "owner": {
+          "organizationID": 166,
+          "name": "sundsvalls jaktskytteklubb"
+        },
+        "manager": {
+          "organizationID": 166,
+          "name": "sundsvalls jaktskytteklubb"
+        },
+        "tags": [
+          "jaktskyttebana",
+          "jaktskyttecentrum",
+          "jägarexamen",
+          "skjutprov",
+          "skytte"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2294,
+                "filename": "040806 032.jpg",
+                "description": "Jaktskyttebana vid Gärdeberget",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1046928,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2294"
+              },
+              {
+                "id": 2295,
+                "filename": "040806 034.jpg",
+                "description": "Jaktskyttebana Gärdeberget",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 996771,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2295"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Jaktskyttebana, skjutprov, jägarexamen och uthyrning."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SundsvallsJSK-Skyttesport"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://krets.jagareforbundet.se/sundsvall/skjutbanor/"
+          }
+        ],
+        "centerPoint": [
+          17.365550827142552,
+          62.42171579845558
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.36746930966868,
+                62.42158079882207
+              ],
+              [
+                17.3678056641673,
+                62.42142421273746
+              ],
+              [
+                17.36641788975809,
+                62.420628760501835
+              ],
+              [
+                17.363978522308436,
+                62.42152691146097
+              ],
+              [
+                17.363279361590504,
+                62.421797435009694
+              ],
+              [
+                17.363424378277504,
+                62.4220158861279
+              ],
+              [
+                17.364098654879307,
+                62.42216606643296
+              ],
+              [
+                17.364334928775207,
+                62.422361458381914
+              ],
+              [
+                17.364667133597013,
+                62.422447399796226
+              ],
+              [
+                17.365077070057485,
+                62.42263441216218
+              ],
+              [
+                17.365592834435436,
+                62.42269033050492
+              ],
+              [
+                17.36617485211065,
+                62.42270197298328
+              ],
+              [
+                17.36710944929077,
+                62.422761536132974
+              ],
+              [
+                17.36717786077452,
+                62.4225987333898
+              ],
+              [
+                17.36725071284879,
+                62.42234428414017
+              ],
+              [
+                17.36746930966868,
+                62.42158079882207
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

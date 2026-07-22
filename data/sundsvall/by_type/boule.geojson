@@ -1,0 +1,507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1709,
+      "type": "Feature",
+      "properties": {
+        "name": "Dykets bouleplan",
+        "type": "Boule",
+        "created": "2020-12-15 12:14:12",
+        "updated": "2026-06-22 08:30:57",
+        "published": true,
+        "parentObjects": [
+          1380
+        ],
+        "owner": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "manager": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "tags": [
+          "boule",
+          "boulebana",
+          "bouleplan"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulebanor på Dykets friluftsområde."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "http://dyket.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://dyket.se/"
+          }
+        ],
+        "centerPoint": [
+          17.392224405554376,
+          62.296507844386845
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39227264157228,
+                62.29668497862319
+              ],
+              [
+                17.3918604232067,
+                62.29652712035697
+              ],
+              [
+                17.392170719771794,
+                62.2963266461212
+              ],
+              [
+                17.392587331710644,
+                62.296485433617484
+              ],
+              [
+                17.39227264157228,
+                62.29668497862319
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1714,
+      "type": "Feature",
+      "properties": {
+        "name": "Gamla pappersbrukets boulebanor",
+        "type": "Boule",
+        "created": "2020-12-15 16:10:10",
+        "published": true,
+        "tags": [
+          "boule",
+          "boulebana",
+          "bouleplan"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulebanor"
+          }
+        ],
+        "centerPoint": [
+          17.03093269961422,
+          62.34732762665842
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.031110812513266,
+                62.34740998319764
+              ],
+              [
+                17.030711319383173,
+                62.34738187353695
+              ],
+              [
+                17.030744212219087,
+                62.34726825373132
+              ],
+              [
+                17.031159831235662,
+                62.347294870723246
+              ],
+              [
+                17.031110812513266,
+                62.34740998319764
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1715,
+      "type": "Feature",
+      "properties": {
+        "name": "Norrhasselsjön Bouleplan",
+        "type": "Boule",
+        "created": "2020-12-15 16:15:25",
+        "updated": "2021-04-21 13:22:04",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulebanor i anslutning till friluftsbadet vid Norrhasselsjön."
+          }
+        ],
+        "centerPoint": [
+          16.74525057615157,
+          62.2555128142186
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.74514592868856,
+                62.2555592797649
+              ],
+              [
+                16.745160938017253,
+                62.25549246982302
+              ],
+              [
+                16.74536344370122,
+                62.255497465900845
+              ],
+              [
+                16.745337875719592,
+                62.25556817963505
+              ],
+              [
+                16.74514592868856,
+                62.2555592797649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1716,
+      "type": "Feature",
+      "properties": {
+        "name": "Bölomsgården Boulebana",
+        "type": "Boule",
+        "created": "2020-12-15 16:17:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1721,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Njurundabommen",
+        "type": "Boule",
+        "created": "2020-12-15 16:48:26",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1722,
+      "type": "Feature",
+      "properties": {
+        "name": "Klockarbergets bouleplan",
+        "type": "Boule",
+        "created": "2020-12-15 16:51:05",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1723,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Bredsand",
+        "type": "Boule",
+        "created": "2020-12-15 16:56:06",
+        "published": true,
+        "owner": {
+          "organizationID": 122,
+          "name": "realia"
+        },
+        "manager": {
+          "organizationID": 122,
+          "name": "realia"
+        },
+        "tags": [
+          "boule",
+          "boulebana",
+          "bouleplan"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2008,
+                "filename": "boule_bredsand.jpg",
+                "description": "Bouleplan Bredsand",
+                "alttext": "Bouleplan Bredsand",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 56553,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2008",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulebana"
+          }
+        ],
+        "centerPoint": [
+          17.36522782829193,
+          62.346272656327784
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.365172438372362,
+                62.34637898227105
+              ],
+              [
+                17.365120783489335,
+                62.34620384317566
+              ],
+              [
+                17.365295678680347,
+                62.346192068174766
+              ],
+              [
+                17.365341931852388,
+                62.34636729907982
+              ],
+              [
+                17.365172438372362,
+                62.34637898227105
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1725,
+      "type": "Feature",
+      "properties": {
+        "name": "Boule Matfors Folkets park",
+        "type": "Boule",
+        "created": "2020-12-15 17:01:23",
+        "published": true,
+        "tags": [
+          "boule",
+          "boulebana",
+          "bouleplan",
+          "matfors"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2011,
+                "filename": "boule_matfors_fp.jpg",
+                "description": "Boule Matfors Folkets park",
+                "alttext": "Boule Matfors Folkets park",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 62120,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2011",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulebana vid Matfors Folkets park"
+          }
+        ],
+        "centerPoint": [
+          17.01866827959129,
+          62.35192654918075
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.01861202259562,
+                62.35199553583282
+              ],
+              [
+                17.018463475589748,
+                62.35191849365682
+              ],
+              [
+                17.018735080430393,
+                62.35181398487497
+              ],
+              [
+                17.018863104814415,
+                62.35190766688078
+              ],
+              [
+                17.01861202259562,
+                62.35199553583282
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1726,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Bosvedjan",
+        "type": "Boule",
+        "created": "2020-12-15 17:03:36",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1729,
+      "type": "Feature",
+      "properties": {
+        "name": "Boulebana Granloholm Kungsbackavägen",
+        "type": "Boule",
+        "created": "2020-12-15 17:11:13",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1713,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Ungdomsfältet",
+        "type": "Boule",
+        "created": "2020-12-15 15:59:07",
+        "deleted": "2021-04-27 16:27:57"
+      },
+      "geometry": null
+    },
+    {
+      "id": 846,
+      "type": "Feature",
+      "properties": {
+        "name": "Boulebana Kungsbackavägen",
+        "type": "Boule",
+        "created": "2019-10-18 09:30:58",
+        "updated": "2019-10-18 09:32:49",
+        "deleted": "2019-10-29 14:14:19"
+      },
+      "geometry": null
+    },
+    {
+      "id": 847,
+      "type": "Feature",
+      "properties": {
+        "name": "Bouleplan Ungdomsfältet",
+        "type": "Boule",
+        "created": "2019-10-18 09:34:16",
+        "deleted": "2020-04-06 13:36:28"
+      },
+      "geometry": null
+    }
+  ]
+}

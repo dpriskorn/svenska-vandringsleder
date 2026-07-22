@@ -1,0 +1,3955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 811,
+      "type": "Feature",
+      "properties": {
+        "name": "Ankarsviks idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-16 12:03:13",
+        "updated": "2025-10-22 06:00:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 812,
+      "type": "Feature",
+      "properties": {
+        "name": "Uslands idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-16 13:31:44",
+        "updated": "2025-02-28 06:00:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 813,
+      "type": "Feature",
+      "properties": {
+        "name": "Vibacke idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-16 13:37:08",
+        "updated": "2020-09-29 14:38:54",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 814,
+      "type": "Feature",
+      "properties": {
+        "name": "Kyrkskolans idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-16 13:49:10",
+        "updated": "2019-10-18 14:30:26",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 881,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergsåkers stora idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-21 14:29:16",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 883,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergsåkers skola",
+        "type": "Sporthall",
+        "created": "2019-10-21 15:32:26",
+        "updated": "2025-02-18 06:00:04",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 884,
+      "type": "Feature",
+      "properties": {
+        "name": "Högoms idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-21 16:09:45",
+        "updated": "2021-12-06 12:46:46",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 25,
+          "name": "drakfastigheter"
+        },
+        "tags": [
+          "badmintonplan",
+          "basketkorgar",
+          "idrottshall",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 0
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 665,
+                "filename": "Högoms skola gymnastiksal.jpg",
+                "description": "",
+                "alttext": "Idrottshall med basketkorgar",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 891656,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/665",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 666,
+                "filename": "Högom idrottshall entre.jpg",
+                "description": "",
+                "alttext": "Tegelbyggnad med fönster",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 887106,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/666",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Högoms skola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c9ad1a6a-77d4-4a66-926d-f2dd713848ab"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Hallen är delbar med vikvägg. Takhöjd: 6m (6 bommar i taket). 4 omklädningsrum och 2 duschrum. Volleybollplan, badmintonbana, 2 basketkorgar, 1 mini-handbollsplan."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/kontakter/uthyrningsbyran-2/"
+          }
+        ],
+        "centerPoint": [
+          17.25602550216327,
+          62.402885358544495
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.255292499378687,
+                62.403244702228626
+              ],
+              [
+                17.255130266191223,
+                62.40316104887673
+              ],
+              [
+                17.25602803998593,
+                62.40278626777825
+              ],
+              [
+                17.256013861784517,
+                62.402778945219495
+              ],
+              [
+                17.256053066153918,
+                62.402762577211625
+              ],
+              [
+                17.256067042925586,
+                62.402769795268725
+              ],
+              [
+                17.256654523607015,
+                62.40252454359989
+              ],
+              [
+                17.25681697829604,
+                62.40260829936361
+              ],
+              [
+                17.25676238079242,
+                62.40263334027021
+              ],
+              [
+                17.256803929518107,
+                62.40265506327122
+              ],
+              [
+                17.25681846049403,
+                62.40264907162923
+              ],
+              [
+                17.256927369775937,
+                62.402706009414224
+              ],
+              [
+                17.256511976430083,
+                62.40287702930139
+              ],
+              [
+                17.256488642723173,
+                62.40286482629629
+              ],
+              [
+                17.256481714008938,
+                62.402867668472865
+              ],
+              [
+                17.256397648662034,
+                62.40282370812441
+              ],
+              [
+                17.256415859736403,
+                62.40281620214501
+              ],
+              [
+                17.256372840335512,
+                62.402793712611036
+              ],
+              [
+                17.255292499378687,
+                62.403244702228626
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 905,
+      "type": "Feature",
+      "properties": {
+        "name": "Lidens idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-23 08:51:16",
+        "updated": "2022-12-01 16:10:45",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "badmintonplan",
+          "basketkorgar",
+          "idrott",
+          "idrottshall",
+          "liden",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 690,
+                "filename": "Lidens skola idrottshall (3).jpg",
+                "description": "Lidens idrottshall",
+                "alttext": "Idrottshall med linjer på golvet",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 904390,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/690",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 691,
+                "filename": "Lidens skola idrottshall (5).jpg",
+                "description": "Lidens Idrottshall",
+                "alttext": "Idrottshall med linjerat golv",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 850222,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/691",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 692,
+                "filename": "Lidens skola idrottshall.jpg",
+                "description": "Lidens idrottshall",
+                "alttext": "Idrottshall med snö runt omkring",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 730129,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/692",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Lidens skola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "261dbf16-8d1f-4c44-a370-c12fa2a8cc53"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Storlek: 20x10m, 200kvm.  Takhöjd: 7 (4 bommar i taket). 2 omklädningsrum, 2 duschrum,   volleybollplan,  badmintonplan 2 basketkorgar, 2 små innebandymål 2 stora innebandymål. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          }
+        ],
+        "centerPoint": [
+          16.801983507529663,
+          62.7010984803945
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.801885087578906,
+                62.701098727441845
+              ],
+              [
+                16.80184193803682,
+                62.70109284405387
+              ],
+              [
+                16.80205789006208,
+                62.700758881885434
+              ],
+              [
+                16.80251985283388,
+                62.700821812271435
+              ],
+              [
+                16.80250213071053,
+                62.70084923499129
+              ],
+              [
+                16.802536448411523,
+                62.70085390283254
+              ],
+              [
+                16.80248144045848,
+                62.70093899585447
+              ],
+              [
+                16.802434663639527,
+                62.7009326115648
+              ],
+              [
+                16.802323502390035,
+                62.70110455398148
+              ],
+              [
+                16.80227231059685,
+                62.70109757990191
+              ],
+              [
+                16.80207133055417,
+                62.70140838379597
+              ],
+              [
+                16.801855759647545,
+                62.701379018588916
+              ],
+              [
+                16.801817991475165,
+                62.701437467012475
+              ],
+              [
+                16.801432778241402,
+                62.70138497839492
+              ],
+              [
+                16.801492490517816,
+                62.70129264284641
+              ],
+              [
+                16.801738062560432,
+                62.70132610358248
+              ],
+              [
+                16.801885087578906,
+                62.701098727441845
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 906,
+      "type": "Feature",
+      "properties": {
+        "name": "Stige idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-23 10:34:46",
+        "updated": "2019-12-18 06:00:01",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 917,
+      "type": "Feature",
+      "properties": {
+        "name": "Vallens idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-24 13:56:17",
+        "updated": "2020-03-24 14:51:26",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 975,
+      "type": "Feature",
+      "properties": {
+        "name": "Nacksta Idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-29 15:41:43",
+        "updated": "2024-05-16 06:00:04",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 162,
+            "name": "Tennisbanor antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1466,
+                "filename": "Nacksta-idrottshall-entre-1-740x555.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 93820,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1466",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "bb7b3b32-4c84-40c1-a750-05a7ab9cfd5f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Idrottshallen ligger centralt i bostadsområdet Nacksta. Storlek: 36x18m, 648kvm, takhöjd: 11m (8 bommar i taket) 4 omklädningsrum, 2 duschrum ,1 bastu 1 volleybollplan, 4 badmintonplaner, 2+8 basketkorgar, 1 tennisplan 1 handbollsplan, 1 innebandyplan Matchur och mattor."
+          }
+        ],
+        "centerPoint": [
+          17.261259040676205,
+          62.392073645094605
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.260901953768556,
+                62.39210149335496
+              ],
+              [
+                17.26090260274598,
+                62.39210137505714
+              ],
+              [
+                17.26082628812292,
+                62.39201052362352
+              ],
+              [
+                17.261484450496486,
+                62.39189142897348
+              ],
+              [
+                17.261559937327473,
+                62.39198128774507
+              ],
+              [
+                17.261692102449775,
+                62.39213711838732
+              ],
+              [
+                17.261034115351812,
+                62.39225731566267
+              ],
+              [
+                17.260901953768556,
+                62.39210149335496
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 976,
+      "type": "Feature",
+      "properties": {
+        "name": "S:t Olofsskolans idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-29 15:46:21",
+        "updated": "2022-04-13 15:35:17",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid",
+              "barn- och utbildningsförvaltningen"
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Sankt Olofskolan",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "01dcce2e-0536-43c3-b921-ee15f98fa8ad"
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/idrottshallar/"
+          }
+        ],
+        "centerPoint": [
+          17.279667100349457,
+          62.387897507218185
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27954267552689,
+                62.38800981391949
+              ],
+              [
+                17.279409791295645,
+                62.387921379949645
+              ],
+              [
+                17.27979474197161,
+                62.38779686295115
+              ],
+              [
+                17.27992755356801,
+                62.387885351631866
+              ],
+              [
+                17.27954267552689,
+                62.38800981391949
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 995,
+      "type": "Feature",
+      "properties": {
+        "name": "GA idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-30 14:45:49",
+        "updated": "2025-01-10 06:00:06",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 996,
+      "type": "Feature",
+      "properties": {
+        "name": "Hedbergska idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-30 14:57:55",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1002,
+      "type": "Feature",
+      "properties": {
+        "name": "Boulderhall",
+        "type": "Sporthall",
+        "created": "2019-10-30 17:03:40",
+        "updated": "2024-12-14 06:00:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1003,
+      "type": "Feature",
+      "properties": {
+        "name": "Åkersviks idrottshall",
+        "type": "Sporthall",
+        "created": "2019-10-31 13:21:38",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1018,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs Boulehall",
+        "type": "Sporthall",
+        "created": "2019-11-04 09:18:02",
+        "updated": "2021-12-17 17:05:46",
+        "published": true,
+        "owner": {
+          "organizationID": 140,
+          "name": "skönsbergs bouleklubb"
+        },
+        "manager": {
+          "organizationID": 140,
+          "name": "skönsbergs bouleklubb"
+        },
+        "tags": [
+          "boule",
+          "boulehall"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "skönsbergs bouleklubb"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 818,
+                "filename": "DSC_0662.JPG",
+                "description": "Skönsbergs Boule klubbs bouleplaner",
+                "alttext": "Grusad yta uomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1767535,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/818",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 819,
+                "filename": "DSC_0664.JPG",
+                "description": "Skönsbergs bouleklubbs boulehall",
+                "alttext": "Grön byggnad ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1768009,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/819",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 820,
+                "filename": "Skönbergs bouleplan utomhus.jpg",
+                "description": "Bouleplaner vid Skönsbergs boule klubb",
+                "alttext": "Grusad yta",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1219226,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/820",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 821,
+                "filename": "Kopia av Skönsbergs Boulehall inomhus 1b.jpg",
+                "description": "Inomhusbanor i Skönsbergs boulehall",
+                "alttext": "Grusad yta för boule inomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 399596,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/821",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 822,
+                "filename": "Kopia av Skönsbergs Boulehall inomhus 1c.jpg",
+                "description": "Caféyta i Skönsbergs boulehall",
+                "alttext": "Café med möbler för att sita",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 421883,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/822",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "c5819d0b-022e-46d9-95bd-43ef79090b60"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Boulehallen har en spelyta på 504 kvm. Underlaget består av hårt packat grovgrus över vältad mark toppad med rött finfördelat tennisgrus. Fakta: 12 banor á 14 x 3 m samt flertalet utomhusbanor. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsbergsBK-Boule"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsbergsBK-Boule"
+          }
+        ],
+        "centerPoint": [
+          17.35034387226659,
+          62.39632256063829
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.350003661455723,
+                62.396216850973
+              ],
+              [
+                17.35039377434475,
+                62.39613451771819
+              ],
+              [
+                17.35068498762457,
+                62.39643157641839
+              ],
+              [
+                17.35029487170585,
+                62.39651391049969
+              ],
+              [
+                17.350003661455723,
+                62.396216850973
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1019,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs Brottarklubb",
+        "type": "Sporthall",
+        "created": "2019-11-04 09:24:44",
+        "updated": "2025-02-07 06:00:08",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1020,
+      "type": "Feature",
+      "properties": {
+        "name": "Curlinghallen",
+        "type": "Sporthall",
+        "created": "2019-11-04 10:03:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1022,
+      "type": "Feature",
+      "properties": {
+        "name": "Nya Judohallen i Skönsmon",
+        "type": "Sporthall",
+        "created": "2019-11-04 11:07:55",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1023,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-04 11:27:13",
+        "updated": "2022-12-01 16:19:11",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "basket",
+          "handboll",
+          "handbollsplan",
+          "idrottshall",
+          "innebandy",
+          "innebandyplan",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 197,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 826,
+                "filename": "DSC_0035.JPG",
+                "description": "Skönsbergs idrottshall",
+                "alttext": "Idrottshall med linjerat golv",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2811758,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/826",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 827,
+                "filename": "Skonsberg idrottshall entre o inne (1).jpg",
+                "description": "Entré till Skönsbergs idrottshall",
+                "alttext": "Entré till idrottshall",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1026321,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/827",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Hellbergsskola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "629811d1-b195-4ff3-9d5d-fa24cd5d362a"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Idrottshallen lämpar sig främst för innebandy, volleyboll, handboll och basket. Fakta: - Yta 43x27 m (1 161 kvm) - 6 bommar i taket - 4 omklädningsrum - 4 duschrum  - 1 innebandyplan - 1 volleybollplan - 1 handbollsplan - 2+8 basketkorgar - Stereo med mikrofon - Resultattavla - Mattor - Internetuppkoppling - Läktare med 400 sittplatser"
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          }
+        ],
+        "centerPoint": [
+          17.345100629857956,
+          62.39964442938936
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.345527305488904,
+                62.399469711800926
+              ],
+              [
+                17.345537261624724,
+                62.39956381987404
+              ],
+              [
+                17.345562253738713,
+                62.399563381000235
+              ],
+              [
+                17.34558799011726,
+                62.399806737206326
+              ],
+              [
+                17.344739252520707,
+                62.3998260490788
+              ],
+              [
+                17.344738424350282,
+                62.39981842972401
+              ],
+              [
+                17.344645725405073,
+                62.39982083451611
+              ],
+              [
+                17.344632864986526,
+                62.39971281984557
+              ],
+              [
+                17.344723585431925,
+                62.399696753333274
+              ],
+              [
+                17.34471036311641,
+                62.39958262913966
+              ],
+              [
+                17.344735913414155,
+                62.399581902626174
+              ],
+              [
+                17.344726273106264,
+                62.399488830930075
+              ],
+              [
+                17.345050379093625,
+                62.399481182714986
+              ],
+              [
+                17.345068437540316,
+                62.39949108032036
+              ],
+              [
+                17.345108053549176,
+                62.39949003606948
+              ],
+              [
+                17.345128873355975,
+                62.399479313182944
+              ],
+              [
+                17.345527305488904,
+                62.399469711800926
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1024,
+      "type": "Feature",
+      "properties": {
+        "name": "Nordichallen",
+        "type": "Sporthall",
+        "created": "2019-11-04 13:13:26",
+        "updated": "2025-11-15 06:00:05",
+        "published": true,
+        "owner": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "evenemang",
+          "evenemangslokal",
+          "fotboll",
+          "friidrott",
+          "mässor",
+          "nordichallen"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 179,
+            "name": "Fotboll 11-manna antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 831,
+                "filename": "GärdeTipshallen.jpg",
+                "description": "Nordichallen fasad",
+                "alttext": "Nordichallen fasad",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 325829,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/831",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 830,
+                "filename": "DSC_0169.JPG",
+                "description": "Nordichallen invändigt",
+                "alttext": "Nordichallen invändigt",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3177595,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/830",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 829,
+                "filename": "gardehov_L2.jpg",
+                "description": "Konsert",
+                "alttext": "Konsert",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 36045,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/829",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Nordichallen",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "8ff57715-1f49-4548-9419-dab472e17173"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "I Nordichallen arrangeras årligen flera publika mässor och evenemang. På sportsidan är fotboll och friidrott starkt representerade i hallen. Fakta: Yta 122 x 32 m. Läktare med 1 500 sittplatser, publik max 9 700. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/kontakter/uthyrningsbyran-2/"
+          }
+        ],
+        "centerPoint": [
+          17.34910058852259,
+          62.41146794346917
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.349844601905748,
+                62.412144989859506
+              ],
+              [
+                17.348574898394325,
+                62.412084455129
+              ],
+              [
+                17.348565016131154,
+                62.412129083446224
+              ],
+              [
+                17.348091533178867,
+                62.41210650465181
+              ],
+              [
+                17.348130066297863,
+                62.411904623499396
+              ],
+              [
+                17.34819635991726,
+                62.41161346771735
+              ],
+              [
+                17.3481029033349,
+                62.41160889144207
+              ],
+              [
+                17.348116600894997,
+                62.41154869876892
+              ],
+              [
+                17.34821007733173,
+                62.41155328367842
+              ],
+              [
+                17.348244923090533,
+                62.41140023690129
+              ],
+              [
+                17.348145907839676,
+                62.41139538616719
+              ],
+              [
+                17.348162505328297,
+                62.41132253619349
+              ],
+              [
+                17.348200932876097,
+                62.41132441194013
+              ],
+              [
+                17.348221803825677,
+                62.41123271200931
+              ],
+              [
+                17.348183317679545,
+                62.411230828277226
+              ],
+              [
+                17.348191515773735,
+                62.41119484951067
+              ],
+              [
+                17.348290589082897,
+                62.41119970820609
+              ],
+              [
+                17.348293899496717,
+                62.41118512219521
+              ],
+              [
+                17.348198772794934,
+                62.41118046638888
+              ],
+              [
+                17.34821232721363,
+                62.4111209226965
+              ],
+              [
+                17.34830745372814,
+                62.41112557849447
+              ],
+              [
+                17.34837363153488,
+                62.41083496333182
+              ],
+              [
+                17.348827056088076,
+                62.41085657697711
+              ],
+              [
+                17.348896057182113,
+                62.41078237633312
+              ],
+              [
+                17.349628228563397,
+                62.410817606985844
+              ],
+              [
+                17.349663225999972,
+                62.41089625038108
+              ],
+              [
+                17.350116667091925,
+                62.41091804815935
+              ],
+              [
+                17.349878936068986,
+                62.41199020903095
+              ],
+              [
+                17.349844601905748,
+                62.412144989859506
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1032,
+      "type": "Feature",
+      "properties": {
+        "name": "Stöde idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-06 11:12:54",
+        "updated": "2023-06-20 06:00:04",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1054,
+      "type": "Feature",
+      "properties": {
+        "name": "Baldershallen",
+        "type": "Sporthall",
+        "created": "2019-11-11 11:39:32",
+        "updated": "2022-01-18 06:00:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1061,
+      "type": "Feature",
+      "properties": {
+        "name": "Bosvedjans idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-11 14:22:02",
+        "updated": "2019-12-19 06:00:06",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1063,
+      "type": "Feature",
+      "properties": {
+        "name": "Hagahallen",
+        "type": "Sporthall",
+        "created": "2019-11-11 14:43:14",
+        "updated": "2022-08-26 06:00:05",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1065,
+      "type": "Feature",
+      "properties": {
+        "name": "Haga idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-11 15:58:24",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1136,
+      "type": "Feature",
+      "properties": {
+        "name": "Allsta idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-14 15:07:44",
+        "updated": "2022-04-11 16:30:20",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1140,
+      "type": "Feature",
+      "properties": {
+        "name": "Lucksta idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-14 16:21:37",
+        "updated": "2025-10-28 06:00:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1143,
+      "type": "Feature",
+      "properties": {
+        "name": "Matforshallen",
+        "type": "Sporthall",
+        "created": "2019-11-14 16:27:50",
+        "updated": "2026-04-09 06:00:07",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "bad",
+          "badmintonplan",
+          "basket",
+          "bordtennis",
+          "gym",
+          "idrottshall",
+          "innebandy",
+          "ribbstolar",
+          "simhall",
+          "tennisplan",
+          "brottningshall"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1970
+          },
+          {
+            "id": 162,
+            "name": "Tennisbanor antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 5
+          },
+          {
+            "id": 173,
+            "name": "Bordtennis antal",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2220,
+                "filename": "Entré Matforshallen.jpg",
+                "description": "Matforshallen, vy över baddetekn",
+                "alttext": "Brun tegelbyggnad",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4255583,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2220"
+              },
+              {
+                "id": 959,
+                "filename": "Matforshallen idrottshall (2).jpg",
+                "description": "Gröna mattan i Matforshaa",
+                "alttext": "Grönt idrottsgolv i idrottshall",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 770227,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/959",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 960,
+                "filename": "DSC_0313.JPG",
+                "description": "Gröna mattan i idrottskha",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2831050,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/960",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Matforshallen",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3dfe5440-d7e3-4455-82d8-88e9d7bee50a"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Storlek: 40x20m (800 kvm)  (hallen delbar med vikvägg)  Takhöjd: 10m (4 bommar i taket)  4 omklädningsrum, 2 duschrum,  volleybollplan, handbollsplan,  5 badmintonplaner, tennisplan,  innebandyplan, 4 bordtennisbord,  2+8 basketkorgar.  Matchur, mattor, ribbstolar.  Max 100 personer på ståplats. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/matforshallen"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/matforshallen"
+          }
+        ],
+        "centerPoint": [
+          17.01725321664402,
+          62.3468534737953
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.017674746128392,
+                62.3472951465569
+              ],
+              [
+                17.01740733011035,
+                62.347081914501544
+              ],
+              [
+                17.017075521690874,
+                62.34717167910518
+              ],
+              [
+                17.01667995317837,
+                62.34685660196398
+              ],
+              [
+                17.017052235786764,
+                62.34675710152164
+              ],
+              [
+                17.01678121609382,
+                62.346545590745585
+              ],
+              [
+                17.017296963661007,
+                62.34640362073408
+              ],
+              [
+                17.017564657373292,
+                62.34661763909889
+              ],
+              [
+                17.01722141388531,
+                62.34671223919377
+              ],
+              [
+                17.017268535903078,
+                62.346747975897635
+              ],
+              [
+                17.01723494793557,
+                62.346757011246886
+              ],
+              [
+                17.01785232898532,
+                62.34723933255353
+              ],
+              [
+                17.017674746128392,
+                62.3472951465569
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.016886277052947,
+                62.346698638799715
+              ],
+              [
+                17.01695348482686,
+                62.346680033662295
+              ],
+              [
+                17.017052235901858,
+                62.34675710117766
+              ],
+              [
+                17.01698187210766,
+                62.34677590744768
+              ],
+              [
+                17.016886277052947,
+                62.346698638799715
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1204,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvall Squashcenter",
+        "type": "Sporthall",
+        "created": "2019-11-21 15:49:30",
+        "updated": "2019-11-22 11:08:12",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1206,
+      "type": "Feature",
+      "properties": {
+        "name": "Tennishallen Serve Ess",
+        "type": "Sporthall",
+        "created": "2019-11-21 16:40:39",
+        "updated": "2024-12-19 06:00:13",
+        "published": true,
+        "tags": [
+          "sköns tennisklubb",
+          "tennis",
+          "tennisbanor",
+          "tennishallen serve ess",
+          "tennisklubb"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 162,
+            "name": "Tennisbanor antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "bee4a4e2-a62d-40d9-8ffb-79f445a06513"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tennishall som drivs av Sköns TK."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsTK-Tennis/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsTK-Tennis/"
+          }
+        ],
+        "centerPoint": [
+          17.304529935254802,
+          62.37415799748075
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.304574708822894,
+                62.37407064257261
+              ],
+              [
+                17.30467674553005,
+                62.37404704164968
+              ],
+              [
+                17.30464745791578,
+                62.37401973276779
+              ],
+              [
+                17.3048708907455,
+                62.37396804224482
+              ],
+              [
+                17.305036485694544,
+                62.374122399976116
+              ],
+              [
+                17.304812710143427,
+                62.374174168061785
+              ],
+              [
+                17.304784354097727,
+                62.37414713160654
+              ],
+              [
+                17.30475183520733,
+                62.3741545485057
+              ],
+              [
+                17.304765026650525,
+                62.374167441293196
+              ],
+              [
+                17.30472797298104,
+                62.37417598422478
+              ],
+              [
+                17.304714412969496,
+                62.374163349089486
+              ],
+              [
+                17.304683162857792,
+                62.374170413752
+              ],
+              [
+                17.304941866000565,
+                62.37441279832919
+              ],
+              [
+                17.30462553370875,
+                62.37448623261038
+              ],
+              [
+                17.304456733738796,
+                62.374328903958705
+              ],
+              [
+                17.30435554017429,
+                62.37435244786325
+              ],
+              [
+                17.304227738083934,
+                62.37423482419803
+              ],
+              [
+                17.30432986734466,
+                62.37421065822632
+              ],
+              [
+                17.304001013819526,
+                62.37390414632201
+              ],
+              [
+                17.304317550550124,
+                62.3738309161508
+              ],
+              [
+                17.304574708822894,
+                62.37407064257261
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1208,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsmons idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-22 11:10:15",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1218,
+      "type": "Feature",
+      "properties": {
+        "name": "Södermalms idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-22 13:07:59",
+        "updated": "2025-01-17 06:00:11",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1219,
+      "type": "Feature",
+      "properties": {
+        "name": "Höglunda idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-22 13:53:36",
+        "updated": "2022-12-01 16:14:42",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1236,
+      "type": "Feature",
+      "properties": {
+        "name": "Bredsands idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-25 15:57:00",
+        "updated": "2021-02-19 14:45:06",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "badmintonplan",
+          "basket",
+          "bommar",
+          "handboll",
+          "idrottshall",
+          "innebandy",
+          "ribbstolar",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 162,
+            "name": "Tennisbanor antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1066,
+                "filename": "Bredsand skola.jpg",
+                "description": "Bredsands skolas idrottshall entré",
+                "alttext": "Bredsands skolas idrottshall entré",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 967219,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1066",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1067,
+                "filename": "Bredsand skola (2).jpg",
+                "description": "Bredsands skolas idrottshall invändigt",
+                "alttext": "Bredsands skolas idrottshall invändigt",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 920642,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1067",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1068,
+                "filename": "Bredsand-skola_L.jpg",
+                "description": "Bredsands skolas idrottshall invändigt",
+                "alttext": "Bredsands skolas idrottshall invändigt",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 360173,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1068",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Bredsands skola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "4fd8e720-ffbe-42f6-a4fc-ed406e6e9fff"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "torlek 16*10 m (160 kvm).  Takhöjd 4 m. 2 omklädningsrum, 2 duschrum, bastu. Volleybollplan, badmintonplan. 2 basketkorgar. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/idrottshallar/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/idrottshallar/"
+          }
+        ],
+        "centerPoint": [
+          17.367338753503283,
+          62.35326571361385
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.367465389577546,
+                62.35284625491704
+              ],
+              [
+                17.367555530104816,
+                62.35316118412059
+              ],
+              [
+                17.367626953349784,
+                62.353156717599035
+              ],
+              [
+                17.367769243738415,
+                62.35364776446603
+              ],
+              [
+                17.36749716828586,
+                62.353664617512656
+              ],
+              [
+                17.36736319775427,
+                62.35319644581708
+              ],
+              [
+                17.367183859495466,
+                62.353207526198965
+              ],
+              [
+                17.367317717576952,
+                62.3536752868441
+              ],
+              [
+                17.367072754334863,
+                62.35369040244693
+              ],
+              [
+                17.36693370663438,
+                62.353199407600414
+              ],
+              [
+                17.367002233475347,
+                62.353195215195505
+              ],
+              [
+                17.36691213135572,
+                62.35288045568069
+              ],
+              [
+                17.367465389577546,
+                62.35284625491704
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1237,
+      "type": "Feature",
+      "properties": {
+        "name": "Heliås idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-25 16:04:30",
+        "updated": "2023-10-13 06:00:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1268,
+      "type": "Feature",
+      "properties": {
+        "name": "Birstahov",
+        "type": "Sporthall",
+        "created": "2019-11-27 15:36:44",
+        "updated": "2019-12-09 10:36:25",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1269,
+      "type": "Feature",
+      "properties": {
+        "name": "Gångvikens idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-27 15:40:54",
+        "updated": "2021-12-09 10:42:40",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 25,
+          "name": "drakfastigheter"
+        },
+        "tags": [
+          "badmintonplan",
+          "basket",
+          "bordtennis",
+          "idrottshall",
+          "innebandy"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1131,
+                "filename": "Gångvikens idrottshall (1).jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 771156,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1131",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1132,
+                "filename": "Gångvikens idrottshall (2).jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 867481,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1132",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Gångvikens skola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "0cc06a55-cced-444e-bf02-c583b2c19834"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Storlek: 20 x 10m, 200 kvm.  Takhöjd: 4m (4 bommar i taket),  2 omklädningsrum, 2 duschrum  bastu, volleybollplan, badmintonbana, 2 basketkorgar, 3 bordtennisbord,   2 små innebandymål, 2 stora innebandymål "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/idrottshallar/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/kontakter/uthyrningsbyran-2/"
+          }
+        ],
+        "centerPoint": [
+          17.346769483688554,
+          62.46136531761516
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.34655008694479,
+                62.46125592490893
+              ],
+              [
+                17.34688793540697,
+                62.46122679310591
+              ],
+              [
+                17.346991483082487,
+                62.461484230970164
+              ],
+              [
+                17.34665363252758,
+                62.46151337200424
+              ],
+              [
+                17.34655008694479,
+                62.46125592490893
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1270,
+      "type": "Feature",
+      "properties": {
+        "name": "Ljustadalens idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-27 15:44:22",
+        "updated": "2025-11-21 06:00:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1279,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurundahallen",
+        "type": "Sporthall",
+        "created": "2019-11-28 13:55:35",
+        "updated": "2023-06-16 06:00:06",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 25,
+          "name": "drakfastigheter"
+        },
+        "tags": [
+          "a-hall",
+          "b-hall",
+          "bad",
+          "badmintonplan",
+          "basket",
+          "bordtennis",
+          "boxning",
+          "boxningshall",
+          "c-hall",
+          "caféteria",
+          "gym",
+          "idrottshall",
+          "läktare",
+          "njurunda boxningsklubb",
+          "simhall",
+          "sittplatser",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1970
+          },
+          {
+            "id": 162,
+            "name": "Tennisbanor antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 173,
+            "name": "Bordtennis antal",
+            "type": "INTEGER",
+            "value": 10
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1179,
+                "filename": "bild1.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3937339,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1179",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1180,
+                "filename": "DSC_0119.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2443094,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1180",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1181,
+                "filename": "Njurunda idrottshall (4).jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 816229,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1181",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1182,
+                "filename": "Njurunda idrottshall (6).jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 585615,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1182",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1183,
+                "filename": "Njurundahallen B-hall.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 901278,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1183",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1184,
+                "filename": "Njurundahallen klättervägg.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 945991,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1184",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1185,
+                "filename": "Njurundahall Nymålad läktare.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 880649,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1185",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Njurundahallen",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "ba760c05-f79d-4a33-bf8b-1e545bd0413f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Njurundahallen rymmer tre idrottshallar, boxningshall, badhus, relax och andra lokaler. Njurndahallen A-hall - Storlek: 40x20m, 800kvm (hallen delbar med vikvägg).  Takhöjd: 7m (8 bommar i taket)  Cafeteria, 4 omklädningsrum,  2 duschrum, 1 volleybollplan,  4 badmintonplaner, 1 handbollsplan, 1 tennisplan, 1 innebandyplan m sarg, 2+8 basketkorgar, 10 bordtennisbord. 200 sittplatser, max publik 250. Njurndahallen B-hall - Storlek: 11x8m, 88kvm. Takhöjd: 2,8m, Cafeteria.  4 bordtennisbord. Njurndahallen C-hall - Storlek: 15x10m, 150kvm.  Takhjöd: 2,5m  Cafeteria, 2 omklädningsrum,  2 duschrum. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/njurundahallen"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/njurundahallen"
+          }
+        ],
+        "centerPoint": [
+          17.380229371876272,
+          62.29536384656997
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.380176512669195,
+                62.29512244592146
+              ],
+              [
+                17.380594819158112,
+                62.29512192341984
+              ],
+              [
+                17.380598366182213,
+                62.295742861985545
+              ],
+              [
+                17.37996091366003,
+                62.29574364519543
+              ],
+              [
+                17.379959304879634,
+                62.29546002048626
+              ],
+              [
+                17.379895356527445,
+                62.2954600991051
+              ],
+              [
+                17.379876168343348,
+                62.29545126644623
+              ],
+              [
+                17.379858641029223,
+                62.295450849445096
+              ],
+              [
+                17.379851645706847,
+                62.29544822162012
+              ],
+              [
+                17.379851390944633,
+                62.29542443365577
+              ],
+              [
+                17.37985767207253,
+                62.29542098320001
+              ],
+              [
+                17.379876103788874,
+                62.2954206420673
+              ],
+              [
+                17.379875020996863,
+                62.295330391112316
+              ],
+              [
+                17.37986117246897,
+                62.295330374441896
+              ],
+              [
+                17.37985293642693,
+                62.29532558806711
+              ],
+              [
+                17.379852867433506,
+                62.29530376582925
+              ],
+              [
+                17.379860914123665,
+                62.29529904948205
+              ],
+              [
+                17.379875597093953,
+                62.295299067167356
+              ],
+              [
+                17.379890729962685,
+                62.29529034689601
+              ],
+              [
+                17.379958335127814,
+                62.29529014283241
+              ],
+              [
+                17.37995739908238,
+                62.29512271556473
+              ],
+              [
+                17.379986305890196,
+                62.29512268045895
+              ],
+              [
+                17.379985507420862,
+                62.29498360473599
+              ],
+              [
+                17.380062591873955,
+                62.29498350839999
+              ],
+              [
+                17.380172755527802,
+                62.29500753622939
+              ],
+              [
+                17.380063344084746,
+                62.29511446394719
+              ],
+              [
+                17.380063390702972,
+                62.295122585019705
+              ],
+              [
+                17.380176512669195,
+                62.29512244592146
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1314,
+      "type": "Feature",
+      "properties": {
+        "name": "Kyrkmons idrottshall",
+        "type": "Sporthall",
+        "created": "2019-12-03 16:52:46",
+        "updated": "2025-11-08 06:00:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1315,
+      "type": "Feature",
+      "properties": {
+        "name": "Solede idrottshall",
+        "type": "Sporthall",
+        "created": "2019-12-03 16:55:37",
+        "updated": "2019-12-19 06:00:17",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1316,
+      "type": "Feature",
+      "properties": {
+        "name": "Essviks idrottshall",
+        "type": "Sporthall",
+        "created": "2019-12-03 16:58:13",
+        "updated": "2025-12-04 06:00:09",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "tags": [
+          "badmintonplan",
+          "basket",
+          "volleybollplan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Utanför skoltid"
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 1
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1234,
+                "filename": "Essviks idrottshall.JPG",
+                "description": "Essviks idrottshall",
+                "alttext": "Röd byggnad med snö runt omkring",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2485550,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1234",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1235,
+                "filename": "Essvik_L.jpg",
+                "description": "Essviks idrottshall",
+                "alttext": "Idrottshall med idrottsutrustning",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 440827,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1235",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun Kommunal fastighet",
+            "reportDescription": "Felanmälan av kommunala byggnader/fastigheter",
+            "reportLink": "https://dedu.se/deduwebextern/sundsvallskommun/drakfastigheter/index.html#!/",
+            "reportPhone": null,
+            "reportEmail": null
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Essviks skola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "e2e7b7ea-ad17-438c-8e47-5c5c12da3f6e"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Storlek: 16 x 10m, 160 kvm  Takhöjd: 5m (4 bommar i taket)  2 omklädningsrum, 2 duschrum  1 volleybollplan, 6 basketkorgar  1 badmintonbana. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-motion-och-friluftsliv/hallar-och-idrottsanlaggningar/idrottshallar"
+          }
+        ],
+        "centerPoint": [
+          17.3933024817605,
+          62.30802236799546
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39350820112641,
+                62.30814995596143
+              ],
+              [
+                17.393408085185566,
+                62.30816374138426
+              ],
+              [
+                17.393389911952642,
+                62.30813516371596
+              ],
+              [
+                17.39335832168107,
+                62.30813951560749
+              ],
+              [
+                17.393352962144405,
+                62.30813108530154
+              ],
+              [
+                17.393140761638012,
+                62.308160298876146
+              ],
+              [
+                17.393041972859507,
+                62.308004875128525
+              ],
+              [
+                17.393096392236295,
+                62.307997382077566
+              ],
+              [
+                17.393065248311586,
+                62.30794837230574
+              ],
+              [
+                17.393265975747045,
+                62.30792073944738
+              ],
+              [
+                17.39325009645055,
+                62.30789576838999
+              ],
+              [
+                17.39338208849638,
+                62.30787759931209
+              ],
+              [
+                17.393394903482026,
+                62.30789776461514
+              ],
+              [
+                17.393429032201,
+                62.30789306364759
+              ],
+              [
+                17.39356875808263,
+                62.308112873601395
+              ],
+              [
+                17.393491394463013,
+                62.3081235190981
+              ],
+              [
+                17.39350820112641,
+                62.30814995596143
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1376,
+      "type": "Feature",
+      "properties": {
+        "name": "Sporthallen, A-B och C-hall",
+        "type": "Sporthall",
+        "created": "2019-12-09 08:58:07",
+        "updated": "2019-12-10 13:27:52",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1377,
+      "type": "Feature",
+      "properties": {
+        "name": "Sporthallen, gym- brottnings- och boxningslokal",
+        "type": "Sporthall",
+        "created": "2019-12-09 09:12:14",
+        "updated": "2020-07-01 13:48:10",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "tags": [
+          "aikido",
+          "boxning",
+          "boxningslokal",
+          "brazilian    jiu jutsu.",
+          "brottarlokal",
+          "brottning",
+          "budo",
+          "budohall",
+          "fristilskamp",
+          "gym",
+          "gymlokal",
+          "ju-jutsu",
+          "konferenslokal",
+          "mma",
+          "sak",
+          "sportjujutsu",
+          "styrkelyft",
+          "styrketräning",
+          "sundsvalls atlet & idrottsklubb",
+          "sundsvalls atlet klubb",
+          "sundsvalls bk",
+          "sundsvalls boxningsklubb",
+          "sundsvalls budoklubb",
+          "träning",
+          "tyngdlyftning"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 163,
+            "name": "Basketplan antal",
+            "type": "INTEGER",
+            "value": 3
+          },
+          {
+            "id": 165,
+            "name": "Innebandyplan antal",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 166,
+            "name": "Handboll antal",
+            "type": "INTEGER",
+            "value": 2
+          },
+          {
+            "id": 167,
+            "name": "Badminton antal",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 173,
+            "name": "Bordtennis antal",
+            "type": "INTEGER",
+            "value": 4
+          },
+          {
+            "id": 168,
+            "name": "Boxningslokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 169,
+            "name": "Brottningslokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 170,
+            "name": "Judolokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 171,
+            "name": "Budolokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 172,
+            "name": "Biljardlokal",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 174,
+            "name": "Jujutsulokal",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 175,
+            "name": "Aikido",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 176,
+            "name": "Krav Manga",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 177,
+            "name": "Thaiboxning",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "6bdc43ae-d20f-48f7-92c4-773f3f97270f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sporthallen är en idrottsanläggning i centrala Sundsvall. Här finns möjlighet till arenasporter som basket, handboll, innebandy, samt både inomhus- och utomhusbad. I anläggningen finns även ett antal kraftsportföreningar representerade. Dagtid har Västermalms gymnasium och idrottsutbildningen NIU verksamhet i hallarna. Boxningslokal i Sporthallens anläggning. - Brottarlokal i Sporthallens anläggning. - Sundsvalls Atlet Klubb (SAK), Sundsvalls Atletklubb är en ideéll förening med inriktning mot Styrketräning/friskvård samt tränings- och tävlingsverksamhet inom tyngdlyftning och styrkelyft. - Budo, Budoklubben erbjuder träningsformer som passar alla, oavsett ålder. På klubben tränas Aikido, Ju-jutsu, Sportjujutsu, Fristilskamp/MMA och Brazilian Jiu jutsu. Sporthallen erbjuder även konferensmöjligheter i fem olika rum. Samtliga rum har fullständig konferensutrustning. Konferensen kan kombineras med andra aktiviteter som erbjuds i Sporthallens utbud. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/sporthallen/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/idrott-och-motion/idrottsplatser/sporthallen/"
+          }
+        ],
+        "centerPoint": [
+          17.290107610982506,
+          62.394324973228436
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.289275163454572,
+                62.39422576758246
+              ],
+              [
+                17.29075595154152,
+                62.3940630679671
+              ],
+              [
+                17.290939933488534,
+                62.39442363907107
+              ],
+              [
+                17.289459134157664,
+                62.39458641246123
+              ],
+              [
+                17.289275163454572,
+                62.39422576758246
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1062,
+      "type": "Feature",
+      "properties": {
+        "name": "Katrinelunds idrottshall",
+        "type": "Sporthall",
+        "created": "2019-11-11 14:29:01",
+        "updated": "2023-02-01 06:00:04",
+        "deleted": "2025-10-23 16:16:12"
+      },
+      "geometry": null
+    }
+  ]
+}

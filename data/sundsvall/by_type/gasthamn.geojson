@@ -1,0 +1,1093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 661,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls cityhamn",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:12:35",
+        "updated": "2023-05-09 17:06:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 64,
+          "name": "ifk sundsvall"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.32011029122246,
+          62.38962678892705
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.321087276438842,
+                62.3896498575496
+              ],
+              [
+                17.319280926500376,
+                62.38938224376231
+              ],
+              [
+                17.319134151847436,
+                62.389614008767786
+              ],
+              [
+                17.32093540838175,
+                62.389871651522235
+              ],
+              [
+                17.321087276438842,
+                62.3896498575496
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 664,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergafjärden",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:23:43",
+        "updated": "2024-03-22 09:59:36",
+        "published": true,
+        "owner": {
+          "organizationID": 6,
+          "name": "bergafjärdens båt- och bryggförening"
+        },
+        "manager": {
+          "organizationID": 6,
+          "name": "bergafjärdens båt- och bryggförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1756,
+                "filename": "DSC_0708.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1573116,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1756",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1757,
+                "filename": "DSC_0712.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1431309,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1757",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://bergafjarden.nu/aktiviteter/"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://bergafjarden.nu/aktiviteter/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://bergafjarden.nu/aktiviteter/"
+          }
+        ],
+        "centerPoint": [
+          17.46028330711067,
+          62.27034717810589
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.45977169229224,
+                62.2705371633558
+              ],
+              [
+                17.45962810206103,
+                62.270364687287014
+              ],
+              [
+                17.46078510690633,
+                62.270153069343564
+              ],
+              [
+                17.460938144469463,
+                62.27033543537955
+              ],
+              [
+                17.45977169229224,
+                62.2705371633558
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 666,
+      "type": "Feature",
+      "properties": {
+        "name": "Lill-Lubban",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:28:35",
+        "updated": "2026-01-13 11:37:38",
+        "published": true,
+        "childObjects": [
+          4221,
+          4222,
+          4223,
+          4224,
+          4225
+        ],
+        "owner": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "manager": {
+          "organizationID": 307,
+          "name": "Svenska kryssarklubben"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1758,
+                "filename": "DSC_0100.JPG",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2883280,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1758",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1767,
+                "filename": "DSC_0122.JPG",
+                "description": "Brygga",
+                "alttext": "Brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2991920,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1767",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1764,
+                "filename": "DSC_0108.JPG",
+                "description": "Bastu",
+                "alttext": "Bastu",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2618071,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1764",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1765,
+                "filename": "DSC_0111.JPG",
+                "description": "Bastu",
+                "alttext": "Nastu",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 2955051,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1765",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1766,
+                "filename": "DSC_0116.JPG",
+                "description": "Informationstavla",
+                "alttext": "Informationstavla",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 3074800,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1766",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2718,
+                "filename": "20250630_202541.jpg",
+                "description": "Grillkoja",
+                "alttext": "Grillkoja",
+                "sourcetext": "Anders Erlandsson, Frilufstenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 5904771,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2718",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2719,
+                "filename": "20250630_203631.jpg",
+                "description": "Matplats under tak",
+                "alttext": "Matplats under tak",
+                "sourcetext": "Anders Erlandsson, Frilufstenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 6887572,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2719",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2717,
+                "filename": "20250630_203624.jpg",
+                "description": "Fiskrök",
+                "alttext": "Fiskrök",
+                "sourcetext": "Anders Erlandsson, Frilufstenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 8,
+                "type": "image/jpeg",
+                "size": 5183114,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2717",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1760,
+                "filename": "DSC_0103.JPG",
+                "description": "Grill",
+                "alttext": "Grill",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 10,
+                "type": "image/jpeg",
+                "size": 3026071,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1760",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1762,
+                "filename": "DSC_0106.JPG",
+                "description": "Dass",
+                "alttext": "Dass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 11,
+                "type": "image/jpeg",
+                "size": 3020255,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1762",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gästhamn med flytbrygga med bojar för 15-tal båtar. Grillplats, grillkoja, matplats under tak, fiskrök och bastu finns på ön. Den som vill basta måste själv ta med sig ved till uppvärmningen av bastun."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.sxk.se/bottenhavskretsen/hamn-farledskommitten/lill-lubban"
+          }
+        ],
+        "centerPoint": [
+          17.51912416843477,
+          62.17227816720699
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.517019205234536,
+                62.17257102218353
+              ],
+              [
+                17.516473824078567,
+                62.172377741237575
+              ],
+              [
+                17.516433712373157,
+                62.17205054688026
+              ],
+              [
+                17.516947351298334,
+                62.171862163014644
+              ],
+              [
+                17.521112751555513,
+                62.17169888601482
+              ],
+              [
+                17.521764926240415,
+                62.171908310676926
+              ],
+              [
+                17.521142697005782,
+                62.17270424209224
+              ],
+              [
+                17.518614228389588,
+                62.17283071843184
+              ],
+              [
+                17.517757237355372,
+                62.17274571049892
+              ],
+              [
+                17.517019205234536,
+                62.17257102218353
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 667,
+      "type": "Feature",
+      "properties": {
+        "name": "Lörudden",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:30:39",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 668,
+      "type": "Feature",
+      "properties": {
+        "name": "Vindhem",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:31:56",
+        "updated": "2023-01-02 09:13:56",
+        "published": true,
+        "owner": {
+          "organizationID": 179,
+          "name": "sundsvalls segelsällskap"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.426612422962883,
+          62.35549432690967
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.427250979064784,
+                62.356324159126515
+              ],
+              [
+                17.42441762280054,
+                62.3556574087688
+              ],
+              [
+                17.424838482167782,
+                62.35507875763513
+              ],
+              [
+                17.42588057951933,
+                62.354795047967784
+              ],
+              [
+                17.427443827935406,
+                62.35463903118564
+              ],
+              [
+                17.428799451261565,
+                62.35523496680454
+              ],
+              [
+                17.427250979064784,
+                62.356324159126515
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1399,
+      "type": "Feature",
+      "properties": {
+        "name": "Gästhamn Juniskär",
+        "type": "Gästhamn",
+        "created": "2019-12-11 14:42:03",
+        "updated": "2024-03-22 09:53:21",
+        "published": true,
+        "owner": {
+          "organizationID": 68,
+          "name": "juniskärs båtklubb"
+        },
+        "manager": {
+          "organizationID": 68,
+          "name": "juniskärs båtklubb"
+        },
+        "tags": [
+          "båt",
+          "gästhamn",
+          "juniskär",
+          "småbåtshamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1808,
+                "filename": "DSC_0001.JPG",
+                "description": "Bensinpump ",
+                "alttext": "Bensinpump",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2771681,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1808",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1809,
+                "filename": "DSC_0006.JPG",
+                "description": "Juniskärs gästhamn",
+                "alttext": "Gräsyta ner mot båthamn med båtar vid brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2324029,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1809",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1810,
+                "filename": "DSC_0064.JPG",
+                "description": "Brygga vid Juniskärs gästhamn",
+                "alttext": "Gästhamn med båtar vid brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2620042,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1810",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1811,
+                "filename": "Juniskärs båtklubb (3).jpg",
+                "description": "Båtplats vid Juniskärs gästhamn",
+                "alttext": "Båt vid brygga",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1015212,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1811",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1812,
+                "filename": "Juniskärs båtklubb.jpg",
+                "description": "Bänkbord vid gästhamnen",
+                "alttext": "Bänkbord på gräsyta framför båthamn",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1072136,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1812",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Småbåtshamn inne i Bodviksfjärden. Här finns SPA Juniskär, cafe med rättigheter, fiskrökeri, badplats, lekplats, bensin, diesel och sedelautomat. "
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.juniskarsbatklubb.se/?sida=gasthamn-faciliteter"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://www.juniskarsbatklubb.se/?sida=gasthamn-faciliteter"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.juniskarsbatklubb.se/?sida=gasthamn-faciliteter"
+          }
+        ],
+        "centerPoint": [
+          17.44832762550653,
+          62.29494891944946
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.447424654925378,
+                62.29530135698145
+              ],
+              [
+                17.44803195247635,
+                62.29446711199337
+              ],
+              [
+                17.44922506481907,
+                62.29452780587227
+              ],
+              [
+                17.448704313051973,
+                62.29542968343568
+              ],
+              [
+                17.447424654925378,
+                62.29530135698145
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1401,
+      "type": "Feature",
+      "properties": {
+        "name": "Galtström, gästhamn",
+        "type": "Gästhamn",
+        "created": "2019-12-11 15:45:00",
+        "updated": "2026-01-13 11:38:42",
+        "published": true,
+        "childObjects": [
+          1637
+        ],
+        "tags": [
+          "galtström",
+          "gästhamn",
+          "småbåtshamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Småbåtshamn"
+          }
+        ],
+        "centerPoint": [
+          17.51290251774604,
+          62.16658996476238
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.511862759725243,
+                62.166633780650336
+              ],
+              [
+                17.51216732624865,
+                62.16680428784952
+              ],
+              [
+                17.511953449711132,
+                62.166948993393746
+              ],
+              [
+                17.512468752787843,
+                62.16719614895757
+              ],
+              [
+                17.513937576658815,
+                62.16649051009879
+              ],
+              [
+                17.51369275638335,
+                62.16613283090772
+              ],
+              [
+                17.513046180698293,
+                62.16598865223028
+              ],
+              [
+                17.511862759725243,
+                62.166633780650336
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1402,
+      "type": "Feature",
+      "properties": {
+        "name": "Brämön, gästhamn",
+        "type": "Gästhamn",
+        "created": "2019-12-11 15:52:02",
+        "updated": "2020-04-06 19:42:54",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1403,
+      "type": "Feature",
+      "properties": {
+        "name": "Junibosand, gästhamn",
+        "type": "Gästhamn",
+        "created": "2019-12-11 16:04:14",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1633,
+      "type": "Feature",
+      "properties": {
+        "name": "Spikarnas gästhamn",
+        "type": "Gästhamn",
+        "created": "2020-08-04 22:40:31",
+        "updated": "2020-08-04 22:40:58",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1594,
+                "filename": "20200804_193919.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5532797,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1594",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1595,
+                "filename": "20200804_193923.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3915074,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1595",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1596,
+                "filename": "20200804_193828.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6526884,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1596",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun gator och belysning",
+            "reportDescription": "Felanmälan av gator, vägar, gång- och cykelvägar, parkering samt belysning",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gästhamn med 8 platser och tillgång till toalett och sophantering. "
+          }
+        ],
+        "centerPoint": [
+          17.528198638304083,
+          62.362399000447766
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.527889829378903,
+                62.36250638318352
+              ],
+              [
+                17.527800670122,
+                62.362279143978625
+              ],
+              [
+                17.528472079689283,
+                62.362235713552195
+              ],
+              [
+                17.52859244239782,
+                62.36248971177079
+              ],
+              [
+                17.527918088817643,
+                62.362553691042265
+              ],
+              [
+                17.527889829378903,
+                62.36250638318352
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1672,
+      "type": "Feature",
+      "properties": {
+        "name": "Gästhamn - Skatan",
+        "type": "Gästhamn",
+        "created": "2020-09-07 15:40:10",
+        "updated": "2024-03-22 09:56:57",
+        "published": true,
+        "tags": [
+          "båt",
+          "båthamn",
+          "gästhamn"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Gästhamn i Skatans gamla fiskeläge, tio gästplatser. Gästhamnen i Skatans Fiskeläge ligger vid inloppet till Björköfjärden c:a 5NM väst om Brämön. Farleden till gästhamnen är prickad."
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.skatan.nu/gasthamnen.htm"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.skatan.nu/gasthamnen.htm"
+          }
+        ],
+        "centerPoint": [
+          17.505741843764724,
+          62.19506707338804
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.50550927454378,
+                62.19505281592912
+              ],
+              [
+                17.50595995196595,
+                62.19513205336143
+              ],
+              [
+                17.50598102752687,
+                62.195110297022374
+              ],
+              [
+                17.50551897602612,
+                62.19502372113001
+              ],
+              [
+                17.50550927454378,
+                62.19505281592912
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 662,
+      "type": "Feature",
+      "properties": {
+        "name": "Juniskär",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:15:36",
+        "updated": "2019-03-26 14:15:53",
+        "deleted": "2021-11-08 09:48:53"
+      },
+      "geometry": null
+    },
+    {
+      "id": 663,
+      "type": "Feature",
+      "properties": {
+        "name": "Skatan",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:18:46",
+        "updated": "2020-06-29 15:04:41",
+        "deleted": "2020-09-07 15:46:35"
+      },
+      "geometry": null
+    },
+    {
+      "id": 665,
+      "type": "Feature",
+      "properties": {
+        "name": "Galtström",
+        "type": "Gästhamn",
+        "created": "2019-03-26 14:26:42",
+        "deleted": "2026-01-13 11:38:01"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1397,
+      "type": "Feature",
+      "properties": {
+        "name": "Spikarna, Gästhamn",
+        "type": "Gästhamn",
+        "created": "2019-12-11 10:37:08",
+        "deleted": "2020-12-16 17:33:47"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1409,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls Gästhamn",
+        "type": "Gästhamn",
+        "created": "2019-12-13 13:08:23",
+        "deleted": "2023-05-09 17:08:12"
+      },
+      "geometry": null
+    }
+  ]
+}

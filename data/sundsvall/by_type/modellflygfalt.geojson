@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1116,
+      "type": "Feature",
+      "properties": {
+        "name": "Matfors Modellflygklubb",
+        "type": "Modellflygfält",
+        "created": "2019-11-14 10:46:05",
+        "updated": "2020-03-24 14:58:25",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1263,
+      "type": "Feature",
+      "properties": {
+        "name": "MFK Skvadern",
+        "type": "Modellflygfält",
+        "created": "2019-11-27 13:46:21",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

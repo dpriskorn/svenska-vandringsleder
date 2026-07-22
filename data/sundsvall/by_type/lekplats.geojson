@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1479,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget Klätterlek",
+        "type": "Lekplats",
+        "created": "2020-03-25 09:31:00",
+        "updated": "2026-03-09 08:21:31",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2714,
+                "filename": "20210316_143636.jpg",
+                "description": "Södra Bergets klätterlek",
+                "alttext": "Södra Bergets klätterlek",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 6846214,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2714",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "name": "Öppen",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Klätterlek byggd av torrtallar. Mycket uppskattad av barn i många åldrar."
+          }
+        ],
+        "centerPoint": [
+          17.308641628312888,
+          62.36675861494038
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.308605276208674,
+                62.36677757442121
+              ],
+              [
+                17.308760955380276,
+                62.36678585421468
+              ],
+              [
+                17.308750080794642,
+                62.36683592175157
+              ],
+              [
+                17.308548337121774,
+                62.36682558990674
+              ],
+              [
+                17.3085661633842,
+                62.36678707423541
+              ],
+              [
+                17.308605276208674,
+                62.36677757442121
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1480,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget Linbana",
+        "type": "Lekplats",
+        "created": "2020-03-25 09:32:08",
+        "updated": "2020-06-29 15:17:28",
+        "deleted": "2021-05-28 08:49:11"
+      },
+      "geometry": null
+    }
+  ]
+}

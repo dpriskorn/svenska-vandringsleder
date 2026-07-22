@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 400,
+      "type": "Feature",
+      "properties": {
+        "name": "Gaffelbyn vandrarhem",
+        "type": "Samhällsfunktion",
+        "created": "2018-06-29 10:56:47",
+        "deleted": "2019-11-26 13:38:30"
+      },
+      "geometry": null
+    },
+    {
+      "id": 402,
+      "type": "Feature",
+      "properties": {
+        "name": "Gaffelbyn vandrarhem",
+        "type": "Samhällsfunktion",
+        "created": "2018-06-29 11:22:26",
+        "deleted": "2019-11-26 13:38:19"
+      },
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,6217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 152,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Hotellslingan",
+        "type": "Toalett",
+        "created": "2018-06-18 13:37:59",
+        "updated": "2026-04-08 14:55:11",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2346,
+                "filename": "20210426_100952.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8243557,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2346",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.322489159010665,
+          62.366580499333345
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.322489159010665,
+          62.366580499333345
+        ]
+      }
+    },
+    {
+      "id": 224,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Sidsjö skidlek och pulkabacke",
+        "type": "Toalett",
+        "created": "2018-06-20 08:55:52",
+        "updated": "2021-12-14 10:09:40",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 118,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2854834,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/118",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26877535292541,
+          62.36814447383394
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26877535292541,
+          62.36814447383394
+        ]
+      }
+    },
+    {
+      "id": 239,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Apelsinlunden",
+        "type": "Toalett",
+        "created": "2018-06-20 13:18:53",
+        "updated": "2026-04-08 14:56:17",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 128,
+                "filename": "image.jpg",
+                "description": "Dass",
+                "alttext": "Dass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2508535,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/128",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29425539859408,
+          62.36745348875967
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29425539859408,
+          62.36745348875967
+        ]
+      }
+    },
+    {
+      "id": 262,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass vid vindskydd Brokojan",
+        "type": "Toalett",
+        "created": "2018-06-21 08:50:03",
+        "updated": "2021-12-17 16:25:57",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2009
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 147,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3396792,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/147",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1869,
+                "filename": "20200914_075646.jpg",
+                "description": "Torrdass interiör",
+                "alttext": "Torrdass interiör",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4279885,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1869",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.299843032589916,
+          62.364338294239
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.299843032589916,
+          62.364338294239
+        ]
+      }
+    },
+    {
+      "id": 266,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Jaktkojan",
+        "type": "Toalett",
+        "created": "2018-06-21 09:20:35",
+        "updated": "2026-06-22 09:29:21",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4488
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Mulltoa"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 151,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3240229,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/151",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.298006174008663,
+          62.35894444262192
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.298006174008663,
+          62.35894444262192
+        ]
+      }
+    },
+    {
+      "id": 274,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Fågelbergsstugan",
+        "type": "Toalett",
+        "created": "2018-06-21 11:52:21",
+        "updated": "2026-06-22 08:54:38",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4486
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 157,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3986829,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/157",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.292647088078713,
+          62.339927508479825
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.292647088078713,
+          62.339927508479825
+        ]
+      }
+    },
+    {
+      "id": 277,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Slädaviken",
+        "type": "Toalett",
+        "created": "2018-06-21 14:42:54",
+        "updated": "2026-04-08 14:42:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad toalett"
+          }
+        ],
+        "centerPoint": [
+          17.475529700148755,
+          62.433914335855036
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.475529700148755,
+          62.433914335855036
+        ]
+      }
+    },
+    {
+      "id": 287,
+      "type": "Feature",
+      "properties": {
+        "name": "Hartungviken",
+        "type": "Toalett",
+        "created": "2018-06-21 15:15:48",
+        "updated": "2026-04-08 14:28:32",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2011
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad vattentoalett"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad toalett"
+          }
+        ],
+        "centerPoint": [
+          17.51770802699962,
+          62.39171221612036
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51770802699962,
+          62.39171221612036
+        ]
+      }
+    },
+    {
+      "id": 305,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Hornsjön",
+        "type": "Toalett",
+        "created": "2018-06-26 14:12:57",
+        "updated": "2026-04-08 14:55:56",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 188,
+                "filename": "IMG_1826.JPG",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3416904,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/188",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.21188209439758,
+          62.17521873844943
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21188209439758,
+          62.17521873844943
+        ]
+      }
+    },
+    {
+      "id": 326,
+      "type": "Feature",
+      "properties": {
+        "name": "Bänkåsviken",
+        "type": "Toalett",
+        "created": "2018-06-26 15:05:12",
+        "updated": "2023-07-03 10:47:59",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2534,
+                "filename": "20230703_104038.jpg",
+                "description": "Toalett",
+                "alttext": "Toalett",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5214109,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2534",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 209,
+                "filename": "21621361-29E3-4D6D-AA60-A3C2C51B07BF.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3520473,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/209",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad"
+          }
+        ],
+        "centerPoint": [
+          17.45385254119873,
+          62.366930876912704
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45385254119873,
+          62.366930876912704
+        ]
+      }
+    },
+    {
+      "id": 439,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Norrhassels strandbad",
+        "type": "Toalett",
+        "created": "2018-07-02 10:18:20",
+        "updated": "2020-06-30 11:33:12",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "toalett",
+          "torrdass"
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 325,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3102125,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/325",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          16.74607363402317,
+          62.25556611005067
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.74607363402317,
+          62.25556611005067
+        ]
+      }
+    },
+    {
+      "id": 444,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Viggesjöns strandbad",
+        "type": "Toalett",
+        "created": "2018-07-02 10:44:14",
+        "updated": "2020-06-30 11:29:00",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          16.68901580172776,
+          62.303458926375214
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68901580172776,
+          62.303458926375214
+        ]
+      }
+    },
+    {
+      "id": 462,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Räveln",
+        "type": "Toalett",
+        "created": "2018-07-02 11:37:53",
+        "updated": "2026-04-08 14:59:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2014
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 348,
+                "filename": "image.jpg",
+                "description": "Torrdass ",
+                "alttext": "Torrdass ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2228612,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/348",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.826739645067995,
+          62.371386134222384
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826739645067995,
+          62.371386134222384
+        ]
+      }
+    },
+    {
+      "id": 466,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Oxsta fiskeplats",
+        "type": "Toalett",
+        "created": "2018-07-03 09:03:58",
+        "updated": "2026-04-08 14:57:53",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 352,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3884034,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/352",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.164584493842717,
+          62.438714139602915
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.164584493842717,
+          62.438714139602915
+        ]
+      }
+    },
+    {
+      "id": 473,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Segersjön",
+        "type": "Toalett",
+        "created": "2018-07-03 09:34:44",
+        "updated": "2026-04-08 14:54:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2013
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 368,
+                "filename": "9D89AD55-D373-442F-B29F-04B6FFC33DC0.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "cc0",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6314421,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/368",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.04411465178707,
+          62.44336878321923
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04411465178707,
+          62.44336878321923
+        ]
+      }
+    },
+    {
+      "id": 494,
+      "type": "Feature",
+      "properties": {
+        "name": "Bajamaja Vången",
+        "type": "Toalett",
+        "created": "2018-07-04 09:32:43",
+        "updated": "2026-04-08 14:53:10",
+        "published": true,
+        "parentObjects": [
+          699
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Bajamaja"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-04"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2168,
+                "filename": "20210610_112533.jpg",
+                "description": "Torrdass ",
+                "alttext": "Torrdass",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8860550,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2168",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Dass finns sommartid"
+          }
+        ],
+        "centerPoint": [
+          16.575942162477187,
+          62.41577768102676
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.575942162477187,
+          62.41577768102676
+        ]
+      }
+    },
+    {
+      "id": 522,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Bodsjön",
+        "type": "Toalett",
+        "created": "2018-07-06 13:06:05",
+        "updated": "2026-04-08 14:58:38",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 408,
+                "filename": "7821BAD5-4EDE-4B14-AA19-2079105FBC1C.jpeg",
+                "description": "Torrdass ",
+                "alttext": "Torrdass ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3843203,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/408",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.484966160340004,
+          62.47363994470062
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.484966160340004,
+          62.47363994470062
+        ]
+      }
+    },
+    {
+      "id": 531,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Östtjärn",
+        "type": "Toalett",
+        "created": "2018-07-06 13:19:57",
+        "updated": "2026-06-22 08:44:21",
+        "published": true,
+        "parentObjects": [
+          526
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-06"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 417,
+                "filename": "B7E55951-27E2-407D-A669-B4C332176561.jpeg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3689712,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/417",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26916966368127,
+          62.32777930660328
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26916966368127,
+          62.32777930660328
+        ]
+      }
+    },
+    {
+      "id": 546,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Viforsen",
+        "type": "Toalett",
+        "created": "2018-07-30 15:40:05",
+        "updated": "2026-04-08 14:53:43",
+        "published": true,
+        "parentObjects": [
+          4140
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-30"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.180620856241728,
+          62.30652046524056
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.180620856241728,
+          62.30652046524056
+        ]
+      }
+    },
+    {
+      "id": 556,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbyströmmen Södra",
+        "type": "Toalett",
+        "created": "2018-07-31 15:03:01",
+        "updated": "2026-04-07 09:21:31",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1146,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Långåstjärn",
+        "type": "Toalett",
+        "created": "2019-11-14 16:37:39",
+        "updated": "2026-04-08 14:59:16",
+        "published": true,
+        "manager": {
+          "organizationID": 29,
+          "name": "ede-boda fvo"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-07-08"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1547,
+                "filename": "20200708_150807.jpg",
+                "description": "Torrdass ",
+                "alttext": "Torrdass ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7605329,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1547",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.524490656389034,
+          62.46660751392224
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.524490656389034,
+          62.46660751392224
+        ]
+      }
+    },
+    {
+      "id": 1459,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass Hammarsjön",
+        "type": "Toalett",
+        "created": "2020-03-12 15:24:33",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1487,
+      "type": "Feature",
+      "properties": {
+        "name": "Skarpåskojans torrdass",
+        "type": "Toalett",
+        "created": "2020-03-25 12:39:41",
+        "updated": "2020-07-07 14:32:50",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.485644026007385,
+          62.706895887363615
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.485644026007385,
+          62.706895887363615
+        ]
+      }
+    },
+    {
+      "id": 1533,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Klubbänget",
+        "type": "Toalett",
+        "created": "2020-04-22 10:16:40",
+        "updated": "2026-04-01 22:12:15",
+        "published": true,
+        "owner": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-22"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1420,
+                "filename": "1587543274383822346216867131476.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 9058428,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1420",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          16.683170184020923,
+          62.79091994760385
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.683170184020923,
+          62.79091994760385
+        ]
+      }
+    },
+    {
+      "id": 1536,
+      "type": "Feature",
+      "properties": {
+        "name": "Hattberget dass",
+        "type": "Toalett",
+        "created": "2020-04-22 14:01:49",
+        "updated": "2026-01-05 15:37:51",
+        "published": true,
+        "parentObjects": [
+          4197
+        ],
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-22"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1425,
+                "filename": "20200422_122524.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7248083,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1425",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass "
+          }
+        ],
+        "centerPoint": [
+          16.711568130839638,
+          62.790959920020235
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.711568130839638,
+          62.790959920020235
+        ]
+      }
+    },
+    {
+      "id": 1596,
+      "type": "Feature",
+      "properties": {
+        "name": "Skarpuddsbadet toalett",
+        "type": "Toalett",
+        "created": "2020-07-07 14:00:26",
+        "published": true,
+        "owner": {
+          "organizationID": 277,
+          "name": "Hullsjöns bygdeförening"
+        },
+        "manager": {
+          "organizationID": 277,
+          "name": "Hullsjöns bygdeförening"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.690402443979256,
+          62.53114041307994
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.690402443979256,
+          62.53114041307994
+        ]
+      }
+    },
+    {
+      "id": 1601,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Västerlövsjön",
+        "type": "Toalett",
+        "created": "2020-07-07 14:23:24",
+        "updated": "2026-04-08 14:54:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.967737645703092,
+          62.47022182873408
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.967737645703092,
+          62.47022182873408
+        ]
+      }
+    },
+    {
+      "id": 1604,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass Stor-Stensjön",
+        "type": "Toalett",
+        "created": "2020-07-07 14:57:54",
+        "updated": "2022-03-02 14:43:48",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.418387368408165,
+          62.75468706275991
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.418387368408165,
+          62.75468706275991
+        ]
+      }
+    },
+    {
+      "id": 1605,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Stor-Stensjön",
+        "type": "Toalett",
+        "created": "2020-07-07 14:59:00",
+        "updated": "2022-03-02 14:45:56",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.41814060650566,
+          62.75554292513376
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41814060650566,
+          62.75554292513376
+        ]
+      }
+    },
+    {
+      "id": 1617,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass handikapp Edebosjön",
+        "type": "Toalett",
+        "created": "2020-07-08 17:26:44",
+        "published": true,
+        "owner": {
+          "organizationID": 29,
+          "name": "ede-boda fvo"
+        },
+        "manager": {
+          "organizationID": 29,
+          "name": "ede-boda fvo"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-07-08"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1554,
+                "filename": "20200708_144947.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8122995,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1554",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.48501323800016,
+          62.473677180863035
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48501323800016,
+          62.473677180863035
+        ]
+      }
+    },
+    {
+      "id": 1635,
+      "type": "Feature",
+      "properties": {
+        "name": "Bajamaja Spikarna",
+        "type": "Toalett",
+        "created": "2020-08-04 22:47:44",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Bajamaja"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-04"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun gator och belysning",
+            "reportDescription": "Felanmälan av gator, vägar, gång- och cykelvägar, parkering samt belysning",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.52527299540262,
+          62.36242752963293
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.52527299540262,
+          62.36242752963293
+        ]
+      }
+    },
+    {
+      "id": 1656,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Skiftestjärn",
+        "type": "Toalett",
+        "created": "2020-08-20 17:16:27",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          698,
+          699,
+          4142,
+          4158
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1726,
+                "filename": "20200820_141658.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7830802,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1726",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Dass vid Skiftestjärnsstugan"
+          }
+        ],
+        "centerPoint": [
+          16.75401995342028,
+          62.344170045981436
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.75401995342028,
+          62.344170045981436
+        ]
+      }
+    },
+    {
+      "id": 1660,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass vid Scoutstugan",
+        "type": "Toalett",
+        "created": "2020-08-28 08:32:36",
+        "published": true,
+        "owner": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "manager": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-08-28"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1737,
+                "filename": "20200828_081715.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8035996,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1737",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fint och välskött dass"
+          }
+        ],
+        "centerPoint": [
+          17.337764938171773,
+          62.3556226779317
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.337764938171773,
+          62.3556226779317
+        ]
+      }
+    },
+    {
+      "id": 1686,
+      "type": "Feature",
+      "properties": {
+        "name": "Mulltoa vid Stornäsets grillplats",
+        "type": "Toalett",
+        "created": "2020-09-25 10:00:02",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrtoalett vid Stornäsets grillplats"
+          }
+        ],
+        "centerPoint": [
+          17.494964806223134,
+          62.4497658014362
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.494964806223134,
+          62.4497658014362
+        ]
+      }
+    },
+    {
+      "id": 1690,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass vid Hallstabergsstugan",
+        "type": "Toalett",
+        "created": "2020-10-27 21:28:44",
+        "published": true,
+        "owner": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-10-27"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1943,
+                "filename": "20201027_103410.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6231192,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1943",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass med en holk för damer och en för herrar"
+          }
+        ],
+        "centerPoint": [
+          17.03072663063759,
+          62.60778805331455
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.03072663063759,
+          62.60778805331455
+        ]
+      }
+    },
+    {
+      "id": 1736,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Nolbyströmmen",
+        "type": "Toalett",
+        "created": "2020-12-17 11:51:28",
+        "updated": "2025-07-16 13:44:28",
+        "published": true,
+        "parentObjects": [
+          1872
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.321183252329238,
+          62.2963706860249
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.321183252329238,
+          62.2963706860249
+        ]
+      }
+    },
+    {
+      "id": 1739,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Grenforsen",
+        "type": "Toalett",
+        "created": "2020-12-17 12:04:00",
+        "updated": "2021-05-28 08:50:42",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2025,
+                "filename": "20161010_090656.jpg",
+                "description": "Torrdass med dubbla holkar",
+                "alttext": "Torrdass med dubbla holkar",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3721197,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2025",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass med dubbla holkar"
+          }
+        ],
+        "centerPoint": [
+          17.221817660389082,
+          62.304508141469576
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.221817660389082,
+          62.304508141469576
+        ]
+      }
+    },
+    {
+      "id": 1740,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Grenforsen",
+        "type": "Toalett",
+        "created": "2020-12-17 12:05:23",
+        "updated": "2026-04-08 11:57:47",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2026,
+                "filename": "20161010_090711.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3363304,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2026",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.221776275825817,
+          62.304459772281284
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.221776275825817,
+          62.304459772281284
+        ]
+      }
+    },
+    {
+      "id": 1745,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Västloning",
+        "type": "Toalett",
+        "created": "2020-12-17 15:42:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2030,
+                "filename": "20160808_081851.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6543432,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2030",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass med två holkar"
+          }
+        ],
+        "centerPoint": [
+          16.987084008038405,
+          62.61816271643281
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.987084008038405,
+          62.61816271643281
+        ]
+      }
+    },
+    {
+      "id": 1754,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Nilsböle",
+        "type": "Toalett",
+        "created": "2020-12-17 16:03:46",
+        "updated": "2026-04-01 22:35:48",
+        "published": true,
+        "parentObjects": [
+          4455
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2039,
+                "filename": "Nilsböle kanotrastplats (7).JPG",
+                "description": "Torrdass och vedbod",
+                "alttext": "Torrdass och vedbod",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3008099,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2039",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          16.88850859214216,
+          62.650877772676566
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88850859214216,
+          62.650877772676566
+        ]
+      }
+    },
+    {
+      "id": 1764,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Sandriset",
+        "type": "Toalett",
+        "created": "2021-02-18 15:52:00",
+        "updated": "2026-04-01 22:17:39",
+        "published": true,
+        "parentObjects": [
+          4451
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-10-01"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2048,
+                "filename": "20200922_161005.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8715465,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2048",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          16.726895416245476,
+          62.751565233446996
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.726895416245476,
+          62.751565233446996
+        ]
+      }
+    },
+    {
+      "id": 1833,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass Dubbla vindskyddet",
+        "type": "Toalett",
+        "created": "2021-05-28 08:25:10",
+        "updated": "2026-06-22 08:53:27",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4487
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Mulltoa"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-10"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2844,
+                "filename": "image.jpg",
+                "description": "Dass vid dubbla vindskyddet",
+                "alttext": "Ett fyrkantigt trä dass med ett rött hjärta på dörren ",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4862491,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2844",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.30475168849596,
+          62.35476822553383
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30475168849596,
+          62.35476822553383
+        ]
+      }
+    },
+    {
+      "id": 1834,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Mullekojorna",
+        "type": "Toalett",
+        "created": "2021-05-28 08:26:32",
+        "updated": "2022-08-31 09:28:22",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-28"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2342,
+                "filename": "20210519_080604.jpg",
+                "description": "Handikappdass",
+                "alttext": "Handikappdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9195923,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2342",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stort rullstolsanpassat torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.303770425327137,
+          62.365993626688464
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.303770425327137,
+          62.365993626688464
+        ]
+      }
+    },
+    {
+      "id": 1842,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Klippstugan",
+        "type": "Toalett",
+        "created": "2021-06-01 23:15:28",
+        "updated": "2026-01-13 14:04:59",
+        "published": true,
+        "parentObjects": [
+          1848
+        ],
+        "owner": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "manager": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2147,
+                "filename": "20210601_204602.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6248885,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2147",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.207445052920736,
+          62.45289001908554
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.207445052920736,
+          62.45289001908554
+        ]
+      }
+    },
+    {
+      "id": 3093,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Fläsian",
+        "type": "Toalett",
+        "created": "2021-11-11 09:36:51",
+        "updated": "2026-04-08 14:55:35",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-11-11"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2265,
+                "filename": "Dass Fläsian.jpg",
+                "description": "Torrdass vid Fläsian",
+                "alttext": "Torrdass vid Fläsian",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4498289,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2265",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.373227402202712,
+          62.36056837527194
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.373227402202712,
+          62.36056837527194
+        ]
+      }
+    },
+    {
+      "id": 3100,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Edeforsen strandbad",
+        "type": "Toalett",
+        "created": "2021-11-11 09:55:34",
+        "updated": "2022-01-10 16:52:57",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-11-11"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2270,
+                "filename": "Dass Edeforsen.jpg",
+                "description": "Torrdass vid Edeforsens strandbad",
+                "alttext": "Torrdass vid Edeforsens strandbad",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3991487,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2270",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass vid Edeforsens strandbad"
+          }
+        ],
+        "centerPoint": [
+          16.490835305559127,
+          62.418463593579915
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.490835305559127,
+          62.418463593579915
+        ]
+      }
+    },
+    {
+      "id": 3101,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Sandnäset",
+        "type": "Toalett",
+        "created": "2021-11-11 09:59:55",
+        "updated": "2022-01-10 16:52:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-11-11"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2271,
+                "filename": "Dass Sandnäset.jpg",
+                "description": "Torrdass vid Sandnäsets strandbad",
+                "alttext": "Torrdass vid Sandnäsets strandbad",
+                "sourcetext": "Joachim Söderlind, Frilufstenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5903395,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2271",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass vid Sandnäset"
+          }
+        ],
+        "centerPoint": [
+          16.3909693742104,
+          62.69617157039381
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3909693742104,
+          62.69617157039381
+        ]
+      }
+    },
+    {
+      "id": 3217,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Tranviken",
+        "type": "Toalett",
+        "created": "2022-06-23 13:48:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2017
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vattentoalett öppen sommartid"
+          }
+        ],
+        "centerPoint": [
+          17.51169373613129,
+          62.363828240544215
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51169373613129,
+          62.363828240544215
+        ]
+      }
+    },
+    {
+      "id": 3281,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Tjuvholmen",
+        "type": "Toalett",
+        "created": "2022-08-31 10:18:17",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 120,
+          "name": "ortvikens motorbåtsklubb"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2354,
+                "filename": "20210707_132653.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7294670,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2354",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.369146877789603,
+          62.3860761721832
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.369146877789603,
+          62.3860761721832
+        ]
+      }
+    },
+    {
+      "id": 3337,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Stocken",
+        "type": "Toalett",
+        "created": "2022-09-20 10:02:16",
+        "updated": "2026-04-08 14:53:26",
+        "published": true,
+        "parentObjects": [
+          4137
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2389,
+                "filename": "1663660885869364913077776026937.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4899710,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2389",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.244939624144724,
+          62.30650437541126
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.244939624144724,
+          62.30650437541126
+        ]
+      }
+    },
+    {
+      "id": 3495,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Håltjärn",
+        "type": "Toalett",
+        "created": "2023-02-09 17:51:59",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          696,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2023-02-09"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.155377255739285,
+          62.33536403713294
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.155377255739285,
+          62.33536403713294
+        ]
+      }
+    },
+    {
+      "id": 3496,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Bergfotsstugan",
+        "type": "Toalett",
+        "created": "2023-02-09 17:56:25",
+        "updated": "2026-06-22 08:33:39",
+        "published": true,
+        "parentObjects": [
+          4480
+        ],
+        "owner": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "manager": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.35790523938938,
+          62.30022549990356
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35790523938938,
+          62.30022549990356
+        ]
+      }
+    },
+    {
+      "id": 3559,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets Friluftscentrum Café",
+        "type": "Toalett",
+        "created": "2023-05-08 08:29:15",
+        "updated": "2024-04-02 09:37:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad toalett öppen dygnet runt. "
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad toalett öppen dygnet runt. "
+          }
+        ],
+        "centerPoint": [
+          17.309381350722955,
+          62.36652205100297
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.309381350722955,
+          62.36652205100297
+        ]
+      }
+    },
+    {
+      "id": 3560,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Bergets Friluftscentrum Omklädning",
+        "type": "Toalett",
+        "created": "2023-05-08 08:29:39",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2806,
+                "filename": "image.jpg",
+                "description": "Toalett",
+                "alttext": "Toalett och handfat",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2661784,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2806",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Toalett öppen 06.00-23.00"
+          }
+        ],
+        "centerPoint": [
+          17.309381350722955,
+          62.36652205100297
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.309381350722955,
+          62.36652205100297
+        ]
+      }
+    },
+    {
+      "id": 3561,
+      "type": "Feature",
+      "properties": {
+        "name": "Tranviken",
+        "type": "Toalett",
+        "created": "2023-05-08 08:30:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.511643088945434,
+          62.363824628403975
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.511643088945434,
+          62.363824628403975
+        ]
+      }
+    },
+    {
+      "id": 3562,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Västbyn",
+        "type": "Toalett",
+        "created": "2023-05-08 08:43:43",
+        "updated": "2026-04-08 14:54:58",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.61665567456543,
+          62.66405033641553
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.61665567456543,
+          62.66405033641553
+        ]
+      }
+    },
+    {
+      "id": 3563,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Bjässjön",
+        "type": "Toalett",
+        "created": "2023-05-08 08:45:02",
+        "updated": "2026-04-08 14:48:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.09669142657391,
+          62.63148142118308
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.09669142657391,
+          62.63148142118308
+        ]
+      }
+    },
+    {
+      "id": 3564,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Brudsjön",
+        "type": "Toalett",
+        "created": "2023-05-08 08:58:34",
+        "updated": "2026-04-08 14:53:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.756524852257712,
+          62.75940445660223
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.756524852257712,
+          62.75940445660223
+        ]
+      }
+    },
+    {
+      "id": 3565,
+      "type": "Feature",
+      "properties": {
+        "name": "Rännösbadet",
+        "type": "Toalett",
+        "created": "2023-05-08 09:00:31",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          697,
+          698,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.015187193813897,
+          62.3445113832854
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.015187193813897,
+          62.3445113832854
+        ]
+      }
+    },
+    {
+      "id": 3566,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Pallviken strandbad",
+        "type": "Toalett",
+        "created": "2023-05-08 12:43:49",
+        "updated": "2023-05-08 12:44:00",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "toalett",
+          "torrdass"
+        ],
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.148181233840976,
+          62.30800935165921
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.148181233840976,
+          62.30800935165921
+        ]
+      }
+    },
+    {
+      "id": 3621,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Långliden",
+        "type": "Toalett",
+        "created": "2023-05-11 14:22:03",
+        "updated": "2026-04-08 14:50:22",
+        "published": true,
+        "parentObjects": [
+          4454
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2506,
+                "filename": "20160808_104745.jpg",
+                "description": "Torrdass och vedbod",
+                "alttext": "Torrdass och vedbod",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3369911,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2506",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.67230881989363,
+          62.91164649607683
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67230881989363,
+          62.91164649607683
+        ]
+      }
+    },
+    {
+      "id": 3628,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Boda såg",
+        "type": "Toalett",
+        "created": "2023-05-11 14:35:28",
+        "updated": "2026-04-08 14:49:56",
+        "published": true,
+        "parentObjects": [
+          4453
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.640330421370003,
+          62.877368639659295
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.640330421370003,
+          62.877368639659295
+        ]
+      }
+    },
+    {
+      "id": 3633,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Järkvissle",
+        "type": "Toalett",
+        "created": "2023-05-11 14:45:17",
+        "updated": "2026-04-08 14:51:07",
+        "published": true,
+        "parentObjects": [
+          4450
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2513,
+                "filename": "20160808_092505.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3282736,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2513",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tillsyn under sommarsäsongen"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Ramp och bred dörr, samt stort utrymme invändigt"
+          }
+        ],
+        "centerPoint": [
+          16.66457513919952,
+          62.79251384123907
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.66457513919952,
+          62.79251384123907
+        ]
+      }
+    },
+    {
+      "id": 3640,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Åsen",
+        "type": "Toalett",
+        "created": "2023-05-11 14:57:48",
+        "updated": "2026-04-08 14:50:33",
+        "published": true,
+        "parentObjects": [
+          4452
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2517,
+                "filename": "20160802_091033.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3708904,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2517",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tillsyn veckovis under sommarsäsongen"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Träramp och bred dörr"
+          }
+        ],
+        "centerPoint": [
+          16.787001815000515,
+          62.697051688043196
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.787001815000515,
+          62.697051688043196
+        ]
+      }
+    },
+    {
+      "id": 3648,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Loning",
+        "type": "Toalett",
+        "created": "2023-05-11 15:09:00",
+        "updated": "2026-04-08 14:48:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Veckovis tillsyn under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          17.009709230782008,
+          62.60738725158956
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.009709230782008,
+          62.60738725158956
+        ]
+      }
+    },
+    {
+      "id": 3653,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Gullershällan",
+        "type": "Toalett",
+        "created": "2023-05-12 10:26:06",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2021
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.773072572652666,
+          62.37607440540374
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.773072572652666,
+          62.37607440540374
+        ]
+      }
+    },
+    {
+      "id": 3661,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Sidsjöbacken",
+        "type": "Toalett",
+        "created": "2023-08-18 08:02:51",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.275991906150573,
+          62.368623130787945
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275991906150573,
+          62.368623130787945
+        ]
+      }
+    },
+    {
+      "id": 3662,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Aborrviken",
+        "type": "Toalett",
+        "created": "2023-08-18 08:04:21",
+        "updated": "2026-04-08 14:42:56",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27436575943216,
+          62.37516483355572
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27436575943216,
+          62.37516483355572
+        ]
+      }
+    },
+    {
+      "id": 4086,
+      "type": "Feature",
+      "properties": {
+        "name": "Mulltoa Pulkabacken Södra Berget",
+        "type": "Toalett",
+        "created": "2025-02-17 10:42:41",
+        "updated": "2026-04-08 14:44:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Mulltoa"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2817,
+                "filename": "image.jpg",
+                "description": "Torrdass",
+                "alttext": "Torrdass ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4688703,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2817",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mulltoa"
+          }
+        ],
+        "centerPoint": [
+          17.31387194234093,
+          62.366358695173645
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31387194234093,
+          62.366358695173645
+        ]
+      }
+    },
+    {
+      "id": 4174,
+      "type": "Feature",
+      "properties": {
+        "name": "Dass Klissbergsstugan",
+        "type": "Toalett",
+        "created": "2025-11-21 16:41:48",
+        "published": true,
+        "owner": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "manager": {
+          "organizationID": 272,
+          "name": "SK Vidar"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "SK Vidar",
+            "reportDescription": "Skidklubben Vidar",
+            "reportLink": "https://www.skvidar.se/#Contact",
+            "reportPhone": "+46 70 2119607",
+            "reportEmail": "post@skvidar.se"
+          }
+        ],
+        "centerPoint": [
+          17.20411884048452,
+          62.37861208992461
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20411884048452,
+          62.37861208992461
+        ]
+      }
+    },
+    {
+      "id": 4228,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Dingersjö",
+        "type": "Toalett",
+        "created": "2026-01-13 11:49:11",
+        "updated": "2026-04-08 14:46:10",
+        "published": true,
+        "parentObjects": [
+          4230
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2785,
+                "filename": "20170511_091336.jpg",
+                "description": "Dass Dingersjö",
+                "alttext": "Dass i naturen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9612957,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2785",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.381505711862424,
+          62.27182534998611
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.381505711862424,
+          62.27182534998611
+        ]
+      }
+    },
+    {
+      "id": 4244,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Svanängsstugan",
+        "type": "Toalett",
+        "created": "2026-01-13 15:25:08",
+        "updated": "2026-04-08 14:45:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.171456574110387,
+          62.34795298620366
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.171456574110387,
+          62.34795298620366
+        ]
+      }
+    },
+    {
+      "id": 4265,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Norra Berget",
+        "type": "Toalett",
+        "created": "2026-01-19 09:25:45",
+        "published": true,
+        "owner": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.297863064096276,
+          62.40006798397797
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.297863064096276,
+          62.40006798397797
+        ]
+      }
+    },
+    {
+      "id": 4456,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Handikappvindskyddet",
+        "type": "Toalett",
+        "created": "2026-04-07 09:15:07",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-28"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2905,
+                "filename": "20200827_083612.jpg",
+                "description": "Rullstolasanpassat torrdass",
+                "alttext": "Grå träbyggnad med rullstolsanpassat torrdas ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6526354,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2905",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stort rullstolsanpassat torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.30386172708541,
+          62.36516638999914
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30386172708541,
+          62.36516638999914
+        ]
+      }
+    },
+    {
+      "id": 4457,
+      "type": "Feature",
+      "properties": {
+        "name": "Mulltoa Gubben",
+        "type": "Toalett",
+        "created": "2026-04-07 09:20:38",
+        "updated": "2026-04-08 14:43:43",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Mulltoa"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Mulltoa"
+          }
+        ],
+        "centerPoint": [
+          17.38257055835691,
+          62.446546324867974
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38257055835691,
+          62.446546324867974
+        ]
+      }
+    },
+    {
+      "id": 4458,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Dyket",
+        "type": "Toalett",
+        "created": "2026-04-07 09:27:12",
+        "updated": "2026-06-22 08:30:57",
+        "published": true,
+        "parentObjects": [
+          1380
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.39427196643042,
+          62.29650109512892
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.39427196643042,
+          62.29650109512892
+        ]
+      }
+    },
+    {
+      "id": 4461,
+      "type": "Feature",
+      "properties": {
+        "name": "Torrdass Lucksta badplats",
+        "type": "Toalett",
+        "created": "2026-04-08 15:00:45",
+        "updated": "2026-04-08 15:01:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "Torrdass"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.052627786635355,
+          62.29797488044034
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052627786635355,
+          62.29797488044034
+        ]
+      }
+    },
+    {
+      "id": 4462,
+      "type": "Feature",
+      "properties": {
+        "name": "Toalett Södra Berget dusch/omklädning",
+        "type": "Toalett",
+        "created": "2026-04-08 15:15:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-04-08"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappanpassad vattentoalett"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Toalett öppen 06.00-23.00"
+          }
+        ],
+        "centerPoint": [
+          17.313052824240344,
+          62.36701212620234
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.313052824240344,
+          62.36701212620234
+        ]
+      }
+    },
+    {
+      "id": 4491,
+      "type": "Feature",
+      "properties": {
+        "name": "Offentlig toalett Norra kajen",
+        "type": "Toalett",
+        "created": "2026-07-02 10:29:39",
+        "updated": "2026-07-02 10:31:47",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Offentlig toalett som kräver betalning\r\nMer information finns på https://sundsvall.se/kommun/samhallsplanering-och-trafik/torg-och-allmanna-platser/offentliga-toaletter\r\n"
+          }
+        ],
+        "centerPoint": [
+          17.31620815019981,
+          62.39362145400617
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31620815019981,
+          62.39362145400617
+        ]
+      }
+    },
+    {
+      "id": 4492,
+      "type": "Feature",
+      "properties": {
+        "name": "Offentlig toalett Fisktorget",
+        "type": "Toalett",
+        "created": "2026-07-02 10:30:25",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Offentlig toalett som kräver betalning\r\nMer information finns på https://sundsvall.se/kommun/samhallsplanering-och-trafik/torg-och-allmanna-platser/offentliga-toaletter\r\n"
+          }
+        ],
+        "centerPoint": [
+          17.306071729451,
+          62.39222017387809
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.306071729451,
+          62.39222017387809
+        ]
+      }
+    },
+    {
+      "id": 4493,
+      "type": "Feature",
+      "properties": {
+        "name": "Offentlig toalett Stora torget",
+        "type": "Toalett",
+        "created": "2026-07-02 10:30:55",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Offentlig toalett som kräver betalning\r\nMer information finns på https://sundsvall.se/kommun/samhallsplanering-och-trafik/torg-och-allmanna-platser/offentliga-toaletter\r\n"
+          }
+        ],
+        "centerPoint": [
+          17.307775120668037,
+          62.39045152014064
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.307775120668037,
+          62.39045152014064
+        ]
+      }
+    },
+    {
+      "id": 4494,
+      "type": "Feature",
+      "properties": {
+        "name": "Offentlig toalett Strandgatan",
+        "type": "Toalett",
+        "created": "2026-07-02 10:31:27",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "fields": [
+          {
+            "id": 95,
+            "name": "Typ av toalett",
+            "type": "DROPDOWN",
+            "value": "WC"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Offentlig toalett som kräver betalning\r\nMer information finns på https://sundsvall.se/kommun/samhallsplanering-och-trafik/torg-och-allmanna-platser/offentliga-toaletter\r\n"
+          }
+        ],
+        "centerPoint": [
+          17.31467052356951,
+          62.389973609508495
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31467052356951,
+          62.389973609508495
+        ]
+      }
+    },
+    {
+      "id": 519,
+      "type": "Feature",
+      "properties": {
+        "name": "Bodsjön dass",
+        "type": "Toalett",
+        "created": "2018-07-06 13:04:39",
+        "updated": "2020-07-06 16:53:51",
+        "deleted": "2020-07-08 17:27:05"
+      },
+      "geometry": null
+    },
+    {
+      "id": 528,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Östtjärn",
+        "type": "Toalett",
+        "created": "2018-07-06 13:15:13",
+        "deleted": "2020-05-08 22:36:44"
+      },
+      "geometry": null
+    },
+    {
+      "id": 122,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget dass lillkotten",
+        "type": "Toalett",
+        "created": "2018-06-18 10:26:45",
+        "updated": "2021-10-12 11:36:21",
+        "deleted": "2026-04-07 17:13:55"
+      },
+      "geometry": null
+    },
+    {
+      "id": 123,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget dass",
+        "type": "Toalett",
+        "created": "2018-06-18 10:28:51",
+        "updated": "2025-02-17 10:50:10",
+        "deleted": "2026-04-07 17:05:02"
+      },
+      "geometry": null
+    },
+    {
+      "id": 135,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget toalett fd Kåtan",
+        "type": "Toalett",
+        "created": "2018-06-18 10:56:43",
+        "updated": "2020-03-25 09:09:35",
+        "deleted": "2021-05-21 12:33:46"
+      },
+      "geometry": null
+    },
+    {
+      "id": 303,
+      "type": "Feature",
+      "properties": {
+        "name": "Hornsjön",
+        "type": "Toalett",
+        "created": "2018-06-26 14:09:25",
+        "updated": "2020-04-06 15:43:26",
+        "deleted": "2021-12-17 16:40:58"
+      },
+      "geometry": null
+    },
+    {
+      "id": 325,
+      "type": "Feature",
+      "properties": {
+        "name": "Bänkåsviken",
+        "type": "Toalett",
+        "created": "2018-06-26 15:03:08",
+        "deleted": "2023-07-03 11:00:31"
+      },
+      "geometry": null
+    },
+    {
+      "id": 427,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Lucksta",
+        "type": "Toalett",
+        "created": "2018-07-02 09:37:02",
+        "deleted": "2020-06-30 10:45:56"
+      },
+      "geometry": null
+    },
+    {
+      "id": 441,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Norrhassel",
+        "type": "Toalett",
+        "created": "2018-07-02 10:20:21",
+        "deleted": "2020-06-30 11:05:29"
+      },
+      "geometry": null
+    },
+    {
+      "id": 471,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Toalett",
+        "created": "2018-07-03 09:31:56",
+        "deleted": "2020-07-07 14:14:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 504,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Ede",
+        "type": "Toalett",
+        "created": "2018-07-04 10:00:52",
+        "deleted": "2020-07-06 16:39:21"
+      },
+      "geometry": null
+    },
+    {
+      "id": 505,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Ede",
+        "type": "Toalett",
+        "created": "2018-07-06 12:48:53",
+        "deleted": "2018-07-06 12:49:20"
+      },
+      "geometry": null
+    }
+  ]
+}

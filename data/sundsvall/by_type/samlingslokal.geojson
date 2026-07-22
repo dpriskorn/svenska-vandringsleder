@@ -1,0 +1,1305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 891,
+      "type": "Feature",
+      "properties": {
+        "name": "Selånger Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-10-22 10:38:28",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 892,
+      "type": "Feature",
+      "properties": {
+        "name": "Nävsta skola",
+        "type": "Samlingslokal",
+        "created": "2019-10-22 11:55:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 896,
+      "type": "Feature",
+      "properties": {
+        "name": "Deljelokal",
+        "type": "Samlingslokal",
+        "created": "2019-10-22 13:59:46",
+        "updated": "2025-11-21 06:00:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 910,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergsåkers Folkets Hus",
+        "type": "Samlingslokal",
+        "created": "2019-10-23 11:59:30",
+        "updated": "2023-10-13 06:00:04",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 961,
+      "type": "Feature",
+      "properties": {
+        "name": "Böle bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-10-29 08:44:32",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 987,
+      "type": "Feature",
+      "properties": {
+        "name": "Notstället",
+        "type": "Samlingslokal",
+        "created": "2019-10-29 16:08:52",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 988,
+      "type": "Feature",
+      "properties": {
+        "name": "Schymbergsgården",
+        "type": "Samlingslokal",
+        "created": "2019-10-29 16:12:53",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 990,
+      "type": "Feature",
+      "properties": {
+        "name": "Alnö Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-10-29 16:24:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 991,
+      "type": "Feature",
+      "properties": {
+        "name": "Tors Lokal",
+        "type": "Samlingslokal",
+        "created": "2019-10-30 10:44:48",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 992,
+      "type": "Feature",
+      "properties": {
+        "name": "Lokal - Alnö Servicehus",
+        "type": "Samlingslokal",
+        "created": "2019-10-30 10:52:37",
+        "updated": "2019-12-19 06:00:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1004,
+      "type": "Feature",
+      "properties": {
+        "name": "WF-lokalen",
+        "type": "Samlingslokal",
+        "created": "2019-10-31 13:30:42",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1005,
+      "type": "Feature",
+      "properties": {
+        "name": "Stadshuset",
+        "type": "Samlingslokal",
+        "created": "2019-10-31 14:07:31",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1041,
+      "type": "Feature",
+      "properties": {
+        "name": "Pålsgården",
+        "type": "Samlingslokal",
+        "created": "2019-11-06 15:55:17",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1042,
+      "type": "Feature",
+      "properties": {
+        "name": "Scoutstuga",
+        "type": "Samlingslokal",
+        "created": "2019-11-06 15:59:31",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1043,
+      "type": "Feature",
+      "properties": {
+        "name": "Nedansjö Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-11-06 16:15:13",
+        "updated": "2019-11-06 16:15:48",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1044,
+      "type": "Feature",
+      "properties": {
+        "name": "Scoutstuga",
+        "type": "Samlingslokal",
+        "created": "2019-11-06 16:21:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1051,
+      "type": "Feature",
+      "properties": {
+        "name": "Holm/Gimåfors Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-11-11 10:35:46",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1052,
+      "type": "Feature",
+      "properties": {
+        "name": "Englaporten",
+        "type": "Samlingslokal",
+        "created": "2019-11-11 10:48:30",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1120,
+      "type": "Feature",
+      "properties": {
+        "name": "Tövastugan",
+        "type": "Samlingslokal",
+        "created": "2019-11-14 12:40:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1158,
+      "type": "Feature",
+      "properties": {
+        "name": "Matfors Folkets Park",
+        "type": "Samlingslokal",
+        "created": "2019-11-15 15:57:05",
+        "updated": "2025-11-21 06:00:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1161,
+      "type": "Feature",
+      "properties": {
+        "name": "Attmars Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-11-15 16:33:05",
+        "updated": "2020-06-30 10:50:55",
+        "published": true,
+        "owner": {
+          "organizationID": 276,
+          "name": "Attmars hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 276,
+          "name": "Attmars hembygdsförening"
+        },
+        "tags": [
+          "attmar",
+          "cafe",
+          "hembygdsgård",
+          "museum",
+          "samlingslokal"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "attmars hembygdsförening"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 983,
+                "filename": "attmars_hembygdsgård.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 59814,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/983",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "87927dc7-40ae-4d89-9921-5d54c63c59b6"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Här finns hembygdsgård, kafé och museum. Kontakta  hembygdsföreningen för information om öppettider och verksamhet. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.attmarshbf.se/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.attmarshbf.se/"
+          }
+        ],
+        "centerPoint": [
+          17.047918143067978,
+          62.29563650418264
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.047788070606963,
+                62.29558122925311
+              ],
+              [
+                17.047803218539197,
+                62.295529158643774
+              ],
+              [
+                17.048010029180478,
+                62.29554595486905
+              ],
+              [
+                17.04799675513871,
+                62.29559437916399
+              ],
+              [
+                17.047788070606963,
+                62.29558122925311
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1162,
+      "type": "Feature",
+      "properties": {
+        "name": "Harvs Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-11-15 16:37:14",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1163,
+      "type": "Feature",
+      "properties": {
+        "name": "Rännö Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-11-15 16:40:48",
+        "updated": "2019-11-15 16:41:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1164,
+      "type": "Feature",
+      "properties": {
+        "name": "Midälvagården",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 10:34:58",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1165,
+      "type": "Feature",
+      "properties": {
+        "name": "Målsta gård",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 11:07:31",
+        "updated": "2020-06-30 09:22:56",
+        "published": true,
+        "owner": {
+          "organizationID": 61,
+          "name": "hällans scoutkår"
+        },
+        "manager": {
+          "organizationID": 61,
+          "name": "hällans scoutkår"
+        },
+        "tags": [
+          "samlingslokal",
+          "målstastugan"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "hällans scoutkår"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 986,
+                "filename": "målsta_gård.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 47616,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/986",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 987,
+                "filename": "malstastugan1.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 69343,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/987",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "42da6fa4-7dd0-47f6-862b-a7a5bddf4949"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stugan ägs av Hällans scoutkår och ligger på ett berg med utsikt över sjön Marmen. Stugan rymmer en samlingslokal med öppenspis, ett mindre rum, två toaletter en stor hall och kök. Ej vatten och el. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.nsf.scout.se/karer/hallan-scoutkar-sundsvall/"
+          }
+        ],
+        "centerPoint": [
+          17.110212781636967,
+          62.31637580805759
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.11032728866531,
+                62.3164516420287
+              ],
+              [
+                17.110343041065704,
+                62.31651636150828
+              ],
+              [
+                17.110157162105555,
+                62.31652627729314
+              ],
+              [
+                17.110141448028976,
+                62.316461548235495
+              ],
+              [
+                17.11032728866531,
+                62.3164516420287
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1166,
+      "type": "Feature",
+      "properties": {
+        "name": "Gryttjens Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 11:14:25",
+        "updated": "2022-02-09 06:00:05",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1167,
+      "type": "Feature",
+      "properties": {
+        "name": "Mellangårds Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 11:35:35",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1168,
+      "type": "Feature",
+      "properties": {
+        "name": "Tuna Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 13:33:17",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1169,
+      "type": "Feature",
+      "properties": {
+        "name": "Viinoret",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 13:57:03",
+        "updated": "2025-10-29 06:00:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1170,
+      "type": "Feature",
+      "properties": {
+        "name": "Sågvikens Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 14:15:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1171,
+      "type": "Feature",
+      "properties": {
+        "name": "Rudegården",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 14:49:22",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1172,
+      "type": "Feature",
+      "properties": {
+        "name": "Uvbergsstugan",
+        "type": "Samlingslokal",
+        "created": "2019-11-18 15:49:27",
+        "updated": "2019-11-27 09:59:38",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1238,
+      "type": "Feature",
+      "properties": {
+        "name": "Kunskapsloftet, samlingslokal i Svartvik",
+        "type": "Samlingslokal",
+        "created": "2019-11-25 16:17:01",
+        "updated": "2019-12-13 11:24:08",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1239,
+      "type": "Feature",
+      "properties": {
+        "name": "Stockviks Folkets Hus - Kusten",
+        "type": "Samlingslokal",
+        "created": "2019-11-25 16:25:41",
+        "updated": "2023-10-13 06:00:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1271,
+      "type": "Feature",
+      "properties": {
+        "name": "Ljustadalens Scoutkår",
+        "type": "Samlingslokal",
+        "created": "2019-11-27 15:52:19",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1320,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurunda OK",
+        "type": "Samlingslokal",
+        "created": "2019-12-04 09:47:46",
+        "updated": "2020-09-07 15:30:40",
+        "published": true,
+        "owner": {
+          "organizationID": 112,
+          "name": "njurunda ok"
+        },
+        "manager": {
+          "organizationID": 112,
+          "name": "njurunda ok"
+        },
+        "tags": [
+          "njurunda ok",
+          "orientering",
+          "orienteringsklubb",
+          "orienteringsstuga"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1803,
+                "filename": "Njurunda orienteringsklubb.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3070769,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1803",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "7a62a990-3ac1-485f-adbb-ad236b41beeb"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Njurunda Orienteringsklubb har verksamhet för såväl ungdom som vuxen. "
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.njurundaok.org/"
+          }
+        ],
+        "centerPoint": [
+          17.3938914992278,
+          62.260978604850216
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39371936180889,
+                62.261017804441764
+              ],
+              [
+                17.39391148670749,
+                62.26090636353051
+              ],
+              [
+                17.394070959521535,
+                62.26096610054496
+              ],
+              [
+                17.39387883555323,
+                62.261077550643456
+              ],
+              [
+                17.39371936180889,
+                62.261017804441764
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1321,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurunda Hembygdsgård",
+        "type": "Samlingslokal",
+        "created": "2019-12-04 09:54:02",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1322,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurunda Folkets Hus",
+        "type": "Samlingslokal",
+        "created": "2019-12-04 10:01:39",
+        "updated": "2025-11-08 06:00:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1367,
+      "type": "Feature",
+      "properties": {
+        "name": "Böloms Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2019-12-06 14:25:06",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1368,
+      "type": "Feature",
+      "properties": {
+        "name": "Klingstagården",
+        "type": "Samlingslokal",
+        "created": "2019-12-06 14:30:16",
+        "updated": "2020-06-29 15:37:56",
+        "published": true,
+        "owner": {
+          "organizationID": 274,
+          "name": "Föreningen Klingstagården"
+        },
+        "manager": {
+          "organizationID": 274,
+          "name": "Föreningen Klingstagården"
+        },
+        "tags": [
+          "allsta",
+          "bröllopslokal",
+          "klingsta",
+          "klingstagården",
+          "konferenslokal",
+          "samlingslokal"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "föreningen klingstagården"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1266,
+                "filename": "klingstagården.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 53044,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1266",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "57fcb188-cd0c-4b6c-9f52-24fae2c27d29"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Klingstagården fungerar som samlingslokal och kan hyras för evenemang som bröllops- och födelsedagsfester, konferenser, kurser, möten och föreningsaktiviteter.  Lokalen är godkänd för 70 personer och har porslin och  annan utrustning för detta antal. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://www.klingstagarden.se/index.html"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.klingstagarden.se/index.html"
+          }
+        ],
+        "centerPoint": [
+          17.204210157606667,
+          62.32461030822443
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.204337336878496,
+                62.32452537538761
+              ],
+              [
+                17.204339550402448,
+                62.324625915560254
+              ],
+              [
+                17.20420847033277,
+                62.324626548095026
+              ],
+              [
+                17.204208778078215,
+                62.32463996821755
+              ],
+              [
+                17.20407441709828,
+                62.324640616723414
+              ],
+              [
+                17.20407407876716,
+                62.32462493414283
+              ],
+              [
+                17.204067072902763,
+                62.32462496439276
+              ],
+              [
+                17.204064909560408,
+                62.324526677394076
+              ],
+              [
+                17.204337336878496,
+                62.32452537538761
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1369,
+      "type": "Feature",
+      "properties": {
+        "name": "Folkan Matfors",
+        "type": "Samlingslokal",
+        "created": "2019-12-06 14:36:16",
+        "updated": "2025-11-21 06:00:11",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1370,
+      "type": "Feature",
+      "properties": {
+        "name": "Matfors Scoutstuga",
+        "type": "Samlingslokal",
+        "created": "2019-12-06 14:52:19",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1382,
+      "type": "Feature",
+      "properties": {
+        "name": "Kolstabodarna Vildmark",
+        "type": "Samlingslokal",
+        "created": "2019-12-09 16:00:06",
+        "updated": "2020-09-07 15:58:11",
+        "published": true,
+        "tags": [
+          "kolstabodarna",
+          "kolstabodarna vildmark",
+          "samlingslokal"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1805,
+                "filename": "DSC_0095.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4093202,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1805",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1806,
+                "filename": "DSC_0105.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4166987,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1806",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1807,
+                "filename": "DSC_0106.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4166658,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1807",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "37860a4b-af8b-4e7c-b103-be67be1edacb"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Kolstabodarna Vildmark en trivsam anläggning i en stillsam och rogivande miljö, med möjlighet för personalträffar, kundmöten eller kompisgänget under trivsamma förhållanden. I huvudbyggnaden hittar du ett fullutrustat kök med sittplatser för upp till 30 personer med möjlighet att utöka vid behov. Ytan för både badrum och anläggningen är enkel att ta sig runt på och helt handikapanpassad."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://kolstabodarna.se/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://kolstabodarna.se/"
+          }
+        ],
+        "centerPoint": [
+          17.199439604731154,
+          62.363352412794384
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.199514407550552,
+                62.36329358733972
+              ],
+              [
+                17.19955456758471,
+                62.36335969997285
+              ],
+              [
+                17.199357963795666,
+                62.36338544569361
+              ],
+              [
+                17.199317810726832,
+                62.36331942269715
+              ],
+              [
+                17.199514407550552,
+                62.36329358733972
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1384,
+      "type": "Feature",
+      "properties": {
+        "name": "SOK-stugan",
+        "type": "Samlingslokal",
+        "created": "2019-12-09 16:23:12",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1406,
+      "type": "Feature",
+      "properties": {
+        "name": "Edeforsen, flottarstuga",
+        "type": "Samlingslokal",
+        "created": "2019-12-11 16:22:08",
+        "updated": "2019-12-11 16:27:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1411,
+      "type": "Feature",
+      "properties": {
+        "name": "Folkets Hus Aveny",
+        "type": "Samlingslokal",
+        "created": "2019-12-13 13:16:21",
+        "updated": "2023-10-13 06:00:13",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1412,
+      "type": "Feature",
+      "properties": {
+        "name": "Hedbergska skolans aula",
+        "type": "Samlingslokal",
+        "created": "2019-12-13 13:21:28",
+        "updated": "2025-01-15 06:00:15",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1413,
+      "type": "Feature",
+      "properties": {
+        "name": "Tonhallen",
+        "type": "Samlingslokal",
+        "created": "2019-12-13 13:28:10",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1416,
+      "type": "Feature",
+      "properties": {
+        "name": "Danslogen, Norra Berget",
+        "type": "Samlingslokal",
+        "created": "2019-12-13 16:49:36",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1444,
+      "type": "Feature",
+      "properties": {
+        "name": "Skansborg",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 12:11:56",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1450,
+      "type": "Feature",
+      "properties": {
+        "name": "Vike Bygdegård",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 14:50:06",
+        "updated": "2020-03-12 14:51:30",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1451,
+      "type": "Feature",
+      "properties": {
+        "name": "Gimåfors bygdegård",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 14:52:42",
+        "updated": "2020-03-12 14:54:01",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1457,
+      "type": "Feature",
+      "properties": {
+        "name": "Storhullsjöns bygdegård",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 15:12:32",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1462,
+      "type": "Feature",
+      "properties": {
+        "name": "Holms hembygdsstuga",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 15:34:47",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1466,
+      "type": "Feature",
+      "properties": {
+        "name": "Åsens gamla skola",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 15:45:39",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1467,
+      "type": "Feature",
+      "properties": {
+        "name": "Indals-Lidens sportklubb",
+        "type": "Samlingslokal",
+        "created": "2020-03-12 15:46:42",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1546,
+      "type": "Feature",
+      "properties": {
+        "name": "Vivsta bygdegård",
+        "type": "Samlingslokal",
+        "created": "2020-06-29 15:43:07",
+        "updated": "2020-06-29 15:43:44",
+        "published": true,
+        "owner": {
+          "organizationID": 275,
+          "name": "Vivsta Bygdegårdsförening"
+        },
+        "manager": {
+          "organizationID": 275,
+          "name": "Vivsta Bygdegårdsförening"
+        },
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Nej"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "vivsta bygdegårdsförening"
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "986b9e40-7302-4339-9098-6d4a37fbdb17"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Samlingslokal"
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "http://vivstagarden.se/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://vivstagarden.se/"
+          }
+        ],
+        "centerPoint": [
+          17.147927764503923,
+          62.312569320729494
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.147824389829808,
+                62.31252310147836
+              ],
+              [
+                17.14808115115063,
+                62.312541807311874
+              ],
+              [
+                17.148042176950327,
+                62.312657628928086
+              ],
+              [
+                17.147785414662884,
+                62.312638923026974
+              ],
+              [
+                17.147824389829808,
+                62.31252310147836
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1133,
+      "type": "Feature",
+      "properties": {
+        "name": "Uvbergsstugan",
+        "type": "Samlingslokal",
+        "created": "2019-11-14 14:52:22",
+        "deleted": "2019-11-27 09:59:57"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1186,
+      "type": "Feature",
+      "properties": {
+        "name": "Friluftscentrum Ängen",
+        "type": "Samlingslokal",
+        "created": "2019-11-19 16:04:50",
+        "deleted": "2025-02-17 10:51:46"
+      },
+      "geometry": null
+    }
+  ]
+}

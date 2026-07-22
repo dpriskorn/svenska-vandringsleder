@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 723,
+      "type": "Feature",
+      "properties": {
+        "name": "Stora Bouleplanen",
+        "type": "Bouleplan",
+        "created": "2019-09-23 11:55:33",
+        "updated": "2019-09-23 11:56:18",
+        "deleted": "2019-10-18 09:34:56"
+      },
+      "geometry": null
+    },
+    {
+      "id": 836,
+      "type": "Feature",
+      "properties": {
+        "name": "Boulebana",
+        "type": "Bouleplan",
+        "created": "2019-10-17 15:29:13",
+        "updated": "2020-03-24 14:48:37",
+        "deleted": "2019-10-18 09:32:53"
+      },
+      "geometry": null
+    }
+  ]
+}

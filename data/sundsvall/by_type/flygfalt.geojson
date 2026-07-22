@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1039,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls Segelflygklubb",
+        "type": "Flygfält",
+        "created": "2019-11-06 14:44:23",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1243,
+      "type": "Feature",
+      "properties": {
+        "name": "Flygfält - Bänkås",
+        "type": "Flygfält",
+        "created": "2019-11-26 14:13:03",
+        "updated": "2024-03-22 10:03:43",
+        "published": true,
+        "owner": {
+          "organizationID": 161,
+          "name": "sundsvalls fallskärmsklubb"
+        },
+        "manager": {
+          "organizationID": 161,
+          "name": "sundsvalls fallskärmsklubb"
+        },
+        "tags": [
+          "fallskärm",
+          "fallskärmsklubb",
+          "flygfält",
+          "tandemhopp"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1080,
+                "filename": "Fallskärmsklubb2.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 10,
+                "type": "image/jpeg",
+                "size": 92829,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1080",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1079,
+                "filename": "fallskärmsklubb 1.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 100,
+                "type": "image/jpeg",
+                "size": 905127,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1079",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fältet nyttjas av Sundsvalls Fallskärmsklubb som även erbjuder kurser och tandemhopp. "
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://frifall.com/"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://frifall.com/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://frifall.com/"
+          }
+        ],
+        "centerPoint": [
+          17.45282046806047,
+          62.38906927593146
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.44562324685325,
+                62.39037774414971
+              ],
+              [
+                17.45335886393491,
+                62.388820893689356
+              ],
+              [
+                17.4537285763357,
+                62.38870436387668
+              ],
+              [
+                17.45377368857806,
+                62.38859355435723
+              ],
+              [
+                17.453649483218886,
+                62.388482585655304
+              ],
+              [
+                17.453315731777842,
+                62.388293584493695
+              ],
+              [
+                17.453035650419984,
+                62.38826394367582
+              ],
+              [
+                17.4528396301431,
+                62.388185672307316
+              ],
+              [
+                17.452770555303836,
+                62.38808630465275
+              ],
+              [
+                17.452788107622915,
+                62.38796969448106
+              ],
+              [
+                17.453351432939858,
+                62.38798491497762
+              ],
+              [
+                17.453493354599946,
+                62.388064139005536
+              ],
+              [
+                17.45368269758405,
+                62.38830912045285
+              ],
+              [
+                17.454014568446873,
+                62.388557876048374
+              ],
+              [
+                17.454270911051943,
+                62.38860784898122
+              ],
+              [
+                17.455880725182162,
+                62.38827350823969
+              ],
+              [
+                17.45733434629906,
+                62.38799639699596
+              ],
+              [
+                17.45794695996769,
+                62.387869281553485
+              ],
+              [
+                17.45881234384038,
+                62.387769132130806
+              ],
+              [
+                17.45981252076477,
+                62.38757858394838
+              ],
+              [
+                17.459935012347064,
+                62.387585849497
+              ],
+              [
+                17.46000804015703,
+                62.38765056797878
+              ],
+              [
+                17.459965595777142,
+                62.3877110402484
+              ],
+              [
+                17.459311133819188,
+                62.38782318758449
+              ],
+              [
+                17.455900000519005,
+                62.38850891368713
+              ],
+              [
+                17.445733029137145,
+                62.39056126800761
+              ],
+              [
+                17.44562324685325,
+                62.39037774414971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1299,
+      "type": "Feature",
+      "properties": {
+        "name": "Maj flygfält, Njurunda",
+        "type": "Flygfält",
+        "created": "2019-12-03 12:01:39",
+        "updated": "2020-06-29 15:13:37",
+        "published": true,
+        "owner": {
+          "organizationID": 121,
+          "name": "Börje Svensson"
+        },
+        "tags": [
+          "flygfält",
+          "grusbana",
+          "maj flygfält",
+          "njurunda flygfält",
+          "sportflyg"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Maj Flygfält - Rullbana för sportflyg. Bana 18/36, 600x30m, grus/gräs Freq. 123,45. Privatägt, avancerad flygning söder om fältet. Undvik överflygning av området väster om fältet mellan bannan och E4. Högervarv bana 18 Vänstervarv bana 3"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://www.flygkartan.se/053558/Maj_flygfält"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.flygkartan.se/053558/Maj_flygfält"
+          }
+        ],
+        "centerPoint": [
+          17.383900291489493,
+          62.23403210464698
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.38367046595151,
+                62.231287189412065
+              ],
+              [
+                17.38417022830854,
+                62.23128218434689
+              ],
+              [
+                17.384137831995115,
+                62.23677736677053
+              ],
+              [
+                17.38363015219557,
+                62.23677883423885
+              ],
+              [
+                17.38367046595151,
+                62.231287189412065
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

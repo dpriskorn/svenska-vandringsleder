@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1380,
+      "type": "Feature",
+      "properties": {
+        "name": "Dykets Frilufts- och Rekreationsområde",
+        "type": "Rekreationsområde",
+        "created": "2019-12-09 12:10:10",
+        "updated": "2026-06-22 09:52:49",
+        "published": true,
+        "childObjects": [
+          323,
+          327,
+          328,
+          330,
+          332,
+          334,
+          335,
+          336,
+          338,
+          339,
+          1325,
+          1326,
+          1687,
+          1709,
+          1711,
+          4257,
+          4458
+        ],
+        "parentObjects": [
+          3828,
+          3935,
+          3936
+        ],
+        "owner": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "manager": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "tags": [
+          "bad",
+          "badplats",
+          "basket",
+          "bastu",
+          "bollplank",
+          "bordtennis",
+          "fotboll",
+          "friluftsbad",
+          "handikappanpassat",
+          "pingis",
+          "ramp",
+          "rekreation",
+          "strandbad",
+          "tennisplan"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1282,
+                "filename": "DSC_0021.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4590754,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1282",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1283,
+                "filename": "DSC_0024.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4105326,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1283",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1284,
+                "filename": "DSC_0027.JPG",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4505131,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1284",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ett naturområde med: Sjöbad, bangolf, floorball park, volleybollplan, bouleplan, tennisplan, basketkorgar, fotbollsplan, bollplank, bordtennis, bastu med omklädningsrum, rutschkana och stora gräsytor. Handikappramp för rullstolsburna så de kan rulla ända ner i vattnet."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://dyket.se/"
+          }
+        ],
+        "centerPoint": [
+          17.395005367618477,
+          62.296885783587
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.391700148847917,
+                62.29752882497897
+              ],
+              [
+                17.392367793297684,
+                62.297557636620766
+              ],
+              [
+                17.392346425033157,
+                62.29728869271473
+              ],
+              [
+                17.393386618556292,
+                62.29727077572006
+              ],
+              [
+                17.39343926596045,
+                62.297566194037806
+              ],
+              [
+                17.39443753067182,
+                62.29775103828414
+              ],
+              [
+                17.395662929016176,
+                62.2978781464579
+              ],
+              [
+                17.39849685687567,
+                62.29785615383959
+              ],
+              [
+                17.398124371825496,
+                62.29644813057899
+              ],
+              [
+                17.396082487200108,
+                62.29624083321197
+              ],
+              [
+                17.395431869229313,
+                62.29606346008773
+              ],
+              [
+                17.39513001271291,
+                62.295907047107534
+              ],
+              [
+                17.394836833211276,
+                62.295858219611716
+              ],
+              [
+                17.394056658527926,
+                62.295871667211244
+              ],
+              [
+                17.392390500267854,
+                62.29602157437984
+              ],
+              [
+                17.391575038501852,
+                62.29668223926328
+              ],
+              [
+                17.39203834440006,
+                62.29705144911233
+              ],
+              [
+                17.391668085749348,
+                62.29712515908933
+              ],
+              [
+                17.391700148847917,
+                62.29752882497897
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1789,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra bergets friluftsområde",
+        "type": "Rekreationsområde",
+        "created": "2021-05-18 15:14:15",
+        "deleted": "2022-06-23 23:24:11"
+      },
+      "geometry": null
+    }
+  ]
+}

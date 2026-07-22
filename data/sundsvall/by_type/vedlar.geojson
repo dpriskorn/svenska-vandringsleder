@@ -1,0 +1,2907 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 110,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget pulkabacke Omklädning",
+        "type": "Vedlår",
+        "created": "2018-06-18 09:19:52",
+        "updated": "2026-04-07 09:19:43",
+        "published": true,
+        "parentObjects": [
+          107
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 11,
+                "filename": "image.jpg",
+                "description": "Vedbod",
+                "alttext": "Vedbod",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3275185,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/11",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.314165808755735,
+          62.366353406290955
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.314165808755735,
+          62.366353406290955
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget slutet Björnstigen",
+        "type": "Vedlår",
+        "created": "2018-06-18 10:32:17",
+        "updated": "2025-02-17 10:50:10",
+        "published": true,
+        "parentObjects": [
+          4087
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 30,
+                "filename": "image.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3600444,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/30",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedlår"
+          }
+        ],
+        "centerPoint": [
+          17.308620306770337,
+          62.36764607491781
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.308620306770337,
+          62.36764607491781
+        ]
+      }
+    },
+    {
+      "id": 131,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget mullekojorna",
+        "type": "Vedlår",
+        "created": "2018-06-18 10:44:39",
+        "updated": "2021-05-28 08:14:58",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 36,
+                "filename": "image.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2810180,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/36",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.304097421135435,
+          62.36606173591277
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.304097421135435,
+          62.36606173591277
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Södra Berget handikappvindskydd",
+        "type": "Vedlår",
+        "created": "2018-06-18 10:48:35",
+        "updated": "2021-12-14 08:59:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-28"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2137,
+                "filename": "20200827_083507.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6312880,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2137",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedlår"
+          }
+        ],
+        "centerPoint": [
+          17.303787600972665,
+          62.36502094772615
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.303787600972665,
+          62.36502094772615
+        ]
+      }
+    },
+    {
+      "id": 177,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Sidsjöbackens fot",
+        "type": "Vedlår",
+        "created": "2018-06-19 13:32:39",
+        "updated": "2021-12-14 09:40:41",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 71,
+            "name": "Renoveringsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-19"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 76,
+                "filename": "image.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Anders Erlandsson, Frilufstenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4231264,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/76",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27878159478561,
+          62.370640527998795
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27878159478561,
+          62.370640527998795
+        ]
+      }
+    },
+    {
+      "id": 238,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Apelsinlunden",
+        "type": "Vedlår",
+        "created": "2018-06-20 13:17:04",
+        "updated": "2021-12-17 16:08:18",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2005
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-20"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 127,
+                "filename": "image.jpg",
+                "description": "Vedbod",
+                "alttext": "Vedbod",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2534737,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/127",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.294254052375006,
+          62.36745557390178
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.294254052375006,
+          62.36745557390178
+        ]
+      }
+    },
+    {
+      "id": 260,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår vid vindskydd Brokojan",
+        "type": "Vedlår",
+        "created": "2018-06-21 08:48:05",
+        "updated": "2021-12-17 16:24:27",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2009
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 145,
+                "filename": "image.jpg",
+                "description": "Vedbod",
+                "alttext": "Vedbod",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2529335,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/145",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.299367716076,
+          62.364465859188996
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.299367716076,
+          62.364465859188996
+        ]
+      }
+    },
+    {
+      "id": 276,
+      "type": "Feature",
+      "properties": {
+        "name": "Fågelbergsstugan vedbod",
+        "type": "Vedlår",
+        "created": "2018-06-21 11:53:54",
+        "updated": "2026-06-22 08:54:38",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4486
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 159,
+                "filename": "image.jpg",
+                "description": "Vedbod",
+                "alttext": "Vedbod",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4459314,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/159",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.292635220311425,
+          62.33992553539988
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.292635220311425,
+          62.33992553539988
+        ]
+      }
+    },
+    {
+      "id": 316,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Hornsjön",
+        "type": "Vedlår",
+        "created": "2018-06-26 14:34:46",
+        "updated": "2021-12-17 16:48:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2016
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 199,
+                "filename": "IMG_1836.JPG",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3763722,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/199",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.21103479827627,
+          62.17460121865731
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21103479827627,
+          62.17460121865731
+        ]
+      }
+    },
+    {
+      "id": 440,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Norrhassels strandbad",
+        "type": "Vedlår",
+        "created": "2018-07-02 10:18:37",
+        "updated": "2020-06-30 11:33:30",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 326,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5459668,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/326",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod"
+          }
+        ],
+        "centerPoint": [
+          16.745450669915662,
+          62.25583010397085
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.745450669915662,
+          62.25583010397085
+        ]
+      }
+    },
+    {
+      "id": 463,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Räveln",
+        "type": "Vedlår",
+        "created": "2018-07-02 11:39:12",
+        "updated": "2020-04-06 15:56:13",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 349,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5220541,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/349",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.826672512096252,
+          62.371421608168056
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826672512096252,
+          62.371421608168056
+        ]
+      }
+    },
+    {
+      "id": 478,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Vedlår",
+        "created": "2018-07-03 09:39:32",
+        "updated": "2020-07-07 14:17:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2015
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 366,
+                "filename": "C0354CA8-787A-4EB1-B05F-B6D015E9872B.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6025635,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/366",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.04398967869959,
+          62.44330292052588
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04398967869959,
+          62.44330292052588
+        ]
+      }
+    },
+    {
+      "id": 575,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår stornäset",
+        "type": "Vedlår",
+        "created": "2018-08-07 10:08:53",
+        "updated": "2020-09-25 09:58:16",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-08-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 441,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2831262,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/441",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod vid Stornäsets grillplats"
+          }
+        ],
+        "centerPoint": [
+          17.495706311343113,
+          62.4494437326947
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.495706311343113,
+          62.4494437326947
+        ]
+      }
+    },
+    {
+      "id": 595,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår grimman",
+        "type": "Vedlår",
+        "created": "2018-08-08 15:10:50",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1126,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Skärsättsberget",
+        "type": "Vedlår",
+        "created": "2019-11-14 13:56:25",
+        "updated": "2025-10-17 22:46:51",
+        "published": true,
+        "parentObjects": [
+          4160
+        ],
+        "owner": {
+          "organizationID": 188,
+          "name": "torrsjö byalag"
+        },
+        "manager": {
+          "organizationID": 188,
+          "name": "torrsjö byalag"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.266416974988697,
+          62.21456970353673
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.266416974988697,
+          62.21456970353673
+        ]
+      }
+    },
+    {
+      "id": 1434,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod vid Hattbergsstugan",
+        "type": "Vedlår",
+        "created": "2020-03-12 11:37:41",
+        "updated": "2026-01-05 15:37:51",
+        "published": true,
+        "parentObjects": [
+          4197
+        ],
+        "owner": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1538,
+                "filename": "20200422_122614.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8714809,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1538",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.711439612685535,
+          62.79100350265524
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.711439612685535,
+          62.79100350265524
+        ]
+      }
+    },
+    {
+      "id": 1606,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Stor-Stensjön",
+        "type": "Vedlår",
+        "created": "2020-07-07 15:00:25",
+        "updated": "2022-03-02 14:46:28",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod"
+          }
+        ],
+        "centerPoint": [
+          16.418416001632767,
+          62.75465535359879
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.418416001632767,
+          62.75465535359879
+        ]
+      }
+    },
+    {
+      "id": 1607,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Stor-Stensjön",
+        "type": "Vedlår",
+        "created": "2020-07-07 15:01:36",
+        "updated": "2022-03-02 14:46:56",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod"
+          }
+        ],
+        "centerPoint": [
+          16.418163139814748,
+          62.75554973589044
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.418163139814748,
+          62.75554973589044
+        ]
+      }
+    },
+    {
+      "id": 1661,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod vid Scoutstugan",
+        "type": "Vedlår",
+        "created": "2020-08-28 08:33:58",
+        "published": true,
+        "owner": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "manager": {
+          "organizationID": 185,
+          "name": "södermalms scoutkår"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1738,
+                "filename": "20200828_082337.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5527508,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1738",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.338220282007992,
+          62.355041704481515
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.338220282007992,
+          62.355041704481515
+        ]
+      }
+    },
+    {
+      "id": 1683,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Backstugan",
+        "type": "Vedlår",
+        "created": "2020-09-22 08:04:41",
+        "updated": "2021-06-09 16:34:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2018
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-09-22"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2164,
+                "filename": "20210609_163337.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9167204,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2164",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.292194871591924,
+          62.36782887162681
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.292194871591924,
+          62.36782887162681
+        ]
+      }
+    },
+    {
+      "id": 1691,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Hallstabetgsstugan",
+        "type": "Vedlår",
+        "created": "2020-10-27 21:30:41",
+        "published": true,
+        "owner": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 284,
+          "name": "Indals hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-10-27"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1944,
+                "filename": "20201027_103410.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6231192,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1944",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1945,
+                "filename": "20201027_103347.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5173423,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1945",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod och dass i samma byggnad"
+          }
+        ],
+        "centerPoint": [
+          17.030665335715938,
+          62.607793223728486
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.030665335715938,
+          62.607793223728486
+        ]
+      }
+    },
+    {
+      "id": 1738,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Grenforsen",
+        "type": "Vedlår",
+        "created": "2020-12-17 12:01:15",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Stor vedbod"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-11-01"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedbod på raststugans baksida"
+          }
+        ],
+        "centerPoint": [
+          17.221651070562235,
+          62.304318704510294
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.221651070562235,
+          62.304318704510294
+        ]
+      }
+    },
+    {
+      "id": 1746,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Västloning",
+        "type": "Vedlår",
+        "created": "2020-12-17 15:45:09",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2031,
+                "filename": "20160808_081748.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5031602,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2031",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedlår"
+          }
+        ],
+        "centerPoint": [
+          16.987368928825326,
+          62.618072691444304
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.987368928825326,
+          62.618072691444304
+        ]
+      }
+    },
+    {
+      "id": 1755,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Nilsböle",
+        "type": "Vedlår",
+        "created": "2020-12-17 16:05:02",
+        "updated": "2026-04-01 22:35:48",
+        "published": true,
+        "parentObjects": [
+          4455
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2040,
+                "filename": "Nilsböle kanotrastplats (7).JPG",
+                "description": "Torrdass och vedbod",
+                "alttext": "Torrdass och vedbod",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3008099,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2040",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Torrdass och vedbod"
+          }
+        ],
+        "centerPoint": [
+          16.88848387496123,
+          62.65083285381258
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88848387496123,
+          62.65083285381258
+        ]
+      }
+    },
+    {
+      "id": 1776,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Klampenborg norra udden",
+        "type": "Vedlår",
+        "created": "2021-05-01 01:12:07",
+        "updated": "2026-01-13 10:59:29",
+        "published": true,
+        "parentObjects": [
+          4218
+        ],
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-04-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2060,
+                "filename": "received_2261940027272503.jpeg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2482788,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2060",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedlår vid grillplatsen på Klampenborgs norra udde "
+          }
+        ],
+        "centerPoint": [
+          17.39322111888855,
+          62.33542550932056
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.39322111888855,
+          62.33542550932056
+        ]
+      }
+    },
+    {
+      "id": 1778,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Klampenborg skolan",
+        "type": "Vedlår",
+        "created": "2021-05-01 01:18:45",
+        "updated": "2026-01-13 11:06:28",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-04-30"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2063,
+                "filename": "received_480280136733205.jpeg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2376934,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2063",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vedlår vid centrala grillplatsen Skolan på Klampenborg"
+          }
+        ],
+        "centerPoint": [
+          17.395340351346395,
+          62.3304420716628
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.395340351346395,
+          62.3304420716628
+        ]
+      }
+    },
+    {
+      "id": 1843,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Klippstugan",
+        "type": "Vedlår",
+        "created": "2021-06-01 23:16:59",
+        "updated": "2026-01-13 14:04:59",
+        "published": true,
+        "parentObjects": [
+          1848
+        ],
+        "owner": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "manager": {
+          "organizationID": 71,
+          "name": "kovlands skoterklubb"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2148,
+                "filename": "20210601_204353.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Anders Erlandsson Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5897273,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2148",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.20687946333739,
+          62.45287709912068
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20687946333739,
+          62.45287709912068
+        ]
+      }
+    },
+    {
+      "id": 3277,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår Klampenborg västra",
+        "type": "Vedlår",
+        "created": "2022-08-31 09:26:45",
+        "updated": "2026-01-13 11:00:25",
+        "published": true,
+        "parentObjects": [
+          4217
+        ],
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2341,
+                "filename": "20210516_132215.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5920836,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2341",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.38983938565653,
+          62.33315393196154
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38983938565653,
+          62.33315393196154
+        ]
+      }
+    },
+    {
+      "id": 3340,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Stocken",
+        "type": "Vedlår",
+        "created": "2022-09-20 10:07:13",
+        "updated": "2025-07-16 13:44:05",
+        "published": true,
+        "parentObjects": [
+          4137
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 14
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.24490974714714,
+          62.3064903849654
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24490974714714,
+          62.3064903849654
+        ]
+      }
+    },
+    {
+      "id": 3622,
+      "type": "Feature",
+      "properties": {
+        "name": "Långliden vedlår",
+        "type": "Vedlår",
+        "created": "2023-05-11 14:22:56",
+        "updated": "2026-04-01 22:24:53",
+        "published": true,
+        "parentObjects": [
+          4454
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2507,
+                "filename": "20160808_104745.jpg",
+                "description": "Torrdass och vedbod",
+                "alttext": "Torrdass och vedbod",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3369911,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2507",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.672285702591005,
+          62.911608435575054
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.672285702591005,
+          62.911608435575054
+        ]
+      }
+    },
+    {
+      "id": 3632,
+      "type": "Feature",
+      "properties": {
+        "name": "Boda såg Vedlår",
+        "type": "Vedlår",
+        "created": "2023-05-11 14:41:29",
+        "updated": "2026-04-01 22:29:18",
+        "published": true,
+        "parentObjects": [
+          4453
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2512,
+                "filename": "20160808_095157.jpg",
+                "description": "Vedlår och torrdass",
+                "alttext": "Vedlår och torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7180840,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2512",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Veckovis tillsyn under barmarksperioden"
+          }
+        ],
+        "centerPoint": [
+          16.640379274586632,
+          62.877365934522835
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.640379274586632,
+          62.877365934522835
+        ]
+      }
+    },
+    {
+      "id": 3638,
+      "type": "Feature",
+      "properties": {
+        "name": "Järkvissle Vedlår",
+        "type": "Vedlår",
+        "created": "2023-05-11 14:51:48",
+        "updated": "2026-04-01 22:10:13",
+        "published": true,
+        "parentObjects": [
+          4450
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tillsyn veckovis under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          16.664410565930595,
+          62.792477327904194
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.664410565930595,
+          62.792477327904194
+        ]
+      }
+    },
+    {
+      "id": 3641,
+      "type": "Feature",
+      "properties": {
+        "name": "Åsen Vedlår",
+        "type": "Vedlår",
+        "created": "2023-05-11 14:59:07",
+        "updated": "2026-04-01 22:19:33",
+        "published": true,
+        "parentObjects": [
+          4452
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Vedlår"
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2518,
+                "filename": "20160802_091033.jpg",
+                "description": "Vedlår",
+                "alttext": "Vedlår och torrdass",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3708904,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2518",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Påfyllning veckovis under sommarsäsongen"
+          }
+        ],
+        "centerPoint": [
+          16.78697926390364,
+          62.69705888843732
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.78697926390364,
+          62.69705888843732
+        ]
+      }
+    },
+    {
+      "id": 3984,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår vid Jaktkojan",
+        "type": "Vedlår",
+        "created": "2024-10-04 15:16:31",
+        "updated": "2026-06-22 09:29:21",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142,
+          4488
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2009
+          },
+          {
+            "id": 94,
+            "name": "Påfyllningsintervall (dagar)",
+            "type": "INTEGER",
+            "value": 7
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29774773477618,
+          62.35871436292342
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29774773477618,
+          62.35871436292342
+        ]
+      }
+    },
+    {
+      "id": 4229,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedbod Dingersjö",
+        "type": "Vedlår",
+        "created": "2026-01-13 11:50:38",
+        "updated": "2026-01-13 11:53:07",
+        "published": true,
+        "parentObjects": [
+          4230
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 93,
+            "name": "Typ av vedlår",
+            "type": "DROPDOWN",
+            "value": "Liten vedbod"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2786,
+                "filename": "20170511_091336.jpg",
+                "description": "Vedbod",
+                "alttext": "Vedbod",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 9612957,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2786",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.38148990763539,
+          62.27181656861148
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38148990763539,
+          62.27181656861148
+        ]
+      }
+    },
+    {
+      "id": 540,
+      "type": "Feature",
+      "properties": {
+        "name": "Test",
+        "type": "Vedlår",
+        "created": "2018-07-30 09:00:27",
+        "updated": "2018-07-30 09:01:08",
+        "deleted": "2018-07-30 09:03:34"
+      },
+      "geometry": null
+    },
+    {
+      "id": 625,
+      "type": "Feature",
+      "properties": {
+        "name": "Vedlår salen",
+        "type": "Vedlår",
+        "created": "2018-08-14 10:06:45",
+        "deleted": "2020-04-06 19:35:49"
+      },
+      "geometry": null
+    },
+    {
+      "id": 1676,
+      "type": "Feature",
+      "properties": {
+        "name": "Övernattningsstuga Jerikoberget",
+        "type": "Vedlår",
+        "created": "2020-09-18 15:25:46",
+        "deleted": "2026-01-13 10:27:45"
+      },
+      "geometry": null
+    },
+    {
+      "id": 190,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö pulkabacke",
+        "type": "Vedlår",
+        "created": "2018-06-19 13:58:27",
+        "updated": "2020-07-09 10:48:48",
+        "deleted": "2021-12-14 09:53:58"
+      },
+      "geometry": null
+    },
+    {
+      "id": 220,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö skidlek",
+        "type": "Vedlår",
+        "created": "2018-06-20 08:49:36",
+        "updated": "2018-12-12 12:45:03",
+        "deleted": "2023-05-09 17:02:58"
+      },
+      "geometry": null
+    }
+  ]
+}

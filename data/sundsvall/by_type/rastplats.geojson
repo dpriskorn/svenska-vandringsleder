@@ -1,0 +1,4471 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 559,
+      "type": "Feature",
+      "properties": {
+        "name": "Boda Rastplats",
+        "type": "Rastplats",
+        "created": "2018-08-01 10:21:48",
+        "updated": "2021-11-11 09:26:00",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2262,
+                "filename": "Utsikten Boda rastplats.jpg",
+                "description": "Utsikt vid Boda rastplats",
+                "alttext": "Utsikt över Indalsälven vid Boda rastplats",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 51008,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2262"
+              },
+              {
+                "id": 430,
+                "filename": "image.jpg",
+                "description": "Bänkbord",
+                "alttext": "Bänkbord",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3980231,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/430",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1849,
+                "filename": "20160808_113604.jpg",
+                "description": "Plattform med bänkbord vid rastplatsen",
+                "alttext": "Plattform med bänkbord vid rastplatsen",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3539591,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1849",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med härlig utsikt över Indalsälven och ett stort trädäck med bänkobord"
+          }
+        ],
+        "centerPoint": [
+          16.668375200379767,
+          62.842100652331006
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.668896648474337,
+                62.84258672118265
+              ],
+              [
+                16.668319173211945,
+                62.84257568686857
+              ],
+              [
+                16.668133935729802,
+                62.84241253161075
+              ],
+              [
+                16.667936145004056,
+                62.842200366816925
+              ],
+              [
+                16.667762758607676,
+                62.841728716360144
+              ],
+              [
+                16.668264483321135,
+                62.841611051707375
+              ],
+              [
+                16.66834466349194,
+                62.841947504250825
+              ],
+              [
+                16.668982096226983,
+                62.84237021373815
+              ],
+              [
+                16.668896648474337,
+                62.84258672118265
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 561,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Västloning",
+        "type": "Rastplats",
+        "created": "2018-08-01 11:29:15",
+        "updated": "2020-09-21 18:02:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1883,
+                "filename": "20160808_081650.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 8007104,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1883",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1884,
+                "filename": "20160808_081748.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5031602,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1884",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1885,
+                "filename": "20160808_082101.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6376660,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1885",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.987706202893555,
+          62.61813543775974
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.987516866671648,
+                62.618236019035535
+              ],
+              [
+                16.98694989004368,
+                62.618409994526196
+              ],
+              [
+                16.98682957770393,
+                62.618406673319605
+              ],
+              [
+                16.986974882822874,
+                62.61829399181189
+              ],
+              [
+                16.98700742222876,
+                62.618127600224454
+              ],
+              [
+                16.987380087665883,
+                62.61798655121472
+              ],
+              [
+                16.987703778945896,
+                62.618092577140665
+              ],
+              [
+                16.98854005125146,
+                62.617864492978676
+              ],
+              [
+                16.9885887221804,
+                62.6179392245776
+              ],
+              [
+                16.987516866671648,
+                62.618236019035535
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 602,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats svartbäcken",
+        "type": "Rastplats",
+        "created": "2018-08-09 14:25:21",
+        "updated": "2020-10-21 15:36:28",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1845,
+      "type": "Feature",
+      "properties": {
+        "name": "Ottsjön",
+        "type": "Rastplats",
+        "created": "2021-06-08 11:27:56",
+        "updated": "2022-01-10 16:46:42",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2155,
+                "filename": "Fin plats med grillplats vid Ottsjön.jpg",
+                "description": "Fin rogivande plats med grillplats vid Ottsjön",
+                "alttext": "Fin rogivande plats med grillplats vid Ottsjön",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 97369,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2155",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2154,
+                "filename": "Ottsjön ligger spegelblank_ stugor i bakgrunden..jpg",
+                "description": "Ottsjön ligger spegelblank, stugor i bakgrunden",
+                "alttext": "Ottsjön ligger spegelblank, stugor i bakgrunden",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 113258,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2154",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ottsjön är en stilla plats under varma försommarkvällar. Sjön ligger nordväst om Gudmundsbyn. Gott om fågelsång kan det även bjudas på plats."
+          }
+        ],
+        "centerPoint": [
+          17.24008438330451,
+          62.44258544858477
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.240064287395235,
+                62.44313264955375
+              ],
+              [
+                17.236966835595915,
+                62.44253492838566
+              ],
+              [
+                17.236435462892036,
+                62.44232344506368
+              ],
+              [
+                17.236219943127825,
+                62.44198117526947
+              ],
+              [
+                17.236481112456843,
+                62.44184498125678
+              ],
+              [
+                17.237527827739175,
+                62.4418721882382
+              ],
+              [
+                17.23778905313876,
+                62.4419182831911
+              ],
+              [
+                17.238385366331396,
+                62.442091003119124
+              ],
+              [
+                17.23932133367158,
+                62.44208854501371
+              ],
+              [
+                17.239716740302846,
+                62.44229591585718
+              ],
+              [
+                17.24024711743239,
+                62.44231253847341
+              ],
+              [
+                17.240644722783294,
+                62.44218671603647
+              ],
+              [
+                17.240719367855153,
+                62.44191522046277
+              ],
+              [
+                17.241113204786128,
+                62.44173916953984
+              ],
+              [
+                17.241315998832828,
+                62.44172962360221
+              ],
+              [
+                17.241569234577607,
+                62.44166897874747
+              ],
+              [
+                17.242032406069693,
+                62.44187525362153
+              ],
+              [
+                17.24241418618477,
+                62.44190054341042
+              ],
+              [
+                17.2429744828514,
+                62.44195439010494
+              ],
+              [
+                17.243161844368412,
+                62.441919945937
+              ],
+              [
+                17.243868479724416,
+                62.44211601157277
+              ],
+              [
+                17.24350824791619,
+                62.4421972402701
+              ],
+              [
+                17.24205883453839,
+                62.442409134794595
+              ],
+              [
+                17.24190374476592,
+                62.442512203998966
+              ],
+              [
+                17.24218041519022,
+                62.44258318632681
+              ],
+              [
+                17.242972603388743,
+                62.442834454330345
+              ],
+              [
+                17.24336945699308,
+                62.44306064979975
+              ],
+              [
+                17.243397598683757,
+                62.44325506167189
+              ],
+              [
+                17.243028035475042,
+                62.44339301269506
+              ],
+              [
+                17.242773376644404,
+                62.443434825075194
+              ],
+              [
+                17.242184537982855,
+                62.44336257840455
+              ],
+              [
+                17.24182419880451,
+                62.4432615115838
+              ],
+              [
+                17.24114755723985,
+                62.44328496164516
+              ],
+              [
+                17.240546583861484,
+                62.443231761042654
+              ],
+              [
+                17.240064287395235,
+                62.44313264955375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1847,
+      "type": "Feature",
+      "properties": {
+        "name": "Vintertjärn",
+        "type": "Rastplats",
+        "created": "2021-06-08 13:52:01",
+        "updated": "2022-01-10 16:46:30",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2157,
+                "filename": "Rastbord och bryga vid Vintertjärn.jpg",
+                "description": "Rastbord och brygga vid Vintertjärn",
+                "alttext": "Rastbord och brygga vid Vintertjärn",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 94780,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2157",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2156,
+                "filename": "Grillplats och rastbord vid Vintertjärn.jpg",
+                "description": "Grillplats och rastbord vid Vintertjärn",
+                "alttext": "Grillplats och rastbord vid Vintertjärn",
+                "sourcetext": "Anders Erlandsson #sundsvall400toppar",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 98415,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2156",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vintertjärn är en lättillgänglig tjärn mellan Medskogsbron och Allsta. Här har driftiga människor ordnat en rastplats med grillplats, bänkbord och brygga. Passar bra för ett stopp med dopp på cykelturen en varm och go kväll! "
+          }
+        ],
+        "centerPoint": [
+          17.236675212256202,
+          62.35118279327053
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.236502292680033,
+                62.351314008784406
+              ],
+              [
+                17.236355974176192,
+                62.35116549678248
+              ],
+              [
+                17.236376918909194,
+                62.35108344192858
+              ],
+              [
+                17.236861412884814,
+                62.3510505082793
+              ],
+              [
+                17.23699001583417,
+                62.35114273053399
+              ],
+              [
+                17.236826537688994,
+                62.351308795560676
+              ],
+              [
+                17.236502292680033,
+                62.351314008784406
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1872,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbyströmmen",
+        "type": "Rastplats",
+        "created": "2021-08-02 08:38:47",
+        "updated": "2025-07-16 13:45:34",
+        "published": true,
+        "childObjects": [
+          550,
+          551,
+          554,
+          1734,
+          1735,
+          1736
+        ],
+        "parentObjects": [
+          783
+        ],
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "grillplats",
+          "#sundsvall400toppar",
+          "nolbyströmmen",
+          "ljungan",
+          "rastplats"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2198,
+                "filename": "Ljungan1.jpg",
+                "description": "Ljungan",
+                "alttext": "Ljungan forsar fram vid Nolbyströmmen",
+                "sourcetext": "Anders Erlandsson",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 142412,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2198",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2199,
+                "filename": "Ljungan2.jpg",
+                "description": "Raststuga vid Ljungan",
+                "alttext": "Raststuga vid Ljungans kant vid Nolbyströmmen",
+                "sourcetext": "Anders Erlandsson",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 171444,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2199",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2200,
+                "filename": "Ljungan3.jpg",
+                "description": "Rastplats vid Ljungan",
+                "alttext": "Grillplats med bänkar och raststuga vid Nolbyströmmen",
+                "sourcetext": "Anders Erlandsson",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 170212,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2200",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ljungan bjuder på många vackra platser, särskilt de sista 16 kilometrarna ner mot Ljungans mynning som forsar fritt.  Nolbyströmmen är en av de platser där det går att njuta av forsande vatten med en rastplats alldeles intill.  Du kan även vandra Fiskestigen/Flottarstigen från Dingersjö eller Viforsen, eller parkera ditt fordon vid den närbelägna parkeringen som är skyltad från vägen mellan Nolby och Tunbyn. "
+          }
+        ],
+        "centerPoint": [
+          17.32149489838553,
+          62.29602959559398
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.321393227350924,
+                62.29645203296716
+              ],
+              [
+                17.321393227350924,
+                62.29645203296716
+              ],
+              [
+                17.32104099611327,
+                62.296226583783046
+              ],
+              [
+                17.32009350668776,
+                62.29558454363121
+              ],
+              [
+                17.322828942375857,
+                62.29560169501022
+              ],
+              [
+                17.32264364102521,
+                62.29643772374383
+              ],
+              [
+                17.321439897288514,
+                62.29649870458469
+              ],
+              [
+                17.321393227350924,
+                62.29645203296716
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4087,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Björnstigens slut",
+        "type": "Rastplats",
+        "created": "2025-02-17 10:49:43",
+        "updated": "2025-02-17 10:50:41",
+        "published": true,
+        "childObjects": [
+          123,
+          124,
+          125,
+          126
+        ],
+        "parentObjects": [
+          3724
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats vid Björnstigens start och slut. Sundsvall skymtar mellan träden."
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Slät berghäll eller grus"
+          }
+        ],
+        "centerPoint": [
+          17.30856770249881,
+          62.36767976498151
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.30853165540771,
+                62.36768651983561
+              ],
+              [
+                17.308443023181464,
+                62.36766033091158
+              ],
+              [
+                17.308474498214675,
+                62.36761203385199
+              ],
+              [
+                17.308602618700604,
+                62.367588535497184
+              ],
+              [
+                17.308668947962694,
+                62.36760629366916
+              ],
+              [
+                17.308669334426327,
+                62.367646518797024
+              ],
+              [
+                17.308604356999968,
+                62.36768154209208
+              ],
+              [
+                17.30853165540771,
+                62.36768651983561
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4137,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Stocken",
+        "type": "Rastplats",
+        "created": "2025-07-16 13:27:10",
+        "updated": "2025-07-16 13:45:34",
+        "published": true,
+        "childObjects": [
+          3335,
+          3336,
+          3337,
+          3338,
+          3339,
+          3340
+        ],
+        "parentObjects": [
+          783
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En rastplats med vindskydd, grillplats och torrdass. Utsikt mot fiskeplatsen Stocken i Ljungan"
+          }
+        ],
+        "centerPoint": [
+          17.244850862941266,
+          62.30637883842221
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.24465543726746,
+                62.30652226268765
+              ],
+              [
+                17.244555770158076,
+                62.30627242994572
+              ],
+              [
+                17.245124933169066,
+                62.306225519002396
+              ],
+              [
+                17.245145725248502,
+                62.30650428446231
+              ],
+              [
+                17.24465543726746,
+                62.30652226268765
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4138,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Grenforsen",
+        "type": "Rastplats",
+        "created": "2025-07-16 13:34:32",
+        "updated": "2025-07-16 13:45:34",
+        "published": true,
+        "childObjects": [
+          545,
+          743,
+          744
+        ],
+        "parentObjects": [
+          783
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2739,
+                "filename": "20200710_075135.jpg",
+                "description": "Grenforsens spegelblanka forsnacke",
+                "alttext": "Forsnacke i älv",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5637552,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2739",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2740,
+                "filename": "DSC_0055.JPG",
+                "description": "Vindskydd, bänkbord och grillplats",
+                "alttext": "Vindskydd, bänkbord och grillplats",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 14624173,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2740",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2741,
+                "filename": "20200710_075149.jpg",
+                "description": "Härliga utsikter mot en brusande älv",
+                "alttext": "Utsikt över en forsande älv",
+                "sourcetext": "Anders Erlandsson, Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8647289,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2741",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Naturskön rastplats med utsikt över Grenforsen i Ljungan. Här kan du höra pulset från stigande lax, eller se den svartvita strömstaren försvinna ner i virvlarna i jakt på föda. Här delar sig Ljungan i två breda älvfåror, där den vänstra slingrar sig runt Slåttholmen innan de förenas igen hundra meter nedströms. Där har forspaddlarna sin föreningslokal. "
+          }
+        ],
+        "centerPoint": [
+          17.223089527184907,
+          62.305248915844686
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.223154416339298,
+                62.30543720665882
+              ],
+              [
+                17.22270588755143,
+                62.30514265311229
+              ],
+              [
+                17.223104641104044,
+                62.30505581329611
+              ],
+              [
+                17.22341124299788,
+                62.30518417134912
+              ],
+              [
+                17.223473347217286,
+                62.30536672928558
+              ],
+              [
+                17.223154416339298,
+                62.30543720665882
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4139,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Krokforsen",
+        "type": "Rastplats",
+        "created": "2025-07-16 13:38:45",
+        "updated": "2025-07-16 13:45:52",
+        "published": true,
+        "childObjects": [
+          1733,
+          3836
+        ],
+        "parentObjects": [
+          783
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "vandrarvänliga"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats vid Krokforsen i Ljungan. Här råder lugnet och friden. Krokforsen är en av de mindre forsarna i Ljungan och i selet nedströms flyter älven majestätiskt fram under den 50 meter höga nipkanten på motstående sida. Men från rastplatsen är älven lättåtkomlig, då det lutar flackt och vattnet flyter ganska lugnt fram. "
+          }
+        ],
+        "centerPoint": [
+          17.201004056966852,
+          62.30446583182646
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.20102299424153,
+                62.304572550585036
+              ],
+              [
+                17.200737892706453,
+                62.304441289394774
+              ],
+              [
+                17.20107029955566,
+                62.30433293472202
+              ],
+              [
+                17.201264958300673,
+                62.30448322869199
+              ],
+              [
+                17.20102299424153,
+                62.304572550585036
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4140,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Viforsen",
+        "type": "Rastplats",
+        "created": "2025-07-16 13:42:39",
+        "updated": "2025-07-16 13:45:34",
+        "published": true,
+        "childObjects": [
+          546,
+          547,
+          1741,
+          1742,
+          1743
+        ],
+        "parentObjects": [
+          783
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "tags": [
+          "parkeringsplatser"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Viforsens rastplats ligger på älvbrinken ett tiotal meter ovanför Ljungan. Här kan du sitta och spana ut över den långa strykan där harren samlas i tusental. En varm julinatt kan du få uppleva hur vattnet kokar av vakande harr. Då är det bara att ta trapporna ner till vattnet och knyta på en torrfluga, så kan du med lite tur också få med både en och två harrar hem till kvällsmat."
+          }
+        ],
+        "centerPoint": [
+          17.180857160854192,
+          62.30642051164093
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.180977276831364,
+                62.30650686185306
+              ],
+              [
+                17.180543030135734,
+                62.30647847529804
+              ],
+              [
+                17.18057382862446,
+                62.306307015227425
+              ],
+              [
+                17.181044016787393,
+                62.306384119122505
+              ],
+              [
+                17.18117229173426,
+                62.30645451952041
+              ],
+              [
+                17.180977276831364,
+                62.30650686185306
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4158,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Skiftestjärn",
+        "type": "Rastplats",
+        "created": "2025-10-17 22:36:36",
+        "updated": "2025-10-17 22:38:44",
+        "published": true,
+        "childObjects": [
+          1123,
+          1656,
+          4155,
+          4157
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats längs Mittnordenleden med raststuga, bänkbord, dass och enkel eldplats"
+          }
+        ],
+        "centerPoint": [
+          16.7537804289199,
+          62.34413143795939
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.753770870900762,
+                62.344299830323855
+              ],
+              [
+                16.75331483838802,
+                62.344119296689676
+              ],
+              [
+                16.753523651062533,
+                62.34396625954181
+              ],
+              [
+                16.75398102997042,
+                62.344043975531804
+              ],
+              [
+                16.754248439238005,
+                62.34418548959567
+              ],
+              [
+                16.753770870900762,
+                62.344299830323855
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4159,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Tallåstjärn",
+        "type": "Rastplats",
+        "created": "2025-10-17 22:41:04",
+        "updated": "2025-10-17 22:44:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med vindskydd ock enkel eldplats med sittbänk"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Inte tillgänglighetsanpassad"
+          }
+        ],
+        "centerPoint": [
+          16.77297516474025,
+          62.33560353882623
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.773045975559995,
+                62.33558784456347
+              ],
+              [
+                16.772870936778208,
+                62.33557929271287
+              ],
+              [
+                16.772867542930747,
+                62.33549121129423
+              ],
+              [
+                16.77304727403163,
+                62.33548780474246
+              ],
+              [
+                16.773045975559995,
+                62.33558784456347
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4160,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Skärsättsberget",
+        "type": "Rastplats",
+        "created": "2025-10-17 22:45:44",
+        "updated": "2025-10-17 22:46:51",
+        "published": true,
+        "childObjects": [
+          1124,
+          1125,
+          1126
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med raststuga, vindskydd och vedbod. Nära till fin utsiktsplats över Sör-Björken"
+          }
+        ],
+        "centerPoint": [
+          17.26641097633938,
+          62.21462785014098
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.266664631659182,
+                62.21473784211946
+              ],
+              [
+                17.26614559607578,
+                62.21475295858843
+              ],
+              [
+                17.266130600980812,
+                62.21463050406783
+              ],
+              [
+                17.26639628747568,
+                62.2145269767433
+              ],
+              [
+                17.266696025484,
+                62.214637239684414
+              ],
+              [
+                17.266664631659182,
+                62.21473784211946
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4196,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Loning",
+        "type": "Rastplats",
+        "created": "2026-01-05 15:33:00",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2759,
+                "filename": "20201027_110356.jpg",
+                "description": "Rastplats längs med älven",
+                "alttext": "Bänbkbord vid älv",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7587178,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2759",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats längs med Indalsälven"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Körväg går ner till rastplatsen. "
+          }
+        ],
+        "centerPoint": [
+          17.00950415467091,
+          62.60737458834569
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.009502617241335,
+                62.60739819179061
+              ],
+              [
+                17.00938876695632,
+                62.607328425079636
+              ],
+              [
+                17.009500599716763,
+                62.60727150946864
+              ],
+              [
+                17.009601292150656,
+                62.60737263995755
+              ],
+              [
+                17.009502617241335,
+                62.60739819179061
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4197,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Hattberget",
+        "type": "Rastplats",
+        "created": "2026-01-05 15:37:12",
+        "updated": "2026-01-05 15:37:51",
+        "published": true,
+        "childObjects": [
+          1433,
+          1434,
+          1435,
+          1536,
+          1610,
+          4195
+        ],
+        "owner": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2760,
+                "filename": "20200422_122701.jpg",
+                "description": "Bänkbord och grill vid Hattbergsstugan",
+                "alttext": "Bänkbord vid utsikt",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5817474,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2760",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2761,
+                "filename": "20200422_122744.jpg",
+                "description": "Hattbergsstugan",
+                "alttext": "Stuga med utsikt. ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4429756,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2761",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Brant skogsstig leder till rastplatsen från dalgången."
+          }
+        ],
+        "centerPoint": [
+          16.71155666788669,
+          62.79095813030165
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.711648911057374,
+                62.791076621521206
+              ],
+              [
+                16.711323229588697,
+                62.790998885529746
+              ],
+              [
+                16.71133072305401,
+                62.790844195217346
+              ],
+              [
+                16.71162178191455,
+                62.790845681361965
+              ],
+              [
+                16.711789064690443,
+                62.790890151109764
+              ],
+              [
+                16.711648911057374,
+                62.791076621521206
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4216,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Klampenborg",
+        "type": "Rastplats",
+        "created": "2026-01-13 10:57:40",
+        "updated": "2026-01-13 11:06:28",
+        "published": true,
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med bänkbord, grill och vindskydd"
+          }
+        ],
+        "centerPoint": [
+          17.39562410084032,
+          62.33043918440053
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.39563389777105,
+                62.33055774886977
+              ],
+              [
+                17.39547810526088,
+                62.330570491487954
+              ],
+              [
+                17.39540990407478,
+                62.33039313197346
+              ],
+              [
+                17.395436300824986,
+                62.33031724002897
+              ],
+              [
+                17.395663088473167,
+                62.33031333242569
+              ],
+              [
+                17.395832682836925,
+                62.33040596376922
+              ],
+              [
+                17.395818286995826,
+                62.330496736431094
+              ],
+              [
+                17.39563389777105,
+                62.33055774886977
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4217,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Klampenborg västra",
+        "type": "Rastplats",
+        "created": "2026-01-13 10:58:27",
+        "updated": "2026-01-13 11:06:21",
+        "published": true,
+        "childObjects": [
+          3275,
+          3276,
+          3277
+        ],
+        "parentObjects": [
+          4146
+        ],
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med bänkbord, grill och vindskydd"
+          }
+        ],
+        "centerPoint": [
+          17.389880443795857,
+          62.33323486451204
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.389869879828638,
+                62.3332620370307
+              ],
+              [
+                17.389702987495024,
+                62.33316935203292
+              ],
+              [
+                17.38987200257739,
+                62.33311867034437
+              ],
+              [
+                17.390035091899474,
+                62.33323153703464
+              ],
+              [
+                17.389869879828638,
+                62.3332620370307
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4218,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Klampenborg Holmudden",
+        "type": "Rastplats",
+        "created": "2026-01-13 10:58:59",
+        "updated": "2026-01-13 11:06:21",
+        "published": true,
+        "childObjects": [
+          1774,
+          1775,
+          1776
+        ],
+        "parentObjects": [
+          4146
+        ],
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 285,
+          "name": "Klampenborgföreningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med bänkbord, grill och vindskydd"
+          }
+        ],
+        "centerPoint": [
+          17.393170206021537,
+          62.3354900355827
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.393080259325504,
+                62.33551921620829
+              ],
+              [
+                17.39302545744232,
+                62.33542862909535
+              ],
+              [
+                17.393077306230744,
+                62.33537342211211
+              ],
+              [
+                17.39319163951765,
+                62.33536944269881
+              ],
+              [
+                17.393290846393324,
+                62.33547435287503
+              ],
+              [
+                17.393080259325504,
+                62.33551921620829
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4219,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Brattberget",
+        "type": "Rastplats",
+        "created": "2026-01-13 11:07:21",
+        "updated": "2026-01-13 11:07:44",
+        "published": true,
+        "childObjects": [
+          1522,
+          1530
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vindskydd för övernattning med vacker utsikt samt grillplats"
+          }
+        ],
+        "centerPoint": [
+          17.426273312792684,
+          62.33105742117976
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.426471181344468,
+                62.33119477799201
+              ],
+              [
+                17.426126408323977,
+                62.33121085313885
+              ],
+              [
+                17.426089410392926,
+                62.33102038887733
+              ],
+              [
+                17.426428507210858,
+                62.33093400394599
+              ],
+              [
+                17.426471181344468,
+                62.33119477799201
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4230,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Dingesjöforsen",
+        "type": "Rastplats",
+        "created": "2026-01-13 11:52:34",
+        "updated": "2026-01-13 11:53:07",
+        "published": true,
+        "childObjects": [
+          3095,
+          3096,
+          4226,
+          4227,
+          4228,
+          4229
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2787,
+                "filename": "Bänkbord PirenDingersjö.jpg",
+                "description": "Rastplats Dingesrjöforsen",
+                "alttext": "Bänkbord och vindskydd i naturen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4893594,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2787",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med vindskydd, grill och bänkbord vackert belägen vid Dingersjöforsen"
+          }
+        ],
+        "centerPoint": [
+          17.381649375448205,
+          62.2718037729036
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.381715599458964,
+                62.27191705194438
+              ],
+              [
+                17.38139098455878,
+                62.271838382023674
+              ],
+              [
+                17.381584865340876,
+                62.271696754729135
+              ],
+              [
+                17.381914836831037,
+                62.27184322581585
+              ],
+              [
+                17.381695546419923,
+                62.27190230849959
+              ],
+              [
+                17.381715599458964,
+                62.27191705194438
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4236,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats skidlek",
+        "type": "Rastplats",
+        "created": "2026-01-13 14:48:31",
+        "updated": "2026-01-13 14:48:52",
+        "published": true,
+        "childObjects": [
+          4124,
+          4125
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 291,
+          "name": "Skönsbergsspårets ekonomiska förening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 315,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-01-13"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2792,
+                "filename": "IMG_20241126_151318.jpg",
+                "description": "RAstplats",
+                "alttext": "Rastplats i skogen med solbänkar och grill",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2471705,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2792",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats vid pulkabacken med grill och solbänkar"
+          }
+        ],
+        "centerPoint": [
+          17.35460979719494,
+          62.40336502807166
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.354643055253764,
+                62.403484645229256
+              ],
+              [
+                17.354569759117897,
+                62.40347994094658
+              ],
+              [
+                17.354538487896995,
+                62.403420578597114
+              ],
+              [
+                17.354623554087606,
+                62.40339948166323
+              ],
+              [
+                17.35469484580365,
+                62.40340376262028
+              ],
+              [
+                17.3547156256065,
+                62.40342992794869
+              ],
+              [
+                17.354723200595128,
+                62.40346363142578
+              ],
+              [
+                17.354643055253764,
+                62.403484645229256
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4264,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Norra Berget trappans topp",
+        "type": "Rastplats",
+        "created": "2026-01-19 09:24:10",
+        "published": true,
+        "owner": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Trädäck med sittplatser"
+          }
+        ],
+        "centerPoint": [
+          17.304032024817385,
+          62.39732589633313
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.30399807664436,
+                62.39744656337571
+              ],
+              [
+                17.303997413302433,
+                62.397412286292024
+              ],
+              [
+                17.303982477525338,
+                62.39741024752563
+              ],
+              [
+                17.303993513975687,
+                62.39740000710958
+              ],
+              [
+                17.304016323580324,
+                62.3973891147434
+              ],
+              [
+                17.304128853117874,
+                62.397391824733134
+              ],
+              [
+                17.30412715944085,
+                62.39744671363231
+              ],
+              [
+                17.30399807664436,
+                62.39744656337571
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4277,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Hällan Kungsholmen",
+        "type": "Rastplats",
+        "created": "2026-01-19 10:16:12",
+        "updated": "2026-06-22 09:37:12",
+        "published": true,
+        "parentObjects": [
+          3936
+        ],
+        "owner": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "manager": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med eldstad i natursten och sittbänkar runt om."
+          }
+        ],
+        "centerPoint": [
+          17.387715493484606,
+          62.298081419446575
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.38776539702473,
+                62.29812842164017
+              ],
+              [
+                17.387599579368622,
+                62.29814270146152
+              ],
+              [
+                17.387637013896313,
+                62.298057476946646
+              ],
+              [
+                17.387746719147447,
+                62.2980167298903
+              ],
+              [
+                17.387836054393247,
+                62.29809063161652
+              ],
+              [
+                17.38776539702473,
+                62.29812842164017
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4449,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Klubbänget",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:03:30",
+        "updated": "2026-06-18 10:44:52",
+        "published": true,
+        "parentObjects": [
+          1209,
+          2408
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-04-01"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2922,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7396985,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2922",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats vid älven med liten raststuga med ett par bäddar, samt grillplats med bänkbord. "
+          }
+        ],
+        "centerPoint": [
+          16.684141228008684,
+          62.79014589942345
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.68415019732847,
+                62.79028692004895
+              ],
+              [
+                16.683862901519777,
+                62.790152541475265
+              ],
+              [
+                16.68406567566891,
+                62.79003096790256
+              ],
+              [
+                16.684304215185904,
+                62.78999165647832
+              ],
+              [
+                16.684422043824547,
+                62.79021875686009
+              ],
+              [
+                16.68415019732847,
+                62.79028692004895
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4450,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Järkvissle",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:08:09",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1130,
+          1471,
+          3633,
+          3634,
+          3635,
+          3636,
+          3637,
+          3638
+        ],
+        "parentObjects": [
+          1209,
+          2408
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-04-01"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.66452699130519,
+          62.7924572554446
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.66477345559494,
+                62.792588096938935
+              ],
+              [
+                16.664458238420988,
+                62.79257094114482
+              ],
+              [
+                16.66417280621947,
+                62.79245287028527
+              ],
+              [
+                16.664697655015704,
+                62.792307807040345
+              ],
+              [
+                16.664872705183846,
+                62.79235601637412
+              ],
+              [
+                16.66477345559494,
+                62.792588096938935
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4451,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Sandris",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:14:24",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1121,
+          1764,
+          1765,
+          1767,
+          1768
+        ],
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.72660114718915,
+          62.751477405799925
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.72676619476315,
+                62.7517097581717
+              ],
+              [
+                16.726137034887394,
+                62.751749304076824
+              ],
+              [
+                16.7259660596994,
+                62.75149528509836
+              ],
+              [
+                16.72660901414472,
+                62.751216950238245
+              ],
+              [
+                16.72722649663216,
+                62.75127458466707
+              ],
+              [
+                16.72676619476315,
+                62.7517097581717
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4452,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Liden",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:16:06",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1127,
+          1472,
+          3640,
+          3641,
+          3642,
+          3643
+        ],
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.786753323564668,
+          62.69701736650607
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.78682824169556,
+                62.69715902247636
+              ],
+              [
+                16.786484665269924,
+                62.69709814750863
+              ],
+              [
+                16.786661791246726,
+                62.69686674257561
+              ],
+              [
+                16.787017737249382,
+                62.69689444646104
+              ],
+              [
+                16.78682824169556,
+                62.69715902247636
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4453,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Boda såg",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:21:55",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1210,
+          3627,
+          3628,
+          3629,
+          3630,
+          3631,
+          3632
+        ],
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.64058105905398,
+          62.877300799398164
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.63992554442492,
+                62.87723868424662
+              ],
+              [
+                16.640359165527517,
+                62.87699642918269
+              ],
+              [
+                16.641207470024607,
+                62.87734929099062
+              ],
+              [
+                16.641245597550565,
+                62.87751268745656
+              ],
+              [
+                16.6410409120643,
+                62.8775119238001
+              ],
+              [
+                16.64075372077313,
+                62.87760931424474
+              ],
+              [
+                16.639958006322995,
+                62.87723021114538
+              ],
+              [
+                16.63992554442492,
+                62.87723868424662
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4454,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Långliden",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:23:11",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1128,
+          3621,
+          3622,
+          3623,
+          3624,
+          3625,
+          3626
+        ],
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.67189421716236,
+          62.911822733204616
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.672089316232135,
+                62.911962325728624
+              ],
+              [
+                16.6716143703536,
+                62.91182398724814
+              ],
+              [
+                16.67176772964829,
+                62.91170105564533
+              ],
+              [
+                16.672173443236584,
+                62.91175017804402
+              ],
+              [
+                16.672089316232135,
+                62.911962325728624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4455,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotrastplats Nilsböle",
+        "type": "Rastplats",
+        "created": "2026-04-01 22:34:24",
+        "updated": "2026-04-01 22:37:55",
+        "published": true,
+        "childObjects": [
+          1131,
+          1754,
+          1755,
+          3092,
+          3644,
+          3645
+        ],
+        "parentObjects": [
+          1209
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats längs med Indalsälven"
+          }
+        ],
+        "centerPoint": [
+          16.88801593428943,
+          62.650631120961556
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.888202677438898,
+                62.65082982250151
+              ],
+              [
+                16.8876031254006,
+                62.65062468382186
+              ],
+              [
+                16.887817118098027,
+                62.650431871864335
+              ],
+              [
+                16.888426446284136,
+                62.65060354888252
+              ],
+              [
+                16.888202677438898,
+                62.65082982250151
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4466,
+      "type": "Feature",
+      "properties": {
+        "name": "Grillplats Sticksjön östra",
+        "type": "Rastplats",
+        "created": "2026-04-30 14:35:56",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2912,
+                "filename": "20260430_101432.jpg",
+                "description": "Grillplats",
+                "alttext": "Grillplats",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3870417,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2912",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.27403049480912,
+          62.41541558319673
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27391311087335,
+                62.415446933582054
+              ],
+              [
+                17.274042185805186,
+                62.41537689761478
+              ],
+              [
+                17.274141114283683,
+                62.415387747014414
+              ],
+              [
+                17.274161954158025,
+                62.415485249972534
+              ],
+              [
+                17.27391311087335,
+                62.415446933582054
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4467,
+      "type": "Feature",
+      "properties": {
+        "name": "Grillplats Sticksjön norra",
+        "type": "Rastplats",
+        "created": "2026-04-30 14:37:45",
+        "updated": "2026-04-30 16:36:24",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26964723768804,
+          62.414859384704904
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.269599515789114,
+                62.41496256025991
+              ],
+              [
+                17.26969952566842,
+                62.41495431535507
+              ],
+              [
+                17.269757635732994,
+                62.41496302408571
+              ],
+              [
+                17.269745120560042,
+                62.415006498298716
+              ],
+              [
+                17.269599515789114,
+                62.41496256025991
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4468,
+      "type": "Feature",
+      "properties": {
+        "name": "Grillplats Sticksjön västra",
+        "type": "Rastplats",
+        "created": "2026-04-30 14:38:23",
+        "updated": "2026-04-30 16:37:31",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2914,
+                "filename": "20260430_103802.jpg",
+                "description": "Grillplats",
+                "alttext": "Grillplats",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4574094,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2914",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.268182538515045,
+          62.414318021430766
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.268029180779152,
+                62.41430682003584
+              ],
+              [
+                17.268270192632702,
+                62.41430218125975
+              ],
+              [
+                17.26835265758532,
+                62.41434232095107
+              ],
+              [
+                17.268310922186558,
+                62.41441237596159
+              ],
+              [
+                17.268029180779152,
+                62.41430682003584
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4469,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Ljungan strandpromenad",
+        "type": "Rastplats",
+        "created": "2026-04-30 16:40:24",
+        "published": true,
+        "owner": {
+          "organizationID": 309,
+          "name": "Naturskyddsföreningen"
+        },
+        "manager": {
+          "organizationID": 309,
+          "name": "Naturskyddsföreningen"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats med grill och bänkbord naturskönt intill Ljungan "
+          }
+        ],
+        "centerPoint": [
+          17.37764642428852,
+          62.28574214062949
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.377419128029892,
+                62.285879939163294
+              ],
+              [
+                17.377419399986376,
+                62.285717083133925
+              ],
+              [
+                17.377686862176557,
+                62.285602044884364
+              ],
+              [
+                17.377878519883833,
+                62.285678661100604
+              ],
+              [
+                17.37784713646006,
+                62.28586300663409
+              ],
+              [
+                17.377419128029892,
+                62.285879939163294
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4480,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Bergfotsstugan",
+        "type": "Rastplats",
+        "created": "2026-06-22 08:33:18",
+        "updated": "2026-06-22 09:38:52",
+        "published": true,
+        "childObjects": [
+          1303,
+          3496
+        ],
+        "parentObjects": [
+          779,
+          3936
+        ],
+        "owner": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "manager": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Friluftsfrämjandet Njurunda",
+            "reportDescription": "Kontaktperson L Nord",
+            "reportLink": "https://www.friluftsframjandet.se/njurunda",
+            "reportPhone": "0702848084",
+            "reportEmail": null
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Ett stort antal bänkbord, grill och sittplatser finns utanför Bergfotsstugan. Här finns även torrdass."
+          }
+        ],
+        "centerPoint": [
+          17.357745570310776,
+          62.30018900083673
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.35773046533176,
+                62.30038769804304
+              ],
+              [
+                17.357350873458735,
+                62.300306130365435
+              ],
+              [
+                17.35774358410298,
+                62.29999086367489
+              ],
+              [
+                17.358146416737885,
+                62.30014975797923
+              ],
+              [
+                17.35773046533176,
+                62.30038769804304
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4484,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Fiskdammen",
+        "type": "Rastplats",
+        "created": "2026-06-22 08:40:54",
+        "updated": "2026-06-22 09:38:52",
+        "published": true,
+        "childObjects": [
+          4215,
+          4481,
+          4482,
+          4483
+        ],
+        "parentObjects": [
+          779
+        ],
+        "owner": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "manager": {
+          "organizationID": 39,
+          "name": "friluftsfrämjandet njurunda"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2926,
+                "filename": "20211113_131523.jpg",
+                "description": "Rastplats med vindskydd och grillplats",
+                "alttext": "Rastplats i skogen med vindskydd och grillplats",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6493347,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2926",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2927,
+                "filename": "20211113_131648.jpg",
+                "description": "Rastplats med grill",
+                "alttext": "Grillplats i skogen med sittbänkar runt grillen och utsikt mot sjö",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7050375,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2927",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Friluftsfrämjandet Njurunda",
+            "reportDescription": "Kontaktperson L Nord",
+            "reportLink": "https://www.friluftsframjandet.se/njurunda",
+            "reportPhone": "0702848084",
+            "reportEmail": null
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats i skogen ovanför Fiskdammen, med tre vindskydd, en grill, och sittbänkar"
+          }
+        ],
+        "centerPoint": [
+          17.35499742880872,
+          62.297949939174096
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.355073086279585,
+                62.298065412354156
+              ],
+              [
+                17.35477832553023,
+                62.29803840558607
+              ],
+              [
+                17.35485997876921,
+                62.297877005404104
+              ],
+              [
+                17.355130052046782,
+                62.29783950965255
+              ],
+              [
+                17.35521857095977,
+                62.297866354734545
+              ],
+              [
+                17.355073086279585,
+                62.298065412354156
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4486,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Fågelbergsstugan",
+        "type": "Rastplats",
+        "created": "2026-06-22 08:48:18",
+        "updated": "2026-06-22 09:42:43",
+        "published": true,
+        "childObjects": [
+          273,
+          274,
+          276,
+          725,
+          3040
+        ],
+        "parentObjects": [
+          778
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2928,
+                "filename": "20211213_111355.jpg",
+                "description": "Solbänk längs Fågelbergsstugans sydvägg.",
+                "alttext": "Hus i vintersol med snötyngda träd",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4391064,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2928",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Rastplats utanför Fågelbergsstugan med stor solbänk i söderläge, grill och torrdass."
+          }
+        ],
+        "centerPoint": [
+          17.292560511678502,
+          62.33977011504155
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.29276318347117,
+                62.3399739594541
+              ],
+              [
+                17.292241459465497,
+                62.33990255404145
+              ],
+              [
+                17.292441374673547,
+                62.33962266781187
+              ],
+              [
+                17.292682730666172,
+                62.3395638280572
+              ],
+              [
+                17.292877904808616,
+                62.33960861379533
+              ],
+              [
+                17.292855477250953,
+                62.339894718061494
+              ],
+              [
+                17.29276318347117,
+                62.3399739594541
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4487,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Dubbla vindskyddet",
+        "type": "Rastplats",
+        "created": "2026-06-22 08:53:01",
+        "updated": "2026-06-22 09:42:43",
+        "published": true,
+        "childObjects": [
+          156,
+          1833,
+          3049,
+          4161
+        ],
+        "parentObjects": [
+          778
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2929,
+                "filename": "DubblaVindskyddet202009_6.jpg",
+                "description": "Dubbla vindskyddet",
+                "alttext": "Vindskydd i skogen som är byggt av timmer med grillplats framför",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1083208,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2929",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vid Dubbla vindskyddet finns grill och sittbänkar samt torrdass."
+          }
+        ],
+        "centerPoint": [
+          17.30499167586767,
+          62.35458040288538
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.304888309897013,
+                62.354739042714684
+              ],
+              [
+                17.304685216043335,
+                62.354656686730664
+              ],
+              [
+                17.304767534035143,
+                62.354479310062366
+              ],
+              [
+                17.305117334659638,
+                62.354422082121765
+              ],
+              [
+                17.305297968748537,
+                62.35450023789402
+              ],
+              [
+                17.30528716410364,
+                62.35461585404027
+              ],
+              [
+                17.30513852906495,
+                62.35473032520476
+              ],
+              [
+                17.304888309897013,
+                62.354739042714684
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4488,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Jaktkojan",
+        "type": "Rastplats",
+        "created": "2026-06-22 09:28:33",
+        "updated": "2026-06-22 09:42:43",
+        "published": true,
+        "childObjects": [
+          266,
+          267,
+          269,
+          270,
+          3047,
+          3984
+        ],
+        "parentObjects": [
+          778
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2932,
+                "filename": "20210501_073620.jpg",
+                "description": "Grillplats vid Jaktkojan",
+                "alttext": "Grillplats i skogen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 6141961,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2932",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Tillgänglig med bil",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vid Jaktkojan finns grill med bänkar och torrdass"
+          }
+        ],
+        "centerPoint": [
+          17.29765847772442,
+          62.35871945849024
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.297761627420524,
+                62.35884210641556
+              ],
+              [
+                17.29739782947271,
+                62.358845828076156
+              ],
+              [
+                17.29726652658169,
+                62.35870512890588
+              ],
+              [
+                17.297498471661655,
+                62.35861786460803
+              ],
+              [
+                17.29777724768742,
+                62.3585961168449
+              ],
+              [
+                17.298048607382032,
+                62.35870250008297
+              ],
+              [
+                17.297761627420524,
+                62.35884210641556
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 562,
+      "type": "Feature",
+      "properties": {
+        "name": "Rastplats Brudsjön",
+        "type": "Rastplats",
+        "created": "2018-08-01 13:34:43",
+        "deleted": "2023-05-10 13:42:36"
+      },
+      "geometry": null
+    }
+  ]
+}

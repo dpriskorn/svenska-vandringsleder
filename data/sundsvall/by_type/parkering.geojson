@@ -1,0 +1,1509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 591,
+      "type": "Feature",
+      "properties": {
+        "name": "Galtström parkering",
+        "type": "Parkering",
+        "created": "2018-08-08 14:25:41",
+        "updated": "2020-04-06 19:34:27",
+        "published": true,
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-08-08"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.497776165827894,
+          62.1627453137222
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.497776165827894,
+          62.1627453137222
+        ]
+      }
+    },
+    {
+      "id": 633,
+      "type": "Feature",
+      "properties": {
+        "name": "Stornäset",
+        "type": "Parkering",
+        "created": "2018-08-15 14:35:00",
+        "updated": "2020-07-07 21:09:56",
+        "published": true,
+        "owner": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "manager": {
+          "organizationID": 83,
+          "name": "länsstyrelsen västernorrland"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-08-15"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.475564751044033,
+          62.454331494074125
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.475564751044033,
+          62.454331494074125
+        ]
+      }
+    },
+    {
+      "id": 1442,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering vid Stor-Stensjön",
+        "type": "Parkering",
+        "created": "2020-03-12 12:03:44",
+        "updated": "2020-07-07 14:35:20",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.42139323870216,
+          62.747505870026416
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42139323870216,
+          62.747505870026416
+        ]
+      }
+    },
+    {
+      "id": 1460,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Hammarsjön",
+        "type": "Parkering",
+        "created": "2020-03-12 15:25:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1625,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Midskogsbergets klätterleder",
+        "type": "Parkering",
+        "created": "2020-07-09 15:06:51",
+        "updated": "2020-07-09 15:14:20",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.28823003071483,
+          62.30426892724471
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28823003071483,
+          62.30426892724471
+        ]
+      }
+    },
+    {
+      "id": 1637,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Vitsand",
+        "type": "Parkering",
+        "created": "2020-08-04 22:54:51",
+        "updated": "2026-01-13 11:38:42",
+        "published": true,
+        "parentObjects": [
+          1401,
+          1636
+        ],
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.506132615990744,
+          62.16524258341111
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.506132615990744,
+          62.16524258341111
+        ]
+      }
+    },
+    {
+      "id": 1698,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Grenforsen",
+        "type": "Parkering",
+        "created": "2020-12-01 07:39:27",
+        "updated": "2026-03-11 09:58:58",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för tiotal bilar med markerad gångväg till Grenforsen och Fiskestigen"
+          }
+        ],
+        "centerPoint": [
+          17.222830183408625,
+          62.30983943069983
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.222830183408625,
+          62.30983943069983
+        ]
+      }
+    },
+    {
+      "id": 1699,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Krokforsen",
+        "type": "Parkering",
+        "created": "2020-12-01 07:41:46",
+        "updated": "2020-12-01 07:44:15",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för en handfull bilar. Gångväg till Grenforsen, Krokforsen och Fiskestigen. "
+          }
+        ],
+        "centerPoint": [
+          17.20806231485729,
+          62.30527621733644
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20806231485729,
+          62.30527621733644
+        ]
+      }
+    },
+    {
+      "id": 1700,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Nolbyströmmen",
+        "type": "Parkering",
+        "created": "2020-12-01 07:43:36",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för tiotal bilar med gångväg till Nolbyströmmen och Fiskestigen"
+          }
+        ],
+        "centerPoint": [
+          17.315180462091668,
+          62.2972088810908
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.315180462091668,
+          62.2972088810908
+        ]
+      }
+    },
+    {
+      "id": 1780,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering klapperfält Lörudden",
+        "type": "Parkering",
+        "created": "2021-05-02 12:40:25",
+        "published": true,
+        "owner": {
+          "organizationID": 127,
+          "name": "sca"
+        },
+        "manager": {
+          "organizationID": 127,
+          "name": "sca"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-05-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2082,
+                "filename": "16199519545444243875686976934688.jpg",
+                "description": "Parkering ",
+                "alttext": "Parkering",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 10602784,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2082",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för tiotal bilar"
+          }
+        ],
+        "centerPoint": [
+          17.641248276324067,
+          62.233341279402836
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.641248276324067,
+          62.233341279402836
+        ]
+      }
+    },
+    {
+      "id": 3099,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering vid Skrängstasjön",
+        "type": "Parkering",
+        "created": "2021-11-11 09:50:54",
+        "updated": "2021-11-11 09:51:41",
+        "published": true,
+        "owner": {
+          "organizationID": 294,
+          "name": "Organisation utreds"
+        },
+        "manager": {
+          "organizationID": 294,
+          "name": "Organisation utreds"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering vid Skrängstasjön"
+          }
+        ],
+        "centerPoint": [
+          17.394630881872537,
+          62.25185602164592
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.394630881872537,
+          62.25185602164592
+        ]
+      }
+    },
+    {
+      "id": 3104,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Sandnäsets strandbad",
+        "type": "Parkering",
+        "created": "2021-11-11 10:03:29",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering vid Sandnäsets strandbad"
+          }
+        ],
+        "centerPoint": [
+          16.39102471585322,
+          62.696359543218634
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39102471585322,
+          62.696359543218634
+        ]
+      }
+    },
+    {
+      "id": 3108,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Bergafjärdens havsbad",
+        "type": "Parkering",
+        "created": "2021-12-02 08:55:48",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.446955710951944,
+          62.26531441302303
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.446955710951944,
+          62.26531441302303
+        ]
+      }
+    },
+    {
+      "id": 3990,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Tamböle",
+        "type": "Parkering",
+        "created": "2024-10-21 15:19:14",
+        "updated": "2024-10-21 15:21:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för ett 20-tal bilar. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.349139733367647,
+          62.40771932459629
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.349139733367647,
+          62.40771932459629
+        ]
+      }
+    },
+    {
+      "id": 3991,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Klissvägen",
+        "type": "Parkering",
+        "created": "2024-10-21 15:20:31",
+        "updated": "2026-06-17 13:07:15",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-06-17"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2918,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": ".",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5953284,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2918",
+                "license": "Kommunalt bruk enbart",
+                "licenseDescription": "Filen får enbart användas av Sundsvalls kommun"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering för ett 20-tal bilar. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.22918145774742,
+          62.370326367613
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.22918145774742,
+          62.370326367613
+        ]
+      }
+    },
+    {
+      "id": 3992,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Hillstamon",
+        "type": "Parkering",
+        "created": "2024-10-21 15:21:29",
+        "updated": "2024-10-22 18:34:15",
+        "published": true,
+        "parentObjects": [
+          1719
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stor grusyta. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.332344154027385,
+          62.371820581602954
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.332344154027385,
+          62.371820581602954
+        ]
+      }
+    },
+    {
+      "id": 3993,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Friluftscentrum Södra Berget",
+        "type": "Parkering",
+        "created": "2024-10-21 15:23:25",
+        "updated": "2026-04-08 15:14:19",
+        "published": true,
+        "parentObjects": [
+          695,
+          4142
+        ],
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering som rymmer ca 200 bilar. Plogas vintertid"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Två handikapplatser"
+          }
+        ],
+        "centerPoint": [
+          17.31231535954911,
+          62.36720629908931
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31231535954911,
+          62.36720629908931
+        ]
+      }
+    },
+    {
+      "id": 3994,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Tarzanstigen",
+        "type": "Parkering",
+        "created": "2024-10-21 15:24:11",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering med ett 10-tal platser. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.322649520815308,
+          62.36821601013393
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.322649520815308,
+          62.36821601013393
+        ]
+      }
+    },
+    {
+      "id": 3995,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Sidsjö entré nord",
+        "type": "Parkering",
+        "created": "2024-10-21 15:24:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering med ett 50-tal platser. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.277949645849517,
+          62.37850720752442
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.277949645849517,
+          62.37850720752442
+        ]
+      }
+    },
+    {
+      "id": 3996,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Sidsjö entré syd",
+        "type": "Parkering",
+        "created": "2024-10-21 15:25:29",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering med plats för 200 bilar. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.2714011514871,
+          62.36725903858064
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2714011514871,
+          62.36725903858064
+        ]
+      }
+    },
+    {
+      "id": 3997,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Ryggisspåret",
+        "type": "Parkering",
+        "created": "2024-10-21 15:26:51",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Grusytor på bägge sidor om Burevägen med parkering för ett 30-tal bilar "
+          }
+        ],
+        "centerPoint": [
+          17.307445478713042,
+          62.40339987162617
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.307445478713042,
+          62.40339987162617
+        ]
+      }
+    },
+    {
+      "id": 3998,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Hulistugan",
+        "type": "Parkering",
+        "created": "2024-10-21 15:27:32",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Grusyta med parkering för ett 50-tal bilar "
+          }
+        ],
+        "centerPoint": [
+          17.261774436538882,
+          62.41903680003272
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.261774436538882,
+          62.41903680003272
+        ]
+      }
+    },
+    {
+      "id": 3999,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Nackstaspåret",
+        "type": "Parkering",
+        "created": "2024-10-21 15:28:16",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering med plats för 10-tal bilar"
+          }
+        ],
+        "centerPoint": [
+          17.266632396525708,
+          62.38705492142636
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.266632396525708,
+          62.38705492142636
+        ]
+      }
+    },
+    {
+      "id": 4000,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Lv5",
+        "type": "Parkering",
+        "created": "2024-10-21 15:28:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering med plats för 100-tal bilar. Plogas vintertid"
+          }
+        ],
+        "centerPoint": [
+          17.29916154196822,
+          62.372063420718995
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29916154196822,
+          62.372063420718995
+        ]
+      }
+    },
+    {
+      "id": 4184,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Ovansjö flygfält",
+        "type": "Parkering",
+        "created": "2025-12-12 16:19:01",
+        "published": true,
+        "owner": {
+          "organizationID": 261,
+          "name": "Mingen Skrängstasjön Intresseförening"
+        },
+        "manager": {
+          "organizationID": 261,
+          "name": "Mingen Skrängstasjön Intresseförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.384494674823205,
+          62.236485392228055
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.384494674823205,
+          62.236485392228055
+        ]
+      }
+    },
+    {
+      "id": 4257,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Dyket",
+        "type": "Parkering",
+        "created": "2026-01-16 17:08:11",
+        "updated": "2026-06-22 09:52:49",
+        "published": true,
+        "parentObjects": [
+          1380,
+          3935
+        ],
+        "owner": {
+          "organizationID": 174,
+          "name": "Sundsvalls kommun Stadsbyggnadskontoret"
+        },
+        "manager": {
+          "organizationID": 27,
+          "name": "dykets intresseförening"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.391896734525254,
+          62.29732255288863
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.391896734525254,
+          62.29732255288863
+        ]
+      }
+    },
+    {
+      "id": 4258,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Junsikärs café",
+        "type": "Parkering",
+        "created": "2026-01-16 17:08:49",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.446459393271834,
+          62.29565784447506
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.446459393271834,
+          62.29565784447506
+        ]
+      }
+    },
+    {
+      "id": 4259,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Utsikten Sillre",
+        "type": "Parkering",
+        "created": "2026-01-19 09:00:25",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          16.69520112369626,
+          62.78783569417245
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.69520112369626,
+          62.78783569417245
+        ]
+      }
+    },
+    {
+      "id": 4260,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Selångers IP",
+        "type": "Parkering",
+        "created": "2026-01-19 09:13:39",
+        "published": true,
+        "owner": {
+          "organizationID": 132,
+          "name": "selångers fk"
+        },
+        "manager": {
+          "organizationID": 132,
+          "name": "selångers fk"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stor asfaltparkering vid Selångers IP"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Asfaltparkering. Inga särskilda handikapplatser"
+          }
+        ],
+        "centerPoint": [
+          17.226291323067247,
+          62.409712685148286
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.226291323067247,
+          62.409712685148286
+        ]
+      }
+    },
+    {
+      "id": 4261,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Selånger pilgriumscenter",
+        "type": "Parkering",
+        "created": "2026-01-19 09:14:56",
+        "published": true,
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stor grusparkering vid Selånger pilgrimscenter"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Grusparkering"
+          }
+        ],
+        "centerPoint": [
+          17.209560066679398,
+          62.406973251573
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.209560066679398,
+          62.406973251573
+        ]
+      }
+    },
+    {
+      "id": 4263,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Norra Bergets friluftsmuseum",
+        "type": "Parkering",
+        "created": "2026-01-19 09:18:38",
+        "published": true,
+        "owner": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "manager": {
+          "organizationID": 175,
+          "name": "Sundsvalls kommun Sundsvalls museum"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stor grusparkering vid Norra Bergets friluftsmuseum"
+          },
+          {
+            "id": 293,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Grusparkering"
+          }
+        ],
+        "centerPoint": [
+          17.302851154114926,
+          62.39971129231953
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.302851154114926,
+          62.39971129231953
+        ]
+      }
+    },
+    {
+      "id": 4269,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkering Östtjärn",
+        "type": "Parkering",
+        "created": "2026-01-19 09:31:13",
+        "updated": "2026-06-22 09:42:43",
+        "published": true,
+        "parentObjects": [
+          526,
+          778,
+          779
+        ],
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Parkering vid grustaget i Östtjärn. Parkera mot skogen i nordöst. Se skyltar. Se till att det vägarna är framkomliga."
+          }
+        ],
+        "centerPoint": [
+          17.271609960505387,
+          62.32812374419372
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.271609960505387,
+          62.32812374419372
+        ]
+      }
+    }
+  ]
+}

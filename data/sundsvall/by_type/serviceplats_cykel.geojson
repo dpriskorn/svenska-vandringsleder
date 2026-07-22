@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 4489,
+      "type": "Feature",
+      "properties": {
+        "name": "Cykelservice Södra Berget",
+        "type": "Serviceplats cykel",
+        "created": "2026-07-02 10:18:43",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Racerventil (SV, fransk, presta)"
+          },
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Cykelventil (DV, Dunlop)"
+          },
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Bilventil (AV, autoventil, Schrader)"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2022
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 339,
+            "name": "Cykelpump",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 342,
+            "name": "Tvätt",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Serviceplats där du kan tvätta och pumpa din cykel. Här finns även ett mekställ för cykeln och grundläggande verktyg."
+          },
+          {
+            "id": 341,
+            "name": "Verktyg",
+            "type": "FREETEXT",
+            "value": "Ja, ett grundläggande sortiment"
+          },
+          {
+            "id": 343,
+            "name": "Öppettider",
+            "type": "FREETEXT",
+            "value": "Under Södra Berget Bike Arenas säsong från mitten av maj till slutet av oktober"
+          }
+        ],
+        "centerPoint": [
+          17.309235061413887,
+          62.366234896584025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.309235061413887,
+          62.366234896584025
+        ]
+      }
+    },
+    {
+      "id": 4490,
+      "type": "Feature",
+      "properties": {
+        "name": "Cykelservice Sidsjön",
+        "type": "Serviceplats cykel",
+        "created": "2026-07-02 10:19:28",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Racerventil (SV, fransk, presta)"
+          },
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Cykelventil (DV, Dunlop)"
+          },
+          {
+            "id": 340,
+            "name": "Ventil för pump",
+            "type": "DROPDOWN",
+            "value": "Bilventil (AV, autoventil, Schrader)"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2022
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 339,
+            "name": "Cykelpump",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 342,
+            "name": "Tvätt",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Serviceplats där du kan pumpa din cykel. Här finns även ett mekställ för cykeln och grundläggande verktyg."
+          },
+          {
+            "id": 341,
+            "name": "Verktyg",
+            "type": "FREETEXT",
+            "value": "Ja, ett grundläggande sortiment"
+          },
+          {
+            "id": 343,
+            "name": "Öppettider",
+            "type": "FREETEXT",
+            "value": "Under Södra Berget Bike Arenas säsong från mitten av maj till slutet av oktober"
+          }
+        ],
+        "centerPoint": [
+          17.275806635752257,
+          62.36829634555723
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275806635752257,
+          62.36829634555723
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1711,
+      "type": "Feature",
+      "properties": {
+        "name": "Dykets bangolf",
+        "type": "Bangolf",
+        "created": "2020-12-15 12:21:45",
+        "updated": "2026-06-22 08:30:57",
+        "published": false,
+        "parentObjects": [
+          1380
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "id": 1728,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs bangolf",
+        "type": "Bangolf",
+        "created": "2020-12-15 17:09:06",
+        "published": true,
+        "owner": {
+          "organizationID": 139,
+          "name": "skönsberg sk"
+        },
+        "manager": {
+          "organizationID": 139,
+          "name": "skönsberg sk"
+        },
+        "tags": [
+          "bangolf",
+          "minigolf",
+          "18-hålsbana",
+          "36-hålsbana"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 232,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 36
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "På Skönsberg Minigolf finns en 36 håls anläggning. Bangolf eller minigolf är en variant av golf som spelas med en putter på små banor. Det är 2 st 18-håls anläggningar med filtbanor av tävlingsstandard. Anläggningen är belägen i Skönsbergs centrum."
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsbergsSK-Bangolf/oppettiderspelpriser/oppettider"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsbergsSK-Bangolf/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SkonsbergsSK-Bangolf/"
+          }
+        ],
+        "centerPoint": [
+          17.33863534629624,
+          62.400091983486426
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.339661798447636,
+                62.40024484363769
+              ],
+              [
+                17.33764137105748,
+                62.40036300601954
+              ],
+              [
+                17.337689243287247,
+                62.40000388755912
+              ],
+              [
+                17.33768541761945,
+                62.399850567832736
+              ],
+              [
+                17.338036193452982,
+                62.39997040411182
+              ],
+              [
+                17.338354327466643,
+                62.40001912458927
+              ],
+              [
+                17.338647642101265,
+                62.39999282636829
+              ],
+              [
+                17.338998044286697,
+                62.39993413762152
+              ],
+              [
+                17.33925774410298,
+                62.39992851858109
+              ],
+              [
+                17.33941083666202,
+                62.40001521157081
+              ],
+              [
+                17.339661798447636,
+                62.40024484363769
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 956,
+      "type": "Feature",
+      "properties": {
+        "name": "Äventyrsgolf, Granlo",
+        "type": "Bangolf",
+        "created": "2019-10-28 16:52:08",
+        "updated": "2019-10-29 09:15:20",
+        "deleted": "2019-10-29 13:20:19"
+      },
+      "geometry": null
+    }
+  ]
+}

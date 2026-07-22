@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1441,
+      "type": "Feature",
+      "properties": {
+        "name": "Flotte i Stor-Stensjön",
+        "type": "Båtuthyrning",
+        "created": "2020-03-12 12:03:01",
+        "updated": "2022-03-02 14:45:15",
+        "published": true,
+        "owner": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "manager": {
+          "organizationID": 52,
+          "name": "holms hembygdsförening"
+        },
+        "fields": [
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 226,
+            "name": "Gratis",
+            "type": "TOGGLE",
+            "value": "Nej, det kostar pengar att hyra"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Det går att låna flotte i Stor-Stensjön för att ta sig till Fäbodvallen Stensjöbodarna. Det går att ta sig till flotten med rullator, men svårt med rullstol."
+          }
+        ],
+        "centerPoint": [
+          16.41955231621676,
+          62.749501858779105
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41955231621676,
+          62.749501858779105
+        ]
+      }
+    }
+  ]
+}

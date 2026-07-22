@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 841,
+      "type": "Feature",
+      "properties": {
+        "name": "Frisbeegolf",
+        "type": "Frisbee-golfbana",
+        "created": "2019-10-17 16:55:04",
+        "deleted": "2019-10-18 09:27:52"
+      },
+      "geometry": null
+    }
+  ]
+}

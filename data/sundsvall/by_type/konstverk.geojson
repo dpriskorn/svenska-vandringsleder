@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1786,
+      "type": "Feature",
+      "properties": {
+        "name": "Rullting Bosvedjan",
+        "type": "Konstverk",
+        "created": "2021-05-18 13:27:22",
+        "updated": "2021-05-18 13:27:34",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2126,
+                "filename": "Bosvedjan Rullting konstverk Henrik Senedlbach CC ShareAlike 3.0.jpg",
+                "description": "Konstverket Rullting",
+                "alttext": "Konstverket Rullting",
+                "sourcetext": "Henrik Sendelbach, license CC Share Alike 3.0 Unported",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 144407,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2126",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sveriges största konstverk finns i Sundsvall. Det är skulpturen Rullting i Bosvedjan som upptar en betydande del av den stora ytan mellan HSB-husen. Bilden nedan visar en liten del av Rullting. Konstverket invigdes 1971 och upphovsmannen är Ilhan Koman."
+          }
+        ],
+        "centerPoint": [
+          17.335795510903186,
+          62.419266288734576
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.335546256017853,
+                62.41929979596542
+              ],
+              [
+                17.335617208410287,
+                62.41925274247992
+              ],
+              [
+                17.3359425020668,
+                62.41923491813909
+              ],
+              [
+                17.336061921861774,
+                62.41931981657533
+              ],
+              [
+                17.33597544458294,
+                62.41934580776119
+              ],
+              [
+                17.335546256017853,
+                62.41929979596542
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

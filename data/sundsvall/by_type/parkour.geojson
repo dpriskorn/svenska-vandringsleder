@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1703,
+      "type": "Feature",
+      "properties": {
+        "name": "Parkourpark Falken, Bruksgatan 6",
+        "type": "Parkour",
+        "created": "2020-12-15 11:29:02",
+        "updated": "2020-12-15 16:02:21",
+        "published": true,
+        "owner": {
+          "organizationID": 99,
+          "name": "mitthem"
+        },
+        "manager": {
+          "organizationID": 99,
+          "name": "mitthem"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1977,
+                "filename": "Parkour20200805.jpg",
+                "description": "Parkourpark Falken",
+                "alttext": "Parkourpark Falken",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4140411,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1977",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1994,
+                "filename": "DSC_0189_1_.jpg",
+                "description": "Utsikt mot havet",
+                "alttext": "Utsikt mot havet",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3184713,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1994",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1995,
+                "filename": "DSC_0184_1_.jpg",
+                "description": "Mitt i bostadsområdet",
+                "alttext": "Mitt i bostadsområdet",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 3123244,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1995",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "I bostadsområdet Falken finns en Parkourpark som erbjuder dig många fina utmaningar."
+          }
+        ],
+        "centerPoint": [
+          17.342032889929254,
+          62.397110827984484
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.342235400206654,
+                62.39721813593657
+              ],
+              [
+                17.342207596118456,
+                62.39724374853278
+              ],
+              [
+                17.342164987026937,
+                62.397253265895216
+              ],
+              [
+                17.342065944625073,
+                62.397268761328455
+              ],
+              [
+                17.34199711820987,
+                62.39725483183936
+              ],
+              [
+                17.34196627363253,
+                62.39724152082858
+              ],
+              [
+                17.341739048161173,
+                62.39714224757164
+              ],
+              [
+                17.34172414276081,
+                62.39695139652772
+              ],
+              [
+                17.34207562235285,
+                62.39694171406683
+              ],
+              [
+                17.34218231393258,
+                62.39702415532069
+              ],
+              [
+                17.342313123168843,
+                62.397068473405994
+              ],
+              [
+                17.34233306912453,
+                62.39718506200622
+              ],
+              [
+                17.342235400206654,
+                62.39721813593657
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

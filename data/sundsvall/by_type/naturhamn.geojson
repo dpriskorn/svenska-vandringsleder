@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1160,
+      "type": "Feature",
+      "properties": {
+        "name": "Kanotuthyrning",
+        "type": "Naturhamn",
+        "created": "2019-11-15 16:09:48",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 563,
+      "type": "Feature",
+      "properties": {
+        "name": "Lång Liden",
+        "type": "Naturhamn",
+        "created": "2018-08-01 15:18:23",
+        "deleted": "2019-11-14 14:07:55"
+      },
+      "geometry": null
+    },
+    {
+      "id": 564,
+      "type": "Feature",
+      "properties": {
+        "name": "Boda kanotplats",
+        "type": "Naturhamn",
+        "created": "2018-08-01 15:19:53",
+        "deleted": "2019-11-14 14:27:17"
+      },
+      "geometry": null
+    },
+    {
+      "id": 907,
+      "type": "Feature",
+      "properties": {
+        "name": "Lidens kanotrastplats",
+        "type": "Naturhamn",
+        "created": "2019-10-23 10:52:57",
+        "updated": "2019-11-12 16:02:16",
+        "deleted": "2020-03-12 15:41:08"
+      },
+      "geometry": null
+    }
+  ]
+}

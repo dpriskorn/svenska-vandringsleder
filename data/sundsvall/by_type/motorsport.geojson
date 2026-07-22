@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1240,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolby Banan - Motorstadion",
+        "type": "Motorsport",
+        "created": "2019-11-25 16:31:59",
+        "updated": "2019-12-04 09:34:55",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1241,
+      "type": "Feature",
+      "properties": {
+        "name": "NMK Trial",
+        "type": "Motorsport",
+        "created": "2019-11-25 16:36:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1385,
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvalls RC -  Klubb SRCK",
+        "type": "Motorsport",
+        "created": "2019-12-09 16:42:23",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

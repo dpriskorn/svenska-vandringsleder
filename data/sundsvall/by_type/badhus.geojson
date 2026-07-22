@@ -1,0 +1,1650 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 787,
+      "type": "Feature",
+      "properties": {
+        "name": "Alnöbadet",
+        "type": "Badhus",
+        "created": "2019-10-14 12:56:00",
+        "updated": "2021-12-02 14:29:16",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 170,
+          "name": "Sundsvalls kommun Idrott och fritid"
+        },
+        "tags": [
+          "abonnera",
+          "badhus",
+          "barnkalas",
+          "gym",
+          "gymlokal",
+          "hyra",
+          "simhall",
+          "simma",
+          "simning",
+          "simskola",
+          "spinning"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1986
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2219,
+                "filename": "Alnöbadet.jpg",
+                "description": "Alnöbadet",
+                "alttext": "Gul byggnad med flaggor i förgrunden",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1563008,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2219"
+              },
+              {
+                "id": 613,
+                "filename": "24 aug 2004 031.jpg",
+                "description": "Alnöbadets inomhusbassäng",
+                "alttext": "Simbassäng",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 918618,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/613",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 614,
+                "filename": "060221 004.jpg",
+                "description": "Gym i Alnöbadet",
+                "alttext": "Gymmaskiner",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 924833,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/614",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 611,
+                "filename": "Pres (2).JPG",
+                "description": "Bassäng inomhus i Alnöbadet",
+                "alttext": "Simbassäng",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 2644328,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/611",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 610,
+                "filename": "plask2.jpg",
+                "description": "Äventyrsplask i Alnöbadet",
+                "alttext": "Glad färger i plaskbassäng för barn",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 4229267,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/610",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 609,
+                "filename": "18df21895615b5eda448c801ed78e989.jpg",
+                "description": "Färgglad äventyrsplask för de små",
+                "alttext": "Livligt målad plaskbassäng för barn",
+                "sourcetext": "Sundvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 6,
+                "type": "image/jpeg",
+                "size": 189688,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/609",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Alnöbadet",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "e870bd96-be81-4f95-a267-01c8022974ae"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Bad samt tempererad utomhusbassäng. Badet kan hyras för exempelvis barnkalas. Simskoleverksamhet bedrivs genom Sundsvalls Simsällskap. Badhuset är utrustat med 25 m bassäng, klättervägg, 1 rutschkanor, äventyrsplask. Café, gym och spinning."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/alnobadet"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/alnobadet"
+          }
+        ],
+        "centerPoint": [
+          17.419249216190554,
+          62.42611535206971
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.41946729223894,
+                62.42610732199995
+              ],
+              [
+                17.419449334422925,
+                62.42616704045307
+              ],
+              [
+                17.41957696991671,
+                62.426218896607466
+              ],
+              [
+                17.419681969694064,
+                62.42616515663157
+              ],
+              [
+                17.4197846836085,
+                62.42620876108187
+              ],
+              [
+                17.419601204113686,
+                62.42630279469461
+              ],
+              [
+                17.418732123595102,
+                62.426249808765654
+              ],
+              [
+                17.418754433922008,
+                62.426171523828025
+              ],
+              [
+                17.41880027140099,
+                62.426174410272566
+              ],
+              [
+                17.418816827503544,
+                62.42611626989294
+              ],
+              [
+                17.41880781309624,
+                62.426115716891154
+              ],
+              [
+                17.418861395575604,
+                62.425928358598775
+              ],
+              [
+                17.419506717777985,
+                62.42596778842254
+              ],
+              [
+                17.41946729223894,
+                62.42610732199995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 925,
+      "type": "Feature",
+      "properties": {
+        "name": "Nackstabadet",
+        "type": "Badhus",
+        "created": "2019-10-24 17:01:09",
+        "updated": "2022-05-04 14:00:36",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "tags": [
+          "bassäng",
+          "nackstabadet",
+          "tempererad pool",
+          "utomhusbad"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "forza nacksta"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 716,
+                "filename": "24 aug 2004 009.jpg",
+                "description": "",
+                "alttext": "Byggnad med bassäng i Nacksta",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 966704,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/716",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 717,
+                "filename": "24 aug 2004 006.jpg",
+                "description": "",
+                "alttext": "Byggnad med bassäng i Nacksta",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1094785,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/717",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 718,
+                "filename": "17 aug 2004 015.jpg",
+                "description": "",
+                "alttext": "Entré till Nackstabadet",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1007389,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/718",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Nackstabadet",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "64030c5a-f54c-4224-b9d3-32bc84c0a9da"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Bassäng 25 meter, plaskbassäng,   café, omklädningsrum, dusch och bastu. Sköna grönytor att sitta på."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.facebook.com/forzanacksta/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.facebook.com/forzanacksta/"
+          }
+        ],
+        "centerPoint": [
+          17.26080952118882,
+          62.39155141559399
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.26073832591157,
+                62.39162344743857
+              ],
+              [
+                17.260375413560148,
+                62.391689020426135
+              ],
+              [
+                17.260216073198947,
+                62.39149906549786
+              ],
+              [
+                17.260383316296434,
+                62.391468844854394
+              ],
+              [
+                17.26045899904801,
+                62.39155905121811
+              ],
+              [
+                17.261294831113755,
+                62.391408031545524
+              ],
+              [
+                17.261396393416316,
+                62.39152912164735
+              ],
+              [
+                17.261264047257548,
+                62.391553047545294
+              ],
+              [
+                17.261246125869793,
+                62.39153169663049
+              ],
+              [
+                17.26073832591157,
+                62.39162344743857
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 957,
+      "type": "Feature",
+      "properties": {
+        "name": "Himlabadet",
+        "type": "Badhus",
+        "created": "2019-10-29 08:23:16",
+        "updated": "2023-01-02 09:06:21",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 25,
+          "name": "drakfastigheter"
+        },
+        "tags": [
+          "badhus",
+          "himlabadet",
+          "motionssim",
+          "relax",
+          "simhall",
+          "tempererad pool",
+          "tävlingsim",
+          "utebad",
+          "utomhusbad",
+          "äventyrsbad"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1161,
+                "filename": "DSC_0001.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1520464,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1161",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1162,
+                "filename": "DSC_0020.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1779695,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1162",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1163,
+                "filename": "Vecka-21%202010%20030.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2424169,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1163",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1164,
+                "filename": "DSC_0029.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1532761,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1164",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1165,
+                "filename": "DSC_0035.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1712071,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1165",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1166,
+                "filename": "DSC_0032.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1320253,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1166",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1167,
+                "filename": "DSC_0046.JPG",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 1522733,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1167",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1168,
+                "filename": "DSC_0699_L.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 2797155,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1168",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "7766c6b0-5acb-4837-8fc5-e5a5e9a39c84"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Äventyrsbad med flera attraktioner, surfstream. klättervägg, strömmande vatten. Relaxen har två terrasser mot Selångersån, en inglasad och en solterrass med bubbelpool. Här kan du bada bastu av olika slag till exempel aufgussbastu, hetbastu samt vedeldad och ångbastu. Dessutom finns varmpool, kallpool, upplevelsedusch och ytor för avslappning. Motionssim - Den nya tränings- och motionsbassängen är 25×25 meter och rymmer hela 12 träningsbanor och 10 tävlingsbanor med möjlighet att anpassa banornas bredd med skjutbara pallar och olika fästen för linor. Med 28 grader i vattnet behöver ingen frysa, men blir heller inte för varm vid hög ansträngning. Utebad - Utomhusbadet håller 28 grader varmt. Här finns tre bassänger; en 50 meters bassäng, en mellanbassäng samt en plaskbassäng för de minsta."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://himlabadet.se/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://himlabadet.se/"
+          }
+        ],
+        "centerPoint": [
+          17.28959489105891,
+          62.39397844861524
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.289306957043852,
+                62.39428811497915
+              ],
+              [
+                17.28922612447232,
+                62.39429696918668
+              ],
+              [
+                17.289228401583525,
+                62.394301448771195
+              ],
+              [
+                17.288800471634158,
+                62.39434822007612
+              ],
+              [
+                17.28873608310785,
+                62.39422136504311
+              ],
+              [
+                17.288674109547163,
+                62.39422807701884
+              ],
+              [
+                17.2886372945278,
+                62.39415528595542
+              ],
+              [
+                17.288511287011932,
+                62.39416901002892
+              ],
+              [
+                17.28840022038339,
+                62.39394991591638
+              ],
+              [
+                17.28859008389132,
+                62.39392935022327
+              ],
+              [
+                17.288553549568633,
+                62.39386267133833
+              ],
+              [
+                17.288536786923917,
+                62.393862866000404
+              ],
+              [
+                17.288511349463924,
+                62.393860706740924
+              ],
+              [
+                17.288496652652917,
+                62.39385779623558
+              ],
+              [
+                17.28848780321414,
+                62.39385543620438
+              ],
+              [
+                17.28847960421224,
+                62.39385272423762
+              ],
+              [
+                17.288467666471767,
+                62.39384742456702
+              ],
+              [
+                17.288456976221685,
+                62.39384072145086
+              ],
+              [
+                17.288448032509855,
+                62.3938315470303
+              ],
+              [
+                17.28844404236673,
+                62.393823889671346
+              ],
+              [
+                17.288443596264727,
+                62.39381145051024
+              ],
+              [
+                17.288448277370172,
+                62.3938020432034
+              ],
+              [
+                17.288459960101,
+                62.393791829361554
+              ],
+              [
+                17.28847175102766,
+                62.393785062119406
+              ],
+              [
+                17.288486704589214,
+                62.3937794193016
+              ],
+              [
+                17.288503834265654,
+                62.3937751595839
+              ],
+              [
+                17.28852248278072,
+                62.393772545211654
+              ],
+              [
+                17.288541324108916,
+                62.3937716967583
+              ],
+              [
+                17.288559808886557,
+                62.3937725154906
+              ],
+              [
+                17.288577877767047,
+                62.393774984423594
+              ],
+              [
+                17.288595347751052,
+                62.39377924126746
+              ],
+              [
+                17.288613787097045,
+                62.39378631092625
+              ],
+              [
+                17.288621726541972,
+                62.39379120034809
+              ],
+              [
+                17.28862876209183,
+                62.39379667037474
+              ],
+              [
+                17.288634752459274,
+                62.393802391062614
+              ],
+              [
+                17.289172035873403,
+                62.393744312579834
+              ],
+              [
+                17.289228370963105,
+                62.393856410722854
+              ],
+              [
+                17.289560155610054,
+                62.39382029229272
+              ],
+              [
+                17.28954237016723,
+                62.39378419128948
+              ],
+              [
+                17.28954620570649,
+                62.39377353949987
+              ],
+              [
+                17.28956153452119,
+                62.39376643624375
+              ],
+              [
+                17.289578137401545,
+                62.39376465888378
+              ],
+              [
+                17.28959601434753,
+                62.39376702663606
+              ],
+              [
+                17.28961517870147,
+                62.39377531689716
+              ],
+              [
+                17.28963474380565,
+                62.39381217242146
+              ],
+              [
+                17.289841391809706,
+                62.39378967593345
+              ],
+              [
+                17.289792019370605,
+                62.393692807570446
+              ],
+              [
+                17.2905986508108,
+                62.39360426641024
+              ],
+              [
+                17.290788953573134,
+                62.394001408482715
+              ],
+              [
+                17.289165220282836,
+                62.394178221816624
+              ],
+              [
+                17.28921377845508,
+                62.39427288980327
+              ],
+              [
+                17.28929466826262,
+                62.39426402568114
+              ],
+              [
+                17.289306957043852,
+                62.39428811497915
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1089,
+      "type": "Feature",
+      "properties": {
+        "name": "Matforshallen",
+        "type": "Badhus",
+        "created": "2019-11-12 13:59:19",
+        "updated": "2026-04-09 06:00:05",
+        "published": true,
+        "owner": {
+          "organizationID": 167,
+          "name": "sundsvalls kommun"
+        },
+        "manager": {
+          "organizationID": 25,
+          "name": "drakfastigheter"
+        },
+        "tags": [
+          "babysim",
+          "badhus",
+          "bk matforsbrottarna",
+          "brottarlokal",
+          "brottning",
+          "friskvård",
+          "friskvårdsanläggning",
+          "gym",
+          "handikappsim",
+          "idrottshall",
+          "konferenslokal",
+          "matforshallen",
+          "motionssim",
+          "träning"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1970
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2260,
+                "filename": "Entré Matforshallen.jpg",
+                "description": "",
+                "alttext": "Byggnad i tegel",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4255583,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2260"
+              },
+              {
+                "id": 901,
+                "filename": "DSC00008.JPG",
+                "description": "",
+                "alttext": "Simbassäng",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 157983,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/901",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 902,
+                "filename": "DSC_0046.JPG",
+                "description": "",
+                "alttext": "Gymmaskiner",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 1461277,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/902",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 904,
+                "filename": "Matforshallcafe_L.jpg",
+                "description": "",
+                "alttext": "Cafebord och stolar",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 344154,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/904",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Matforshallen",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "3dfe5440-d7e3-4455-82d8-88e9d7bee50a"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Handikappvänlig motionsanläggning där den höga vattentemperaturen delar av veckan möjliggör baby- och handikappsim. Bassängen är 25 meter och i badet finns en klättervägg. Idrottshall, Gym, bastu och brottarlokal samt konferenslokal för uthyrning finns i byggnaden. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/bada-simma/badhus-simhallar/matforshallen-2/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/kontakter/uthyrningsbyran-2/"
+          }
+        ],
+        "centerPoint": [
+          17.01725321664402,
+          62.3468534737953
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.017674746128392,
+                62.3472951465569
+              ],
+              [
+                17.01740733011035,
+                62.347081914501544
+              ],
+              [
+                17.017075521690874,
+                62.34717167910518
+              ],
+              [
+                17.01667995317837,
+                62.34685660196398
+              ],
+              [
+                17.017052235786764,
+                62.34675710152164
+              ],
+              [
+                17.01678121609382,
+                62.346545590745585
+              ],
+              [
+                17.017296963661007,
+                62.34640362073408
+              ],
+              [
+                17.017564657373292,
+                62.34661763909889
+              ],
+              [
+                17.01722141388531,
+                62.34671223919377
+              ],
+              [
+                17.017268535903078,
+                62.346747975897635
+              ],
+              [
+                17.01723494793557,
+                62.346757011246886
+              ],
+              [
+                17.01785232898532,
+                62.34723933255353
+              ],
+              [
+                17.017674746128392,
+                62.3472951465569
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.016886277052947,
+                62.346698638799715
+              ],
+              [
+                17.01695348482686,
+                62.346680033662295
+              ],
+              [
+                17.017052235901858,
+                62.34675710117766
+              ],
+              [
+                17.01698187210766,
+                62.34677590744768
+              ],
+              [
+                17.016886277052947,
+                62.346698638799715
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1278,
+      "type": "Feature",
+      "properties": {
+        "name": "Njurundahallen - Bad och idrottshall",
+        "type": "Badhus",
+        "created": "2019-11-28 13:36:32",
+        "updated": "2023-06-16 06:00:06",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "tags": [
+          "bad",
+          "badhus",
+          "cafe",
+          "gym",
+          "hopptorn",
+          "njurundahallen",
+          "relax",
+          "spinning"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1970
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1176,
+                "filename": "DSC_0032_L.jpg",
+                "description": "Njurundahallen",
+                "alttext": "Stor byggnad",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2999459,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1176",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1178,
+                "filename": "Nj-h Entre 005.jpg",
+                "description": "Simbassängen i Njurundahallen",
+                "alttext": "Simbassäng med simlina i vattnet",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1875208,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1178",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1177,
+                "filename": "Morgonsim.jpg",
+                "description": "Inomhusbassängen 25 meter i Njurundahallen",
+                "alttext": "Simbassäng",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 67474,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1177",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1175,
+                "filename": "Bild 005_L.jpg",
+                "description": "Relax i Njurundahallen",
+                "alttext": "Stolar och bord i relaxen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 2876239,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1175",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1174,
+                "filename": "Bild 004.jpg",
+                "description": "Relaxen i Njurundahallen",
+                "alttext": "Liten pool, på poolen hänger handdukar",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 2275113,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1174",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Njurundahallen",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "ba760c05-f79d-4a33-bf8b-1e545bd0413f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "25 m bassäng med hopptorn 3 meter och 5 meter samt svikt 1 meter. Barnbassäng, bastu, relax, gym, spinning, idrottshallar och café. "
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/bada-simma/badhus-simhallar/njurundahallen/"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/bada-simma/badhus-simhallar/njurundahallen/"
+          }
+        ],
+        "centerPoint": [
+          17.380229371876272,
+          62.29536384656997
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.380176512669195,
+                62.29512244592146
+              ],
+              [
+                17.380594819158112,
+                62.29512192341984
+              ],
+              [
+                17.380598366182213,
+                62.295742861985545
+              ],
+              [
+                17.37996091366003,
+                62.29574364519543
+              ],
+              [
+                17.379959304879634,
+                62.29546002048626
+              ],
+              [
+                17.379895356527445,
+                62.2954600991051
+              ],
+              [
+                17.379876168343348,
+                62.29545126644623
+              ],
+              [
+                17.379858641029223,
+                62.295450849445096
+              ],
+              [
+                17.379851645706847,
+                62.29544822162012
+              ],
+              [
+                17.379851390944633,
+                62.29542443365577
+              ],
+              [
+                17.37985767207253,
+                62.29542098320001
+              ],
+              [
+                17.379876103788874,
+                62.2954206420673
+              ],
+              [
+                17.379875020996863,
+                62.295330391112316
+              ],
+              [
+                17.37986117246897,
+                62.295330374441896
+              ],
+              [
+                17.37985293642693,
+                62.29532558806711
+              ],
+              [
+                17.379852867433506,
+                62.29530376582925
+              ],
+              [
+                17.379860914123665,
+                62.29529904948205
+              ],
+              [
+                17.379875597093953,
+                62.295299067167356
+              ],
+              [
+                17.379890729962685,
+                62.29529034689601
+              ],
+              [
+                17.379958335127814,
+                62.29529014283241
+              ],
+              [
+                17.37995739908238,
+                62.29512271556473
+              ],
+              [
+                17.379986305890196,
+                62.29512268045895
+              ],
+              [
+                17.379985507420862,
+                62.29498360473599
+              ],
+              [
+                17.380062591873955,
+                62.29498350839999
+              ],
+              [
+                17.380172755527802,
+                62.29500753622939
+              ],
+              [
+                17.380063344084746,
+                62.29511446394719
+              ],
+              [
+                17.380063390702972,
+                62.295122585019705
+              ],
+              [
+                17.380176512669195,
+                62.29512244592146
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1378,
+      "type": "Feature",
+      "properties": {
+        "name": "Stödehuset",
+        "type": "Badhus",
+        "created": "2019-12-09 10:56:23",
+        "updated": "2022-01-10 16:10:29",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "tags": [
+          "badhus",
+          "fritidsgård",
+          "golfsimulator",
+          "gym",
+          "gymlokal",
+          "jaktsimulator",
+          "motion",
+          "motionssim",
+          "samlingslokal",
+          "skyttesimulator",
+          "studio",
+          "stödehuset",
+          "utomhusbad"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 11,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 1974
+          },
+          {
+            "id": 148,
+            "name": "Verksamhetsansvarig",
+            "type": "TAGS",
+            "value": [
+              "kultur och fritid"
+            ]
+          },
+          {
+            "id": 198,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2021-09-22"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2216,
+                "filename": "Stödehuset.jpg",
+                "description": "Stödehuset",
+                "alttext": "Grå byggnad",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1716136,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2216",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1278,
+                "filename": "DSC_0633.JPG",
+                "description": "Stödehusets inomhusbassäng",
+                "alttext": "bord och stolar runt en bassäng",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4148447,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1278",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1279,
+                "filename": "Stödehuset.jpg",
+                "description": "12,5 meters inomhusbassäng",
+                "alttext": "Bassäng med vatten",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 7048004,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1279",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1280,
+                "filename": "DSC_0619.JPG",
+                "description": "Reception med cafémöbler",
+                "alttext": "Reception med cafémöbler",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 4121336,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1280",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1277,
+                "filename": "DSC_0629.JPG",
+                "description": "Scen med golf- och skyttesimulator",
+                "alttext": "Scen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 5,
+                "type": "image/jpeg",
+                "size": 4055085,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1277",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "cbb3090a-e596-40d1-ba96-ab3c363e283a"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Stödehuset rymmer en simhall, gym, fritidsgård, replokal utrustad med studio, samlingslokal för 150 personer samt en golf- jakt- och skyttesimulator. Här finns även ett tempererat utomhusbad och en plan för beachvolleyboll sommartid.   Strax intill Stödehuset ligger Stöde camping."
+          },
+          {
+            "id": 151,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/stodehuset"
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/stodehuset"
+          }
+        ],
+        "centerPoint": [
+          16.570954747781247,
+          62.41587884004867
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.57151185323962,
+                62.41569663217258
+              ],
+              [
+                16.57159181612151,
+                62.4157007581438
+              ],
+              [
+                16.57156959002379,
+                62.41577902730646
+              ],
+              [
+                16.571490252287393,
+                62.41577464288873
+              ],
+              [
+                16.571426946628314,
+                62.41600327134572
+              ],
+              [
+                16.570941382006694,
+                62.415974934408375
+              ],
+              [
+                16.5709099407701,
+                62.41608538558599
+              ],
+              [
+                16.570419037071932,
+                62.41605530243155
+              ],
+              [
+                16.57043002938328,
+                62.4160167887972
+              ],
+              [
+                16.57031419209261,
+                62.41601011261951
+              ],
+              [
+                16.57036720919048,
+                62.41583400504062
+              ],
+              [
+                16.57096232226754,
+                62.415868408245444
+              ],
+              [
+                16.571020617467504,
+                62.41566638434609
+              ],
+              [
+                16.57151185323962,
+                62.41569663217258
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

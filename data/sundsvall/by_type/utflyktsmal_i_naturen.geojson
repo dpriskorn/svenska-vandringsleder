@@ -1,0 +1,702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 4281,
+      "type": "Feature",
+      "properties": {
+        "name": "Sillre naturstig",
+        "type": "Utflyktsmål i naturen",
+        "created": "2026-01-19 10:34:37",
+        "updated": "2026-06-18 10:31:06",
+        "published": true,
+        "childObjects": [
+          1429
+        ],
+        "owner": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "manager": {
+          "organizationID": 136,
+          "name": "sillre byförening"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2921,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5473892,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2921",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Strax nordväst om Sillre längs väg 86 ligger Utsiktens turistgård. Därifrån utgår en naturstig \"Älvstigen\" ner mot Indalsälven. Längs Älvstigen finns skyltar uppsatta med bilder och beskrivningar av en del av de växter som finns där. Stigen går genom frodiga raviner ner till en naturlig strandäng vid älven. Där finns en raststuga för vandrare och kanotister. \r\n\r\nUtsikten över dalgången vid turistgården är hänförande och ett populärt fotomotiv."
+          },
+          {
+            "id": 307,
+            "name": "Växter",
+            "type": "FREETEXT",
+            "value": "I ravinerna längs älvstigen kan man hitta arter som midsommarblomster, liljekonvalj, gullpudra, älgört, nordisk stormhatt, strutbräken, granbräken, ormbär, blåsippa, ekorrbär, skogstry, dvärghäxört, skogsviol, underviol, skuggviol, humleblomster, skavfräken (hela ängar), hässleklocka, ekbräken, vårfryle, det rödlistade gräset sötgräs och ett vilt bestånd av skogsalm. \r\n\r\nI en kalkrik lövlund nere vid älven växer den sällsynta svampen vindlad klockmurkla."
+          },
+          {
+            "id": 308,
+            "name": "Djur",
+            "type": "FREETEXT",
+            "value": "Vid älven och älvstigen finns drillsnäppa, mindre hackspett, sävsparv, ett flertal sångare som svarthätta, törnsångare och trädgårdssångare för att nämna några."
+          },
+          {
+            "id": 309,
+            "name": "Service",
+            "type": "FREETEXT",
+            "value": "Parkering finns vid Utsiktens turistgård, samt vid parkeringsficka längs vägen. Rastplats finns längs älven, med grill, bänkbord och liten raststuga där det också går att övernatta. Ett vindskydd ligger vid älvkanten lite norr om den stora rastplatsen. Dass finns i anslutning till rastplatsen.\r\n\r\nIndalsälven är också en fin kanotled med mängder av rastplatser och övernattningsstugor längs leden. Den startar i Långliden och slutar vid Kävstabron."
+          },
+          {
+            "id": 310,
+            "name": "Vägbeskrivning",
+            "type": "FREETEXT",
+            "value": "Älvstigen startar på västra sidan av väg 86 vid Utsiktens turistgård, norr om Järkvissle."
+          },
+          {
+            "id": 311,
+            "name": "För vem",
+            "type": "FREETEXT",
+            "value": "Vandringen är ganska brant ned- och uppför älvnipan. Men i de svåraste passagerna ligger trappor eller spänger.  "
+          }
+        ],
+        "centerPoint": [
+          16.68894314529028,
+          62.78866372908313
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.68349721123297,
+                62.790740079025795
+              ],
+              [
+                16.68523846591359,
+                62.78802261806235
+              ],
+              [
+                16.68945142688817,
+                62.786646623385046
+              ],
+              [
+                16.6944512991153,
+                62.78768340403879
+              ],
+              [
+                16.690112362671155,
+                62.78947241085539
+              ],
+              [
+                16.687126312663672,
+                62.790490923323894
+              ],
+              [
+                16.68349721123297,
+                62.790740079025795
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4282,
+      "type": "Feature",
+      "properties": {
+        "name": "Norra Stadsberget",
+        "type": "Utflyktsmål i naturen",
+        "created": "2026-01-19 10:44:52",
+        "updated": "2026-01-19 10:52:49",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Norra Stadsberget är ett välbesökt stadsnära naturreservat i Sundsvall. Här finns friluftsmuseum, kaféer och en mängd stigar och motionsspår. Berget och det lättillgängliga skogsområdet har en spännande och varierad flora. Området är skyddat som kommunalt naturreservat."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://norraberget.se/"
+          },
+          {
+            "id": 307,
+            "name": "Växter",
+            "type": "FREETEXT",
+            "value": "Bergsbrant med arter som stor blåklocka, träjon, nagelört, vårförgätmigej, lövbinda, harmynta, bergmynta, backtimjan och rockentrav. Lundpartier med tex alm, lind, lönn, blåsippa, skelört, smånummeört, tibast, springkorn, hässleklocka, harkål, getams, sundsvallsviol, (bergsviol) och skuggviol. Sydliga, troligen inplanterade arter som tulkört, spenört, solvända, blodnäva och vit fetknopp."
+          },
+          {
+            "id": 309,
+            "name": "Service",
+            "type": "FREETEXT",
+            "value": "Här finns all service du kan behöva. Parkering, toalett, rastplatser på flertal ställen. Restaurang och café. I naturen finsn ett 20-tal informationstavlor som berättar om naturvärden, kulturmiljöerna och historien om Norra Stadsberget. "
+          },
+          {
+            "id": 310,
+            "name": "Vägbeskrivning",
+            "type": "FREETEXT",
+            "value": "Från Baldersvägen finns en trappa som leder uppför bergsbranten till toppen.\r\nOm du kör bil från stan: följ Baldersvägen från idrottsplatsen Norrporten Arena, sväng vänster vid Mimerskolan och kör rakt fram till parkeringen. Följ skyltar med texten Museum/N:a Stadsberget.\r\nNorrifrån: Vid södra rondellen i Bydalen kör mot sjukhuset och följ skyltar med texten Museum/N:a Stadsberget."
+          },
+          {
+            "id": 311,
+            "name": "För vem",
+            "type": "FREETEXT",
+            "value": "Norra Berget har nåt att erbjuda alla. Friluftsmuséet har aktiviteter för de yngsta barnen. Flera av stigarna i området är tillrättalagda med grus och släta. Stigen från baldersvägen och upp mot berget samt från Rosenvägen och uppåt, har trappor. Kuperingen  är ganska stor, även om det är flackare när man väl tagit sig upp för den branta sydsluttningen."
+          },
+          {
+            "id": 338,
+            "name": "Geologi",
+            "type": "FREETEXT",
+            "value": "Vid Burevägen finns en parkering. På västra sidan finns en gångväg som går västerut. Efter ett par hundra meter finns ett klapperstensfält (114 m ö h) som är bevuxet. Klapperstensfältet består av flera strandvallar som gör att stigen får en trappstegsliknande lutning. Havet nådde hit upp för 7000 år sedan. "
+          }
+        ],
+        "centerPoint": [
+          17.29443618665974,
+          62.40120369325872
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.31110741245426,
+                62.39760210582355
+              ],
+              [
+                17.307480560248194,
+                62.39848516049939
+              ],
+              [
+                17.307457696153694,
+                62.400108508808096
+              ],
+              [
+                17.309216814221614,
+                62.400559386633475
+              ],
+              [
+                17.307610575527253,
+                62.40209468455574
+              ],
+              [
+                17.306998954712743,
+                62.403110600137836
+              ],
+              [
+                17.3051481565374,
+                62.404672776466064
+              ],
+              [
+                17.302836789092478,
+                62.40537390990009
+              ],
+              [
+                17.294885006065808,
+                62.405779448941274
+              ],
+              [
+                17.28655235953786,
+                62.40507071508096
+              ],
+              [
+                17.281794744916347,
+                62.404714421320584
+              ],
+              [
+                17.27837246424156,
+                62.40312463319762
+              ],
+              [
+                17.27745563978596,
+                62.4007852071996
+              ],
+              [
+                17.27889554062488,
+                62.398338656672486
+              ],
+              [
+                17.280261676657723,
+                62.39751624926489
+              ],
+              [
+                17.29105294503526,
+                62.39690482692423
+              ],
+              [
+                17.29166220267513,
+                62.39778628798397
+              ],
+              [
+                17.304811508592483,
+                62.39644921498032
+              ],
+              [
+                17.31110741245426,
+                62.39760210582355
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4283,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget",
+        "type": "Utflyktsmål i naturen",
+        "created": "2026-01-19 10:51:10",
+        "updated": "2026-01-19 11:02:18",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Kring Södra Stadsberget utbreder sig ett stort område med omväxlande skogsmarker, varierande mellan magra hällmarkstallskogar och örtrika granskogar. Det är Sundsvalls främsta rekreationsområde med fina bär- och svampmarker och trevlig skidterräng. Här finns många markerade stigar, elljusspår och raststugor. Mittnordenleden startar uppe på Södra Stadsberget. Här finns också Friluftscentrum Södra Berget, en kommunal fritidsanläggning som har sitt centrum vid Ängen, där alla längdskidspår utgår. På sommaren är Ängen startpunkten för lek och spel, äventyrsstigar\r\noch utflykter. "
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sodrabergetsundsvall.se"
+          },
+          {
+            "id": 307,
+            "name": "Växter",
+            "type": "FREETEXT",
+            "value": "Fjällväxten klynnetåg har sin enda kända växtplatsen i Medelpad här. Den finns fortfarande kvar på berghyllor mot norr. På berget förekommer också skogsnycklar och nattviol. Uppe på Södra Berget och på alla hällmarker bort mot Fågelberget finns bergglim och vårspergel. Här och var förekommer tallört, en art som kommit in under senare år och som tydligen är under spridning. \r\n\r\nVid den idylliska Svarttjärnen i östra delen av området växer skvattram, en i trakten ganska ovanlig art. Vid tjärnen finns även den sällsynta växten  strandlummer. På myren väster om tjärnen finns en annan raritet; björnbrodd som här har sin enda kända växtplats i östra Medelpad."
+          },
+          {
+            "id": 309,
+            "name": "Service",
+            "type": "FREETEXT",
+            "value": "På Södra Stadsberget finns all service man kan tänka sig. Det finns ett flertal parkeringar man kan utgå från, såväl uppe på berget som vid dess fot. Vid Friluftscentrum finns café, toaletter och omklädningsrum. Här går det också att fylla på vatten. Vid hotellet finns flera restauranger. Vid hotellets fot finns vandrarhem och ytterligare hotell. Fågelbergsstugan i områdets södra del håller öppet helger under höst och vinter, samt delar av sommaren. Kolla Friluftsfrämjandet Sundsvalls facebook för detaljerade öppettider."
+          },
+          {
+            "id": 310,
+            "name": "Vägbeskrivning",
+            "type": "FREETEXT",
+            "value": "Promenera eller cykla längs cykelvägen som följer Granmodalsgatan från centrum, eller följ elljusspåret på västra eller östra sidan av berget. Det finns ytterligare ett stort antal stigar som leder upp på berget. Se kartan för detaljer.\r\nBuss som förbeställs går från Stenstan.\r\nMed bil följer du skyltningen mot Södra Stadsberget från E14 eller E4."
+          },
+          {
+            "id": 311,
+            "name": "För vem",
+            "type": "FREETEXT",
+            "value": "Södra Berget erbjuder alla något roligt året runt. Här finns äventyrsstigar som uppskattas av alla med barnasinnet kvar. Här finns vandringsleder, både korta och långa. Här finns ett omfattande system av cykelleder, men inte minst ett fantastiskt utbud av motionsspår för den som vill åka längdskidor eller löpträna. Antalet rastplatser för den som vill ta en paus är också stort, men ändå finns stora områden med behagligt lugn som väldigt få besöker."
+          },
+          {
+            "id": 338,
+            "name": "Geologi",
+            "type": "FREETEXT",
+            "value": "Bergrunden är omvandlad gråvacka. En kilometer nordväst om Fågelbergsstugan finns i en amfibolit en gammal skärpning, ett försök att bryta malm. \r\n\r\nNordost om slalombackens fot (Hillstamon) består berget av porfyr med tät ljusbrun grundmassa, den kallas sundsvallsporfyr. 1.4 km sydösterut efter elljusspåret finns ett klapperstensfält, havet nådde hit för 8500 år sedan. Det finns gamla stenbrott vid Hillstamon och klapperstensfältet.\r\n\r\nPå vägen upp till södra Stadsberget finn en stor sandmo av svallade sediment som spolat ner från berget när området höjdes ur havet för 9000 år sedan. Genom området rinner en mindre bäck som eroderat ner till fast botten. Ravinens djup visar att sedimenten är upp till 6 m tjocka."
+          }
+        ],
+        "centerPoint": [
+          17.31054752700338,
+          62.35619032195088
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.33051901519329,
+                62.374230154371524
+              ],
+              [
+                17.321354697425694,
+                62.37666919295126
+              ],
+              [
+                17.311745161625396,
+                62.37654338528181
+              ],
+              [
+                17.301916814864793,
+                62.37356319056388
+              ],
+              [
+                17.296699235674424,
+                62.36970625669788
+              ],
+              [
+                17.287760932201408,
+                62.36059572521974
+              ],
+              [
+                17.283074874467516,
+                62.35558665115088
+              ],
+              [
+                17.273268127656124,
+                62.34626093744988
+              ],
+              [
+                17.275254814975856,
+                62.33839938388488
+              ],
+              [
+                17.28625263605344,
+                62.33593314464976
+              ],
+              [
+                17.304441755689222,
+                62.335918640395974
+              ],
+              [
+                17.325508779403904,
+                62.33973970002627
+              ],
+              [
+                17.33404692431382,
+                62.346797287192864
+              ],
+              [
+                17.33833605785504,
+                62.35135422445542
+              ],
+              [
+                17.347476587539482,
+                62.36131547936816
+              ],
+              [
+                17.342956213463644,
+                62.368020824276556
+              ],
+              [
+                17.33496741401492,
+                62.371298216326565
+              ],
+              [
+                17.33051901519329,
+                62.374230154371524
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4284,
+      "type": "Feature",
+      "properties": {
+        "name": "Selångersån och Selångersfjärden",
+        "type": "Utflyktsmål i naturen",
+        "created": "2026-01-19 11:16:45",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Sulån förenar sig med Sättnaån i närheten av Gåltjärn. En bit söder om Kovland byter ån namn till Selångersån. Ån är ett fint kanotvatten vid högvatten och går att paddla från Gåltjärn till Sundsvall, en sträcka på 25 km med en total fallhöjd på 53 m. \r\n\r\nDen lummiga lövskogen längs ån har ett rikt fågelliv och frodig vegetation. Här växer den sällsynta älvtoltan (älvsallat). Vid åns utlopp i Selångersfjärden finns länets största levande delta. Selångersfjärden är en gammal havsvik som krymper i och med landhöjningen. Den påverkas fortfarande av havsvattenströmningar. \r\n\r\nLängst ut på deltat växer ett stort bestånd mandelpil. Denna trädart, som känns igen på lansettlika blad och rödaktig stam, har blivit sällsynt sedan de stora älvarna reglerades.\r\n\r\nFjärden med deltat och den grunda igenväxande Prästtjärnen, norr om fjärden, är fina fågellokaler. De bästa vadartillhållen på våren är stränderna kring Prästtjärnen och nedanför Selångers kyrka.\r\n\r\nMellan Sundsvalls centrum och Selångersfjärden finns fina promenadstråk längs ån och även vid fjärden. Dessa kommer ytterligare att förbättras 2009 med en 14 km lång slinga från centrum till Selångersfjärden."
+          },
+          {
+            "id": 307,
+            "name": "Växter",
+            "type": "FREETEXT",
+            "value": "Lövskogsbård längs ån och lummig gråalskog på deltat med arter som nordisk stormhatt, strutbräken, skuggviol, vitsippa, liljekonvalj, ormbär, gullpudra, desmeknopp, kabbleka, trolldruva, flädervänderot, springkorn, älvtolta (sydligaste växtplatsen i landet) och mandelpil. den fridlysta växten ful svärdslilja är vanlig här. Selångersfjärden har en intressant vattenvegetation med arter som vitstjälksmöja, bredkaveldun och hårsärv. Bredkaveldun finns även i Prästtjärn.\r\n\r\nUnder försommaren växer här den ståtliga svampen älvkragskivling, en nordlig art."
+          },
+          {
+            "id": 308,
+            "name": "Djur",
+            "type": "FREETEXT",
+            "value": "Bäver finns i ån, räv och grävling har sina gryt i strandbrinkarna. Öring vandrar upp i ån. Här finns också harr, sik, mört, abborre, flod- och bäcknejonöga och gädda. Fisket, som ingår i Selångersåns fiskevårdsområde, arrenderas av Sundsvalls sportfiskeklubb www.svenskalag.se/sundsvallssfk.\r\n\r\nFör fågelskådning är området i första hand en vår-försommarlokal. Under början av maj rastar en hel del olika vadararter och simänder. Sen är det häckfågelfaunan som är av intresse. Svarthakedopping, sångsvan och rörhöna kan nämnas. I deltaområdet häckar ibland mindre strandpipare. Bland häckande tättingar finns arter som rosenfink, härmsångare och näktergal. Fiskgjuse fiskar regelbundet i sjön. Chansen att få se fiskande gråhäger är stor. Ett rätt stort antal trutar och måsar brukar ligga på sjön, ibland finns bland dessa ovanligare arter som vittrut. Framåt sensommaren-hösten rastar emellanåt en hel del gäss som kanadagås, vitkindad gås och ibland också fjällgås, framförallt i och väster om  Selångersfjärden. Läs mer om gästande fåglar på hemsidan birdlifemedelpad.se"
+          },
+          {
+            "id": 309,
+            "name": "Service",
+            "type": "FREETEXT",
+            "value": "Parkeringar finns både vid Selångers IP och Selångers pilgrimscenter. Vid södra sidan av fjärden finns en plattform för fågelskådning. Runt området följer stigar, och ett antal informationstavlor med information om platsen och naturvärdena. "
+          },
+          {
+            "id": 310,
+            "name": "Vägbeskrivning",
+            "type": "FREETEXT",
+            "value": "Promenera eller cykla hit från centrum via S:t Olavsleden som följer södra sidan av Selångersån. Det finns även cykelväg för den som vill ha en snabbare led att följa.\r\nStadsbuss har tät trafik till Bergsåkers idrottsplats och Bergsåkers centrum.\r\nMed bil följer du väg 86 till Bergsåker och sedan Västra vägen. Sväng av mot Folkets hus, fortsätt vägen mellan fotbollsplanerna, vid vägs slut finns parkering. Redan här kan du njuta av mandelpilen. Informationstavla finns uppsatt innan parkeringen. Från parkeringen leder trevliga stigar både åt höger och vänster. Man kan också parkera vid Selångers Pilgrimscenter, gå förbi kyrkoruinen, passera det liljekonvaljklädda forngravsområdet\r\noch följa stigen mellan åkrarna ner till sjön."
+          },
+          {
+            "id": 311,
+            "name": "För vem",
+            "type": "FREETEXT",
+            "value": "Selångersfjärden erbjuder avkopplande natur med mycket vatten och frodig grönska. Här strövar man på historisk mark där Sundsvall har sitt ursprung, genom vackra kulturmilöer på grusade stigar."
+          },
+          {
+            "id": 338,
+            "name": "Geologi",
+            "type": "FREETEXT",
+            "value": "Selångersån har ett kraftigt slingrande förlopp genom de avlagringar som avsatts på den tidigare havsbottnen. Vid utloppet i Selångersfjärden sker aktiv deltabildning. Här har vi ett geologiskt förlopp som normalt pågår under tusentals år, men som nu fullföljs mycket snabbt. Vid höga vattenflöden i Sättnaån blir det ofta ras och skärningar som gör att sand och silt följer med till Selångersfjärden där deltat byggs på. Fjärden blir allt grundare och ytan minskar snabbt. På 160 år har Selångersfjärden minskat med 70%. Om 50 år kommer små avsnörda sjöar liknande Prästtjärn, Prästviken och Norrfjärden att finnas kvar utan förbindelse med ån. Sedimentet från Sättnaån förs då vidare till Sundsvallsfjärden där ett nytt delta växer fram."
+          }
+        ],
+        "centerPoint": [
+          17.221325928169858,
+          62.40615953729242
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.233617221975273,
+                62.40330574422302
+              ],
+              [
+                17.23164075971451,
+                62.408194754779274
+              ],
+              [
+                17.226489283781508,
+                62.41182016956326
+              ],
+              [
+                17.221409604378323,
+                62.4114440986113
+              ],
+              [
+                17.215141568888438,
+                62.41165818972126
+              ],
+              [
+                17.210008334061804,
+                62.40888248459653
+              ],
+              [
+                17.208754653062883,
+                62.405245115534385
+              ],
+              [
+                17.211120570163096,
+                62.40057886569067
+              ],
+              [
+                17.224050449820563,
+                62.4022016378883
+              ],
+              [
+                17.233617221975273,
+                62.40330574422302
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4285,
+      "type": "Feature",
+      "properties": {
+        "name": "Döviksberget",
+        "type": "Utflyktsmål i naturen",
+        "created": "2026-01-19 11:26:29",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Norr om Dövikssjön, strax öster om Kvissleby, ligger det botaniskt intressanta Döviksberget. I den örtrika skogssluttningen mot söder kan man hitta en rad sydsvenska växtarter. Här finns Medelpads enda förekomst av tandrot, som blommar under försommaren och här finns också den sällsynta och fridlysta orkidén nästrot. \r\n\r\nHasselbuskar växer här och var i sluttningen och under dessa finner man vissa år svampar, som blodsopp, som vanligtvis har en mer sydlig utbredning."
+          },
+          {
+            "id": 307,
+            "name": "Växter",
+            "type": "FREETEXT",
+            "value": "Blandad löv- och granskog med arter som hassel, desmeknopp, smånunneört, underviol, blåsippa, nejlikrot, lövbinda, tandrot, nästrot och hässleklocka.\r\n\r\nSvampar som hasselriska och blodsoppförekommer här."
+          },
+          {
+            "id": 309,
+            "name": "Service",
+            "type": "FREETEXT",
+            "value": "Parkeringar finns både vid Selångers IP och Selångers pilgrimscenter. Vid södra sidan av fjärden finns en plattform för fågelskådning. Runt området följer stigar, och ett antal informationstavlor med information om platsen och naturvärdena. "
+          },
+          {
+            "id": 310,
+            "name": "Vägbeskrivning",
+            "type": "FREETEXT",
+            "value": "Följ länsväg 562, 14 km från Sundsvall; tag mot Juniskär i Kvissleby. Åk över Ljungan och sväng in till vänster på parkeringen vid Dyket. Härifrån promenerar du genom villaområdet och går upp genom den obebyggda remsan norr om sjöns nordvästra hörn och följer sedan bergssluttningen österut."
+          },
+          {
+            "id": 311,
+            "name": "För vem",
+            "type": "FREETEXT",
+            "value": "För dig som gillar lummiga miljöer och att utforska alla de växter som växer här. Vandringen kan bli strapatsrik, och ett litet äventyr då sluttningen är brant och bitvis svårforcerad. Från toppen av berget är det ljuvlig utsikt mot såväl inlandet med Ljungan, Döviksjön och Kvissleby, som mot kusten med Sundsvallsfjärden och Juniskär."
+          },
+          {
+            "id": 338,
+            "name": "Geologi",
+            "type": "FREETEXT",
+            "value": "Berggrunden består av mer eller mindre omvandlad gråvacka, eller ådergnejs som också den kallas."
+          }
+        ],
+        "centerPoint": [
+          17.39956492883919,
+          62.30124704392016
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.40970839239831,
+                62.29974560614546
+              ],
+              [
+                17.398544432775502,
+                62.30384782983441
+              ],
+              [
+                17.389415126431444,
+                62.30206204774887
+              ],
+              [
+                17.389318974820085,
+                62.30146934777995
+              ],
+              [
+                17.395120383418604,
+                62.30031790589154
+              ],
+              [
+                17.398378673013156,
+                62.29930158184753
+              ],
+              [
+                17.400438143759512,
+                62.298648795715856
+              ],
+              [
+                17.404197715131136,
+                62.29899526302654
+              ],
+              [
+                17.40750301296167,
+                62.298572264661594
+              ],
+              [
+                17.40970839239831,
+                62.29974560614546
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3738,
+      "type": "Feature",
+      "properties": {
+        "name": "Flatabäcken",
+        "type": "Utflyktsmål i naturen",
+        "created": "2023-09-27 16:55:22",
+        "deleted": "2024-05-07 13:04:02"
+      },
+      "geometry": null
+    },
+    {
+      "id": 3949,
+      "type": "Feature",
+      "properties": {
+        "name": "Fanbyklacken",
+        "type": "Utflyktsmål i naturen",
+        "created": "2024-05-07 11:09:27",
+        "deleted": "2024-05-07 13:03:55"
+      },
+      "geometry": null
+    }
+  ]
+}

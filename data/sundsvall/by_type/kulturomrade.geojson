@@ -1,0 +1,1189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1300,
+      "type": "Feature",
+      "properties": {
+        "name": "Galtström",
+        "type": "Kulturområde",
+        "created": "2019-12-03 12:26:16",
+        "updated": "2020-06-29 15:13:47",
+        "published": true,
+        "tags": [
+          "friluftsområde",
+          "galtström",
+          "galtströms bruk",
+          "herrgård",
+          "hyttruin",
+          "museum"
+        ],
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Sågverkssamhälle"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Friluftsområde där det bland annat växer en spännande urskog.  Galtström är ett K-märkt urgammalt bruk. Här finns även en smalspårig museijärnväg med ånglok, kafé och restaurang."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://www.galtstromsbruk.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.galtstromsbruk.se/"
+          }
+        ],
+        "centerPoint": [
+          17.495477403928756,
+          62.162668293870155
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.488256382915758,
+                62.16436297131301
+              ],
+              [
+                17.491671988956906,
+                62.16525802733711
+              ],
+              [
+                17.496625218372063,
+                62.164885903953504
+              ],
+              [
+                17.500706470855366,
+                62.1637209908638
+              ],
+              [
+                17.50277243162481,
+                62.16187846129496
+              ],
+              [
+                17.50135062446384,
+                62.16140573336216
+              ],
+              [
+                17.497060390826032,
+                62.1610789295137
+              ],
+              [
+                17.494924822860632,
+                62.16015709536453
+              ],
+              [
+                17.492723322381945,
+                62.161409097646526
+              ],
+              [
+                17.48843739306677,
+                62.16253698485664
+              ],
+              [
+                17.488256382915758,
+                62.16436297131301
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1301,
+      "type": "Feature",
+      "properties": {
+        "name": "Klampenborg",
+        "type": "Kulturområde",
+        "created": "2019-12-03 13:22:43",
+        "updated": "2021-06-30 20:54:25",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "tags": [
+          "friluftsområde",
+          "klampenborg",
+          "naturreservat",
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Sågverkssamhälle"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1217,
+                "filename": "klampenborgs_naturreservat.jpg",
+                "description": "Entré till Klampenborgs naturreservat",
+                "alttext": "Entré till Klampenborgs naturreservat",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 74308,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1217",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2065,
+                "filename": "received_798837920745819.jpeg",
+                "description": "Informationstavla ",
+                "alttext": "Informationstavla",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 945411,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2065",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2066,
+                "filename": "received_479949320015686.jpeg",
+                "description": "Karta",
+                "alttext": "Karta",
+                "sourcetext": "",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 493116,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2066",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Dolt i den vackra och lummiga lövskogen i Klampenborg finns spår av tidigare mänsklig verksamhet, både från tidig järnålder och från ett helt sågverkssamhälle som har funnits här. Idag har naturen tagit överhand och större delen av ön består av lummig lövskog med bland annat lönn och alm. Fågellivet är rikt liksom växtligheten. Det är ett kommunalt naturreservatet med ett antal strövstigar och grillplatser. "
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://klampenborg.se/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://klampenborg.se/"
+          }
+        ],
+        "centerPoint": [
+          17.39353708867125,
+          62.33200786381262
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.392687411356686,
+                62.32888572258749
+              ],
+              [
+                17.39419276848805,
+                62.3288732599462
+              ],
+              [
+                17.39465335213484,
+                62.32883829626278
+              ],
+              [
+                17.397443008884512,
+                62.32822443887154
+              ],
+              [
+                17.398813372679324,
+                62.32979038936138
+              ],
+              [
+                17.398476111885138,
+                62.329917535811425
+              ],
+              [
+                17.39590153594941,
+                62.333597257496
+              ],
+              [
+                17.394356768494344,
+                62.33438975134236
+              ],
+              [
+                17.39399908417785,
+                62.335716022989864
+              ],
+              [
+                17.39196953000567,
+                62.33569688680473
+              ],
+              [
+                17.39161370037245,
+                62.33414045635768
+              ],
+              [
+                17.390010684707097,
+                62.33438351781702
+              ],
+              [
+                17.390195155014872,
+                62.33378770025598
+              ],
+              [
+                17.389528516462075,
+                62.333421973656314
+              ],
+              [
+                17.388127503106197,
+                62.33255685813426
+              ],
+              [
+                17.389449403920384,
+                62.332426559469596
+              ],
+              [
+                17.391136312272476,
+                62.331050255260486
+              ],
+              [
+                17.39138723795691,
+                62.32983366611703
+              ],
+              [
+                17.392687411356686,
+                62.32888572258749
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1463,
+      "type": "Feature",
+      "properties": {
+        "name": "Österströms bruksmiljö",
+        "type": "Kulturområde",
+        "created": "2020-03-12 15:37:13",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 4188,
+      "type": "Feature",
+      "properties": {
+        "name": "Svartrå Fäbod",
+        "type": "Kulturområde",
+        "created": "2025-12-15 15:05:28",
+        "updated": "2025-12-15 15:06:25",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fäbod"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.498504674066083,
+          62.23824593469327
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.499234867433707,
+                62.238406053304125
+              ],
+              [
+                17.497945475592573,
+                62.23845945459861
+              ],
+              [
+                17.49725016280315,
+                62.238135002923514
+              ],
+              [
+                17.499731194880997,
+                62.23801990362053
+              ],
+              [
+                17.499234867433707,
+                62.238406053304125
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4190,
+      "type": "Feature",
+      "properties": {
+        "name": "Läruddens fiskeläge",
+        "type": "Kulturområde",
+        "created": "2025-12-15 15:09:16",
+        "published": true,
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fiskeläge"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fiskeläge"
+          }
+        ],
+        "centerPoint": [
+          17.656987872440236,
+          62.23092943652849
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.66010339407098,
+                62.230686197440626
+              ],
+              [
+                17.658986094097365,
+                62.23244289910276
+              ],
+              [
+                17.657184512054073,
+                62.23267359013052
+              ],
+              [
+                17.653896176077954,
+                62.23144390413711
+              ],
+              [
+                17.653974894011302,
+                62.23062254526856
+              ],
+              [
+                17.65720022122372,
+                62.229177594019994
+              ],
+              [
+                17.66010339407098,
+                62.230686197440626
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4191,
+      "type": "Feature",
+      "properties": {
+        "name": "Junibosand fiskeläge",
+        "type": "Kulturområde",
+        "created": "2025-12-15 15:09:45",
+        "published": true,
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fiskeläge"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fiskeläge"
+          }
+        ],
+        "centerPoint": [
+          17.610680227807084,
+          62.239025291371156
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.614334881391795,
+                62.240760852124616
+              ],
+              [
+                17.60644452560961,
+                62.240544684122554
+              ],
+              [
+                17.605682800803983,
+                62.23952791559118
+              ],
+              [
+                17.60756224571792,
+                62.237568753188675
+              ],
+              [
+                17.611412473179247,
+                62.237207112343114
+              ],
+              [
+                17.614051075925047,
+                62.238729182934435
+              ],
+              [
+                17.615851564649308,
+                62.24053107229339
+              ],
+              [
+                17.614334881391795,
+                62.240760852124616
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4192,
+      "type": "Feature",
+      "properties": {
+        "name": "Skatans fiskeläge",
+        "type": "Kulturområde",
+        "created": "2025-12-15 15:10:22",
+        "published": true,
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fiskeläge"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fiskeläge"
+          }
+        ],
+        "centerPoint": [
+          17.504688736096757,
+          62.19497902493929
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.503530273076883,
+                62.19789189509431
+              ],
+              [
+                17.498702376007852,
+                62.197450937520045
+              ],
+              [
+                17.50928670525854,
+                62.19200389590801
+              ],
+              [
+                17.510707469011464,
+                62.192908611334616
+              ],
+              [
+                17.506405324403367,
+                62.19620535183832
+              ],
+              [
+                17.503530273076883,
+                62.19789189509431
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4193,
+      "type": "Feature",
+      "properties": {
+        "name": "Spikarnas fiskeläge",
+        "type": "Kulturområde",
+        "created": "2025-12-15 15:11:00",
+        "published": true,
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fiskeläge"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2025-12-15"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fiskeläge"
+          }
+        ],
+        "centerPoint": [
+          17.52948777841508,
+          62.361965591320775
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.528389073629,
+                62.36450658749224
+              ],
+              [
+                17.52616250910657,
+                62.36378004626954
+              ],
+              [
+                17.52469698624406,
+                62.36148054852224
+              ],
+              [
+                17.52523997837253,
+                62.36021334305793
+              ],
+              [
+                17.529019046742665,
+                62.35945315329582
+              ],
+              [
+                17.531337078518302,
+                62.35966246630406
+              ],
+              [
+                17.534157947997603,
+                62.36101935009202
+              ],
+              [
+                17.534264431639798,
+                62.36260167876657
+              ],
+              [
+                17.532448386356315,
+                62.36385437999105
+              ],
+              [
+                17.528389073629,
+                62.36450658749224
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4198,
+      "type": "Feature",
+      "properties": {
+        "name": "Värdshuset Liden",
+        "type": "Kulturområde",
+        "created": "2026-01-05 15:46:34",
+        "published": true,
+        "fields": [
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Sågverkssamhälle"
+          },
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2763,
+                "filename": "20200922_122103.jpg",
+                "description": "Gammal odlad mark",
+                "alttext": "Ängsamrk i skogen",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 8150174,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2763",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2764,
+                "filename": "20200922_122312.jpg",
+                "description": "Skylt som beskriver hur Värdshuset fungerade när det var i bruk",
+                "alttext": "Skylt om flottarepoken ",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 5369588,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2764",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2762,
+                "filename": "20200922_122055.jpg",
+                "description": "Rester av en gammal järdsgård",
+                "alttext": "Rester av en gammal järdsgård",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 8537511,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2762",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Kulturhistoriskt intressant plats. Hit fraktades timmer på järnväg frånb Österström för att skickas i en brant timmerränna ner till Indalsälven under flottningsepoken. Rester av bebyggelsen och rännan går att hitta, och så klart jkärnvägsbanken som numera är skogsbilväg."
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Sämre skogsbilväg sträcker sig fram till platsen. "
+          }
+        ],
+        "centerPoint": [
+          16.78490415260732,
+          62.672801589549664
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.7858897365332,
+                62.67336731232683
+              ],
+              [
+                16.783967845284852,
+                62.67341691190382
+              ],
+              [
+                16.78334933987033,
+                62.67277116376818
+              ],
+              [
+                16.78447445791976,
+                62.67220379333768
+              ],
+              [
+                16.785456700121653,
+                62.6725331822798
+              ],
+              [
+                16.78647808090615,
+                62.67314865104999
+              ],
+              [
+                16.7858897365332,
+                62.67336731232683
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4199,
+      "type": "Feature",
+      "properties": {
+        "name": "S:t Olavs hamn",
+        "type": "Kulturområde",
+        "created": "2026-01-05 16:52:35",
+        "updated": "2026-01-05 16:53:11",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fornlämning"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-01-05"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.211673987895992,
+          62.40516733180825
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.2116737702243,
+                62.405232567518304
+              ],
+              [
+                17.211587558949606,
+                62.40516604848107
+              ],
+              [
+                17.211715268350027,
+                62.40513384844107
+              ],
+              [
+                17.211769181823488,
+                62.40520339459645
+              ],
+              [
+                17.2116737702243,
+                62.405232567518304
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4200,
+      "type": "Feature",
+      "properties": {
+        "name": "Granlo gravhögar",
+        "type": "Kulturområde",
+        "created": "2026-01-05 16:53:43",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fornlämning"
+          },
+          {
+            "id": 316,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-01-05"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.258696830117312,
+          62.401160334978556
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.256267181298618,
+                62.40236254189181
+              ],
+              [
+                17.255299087149595,
+                62.402101635847714
+              ],
+              [
+                17.25569056857636,
+                62.401542126654384
+              ],
+              [
+                17.259177643667158,
+                62.39998953427664
+              ],
+              [
+                17.262153053547944,
+                62.40099729296724
+              ],
+              [
+                17.256267181298618,
+                62.40236254189181
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4262,
+      "type": "Feature",
+      "properties": {
+        "name": "Selångers kyrkoruin",
+        "type": "Kulturområde",
+        "created": "2026-01-19 09:16:13",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 2,
+            "name": "Kulturmiljötyp",
+            "type": "DROPDOWN",
+            "value": "Fornlämning"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          }
+        ],
+        "centerPoint": [
+          17.208599794023954,
+          62.40534788679936
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.208952648054105,
+                62.40561827263623
+              ],
+              [
+                17.208303015979098,
+                62.40556228506508
+              ],
+              [
+                17.207950463358607,
+                62.40539186843983
+              ],
+              [
+                17.208026362216295,
+                62.405084370599596
+              ],
+              [
+                17.208193700656036,
+                62.405081717978774
+              ],
+              [
+                17.208522065580237,
+                62.40512451372438
+              ],
+              [
+                17.20891437093526,
+                62.40523258235722
+              ],
+              [
+                17.209106444082888,
+                62.405298109847905
+              ],
+              [
+                17.209259775658644,
+                62.405439682524126
+              ],
+              [
+                17.208952648054105,
+                62.40561827263623
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

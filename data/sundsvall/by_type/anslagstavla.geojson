@@ -1,0 +1,4858 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 114,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget entré Anslagstavla",
+        "type": "Anslagstavla",
+        "created": "2018-06-18 09:42:15",
+        "updated": "2023-05-11 15:41:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2017
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-18"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 17,
+                "filename": "image.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Feriearbetare, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3542789,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/17",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Två stycken anslagstavlor"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Endast anslag som berör idrott och friluftsliv, eller anläggningen"
+          }
+        ],
+        "centerPoint": [
+          17.312474315570228,
+          62.36708116692006
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.312474315570228,
+          62.36708116692006
+        ]
+      }
+    },
+    {
+      "id": 285,
+      "type": "Feature",
+      "properties": {
+        "name": "Hartungviken",
+        "type": "Anslagstavla",
+        "created": "2018-06-21 15:14:04",
+        "updated": "2023-05-11 09:49:03",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2008
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-21"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 168,
+                "filename": "image.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5409558,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/168",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.517491710113724,
+          62.39180330320067
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.517491710113724,
+          62.39180330320067
+        ]
+      }
+    },
+    {
+      "id": 298,
+      "type": "Feature",
+      "properties": {
+        "name": "Tranviken",
+        "type": "Anslagstavla",
+        "created": "2018-06-26 14:03:36",
+        "updated": "2023-05-11 09:48:45",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2010
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 181,
+                "filename": "CA16111E-4A6E-4131-A932-40316CE55DD1.jpeg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 3711239,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/181",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.509075921935672,
+          62.36327715757723
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.509075921935672,
+          62.36327715757723
+        ]
+      }
+    },
+    {
+      "id": 367,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Anslagstavla",
+        "created": "2018-06-26 16:17:29",
+        "updated": "2023-05-11 07:14:08",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-06-26"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 259,
+                "filename": "IMG_1783.JPG",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2482950,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/259",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.371116060327143,
+          62.36102768281203
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.371116060327143,
+          62.36102768281203
+        ]
+      }
+    },
+    {
+      "id": 426,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Lucksta",
+        "type": "Anslagstavla",
+        "created": "2018-07-02 09:37:02",
+        "updated": "2020-06-30 10:47:50",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 312,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5275427,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/312",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.05259767249595,
+          62.29820427587984
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05259767249595,
+          62.29820427587984
+        ]
+      }
+    },
+    {
+      "id": 480,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Segersjön",
+        "type": "Anslagstavla",
+        "created": "2018-07-03 09:42:48",
+        "updated": "2020-07-07 14:17:28",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Trä i jord"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2012
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2018-07-03"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 365,
+                "filename": "6D2F6C49-B352-4B2C-8711-19666987ECB4.jpeg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5531116,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/365",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.04408016721638,
+          62.44332472463362
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04408016721638,
+          62.44332472463362
+        ]
+      }
+    },
+    {
+      "id": 712,
+      "type": "Feature",
+      "properties": {
+        "name": "Ryggis västra parkeringen",
+        "type": "Anslagstavla",
+        "created": "2019-05-21 18:06:00",
+        "updated": "2023-08-18 07:49:27",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-09-30"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "202"
+          }
+        ],
+        "centerPoint": [
+          17.306590369803896,
+          62.40303919220552
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.306590369803896,
+          62.40303919220552
+        ]
+      }
+    },
+    {
+      "id": 713,
+      "type": "Feature",
+      "properties": {
+        "name": "Ryggis östra parkeringen",
+        "type": "Anslagstavla",
+        "created": "2019-05-21 18:10:46",
+        "updated": "2021-10-06 12:33:02",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-09-30"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.307574776355285,
+          62.4035093715576
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.307574776355285,
+          62.4035093715576
+        ]
+      }
+    },
+    {
+      "id": 1520,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla 1 Sidsjön entré syd",
+        "type": "Anslagstavla",
+        "created": "2020-04-06 17:40:04",
+        "updated": "2023-05-11 09:44:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1396,
+                "filename": "20200406_170228.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7814595,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1396",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Enbart information som rör Sidsjöområdet med omnejd eller friluftsliv och motion. Enbart anslag på plyfaskivan. Städas löpande av Friluftsenheten. "
+          }
+        ],
+        "centerPoint": [
+          17.272306763350358,
+          62.36744531567833
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.272306763350358,
+          62.36744531567833
+        ]
+      }
+    },
+    {
+      "id": 1521,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla 2 Sidsjön entré syd",
+        "type": "Anslagstavla",
+        "created": "2020-04-06 17:41:34",
+        "updated": "2023-05-11 09:43:49",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-04-07"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1397,
+                "filename": "20200406_170232.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 7115831,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1397",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Enbart information som rör Sidsjöområdet med omnejd eller friluftsliv och motion. Enbart anslag på plyfaskivan. Städas löpande av Friluftsenheten. "
+          }
+        ],
+        "centerPoint": [
+          17.27227471336831,
+          62.36743208850242
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27227471336831,
+          62.36743208850242
+        ]
+      }
+    },
+    {
+      "id": 1615,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Stödegrillen",
+        "type": "Anslagstavla",
+        "created": "2020-07-08 13:07:08",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rundstolp ryggåstak"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2020-07-09"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1546,
+                "filename": "20200708_124034.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 6600022,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1546",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.59193529078234,
+          62.41978300065417
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.59193529078234,
+          62.41978300065417
+        ]
+      }
+    },
+    {
+      "id": 1858,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Storbron",
+        "type": "Anslagstavla",
+        "created": "2021-07-07 11:40:53",
+        "updated": "2021-07-07 11:42:11",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rund röda stolpar Parkavdelninge"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.300528879210326,
+          62.39195785296859
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.300528879210326,
+          62.39195785296859
+        ]
+      }
+    },
+    {
+      "id": 1859,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Ågläntan",
+        "type": "Anslagstavla",
+        "created": "2021-07-07 11:43:09",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rund röda stolpar Parkavdelninge"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.304528274086053,
+          62.392614627405926
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.304528274086053,
+          62.392614627405926
+        ]
+      }
+    },
+    {
+      "id": 1860,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Skateparken",
+        "type": "Anslagstavla",
+        "created": "2021-07-07 11:44:18",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rund röda stolpar Parkavdelninge"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.30939554656032,
+          62.393091446665224
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30939554656032,
+          62.393091446665224
+        ]
+      }
+    },
+    {
+      "id": 1861,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Köpmangatan Norra Järnvägsgatan",
+        "type": "Anslagstavla",
+        "created": "2021-07-07 11:45:18",
+        "updated": "2021-07-07 11:45:37",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rund röda stolpar Parkavdelninge"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.31249386149055,
+          62.38804830591518
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31249386149055,
+          62.38804830591518
+        ]
+      }
+    },
+    {
+      "id": 1862,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Sibylla gatukök",
+        "type": "Anslagstavla",
+        "created": "2021-07-07 11:46:34",
+        "published": true,
+        "owner": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "manager": {
+          "organizationID": 172,
+          "name": "Sundsvalls kommun Parkavdelningen"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rund röda stolpar Parkavdelninge"
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Sundsvalls kommun parker och lekparker",
+            "reportDescription": "Felanmälan av parker",
+            "reportLink": "https://isycase.isy.se/Sundsvall/publicform/create",
+            "reportPhone": "060-19 15 65",
+            "reportEmail": "servicecenter.kundtjanst@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.299184679034877,
+          62.39062224899179
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.299184679034877,
+          62.39062224899179
+        ]
+      }
+    },
+    {
+      "id": 3067,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Sidsjön Norra entrén 1",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:17:07",
+        "updated": "2026-04-07 09:43:16",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2867,
+                "filename": "image.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla i trä med affischer på",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 4105724,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2867",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Anslagstavla "
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Information om närområdet eller allmän information om friluftsliv och idrott. Övrig info plockas ned."
+          }
+        ],
+        "centerPoint": [
+          17.278112957161493,
+          62.37834713117862
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.278112957161493,
+          62.37834713117862
+        ]
+      }
+    },
+    {
+      "id": 3068,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Sidsjön Norra entrén 2",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:17:27",
+        "updated": "2026-04-07 09:42:52",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Fin"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2026-03-13"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2866,
+                "filename": "image.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla i trä med affisher",
+                "sourcetext": "Sundsvalls kommun ",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3741710,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2866",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Information om närområdet eller allmän information om friluftsliv och idrott. Övrig info plockas ned."
+          }
+        ],
+        "centerPoint": [
+          17.27810958057362,
+          62.378324053615145
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27810958057362,
+          62.378324053615145
+        ]
+      }
+    },
+    {
+      "id": 3075,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Stockvik",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:28:04",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Information om närområdet eller allmän information om friluftsliv och idrott. Övrig info plockas ned."
+          }
+        ],
+        "centerPoint": [
+          17.350935147048975,
+          62.350261631724614
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.350935147048975,
+          62.350261631724614
+        ]
+      }
+    },
+    {
+      "id": 3076,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hillstamon",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:28:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2019
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 84,
+            "name": "Regler för anslag",
+            "type": "FREETEXT",
+            "value": "Information om närområdet eller allmän information om friluftsliv och idrott. Övrig info plockas ned."
+          }
+        ],
+        "centerPoint": [
+          17.332275384237846,
+          62.371604481773524
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.332275384237846,
+          62.371604481773524
+        ]
+      }
+    },
+    {
+      "id": 3085,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hulistugan",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:39:12",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ribba A0 liggande"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26099712887594,
+          62.41922793803702
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26099712887594,
+          62.41922793803702
+        ]
+      }
+    },
+    {
+      "id": 3086,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hulistugan 2",
+        "type": "Anslagstavla",
+        "created": "2021-10-06 12:39:34",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rundstolp ryggåstak"
+          },
+          {
+            "id": 70,
+            "name": "Byggnadsår",
+            "type": "INTEGER",
+            "value": 2020
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.26147754748259,
+          62.419018989131864
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.26147754748259,
+          62.419018989131864
+        ]
+      }
+    },
+    {
+      "id": 3098,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla vid Skrängstasjöns fågeltorn",
+        "type": "Anslagstavla",
+        "created": "2021-11-11 09:49:58",
+        "updated": "2022-01-10 16:53:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Trä i jord"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Rundstolp ryggåstak"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2269,
+                "filename": "Bänkbord Skrängstasjön.jpg",
+                "description": "Bänkbord och anslagstavla vid Skrängstasjön",
+                "alttext": "Bänkbord och anslagstavla vid Skrängstasjön",
+                "sourcetext": "Joachim Söderlind, Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2906852,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2269",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 77,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Anslagstavla vid Skrängstasjön"
+          }
+        ],
+        "centerPoint": [
+          17.394680750118365,
+          62.25183881623179
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.394680750118365,
+          62.25183881623179
+        ]
+      }
+    },
+    {
+      "id": 3354,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Bergsåker",
+        "type": "Anslagstavla",
+        "created": "2022-10-10 19:01:17",
+        "updated": "2022-10-10 19:02:14",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2409,
+                "filename": "20221010_185819.jpg",
+                "description": "A anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3633279,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2409",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.21661461803957,
+          62.41551908699681
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21661461803957,
+          62.41551908699681
+        ]
+      }
+    },
+    {
+      "id": 3368,
+      "type": "Feature",
+      "properties": {
+        "name": "ANslagstavla Liden",
+        "type": "Anslagstavla",
+        "created": "2022-11-17 13:21:40",
+        "updated": "2022-11-17 13:22:44",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Trasig"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2022-11-17"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.801700747575683,
+          62.70046213971963
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801700747575683,
+          62.70046213971963
+        ]
+      }
+    },
+    {
+      "id": 3591,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hovid Eriksdal",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 09:48:11",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2444,
+                "filename": "Alnön Hovid-Eriksdal_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2110039,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2444",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2445,
+                "filename": "Alnön Hovid-Eriksdal_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1990338,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2445",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.376707762252355,
+          62.47615878584227
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.376707762252355,
+          62.47615878584227
+        ]
+      }
+    },
+    {
+      "id": 3592,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Spikarna",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 09:51:48",
+        "updated": "2025-07-17 14:53:26",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Jordankare metall"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2446,
+                "filename": "Alnön Spikarna_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2377128,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2446",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2447,
+                "filename": "Alnön Spikarna_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2485941,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2447",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.526147035748505,
+          62.3605914329563
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.526147035748505,
+          62.3605914329563
+        ]
+      }
+    },
+    {
+      "id": 3593,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Stornäset",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 09:59:41",
+        "updated": "2023-05-11 10:00:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Jordankare metall"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2448,
+                "filename": "Alnön_ Näsets gamla skola_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3152286,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2448",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2449,
+                "filename": "Alnön_ Näsets gamla skola_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2177142,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2449",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.47554330501393,
+          62.45511732726143
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.47554330501393,
+          62.45511732726143
+        ]
+      }
+    },
+    {
+      "id": 3594,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Bergafjärden",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:02:40",
+        "updated": "2023-05-11 10:02:54",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2450,
+                "filename": "Bergafjärden_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1428460,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2450",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2451,
+                "filename": "Bergafjärden_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1548939,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2451",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.448569239124485,
+          62.26840688817421
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.448569239124485,
+          62.26840688817421
+        ]
+      }
+    },
+    {
+      "id": 3595,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Galtström",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:05:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2452,
+                "filename": "Galtström_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 3239753,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2452",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2453,
+                "filename": "Galtström_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2546199,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2453",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.499724378592894,
+          62.16286883567141
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.499724378592894,
+          62.16286883567141
+        ]
+      }
+    },
+    {
+      "id": 3596,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hovid Eriksdal",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:08:38",
+        "updated": "2023-05-11 10:10:00",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2454,
+                "filename": "Alnön Hovid-Eriksdal_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2110039,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2454",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2455,
+                "filename": "Alnön Hovid-Eriksdal_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1990338,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2455",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.376707762252355,
+          62.47615878584227
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.376707762252355,
+          62.47615878584227
+        ]
+      }
+    },
+    {
+      "id": 3597,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Finsta Centrumhuset",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:10:31",
+        "updated": "2023-05-11 10:26:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2456,
+                "filename": "Finsta centrumhuset_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2442172,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2456",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2457,
+                "filename": "Finsta centrumhuset_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2491523,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2457",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.35439412394834,
+          62.45843855955364
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35439412394834,
+          62.45843855955364
+        ]
+      }
+    },
+    {
+      "id": 3598,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Gimåfors",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:15:24",
+        "updated": "2025-07-17 14:52:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2458,
+                "filename": "Gimåfors_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2648250,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2458",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2459,
+                "filename": "Gimåfors_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2419012,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2459",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.418098230079885,
+          62.670827768733254
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.418098230079885,
+          62.670827768733254
+        ]
+      }
+    },
+    {
+      "id": 3599,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Baldershov",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:18:36",
+        "updated": "2023-05-11 10:25:51",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2460,
+                "filename": "Haga Baldershov_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2105128,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2460",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2461,
+                "filename": "Haga Baldershov_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2087326,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2461",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.317429232050326,
+          62.40821502888548
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.317429232050326,
+          62.40821502888548
+        ]
+      }
+    },
+    {
+      "id": 3600,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Hullsjön",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:20:38",
+        "updated": "2023-05-11 10:25:39",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2462,
+                "filename": "Hullsjön_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1923355,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2462",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2463,
+                "filename": "Hullsjön_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1639491,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2463",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.67591351909919,
+          62.54498102949999
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67591351909919,
+          62.54498102949999
+        ]
+      }
+    },
+    {
+      "id": 3601,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Juniskär",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:22:27",
+        "updated": "2023-05-11 10:25:30",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2464,
+                "filename": "Juniskär_0.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Fr",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2174865,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2464",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2465,
+                "filename": "Juniskär_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2509737,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2465",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.446694400769143,
+          62.2957273104431
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.446694400769143,
+          62.2957273104431
+        ]
+      }
+    },
+    {
+      "id": 3602,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Klockarberget",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:25:12",
+        "updated": "2023-05-11 10:25:20",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2466,
+                "filename": "Klockarberget_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2777383,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2466",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2467,
+                "filename": "Klockarberget_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2630398,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2467",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.37069621898294,
+          62.27506906172982
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37069621898294,
+          62.27506906172982
+        ]
+      }
+    },
+    {
+      "id": 3603,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Lillström",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:30:40",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2468,
+                "filename": "Lillström_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1892491,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2468",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2469,
+                "filename": "Lillström_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1897526,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2469",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.787795520562874,
+          62.45988815128036
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.787795520562874,
+          62.45988815128036
+        ]
+      }
+    },
+    {
+      "id": 3604,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Ljustadalen",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:32:38",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2470,
+                "filename": "Ljustadalen Centrum_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2196053,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2470",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2471,
+                "filename": "Ljustadalen Centrum_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1635305,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2471",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.36743943225513,
+          62.43712880942928
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.36743943225513,
+          62.43712880942928
+        ]
+      }
+    },
+    {
+      "id": 3605,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Loviken",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:35:46",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2472,
+                "filename": "Loviken_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1178787,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2472",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2473,
+                "filename": "Loviken_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2509823,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2473",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.40026824782424,
+          62.714437325882884
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40026824782424,
+          62.714437325882884
+        ]
+      }
+    },
+    {
+      "id": 3606,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Maland",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:37:10",
+        "updated": "2024-09-02 15:08:00",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 73,
+            "name": "Status",
+            "type": "DROPDOWN",
+            "value": "Sliten"
+          },
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 74,
+            "name": "Statusdatum",
+            "type": "DATE",
+            "value": "2024-09-02"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2474,
+                "filename": "Malands fritidsområde_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1800454,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2474",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2475,
+                "filename": "Malands fritidsområde_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1724632,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2475",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.373161137968786,
+          62.44970969751147
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.373161137968786,
+          62.44970969751147
+        ]
+      }
+    },
+    {
+      "id": 3607,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Matfors",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:38:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Övrigt"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2476,
+                "filename": "Matfors_ ICA_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2811413,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2476",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2477,
+                "filename": "Matfors_ ICA_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2358864,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2477",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.01903230945962,
+          62.34748951640222
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01903230945962,
+          62.34748951640222
+        ]
+      }
+    },
+    {
+      "id": 3608,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Nolby",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:41:10",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2478,
+                "filename": "Nolby_ Isbanan_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2591202,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2478",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2479,
+                "filename": "Nolby_ Isbanan_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2614929,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2479",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.362697633267107,
+          62.2908200125011
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.362697633267107,
+          62.2908200125011
+        ]
+      }
+    },
+    {
+      "id": 3609,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Ortviken",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:45:29",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Trä i jord"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2480,
+                "filename": "Ortviken väster_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1952148,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2480",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2481,
+                "filename": "Ortviken väster_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2207421,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2481",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.349658014447723,
+          62.39598520644769
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.349658014447723,
+          62.39598520644769
+        ]
+      }
+    },
+    {
+      "id": 3610,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Ortviken öst",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:47:33",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Trä i jord"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2482,
+                "filename": "Ortviken öster_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2832804,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2482",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2483,
+                "filename": "Ortviken öster_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2273307,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2483",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.357856795783924,
+          62.39886618001267
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.357856795783924,
+          62.39886618001267
+        ]
+      }
+    },
+    {
+      "id": 3611,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Skönsberg",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:50:12",
+        "updated": "2023-05-11 10:50:25",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2484,
+                "filename": "Skönsberg Folkets Hus-Erikshjälpen_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2140220,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2484",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2485,
+                "filename": "Skönsberg Folkets Hus-Erikshjälpen_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1878871,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2485",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.34055687816321,
+          62.400960264484496
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.34055687816321,
+          62.400960264484496
+        ]
+      }
+    },
+    {
+      "id": 3612,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Skönsmon",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:53:05",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2486,
+                "filename": "Skönsmon centrumhuset_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2017492,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2486",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2487,
+                "filename": "Skönsmon centrumhuset_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1902829,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2487",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.344685795954973,
+          62.377523806425344
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.344685795954973,
+          62.377523806425344
+        ]
+      }
+    },
+    {
+      "id": 3613,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Svartvik Hemmanet",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:54:21",
+        "updated": "2025-07-17 14:51:23",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2488,
+                "filename": "Svartvik Hemmanet-Svartviks IP_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2012394,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2488",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2489,
+                "filename": "Svartvik Hemmanet-Svartviks IP_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 1603653,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2489",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.35906537878407,
+          62.31199435218483
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35906537878407,
+          62.31199435218483
+        ]
+      }
+    },
+    {
+      "id": 3614,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Söröje",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 10:59:44",
+        "updated": "2025-07-17 14:49:14",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2490,
+                "filename": "Söröje_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2595109,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2490",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2491,
+                "filename": "Söröje_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2296734,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2491",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.21874583671359,
+          62.184758164470296
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21874583671359,
+          62.184758164470296
+        ]
+      }
+    },
+    {
+      "id": 3615,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Torrsjö",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 11:01:55",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2492,
+                "filename": "Torrsjö_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2368907,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2492",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2493,
+                "filename": "Torrsjö_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 3159337,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2493",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.29657297605026,
+          62.214818535357544
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29657297605026,
+          62.214818535357544
+        ]
+      }
+    },
+    {
+      "id": 3616,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Tranviken",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 11:03:33",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2495,
+                "filename": "Tranvikens havsbad_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2340656,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2495",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2494,
+                "filename": "Tranviken havsbad_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2788438,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2494",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.507505496042867,
+          62.364186182096525
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.507505496042867,
+          62.364186182096525
+        ]
+      }
+    },
+    {
+      "id": 3617,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Viskan",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 11:07:03",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2496,
+                "filename": "Viskan_1.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 2265445,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2496",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2497,
+                "filename": "Viskan_2.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 2882937,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2497",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          16.435522988389195,
+          62.448741003154566
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.435522988389195,
+          62.448741003154566
+        ]
+      }
+    },
+    {
+      "id": 3618,
+      "type": "Feature",
+      "properties": {
+        "name": "Anslagstavla Näset",
+        "type": "Anslagstavla",
+        "created": "2023-05-11 11:35:21",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 83,
+            "name": "Fundament",
+            "type": "DROPDOWN",
+            "value": "Betongplintar"
+          },
+          {
+            "id": 82,
+            "name": "Typ av anslagstavla",
+            "type": "DROPDOWN",
+            "value": "Ryggåstak med sittbänk"
+          },
+          {
+            "id": 79,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2498,
+                "filename": "Alnön Näsets g a skola.jpg",
+                "description": "Anslagstavla",
+                "alttext": "Anslagstavla",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 1023280,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2498",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Handikappanpassad",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 288,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          }
+        ],
+        "centerPoint": [
+          17.456198505282412,
+          62.462291558442296
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.456198505282412,
+          62.462291558442296
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "type": "Feature",
+      "properties": {
+        "name": "Södraberget Infart",
+        "type": "Anslagstavla",
+        "created": "2018-06-18 09:26:12",
+        "updated": "2019-10-29 16:03:49",
+        "deleted": "2020-03-25 08:52:40"
+      },
+      "geometry": null
+    },
+    {
+      "id": 113,
+      "type": "Feature",
+      "properties": {
+        "name": "Södraberget infart",
+        "type": "Anslagstavla",
+        "created": "2018-06-18 09:33:31",
+        "updated": "2018-11-15 15:06:17",
+        "deleted": "2019-10-29 16:04:12"
+      },
+      "geometry": null
+    },
+    {
+      "id": 134,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget raststuga kåtan",
+        "type": "Anslagstavla",
+        "created": "2018-06-18 10:55:46",
+        "deleted": "2021-05-21 12:33:31"
+      },
+      "geometry": null
+    },
+    {
+      "id": 214,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Anslagstavla",
+        "created": "2018-06-19 15:10:41",
+        "deleted": "2018-12-12 12:56:54"
+      },
+      "geometry": null
+    },
+    {
+      "id": 216,
+      "type": "Feature",
+      "properties": {
+        "name": "Skidlek / Sidsjö",
+        "type": "Anslagstavla",
+        "created": "2018-06-20 08:45:09",
+        "updated": "2021-05-24 16:48:24",
+        "deleted": "2021-12-14 10:06:18"
+      },
+      "geometry": null
+    },
+    {
+      "id": 353,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Fläsian",
+        "type": "Anslagstavla",
+        "created": "2018-06-26 15:52:24",
+        "deleted": "2023-05-11 07:13:34"
+      },
+      "geometry": null
+    }
+  ]
+}

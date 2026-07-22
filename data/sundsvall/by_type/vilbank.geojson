@@ -1,0 +1,339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 566,
+      "type": "Feature",
+      "properties": {
+        "name": "Fanbyklacken vilbänk",
+        "type": "Vilbänk",
+        "created": "2018-08-06 10:33:20",
+        "deleted": "2020-04-06 16:02:24"
+      },
+      "geometry": null
+    },
+    {
+      "id": 128,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget solbänk Mullekojorna",
+        "type": "Vilbänk",
+        "created": "2018-06-18 10:40:02",
+        "updated": "2020-03-25 09:13:44",
+        "deleted": "2020-04-06 14:04:52"
+      },
+      "geometry": null
+    },
+    {
+      "id": 140,
+      "type": "Feature",
+      "properties": {
+        "name": "Södraberget lekplats skogslekparken",
+        "type": "Vilbänk",
+        "created": "2018-06-18 11:07:31",
+        "updated": "2020-03-25 09:07:48",
+        "deleted": "2020-03-25 09:08:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 147,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra Berget Tarzanstigen",
+        "type": "Vilbänk",
+        "created": "2018-06-18 13:21:22",
+        "updated": "2020-03-25 09:05:50",
+        "deleted": "2020-04-06 14:06:50"
+      },
+      "geometry": null
+    },
+    {
+      "id": 148,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget tarzanstigen",
+        "type": "Vilbänk",
+        "created": "2018-06-18 13:30:33",
+        "deleted": "2020-04-06 15:29:17"
+      },
+      "geometry": null
+    },
+    {
+      "id": 153,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget Tarzanstigen",
+        "type": "Vilbänk",
+        "created": "2018-06-18 13:38:28",
+        "deleted": "2020-04-06 14:47:17"
+      },
+      "geometry": null
+    },
+    {
+      "id": 155,
+      "type": "Feature",
+      "properties": {
+        "name": "Södra berget Tarzanstigen Kolarkojan",
+        "type": "Vilbänk",
+        "created": "2018-06-18 13:48:28",
+        "deleted": "2020-04-06 14:46:55"
+      },
+      "geometry": null
+    },
+    {
+      "id": 158,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 12:48:12",
+        "updated": "2019-05-08 08:12:53",
+        "deleted": "2020-04-06 14:24:12"
+      },
+      "geometry": null
+    },
+    {
+      "id": 161,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 12:55:30",
+        "updated": "2019-05-15 15:04:42",
+        "deleted": "2020-04-06 14:12:35"
+      },
+      "geometry": null
+    },
+    {
+      "id": 162,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 13:00:30",
+        "updated": "2019-05-08 08:58:00",
+        "deleted": "2020-04-06 14:22:59"
+      },
+      "geometry": null
+    },
+    {
+      "id": 170,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 13:22:41",
+        "updated": "2019-05-08 08:09:14",
+        "deleted": "2020-04-06 14:27:53"
+      },
+      "geometry": null
+    },
+    {
+      "id": 171,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 13:23:21",
+        "deleted": "2020-04-06 14:43:19"
+      },
+      "geometry": null
+    },
+    {
+      "id": 172,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö öst",
+        "type": "Vilbänk",
+        "created": "2018-06-19 13:26:39",
+        "updated": "2019-05-08 08:11:22",
+        "deleted": "2020-04-06 14:26:02"
+      },
+      "geometry": null
+    },
+    {
+      "id": 181,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 13:44:41",
+        "updated": "2019-05-08 09:06:19",
+        "deleted": "2020-04-06 14:20:59"
+      },
+      "geometry": null
+    },
+    {
+      "id": 192,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 14:35:38",
+        "updated": "2019-05-15 15:03:14",
+        "deleted": "2020-04-06 14:16:41"
+      },
+      "geometry": null
+    },
+    {
+      "id": 194,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö sydväst",
+        "type": "Vilbänk",
+        "created": "2018-06-19 14:40:54",
+        "updated": "2019-05-08 07:53:44",
+        "deleted": "2020-04-06 14:31:15"
+      },
+      "geometry": null
+    },
+    {
+      "id": 197,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö väst",
+        "type": "Vilbänk",
+        "created": "2018-06-19 14:47:55",
+        "updated": "2019-05-08 08:04:35",
+        "deleted": "2020-04-06 14:28:08"
+      },
+      "geometry": null
+    },
+    {
+      "id": 710,
+      "type": "Feature",
+      "properties": {
+        "name": "Vackra bäcken 1",
+        "type": "Vilbänk",
+        "created": "2019-05-07 10:40:13",
+        "deleted": "2020-04-06 14:34:59"
+      },
+      "geometry": null
+    },
+    {
+      "id": 711,
+      "type": "Feature",
+      "properties": {
+        "name": "Vackra bäcken 2",
+        "type": "Vilbänk",
+        "created": "2019-05-07 10:41:52",
+        "deleted": "2020-04-06 14:33:21"
+      },
+      "geometry": null
+    },
+    {
+      "id": 202,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 14:53:31",
+        "updated": "2019-05-08 08:03:20",
+        "deleted": "2020-04-06 14:29:43"
+      },
+      "geometry": null
+    },
+    {
+      "id": 203,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 14:56:45",
+        "deleted": "2020-04-06 14:41:32"
+      },
+      "geometry": null
+    },
+    {
+      "id": 210,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 15:03:02",
+        "updated": "2018-12-12 12:58:09",
+        "deleted": "2020-04-06 14:36:50"
+      },
+      "geometry": null
+    },
+    {
+      "id": 211,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 15:06:45",
+        "deleted": "2020-04-06 14:39:58"
+      },
+      "geometry": null
+    },
+    {
+      "id": 213,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjö",
+        "type": "Vilbänk",
+        "created": "2018-06-19 15:08:48",
+        "deleted": "2020-04-06 14:38:10"
+      },
+      "geometry": null
+    },
+    {
+      "id": 271,
+      "type": "Feature",
+      "properties": {
+        "name": "Jaktkojan",
+        "type": "Vilbänk",
+        "created": "2018-06-21 10:30:52",
+        "deleted": "2020-04-06 14:45:05"
+      },
+      "geometry": null
+    },
+    {
+      "id": 312,
+      "type": "Feature",
+      "properties": {
+        "name": "Hornsjön",
+        "type": "Vilbänk",
+        "created": "2018-06-26 14:27:23",
+        "deleted": "2020-04-06 15:39:41"
+      },
+      "geometry": null
+    },
+    {
+      "id": 368,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Sodom",
+        "type": "Vilbänk",
+        "created": "2018-06-26 16:18:22",
+        "deleted": "2020-04-06 15:50:33"
+      },
+      "geometry": null
+    },
+    {
+      "id": 382,
+      "type": "Feature",
+      "properties": {
+        "name": "Norra Berget Bureplatsen",
+        "type": "Vilbänk",
+        "created": "2018-06-27 10:54:57",
+        "updated": "2020-03-25 08:45:32",
+        "deleted": "2020-04-06 14:08:58"
+      },
+      "geometry": null
+    },
+    {
+      "id": 457,
+      "type": "Feature",
+      "properties": {
+        "name": "Badplats Räveln",
+        "type": "Vilbänk",
+        "created": "2018-07-02 11:34:07",
+        "deleted": "2020-04-06 15:59:09"
+      },
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1197,
+      "type": "Feature",
+      "properties": {
+        "name": "Kubenbadet",
+        "type": "Bassängbad",
+        "created": "2019-11-21 11:18:03",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1247,
+      "type": "Feature",
+      "properties": {
+        "name": "Malandsbadet",
+        "type": "Bassängbad",
+        "created": "2019-11-27 09:19:29",
+        "updated": "2022-01-10 15:46:34",
+        "published": true,
+        "owner": {
+          "organizationID": 168,
+          "name": "Sundsvalls kommun Drakfastigheter"
+        },
+        "manager": {
+          "organizationID": 79,
+          "name": "ljusta aktivitets centrum lac"
+        },
+        "tags": [
+          "bad",
+          "badbassäng",
+          "badplats",
+          "malandsbadet",
+          "utebad"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 1083,
+                "filename": "9 Maland 500.jpg",
+                "description": "Malandsbadet",
+                "alttext": "Simbassäng utomhus",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 187176,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1083",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1085,
+                "filename": "10 Maland 500.jpg",
+                "description": "Omklädningsbyggnad vid Malandsbadet",
+                "alttext": "Fasad till en byggnad",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 178704,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1085",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Tempererat bad i barnvänlig bassäng och med fina stora grönytor. Bassäng 35 meter, hopptorn 3 meter och 1 meters sviktbräda. Plaskbassäng, omklädningsrum med dusch."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/uppleva-och-gora/bada-simma/utomhuspooler/"
+          }
+        ],
+        "centerPoint": [
+          17.37340541831622,
+          62.45051171399863
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.37299414732965,
+                62.45064082000697
+              ],
+              [
+                17.37386201906883,
+                62.45058294916252
+              ],
+              [
+                17.37381135958692,
+                62.450384435921634
+              ],
+              [
+                17.372949509601888,
+                62.45044491960858
+              ],
+              [
+                17.37299414732965,
+                62.45064082000697
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

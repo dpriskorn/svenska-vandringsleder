@@ -1,0 +1,272 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1787,
+      "type": "Feature",
+      "properties": {
+        "name": "Vargbergets klapperstensfält",
+        "type": "Geologisk lokal",
+        "created": "2021-05-18 13:52:15",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 252,
+            "name": "Geologisk fenomen",
+            "type": "DROPDOWN",
+            "value": "Klapperstensfält"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vargberget i södra Njurunda är ett fint ställe sommar som vinter. På vintern kan man åka skidor på de stora klapperstensfälten och njuta av utsikten över Armsjön och havet. Speciellt framåt mars, när det går att åka fritt på skaren. På sommaren är det litet jobbigare att ta sig fram, men fortfarande samma fina utsikt. I de högre delarna, den norra delen av berget, är det gott om blåbär. Det finns också häftiga block-grottor där barn kan krypa in på ett ställe och komma ut 20 m längre bort och 5 meter högre upp. Till Vargberget kan man komma från E4 vid Skedlovallen eller från Nyråviken. Man kan även starta vid Åstjärnarna eller från Orrsjön. Mer information finns i Sundsvalls Naturguide"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://sundsvall.se/wp.../uploads/2016/08/Vargberget.pdf"
+          }
+        ],
+        "centerPoint": [
+          17.33472541272465,
+          62.17842871360743
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.345462693965825,
+                62.182582438221985
+              ],
+              [
+                17.341112076502405,
+                62.18309858715341
+              ],
+              [
+                17.324143787715684,
+                62.17626308803697
+              ],
+              [
+                17.331821794983263,
+                62.17369996408473
+              ],
+              [
+                17.338296115088777,
+                62.17395291393305
+              ],
+              [
+                17.342356303041242,
+                62.17748516977449
+              ],
+              [
+                17.345462693965825,
+                62.182582438221985
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1788,
+      "type": "Feature",
+      "properties": {
+        "name": "Bölebergets klapperstensfält",
+        "type": "Geologisk lokal",
+        "created": "2021-05-18 13:57:00",
+        "updated": "2022-01-10 16:48:02",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 252,
+            "name": "Geologisk fenomen",
+            "type": "DROPDOWN",
+            "value": "Klapperstensfält"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": []
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Spektakulära klapperstensfält. Här är blocken mycket stora för att vara ett klapperstensfält. Block kring metern är vanliga."
+          }
+        ],
+        "centerPoint": [
+          17.392037741187213,
+          62.221237827456534
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.3918648997819,
+                62.22272938269551
+              ],
+              [
+                17.38997745065452,
+                62.22229923919653
+              ],
+              [
+                17.38901244200984,
+                62.22126979495317
+              ],
+              [
+                17.390768698206603,
+                62.21977100009181
+              ],
+              [
+                17.395084497338676,
+                62.22147686084852
+              ],
+              [
+                17.39410243684406,
+                62.22213755781825
+              ],
+              [
+                17.3918648997819,
+                62.22272938269551
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 4165,
+      "type": "Feature",
+      "properties": {
+        "name": "Omsbergets klyfta",
+        "type": "Geologisk lokal",
+        "created": "2025-10-17 23:09:07",
+        "updated": "2025-10-17 23:12:02",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 252,
+            "name": "Geologisk fenomen",
+            "type": "DROPDOWN",
+            "value": "Skreva"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2749,
+                "filename": "20250929_164307.jpg",
+                "description": "Skreva",
+                "alttext": "Skrivamellan två berg",
+                "sourcetext": "Anders Erlandsson Friluftsenheten ",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 19573503,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2749",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Djup klyfta i berget. Lite som en mini variant av Slåttdalsskrevan"
+          },
+          {
+            "id": 291,
+            "name": "Tillgänglighetsbeskrivning",
+            "type": "FREETEXT",
+            "value": "Mycket svårtillgänglig"
+          }
+        ],
+        "centerPoint": [
+          17.32745534844227,
+          62.32048791678521
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.327180973813427,
+                62.32039017910037
+              ],
+              [
+                17.3277266034749,
+                62.32057414658651
+              ],
+              [
+                17.32754737725978,
+                62.320420854360485
+              ],
+              [
+                17.327180973813427,
+                62.32039017910037
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

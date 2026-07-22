@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 837,
+      "type": "Feature",
+      "properties": {
+        "name": "Längdhoppsgrop",
+        "type": "Idrottsplats",
+        "created": "2019-10-17 15:40:10",
+        "updated": "2019-10-17 16:08:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 838,
+      "type": "Feature",
+      "properties": {
+        "name": "Längdhoppsgrop",
+        "type": "Idrottsplats",
+        "created": "2019-10-17 15:44:19",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 839,
+      "type": "Feature",
+      "properties": {
+        "name": "Löparbana",
+        "type": "Idrottsplats",
+        "created": "2019-10-17 16:05:25",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 840,
+      "type": "Feature",
+      "properties": {
+        "name": "Löparbana",
+        "type": "Idrottsplats",
+        "created": "2019-10-17 16:14:33",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 913,
+      "type": "Feature",
+      "properties": {
+        "name": "Ånäsvallen",
+        "type": "Idrottsplats",
+        "created": "2019-10-24 08:54:10",
+        "updated": "2022-12-14 08:59:58",
+        "published": true,
+        "tags": [
+          "11-mannaplan",
+          "fotboll",
+          "grusplan"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 703,
+                "filename": "kovlands_ip_11m_grus.jpg",
+                "description": "",
+                "alttext": "",
+                "sourcetext": "Sundsvalls kommun",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 57248,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/703",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Grusplan för 11-mannaspel."
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/KovlandsIF"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/KovlandsIF"
+          }
+        ],
+        "centerPoint": [
+          17.146340324018432,
+          62.469475938918016
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.145873065790923,
+                62.46901110984683
+              ],
+              [
+                17.147021628828536,
+                62.46907161347418
+              ],
+              [
+                17.146807721387912,
+                62.46994124003221
+              ],
+              [
+                17.145659125339517,
+                62.469880734737856
+              ],
+              [
+                17.145873065790923,
+                62.46901110984683
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 915,
+      "type": "Feature",
+      "properties": {
+        "name": "Friidrottsanläggning",
+        "type": "Idrottsplats",
+        "created": "2019-10-24 10:33:28",
+        "updated": "2024-05-31 12:10:06",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

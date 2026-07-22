@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1624,
+      "type": "Feature",
+      "properties": {
+        "name": "Midskogsberget",
+        "type": "Klätterområde",
+        "created": "2020-07-09 15:06:03",
+        "updated": "2022-08-31 13:18:01",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 221,
+            "name": "Antal leder",
+            "type": "INTEGER",
+            "value": 84
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2377,
+                "filename": "20220522_094449.mp4",
+                "description": "Film från toppen av klätterlederna",
+                "alttext": "Film med utsikt från toppen av klätterlederna på Midskogsberget",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "video/mp4",
+                "size": 44505848,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2377",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2378,
+                "filename": "20220522_094923.jpg",
+                "description": "Utsikt mot Ljungan",
+                "alttext": "Utsikt mot Ljungan",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 2,
+                "type": "image/jpeg",
+                "size": 4747471,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2378",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 2379,
+                "filename": "20220522_094943.jpg",
+                "description": "Torrak med utsikt",
+                "alttext": "Torrak med utsikt",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": true,
+                "validForSummer": true,
+                "sortIndex": 3,
+                "type": "image/jpeg",
+                "size": 4652617,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2379",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Midskogsberget ligger intill Ljungan ca 20km från Sundsvall och söderläget medför att säsongen börjar tidigt och slutar sent. En klippa som erbjuder lite av varje, sport, mix, trad, långt kort, sva, överhäng, lätt och svårt. Ett perfekt ställe för ett gäng med lite olika preferenser.  Området omfattar även ett antal boulderblock med några intressanta problem av varierande svårighetsgrad."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.sundsvallsklatterklubb.se/forare/klippklattring/midskogsberget/"
+          },
+          {
+            "id": 222,
+            "name": "Svårighet på leder",
+            "type": "FREETEXT",
+            "value": "Upp till 8c+"
+          },
+          {
+            "id": 223,
+            "name": "Förare",
+            "type": "FREETEXT",
+            "value": "http://www.sverigeforaren.se/Midskogs/"
+          }
+        ],
+        "centerPoint": [
+          17.292810257778463,
+          62.305587705456695
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.284839138285722,
+                62.304486909635685
+              ],
+              [
+                17.286599774289495,
+                62.30775190068859
+              ],
+              [
+                17.30063607074451,
+                62.30477944163047
+              ],
+              [
+                17.299829131685698,
+                62.303409834842014
+              ],
+              [
+                17.294601107344505,
+                62.30427575709215
+              ],
+              [
+                17.2884579341185,
+                62.304477646716414
+              ],
+              [
+                17.284839138285722,
+                62.304486909635685
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1626,
+      "type": "Feature",
+      "properties": {
+        "name": "Tunomsberget",
+        "type": "Klätterområde",
+        "created": "2020-07-09 15:10:14",
+        "updated": "2022-08-31 13:22:29",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 221,
+            "name": "Antal leder",
+            "type": "INTEGER",
+            "value": 16
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2382,
+                "filename": "20220612_180122.jpg",
+                "description": "Klippa med överhäng",
+                "alttext": "Klippa med överhäng",
+                "sourcetext": "Friluftsenheten",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 1,
+                "type": "image/jpeg",
+                "size": 5613358,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2382",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En klippa som erbjuder både sport, mix och trad. Lederna är mellan 10-20m och potential finns för riktigt hårda leder då klippan är överhängande och gör rätt för sitt smeknamn ?lilla Frankenjura?. På grund av skyddsvärd flora och fauna råder klättringsförbud under tiden 1 mars - 15 juli. Markägare positiv till klättring men parkera inte efter grusvägen det är Privat mark. Parkera på älvsidan av asfaltvägen 150m mot Kvissleby, stor grusparkering. Det går dock bra att köra upp för grusvägen för att lämna packningen."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "http://www.sundsvallsklatterklubb.se/forare/klippklattring/tunbyn/"
+          },
+          {
+            "id": 222,
+            "name": "Svårighet på leder",
+            "type": "FREETEXT",
+            "value": "5c till 7a+"
+          },
+          {
+            "id": 223,
+            "name": "Förare",
+            "type": "FREETEXT",
+            "value": "http://www.sverigeforaren.se/Tunbyn/"
+          }
+        ],
+        "centerPoint": [
+          17.217054629250093,
+          62.31085824649095
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.21725994408175,
+                62.3113698196289
+              ],
+              [
+                17.21610428592668,
+                62.31049815536123
+              ],
+              [
+                17.21636935212499,
+                62.31035563652503
+              ],
+              [
+                17.21681296779949,
+                62.31043656504704
+              ],
+              [
+                17.21733001326744,
+                62.31070741494314
+              ],
+              [
+                17.218015336495895,
+                62.311355251758755
+              ],
+              [
+                17.21725994408175,
+                62.3113698196289
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1627,
+      "type": "Feature",
+      "properties": {
+        "name": "Brattberget",
+        "type": "Klätterområde",
+        "created": "2020-07-09 15:13:08",
+        "updated": "2021-06-30 21:05:51",
+        "published": true,
+        "tags": [
+          "sundsvall400toppar"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 221,
+            "name": "Antal leder",
+            "type": "INTEGER",
+            "value": 60
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "En handfull klippor på stranden. Klättringen är huvudsakligen mixad, med både egna kilar och stödbultar. Sedan en tid tillbaka rustas klippan successivt av Sundsvalls klätterklubb och den bjuder nu även på mycket fina sportturer & tradleder. Brattberget har ca 60 leder av varierande kvalité, med en fantastisk utsikt mot Sundsvallsbukten."
+          },
+          {
+            "id": 222,
+            "name": "Svårighet på leder",
+            "type": "FREETEXT",
+            "value": "5a till 6c+"
+          },
+          {
+            "id": 223,
+            "name": "Förare",
+            "type": "FREETEXT",
+            "value": "http://www.sverigeforaren.se/Brattberget"
+          }
+        ],
+        "centerPoint": [
+          17.427897227539184,
+          62.330036408557696
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.427887084397682,
+                62.330782810427586
+              ],
+              [
+                17.42748555245442,
+                62.330095790707226
+              ],
+              [
+                17.427410289095636,
+                62.329297460290036
+              ],
+              [
+                17.428212238294133,
+                62.329318660352925
+              ],
+              [
+                17.42830151715147,
+                62.3297546425045
+              ],
+              [
+                17.42827261517833,
+                62.330735843710904
+              ],
+              [
+                17.427887084397682,
+                62.330782810427586
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1628,
+      "type": "Feature",
+      "properties": {
+        "name": "Nolbykullen",
+        "type": "Klätterområde",
+        "created": "2020-07-09 15:17:02",
+        "updated": "2022-01-10 16:25:24",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 221,
+            "name": "Antal leder",
+            "type": "INTEGER",
+            "value": 20
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Klätterleder på Nolbykullens östsida. Nolby är en liten sportklippa vid Nolbybacken med ett 20-tal leder. Lederna här är ganska korta (~10m) men håller ändå hög klass. Graderna ligger i intervallet 5a till 7c."
+          },
+          {
+            "id": 222,
+            "name": "Svårighet på leder",
+            "type": "FREETEXT",
+            "value": "5c till 7c"
+          },
+          {
+            "id": 223,
+            "name": "Förare",
+            "type": "FREETEXT",
+            "value": "http://www.sverigeforaren.se/Nolby/"
+          }
+        ],
+        "centerPoint": [
+          17.366760466028936,
+          62.301198245814966
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.367214223911397,
+                62.300920261336856
+              ],
+              [
+                17.3671493622709,
+                62.301057152213545
+              ],
+              [
+                17.366727537999274,
+                62.301325851785506
+              ],
+              [
+                17.366490834182784,
+                62.301475727663515
+              ],
+              [
+                17.366296757661168,
+                62.301343247502516
+              ],
+              [
+                17.36678423934207,
+                62.300947703285885
+              ],
+              [
+                17.367214223911397,
+                62.300920261336856
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1674,
+      "type": "Feature",
+      "properties": {
+        "name": "Isklättring Nackberget",
+        "type": "Klätterområde",
+        "created": "2020-09-18 15:16:55",
+        "updated": "2020-10-27 22:24:28",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Nackberget erbjuder flera fina isklättringsplatser. Med sitt nordostliga läge är säsongen lång. Normalt november till april. Platserna nås enkelt från grusvägen."
+          }
+        ],
+        "centerPoint": [
+          16.770337186363385,
+          62.70772866610366
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.76581427124387,
+                62.71422865162962
+              ],
+              [
+                16.770344141995555,
+                62.709803769930666
+              ],
+              [
+                16.76922234114638,
+                62.706186078442144
+              ],
+              [
+                16.767326631149096,
+                62.702623626325966
+              ],
+              [
+                16.77485813874784,
+                62.70122854773411
+              ],
+              [
+                16.775005686575383,
+                62.70590950788106
+              ],
+              [
+                16.774337504767384,
+                62.71028100561183
+              ],
+              [
+                16.771578208651515,
+                62.71395716909064
+              ],
+              [
+                16.76581427124387,
+                62.71422865162962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1732,
+      "type": "Feature",
+      "properties": {
+        "name": "Skölesklevarna isklättring",
+        "type": "Klätterområde",
+        "created": "2020-12-16 18:17:31",
+        "updated": "2020-12-16 18:23:22",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Nedansjöisarna är fint belägna på nordsidan av Skölesklevarna med vy utöver dalgången där älven Ljungan flyter igenom. Under normala förhållanden sträcker sig säsongen från början av december till slutet av mars."
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/ExpeditionAltitudKFMatfors-Klattring/"
+          },
+          {
+            "id": 223,
+            "name": "Förare",
+            "type": "FREETEXT",
+            "value": "http://www.sundsvallsklatterklubb.se/forare/isklattring/nedansjo-skolesklevarna/"
+          }
+        ],
+        "centerPoint": [
+          16.908290358909166,
+          62.35370700244302
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                16.905455210346993,
+                62.3533637155904
+              ],
+              [
+                16.907935751850797,
+                62.354938751890785
+              ],
+              [
+                16.910488390292358,
+                62.35424000221977
+              ],
+              [
+                16.911087225574366,
+                62.35344737659438
+              ],
+              [
+                16.909336830988664,
+                62.35246576408551
+              ],
+              [
+                16.905455210346993,
+                62.3533637155904
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

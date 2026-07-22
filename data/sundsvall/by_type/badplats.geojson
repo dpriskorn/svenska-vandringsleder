@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 793,
+      "type": "Feature",
+      "properties": {
+        "name": "Släda 2",
+        "type": "Badplats",
+        "created": "2019-10-15 14:32:38",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 894,
+      "type": "Feature",
+      "properties": {
+        "name": "Bjässjöns strandbad",
+        "type": "Badplats",
+        "created": "2019-10-22 13:22:08",
+        "updated": "2020-06-30 11:33:53",
+        "deleted": "2020-07-08 18:27:13"
+      },
+      "geometry": null
+    },
+    {
+      "id": 895,
+      "type": "Feature",
+      "properties": {
+        "name": "Brudsjöns friluftsbad",
+        "type": "Badplats",
+        "created": "2019-10-22 13:30:22",
+        "deleted": "2019-11-15 08:31:43"
+      },
+      "geometry": null
+    },
+    {
+      "id": 897,
+      "type": "Feature",
+      "properties": {
+        "name": "Kävsta strandbad",
+        "type": "Badplats",
+        "created": "2019-10-22 14:05:17",
+        "updated": "2020-07-07 16:34:21",
+        "deleted": "2021-09-07 10:19:45"
+      },
+      "geometry": null
+    },
+    {
+      "id": 921,
+      "type": "Feature",
+      "properties": {
+        "name": "Sättnaån",
+        "type": "Badplats",
+        "created": "2019-10-24 14:23:14",
+        "deleted": "2024-05-31 12:07:56"
+      },
+      "geometry": null
+    }
+  ]
+}

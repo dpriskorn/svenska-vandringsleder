@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1712,
+      "type": "Feature",
+      "properties": {
+        "name": "Bergafjärdens äventyrsgolf",
+        "type": "Äventyrsgolf",
+        "created": "2020-12-15 12:24:16",
+        "updated": "2026-06-22 09:34:29",
+        "published": true,
+        "parentObjects": [
+          3934
+        ],
+        "owner": {
+          "organizationID": 7,
+          "name": "bergafjärdens camping"
+        },
+        "manager": {
+          "organizationID": 7,
+          "name": "bergafjärdens camping"
+        },
+        "tags": [
+          "12-hålsbana",
+          "bangolf",
+          "bergafjärden",
+          "minigolf",
+          "äventyrsgolf"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 245,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 12
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Vid Bergafjärdens camping och havsbad finns det är en 12-hålsbana med olika kluriga utmaningar på varje bana. Till exempel ska man chippa över en bäck, skjuta över Sundsvallsbron och putta i en vattenränna. Rolig bana för både stora och små!"
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://bergafjarden.nu/aktiviteter/"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://bergafjarden.nu/aktiviteter/"
+          }
+        ],
+        "centerPoint": [
+          17.452058125458198,
+          62.26807633955123
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.452519685547532,
+                62.26829666634049
+              ],
+              [
+                17.452098307916398,
+                62.26825758913502
+              ],
+              [
+                17.452057540811733,
+                62.268121260812485
+              ],
+              [
+                17.451939609904212,
+                62.268130887807885
+              ],
+              [
+                17.451780103744134,
+                62.26816010887027
+              ],
+              [
+                17.451637210278058,
+                62.268161375210596
+              ],
+              [
+                17.451518127290928,
+                62.26792458654455
+              ],
+              [
+                17.45174553623089,
+                62.267867762696106
+              ],
+              [
+                17.451900980042392,
+                62.267854958629606
+              ],
+              [
+                17.4521106130268,
+                62.26784496916471
+              ],
+              [
+                17.45221172622684,
+                62.26786078559584
+              ],
+              [
+                17.4523033906032,
+                62.26789311410106
+              ],
+              [
+                17.452601571058924,
+                62.26827510244422
+              ],
+              [
+                17.452519685547532,
+                62.26829666634049
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1730,
+      "type": "Feature",
+      "properties": {
+        "name": "Granlo äventyrsgolf",
+        "type": "Äventyrsgolf",
+        "created": "2020-12-15 17:16:54",
+        "updated": "2022-01-10 21:55:00",
+        "published": true,
+        "owner": {
+          "organizationID": 158,
+          "name": "sundsvalls bgk"
+        },
+        "manager": {
+          "organizationID": 158,
+          "name": "sundsvalls bgk"
+        },
+        "tags": [
+          "bangolf",
+          "golf",
+          "minigolf",
+          "sundsvalls bangolfklubb",
+          "äventyrsgolf"
+        ],
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 245,
+            "name": "Antal hål",
+            "type": "INTEGER",
+            "value": 18
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 2016,
+                "filename": "DSC_0081.JPG",
+                "description": "Granlo äventyrsgolf",
+                "alttext": "Granlo äventyrsgolf",
+                "sourcetext": "",
+                "validForWinter": false,
+                "validForSummer": true,
+                "sortIndex": 4,
+                "type": "image/jpeg",
+                "size": 2277504,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/2016",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Ja"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Äventyrsgolf belägen centralt i Granlo. Servering finns i anslutning till banan, se hemsida/Facebook för öppetider."
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SundsvallsBGK-Bangolf/besoksinfo/Priser"
+          },
+          {
+            "id": 155,
+            "name": "Bokning länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SundsvallsBGK-Bangolf/besoksinfo/Priser"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://idrottonline.se/SundsvallsBGK-Bangolf/besoksinfo/Priser"
+          }
+        ],
+        "centerPoint": [
+          17.254230909958096,
+          62.404222903697615
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.254611016736785,
+                62.403978465019804
+              ],
+              [
+                17.254696186070014,
+                62.40402988893592
+              ],
+              [
+                17.254800057142155,
+                62.40432993628282
+              ],
+              [
+                17.254287783606554,
+                62.4045092074319
+              ],
+              [
+                17.253662455054748,
+                62.40412205027971
+              ],
+              [
+                17.25389441920078,
+                62.40403532163018
+              ],
+              [
+                17.254131040118175,
+                62.403938459594535
+              ],
+              [
+                17.254357967638743,
+                62.4040730793633
+              ],
+              [
+                17.254611016736785,
+                62.403978465019804
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3655,
+      "type": "Feature",
+      "properties": {
+        "name": "Juniskärs äventyrsgolf",
+        "type": "Äventyrsgolf",
+        "created": "2023-06-25 19:26:55",
+        "updated": "2023-06-25 19:28:05",
+        "published": true,
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 136,
+            "name": "Öppettider länk",
+            "type": "FREETEXT",
+            "value": "https://www.cafejuniskar.se/golf/index.php"
+          },
+          {
+            "id": 180,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.cafejuniskar.se/golf/index.php"
+          }
+        ],
+        "centerPoint": [
+          17.448621418573868,
+          62.295468492571736
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.448375118372336,
+                62.295546409705125
+              ],
+              [
+                17.44839145116539,
+                62.295377834576996
+              ],
+              [
+                17.448626235547362,
+                62.29536838976722
+              ],
+              [
+                17.44886164247415,
+                62.2953756107619
+              ],
+              [
+                17.44880141138421,
+                62.29554041155536
+              ],
+              [
+                17.448375118372336,
+                62.295546409705125
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

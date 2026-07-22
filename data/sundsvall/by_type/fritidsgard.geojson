@@ -1,0 +1,539 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 848,
+      "type": "Feature",
+      "properties": {
+        "name": "Centrumvillan",
+        "type": "Fritidsgård",
+        "created": "2019-10-18 10:20:50",
+        "updated": "2020-04-06 16:39:28",
+        "published": true,
+        "owner": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "manager": {
+          "organizationID": 171,
+          "name": "Sundsvalls kommun Kultur och fritid"
+        },
+        "fields": [
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 583,
+                "filename": "centrumvillan.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 64676,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/583",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 584,
+                "filename": "bordtennis_sticksjö.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 66453,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/584",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 585,
+                "filename": "replokal_centrumvillan.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 72749,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/585",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 586,
+                "filename": "keramikverkstad_centrumvillan.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 67370,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/586",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Granbergsskolan Västra",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "6c56abe1-3172-4a64-b818-33db767218e3"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Allaktivitetshus/Fritidsgård i Granloholm centrum. Fakta: Centrumvillan riktar sig till ungdomar mellan 11-18 år. Fritidsgården erbjuder en rad olika aktiviteter, mest inriktade på spontan verksamhet. Utöver arrangerade aktiviteter finns här tillgång till idrottshall, samlingssal, keramiklokal, fotolab, bordtennis, biljard och replokal. Det finns även möjlighet att hyra lokaler."
+          },
+          {
+            "id": 152,
+            "name": "Kontakt länk",
+            "type": "FREETEXT",
+            "value": "https://www.ungisundsvall.se/motesplatser/sundsvalls-fritidsgardar/centrumvillan/"
+          }
+        ],
+        "centerPoint": [
+          17.270497091041445,
+          62.41178633723598
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.27123916470382,
+                62.41179261607473
+              ],
+              [
+                17.27123577191584,
+                62.41209221964608
+              ],
+              [
+                17.271043153016603,
+                62.412091489308196
+              ],
+              [
+                17.27104326375793,
+                62.412115688794486
+              ],
+              [
+                17.27030484945944,
+                62.412111191638765
+              ],
+              [
+                17.270307500805433,
+                62.41199284500984
+              ],
+              [
+                17.269971077138567,
+                62.41199162785259
+              ],
+              [
+                17.269970918377858,
+                62.41183616751136
+              ],
+              [
+                17.269941642942204,
+                62.411834390516596
+              ],
+              [
+                17.269994704911955,
+                62.41158068315321
+              ],
+              [
+                17.269972113099556,
+                62.411571792811856
+              ],
+              [
+                17.26999670140656,
+                62.41146671151973
+              ],
+              [
+                17.270053275385283,
+                62.411453891099384
+              ],
+              [
+                17.27039839668361,
+                62.41147006173912
+              ],
+              [
+                17.27040078020514,
+                62.411458842708534
+              ],
+              [
+                17.270651889566466,
+                62.411471336357145
+              ],
+              [
+                17.270624504920107,
+                62.41160566655633
+              ],
+              [
+                17.270651380737526,
+                62.41161538497787
+              ],
+              [
+                17.270637522837767,
+                62.41167985426435
+              ],
+              [
+                17.27060729433408,
+                62.411685429661595
+              ],
+              [
+                17.27058393976237,
+                62.41178913498387
+              ],
+              [
+                17.27123916470382,
+                62.41179261607473
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.26997095053618,
+                62.41186726496125
+              ],
+              [
+                17.269761357027797,
+                62.41186736621051
+              ],
+              [
+                17.269762053894475,
+                62.411840522417435
+              ],
+              [
+                17.269822433517135,
+                62.41184086773733
+              ],
+              [
+                17.26982285626311,
+                62.41182599883876
+              ],
+              [
+                17.269943425726925,
+                62.4118259740858
+              ],
+              [
+                17.269941642942204,
+                62.411834390516596
+              ],
+              [
+                17.269970918377858,
+                62.41183616751136
+              ],
+              [
+                17.26997095053618,
+                62.41186726496125
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 890,
+      "type": "Feature",
+      "properties": {
+        "name": "Rasåsgården",
+        "type": "Fritidsgård",
+        "created": "2019-10-22 10:29:29",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 993,
+      "type": "Feature",
+      "properties": {
+        "name": "Indals allaktivitetshus",
+        "type": "Fritidsgård",
+        "created": "2019-10-30 11:12:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 994,
+      "type": "Feature",
+      "properties": {
+        "name": "Nackstagården",
+        "type": "Fritidsgård",
+        "created": "2019-10-30 11:23:15",
+        "updated": "2020-09-12 06:00:02",
+        "published": true,
+        "tags": [
+          "biljard",
+          "bordtennis",
+          "fritidsgård",
+          "replokal"
+        ],
+        "fields": [
+          {
+            "id": 200,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Särskilda öppettider"
+          },
+          {
+            "id": 159,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 803,
+                "filename": "fritidsgård_nackstagården.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 61675,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/803",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Byggnad",
+            "type": "BUILDING",
+            "buildingName": "Norrbackaskolans förskola",
+            "buildingStatus": "Gällande",
+            "buildingGuid": "39bf4660-1861-472f-9e12-e185a709820f"
+          },
+          {
+            "id": 78,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fritidsgården erbjuder både fast och spontan verksamhet för målgruppen 13-18 år. Fakta:  Bordtennis, biljard, DJ-utrustning, replokal, studio, internet. "
+          }
+        ],
+        "centerPoint": [
+          17.25964352634829,
+          62.39247109587208
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.25893390186794,
+                62.39282470851175
+              ],
+              [
+                17.258609623605622,
+                62.39288347167302
+              ],
+              [
+                17.258341309353867,
+                62.392564541645804
+              ],
+              [
+                17.258471616022653,
+                62.39254093904857
+              ],
+              [
+                17.258404117873873,
+                62.392460701470846
+              ],
+              [
+                17.260616073455033,
+                62.39205983341909
+              ],
+              [
+                17.26095189242022,
+                62.392458995659716
+              ],
+              [
+                17.260089968927986,
+                62.392615204771076
+              ],
+              [
+                17.259503118343694,
+                62.39272156019033
+              ],
+              [
+                17.25893390186794,
+                62.39282470851175
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.259226791144677,
+                62.39241786623305
+              ],
+              [
+                17.259411401251352,
+                62.39263889630552
+              ],
+              [
+                17.25957434655504,
+                62.39260958160083
+              ],
+              [
+                17.259389716110597,
+                62.3923885520616
+              ],
+              [
+                17.259226791144677,
+                62.39241786623305
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.25870863001069,
+                62.39251285763625
+              ],
+              [
+                17.258893414523467,
+                62.39273290670056
+              ],
+              [
+                17.259055241261862,
+                62.39270362872079
+              ],
+              [
+                17.258870437100207,
+                62.392483589157386
+              ],
+              [
+                17.25870863001069,
+                62.39251285763625
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                17.259805221475304,
+                62.392312564528766
+              ],
+              [
+                17.259992634546958,
+                62.39253453619453
+              ],
+              [
+                17.260138528066573,
+                62.39250800299427
+              ],
+              [
+                17.259951114089187,
+                62.39228603152808
+              ],
+              [
+                17.259805221475304,
+                62.392312564528766
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 1021,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsbergs fritidsgård",
+        "type": "Fritidsgård",
+        "created": "2019-11-04 10:53:58",
+        "updated": "2024-12-17 06:00:07",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1118,
+      "type": "Feature",
+      "properties": {
+        "name": "Matfors Fritidsgård - Matforsgården",
+        "type": "Fritidsgård",
+        "created": "2019-11-14 11:04:52",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1207,
+      "type": "Feature",
+      "properties": {
+        "name": "Skönsmohuset",
+        "type": "Fritidsgård",
+        "created": "2019-11-22 10:44:10",
+        "updated": "2019-12-19 06:00:15",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1228,
+      "type": "Feature",
+      "properties": {
+        "name": "Bredsands fritidsgård",
+        "type": "Fritidsgård",
+        "created": "2019-11-25 13:29:13",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1244,
+      "type": "Feature",
+      "properties": {
+        "name": "Alnö fritidsgård",
+        "type": "Fritidsgård",
+        "created": "2019-11-26 14:17:02",
+        "updated": "2025-11-27 06:00:08",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1264,
+      "type": "Feature",
+      "properties": {
+        "name": "Ljustadalens Fritidsgård - Aktivitetscentrum",
+        "type": "Fritidsgård",
+        "created": "2019-11-27 14:04:07",
+        "updated": "2025-11-21 06:00:09",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 1305,
+      "type": "Feature",
+      "properties": {
+        "name": "Opalen - fritidsgård",
+        "type": "Fritidsgård",
+        "created": "2019-12-03 14:25:49",
+        "updated": "2019-12-19 06:00:16",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}

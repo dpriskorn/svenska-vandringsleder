@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 464,
+      "type": "Feature",
+      "properties": {
+        "name": "Fiskeplats Oxsta",
+        "type": "Fiskeplats",
+        "created": "2018-07-03 08:59:58",
+        "updated": "2020-09-21 18:27:36",
+        "published": true,
+        "owner": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "manager": {
+          "organizationID": 36,
+          "name": "Sundsvalls kommun Friluftsenheten"
+        },
+        "fields": [
+          {
+            "id": 153,
+            "name": "Allmänt tillgänglig",
+            "type": "DROPDOWN",
+            "value": "Hela dygnet"
+          },
+          {
+            "id": 7,
+            "name": "Tillhörande filer",
+            "type": "FILES",
+            "value": [
+              {
+                "id": 350,
+                "filename": "image.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 5432684,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/350",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1660,
+                "filename": "20160808_123142.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 7023950,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1660",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              },
+              {
+                "id": 1661,
+                "filename": "20160808_124002.jpg",
+                "validForWinter": false,
+                "validForSummer": false,
+                "sortIndex": null,
+                "type": "image/jpeg",
+                "size": 4265030,
+                "url": "https://api.sundsvall.se/facilities/2.2/field/filesfield/1661",
+                "license": "CC0",
+                "licenseDescription": "Creative commons. \"No rights reserved\" https://creativecommons.org/share-your-work/public-domain/cc0/"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "name": "Bokningsbar",
+            "type": "TOGGLE",
+            "value": "Nej"
+          },
+          {
+            "id": 285,
+            "name": "Felanmälan",
+            "type": "Felanmälningstjänst",
+            "reportName": "Kontakt Sundsvall",
+            "reportDescription": "Felanmälan av motionsspår, elljusspår, leder och andra friluftsanläggningar",
+            "reportLink": "https://sundsvall.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan",
+            "reportPhone": "060-19 10 00",
+            "reportEmail": "kontakt@sundsvall.se"
+          },
+          {
+            "id": 1,
+            "name": "Beskrivning",
+            "type": "FREETEXT",
+            "value": "Fiskeplats med raststuga som erbjuder övernattningsmöjlighet. I anslutning finns grillplats med bänkbord, samt torrtoalett."
+          }
+        ],
+        "centerPoint": [
+          17.164723877886345,
+          62.43870040504703
+        ]
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                17.164641752052976,
+                62.4386344449758
+              ],
+              [
+                17.16451711656273,
+                62.43872518906252
+              ],
+              [
+                17.164611542933027,
+                62.43879286645933
+              ],
+              [
+                17.16475933935567,
+                62.4388106860889
+              ],
+              [
+                17.164900505975655,
+                62.43873683625427
+              ],
+              [
+                17.16492441315811,
+                62.43865474997923
+              ],
+              [
+                17.164899009104982,
+                62.4386036011454
+              ],
+              [
+                17.164795740492035,
+                62.438563718636296
+              ],
+              [
+                17.1646781332547,
+                62.438588173554685
+              ],
+              [
+                17.164618708123697,
+                62.438629325171256
+              ],
+              [
+                17.164628109599494,
+                62.43864677935615
+              ],
+              [
+                17.164615649059904,
+                62.43866205867585
+              ],
+              [
+                17.16463325726925,
+                62.43864292796747
+              ],
+              [
+                17.164641752052976,
+                62.4386344449758
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 483,
+      "type": "Feature",
+      "properties": {
+        "name": "Fiskeplats Solum",
+        "type": "Fiskeplats",
+        "created": "2018-07-03 10:16:43",
+        "published": false
+      },
+      "geometry": null
+    },
+    {
+      "id": 934,
+      "type": "Feature",
+      "properties": {
+        "name": "Sidsjön",
+        "type": "Fiskeplats",
+        "created": "2019-10-25 10:55:01",
+        "updated": "2024-03-22 09:54:02",
+        "published": false
+      },
+      "geometry": null
+    }
+  ]
+}
